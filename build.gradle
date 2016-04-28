@@ -1,0 +1,25 @@
+buildscript {
+    repositories {
+        mavenCentral()
+        maven {
+            url 'https://oss.sonatype.org/content/repositories/snapshots'
+        }
+    }
+    dependencies {
+        classpath 'org.figurate:gradle-bundle-plugin:1.0.1-feature-codenarc-analysis-SNAPSHOT'
+    }
+}
+
+apply plugin: 'groovy'
+apply plugin: 'bundle'
+
+repositories {
+    mavenCentral()
+}
+
+jar {
+  manifest {
+    instruction 'Sling-Initial-Content', 'SLING-INF/content'
+  }
+}
+
