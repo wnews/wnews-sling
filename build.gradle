@@ -11,16 +11,10 @@ buildscript {
 }
 
 subprojects {
+    apply plugin: 'bundle'
 
-apply plugin: 'bundle'
-
-repositories {
-    mavenCentral()
+    repositories {
+        mavenCentral()
+    }
 }
 
-jar {
-  manifest {
-    instruction 'Sling-Initial-Content', 'SLING-INF/content'
-  }
-}
-}
