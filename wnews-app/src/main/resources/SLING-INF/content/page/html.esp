@@ -13,11 +13,11 @@
 </head>
 
   <body>
-    <% sling.include("/content/wnews/header"); %
+    <% sling.include("/content/header.html"); %>
 
     <h1><%= currentNode.title %></h1>
 
-    <% sling.include("/content/wnews/footer"); %
+    <% sling.include("/content/footer.html"); %>
   </body>
 </html>
 
