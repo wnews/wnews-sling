@@ -1,2 +1,3 @@
-include 'wnews-content-html'
+include 'wnews-app'
+include 'wnews-content'
 
