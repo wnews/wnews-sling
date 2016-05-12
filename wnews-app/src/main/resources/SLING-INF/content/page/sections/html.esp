@@ -5,10 +5,12 @@
             <div class="col-md-12">
                 <%
                     for(var i in currentNode) {
-                        out.write("<h3>" + currentNode[i].title + "</h3>");
-                        var pars = currentNode[i].pars
-                        for (var j in pars) {
-                            out.write("<p>" + pars[j] + "</p>");
+                        if (currentNode[i]['sling:resourceType'] == "wnews/page/section") {
+                            out.write("<h3>" + currentNode[i].title + "</h3>");
+                            var pars = currentNode[i].pars
+                            for (var j in pars) {
+                                out.write("<p>" + pars[j] + "</p>");
+                            }
                         }
                     }
                 %>
