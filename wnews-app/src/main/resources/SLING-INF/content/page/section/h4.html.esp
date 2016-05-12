@@ -1,5 +1,5 @@
             <div class="col-md-12">
-                <h3><%= currentNode.title %></h3>
+                <h4><%= currentNode.title %></h4>
                 <%
                     var pars = currentNode.pars
                     for (var j in pars) {
@@ -7,7 +7,7 @@
                     }
 
                     if (currentNode.sections) {
-                        sling.include(currentNode.sections.path + ".h4.html");
+                        sling.include(currentNode.sections.path + "h4");
                     }
                 %>
             </div>
