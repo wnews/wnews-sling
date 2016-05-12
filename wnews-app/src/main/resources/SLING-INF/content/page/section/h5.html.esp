@@ -1,5 +1,5 @@
             <div class="col-md-12">
-                <h4><%= currentNode.title %></h4>
+                <h5><%= currentNode.title %></h5>
                 <%
                     var pars = currentNode.pars
                     for (var j in pars) {

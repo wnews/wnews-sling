@@ -22,7 +22,18 @@
         },
         "display_advertising": {
           "sling:resourceType":"wnews/page/section",
-          "title": "Display Advertising"
+          "title": "Display Advertising",
+          "sections": {
+            "sling:resourceType": "wnews/page/sections",
+            "black_white": {
+              "sling:resourceType":"wnews/page/section",
+              "title": "Black & White"
+            },
+            "colour": {
+              "sling:resourceType":"wnews/page/section",
+              "title": "Full Colour"
+            }
+          }
         }
       }
     },
