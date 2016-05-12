@@ -1,6 +1,6 @@
 jar {
   manifest {
-    instruction 'Sling-Initial-Content', 'SLING-INF/content;path:=/apps/wnews'
+    instruction 'Sling-Initial-Content', 'SLING-INF/content;path:=/apps/wnews;overwrite:=true'
   }
 }
 

@@ -1,23 +1,100 @@
-<html>
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="favicon.ico">
 
-  <title>{% if page.title %}{{ site.title}} - {{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <title>Waranga News | Serving the community for over 30 years</title>
 
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
-</head>
+    <!-- Bootstrap core CSS -->
+    <link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/grid.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
 
   <body>
-    <% sling.include("/content/header.html"); %>
+      <% sling.include("/content/header.html"); %>
 
-    <h1><%= currentNode.title %></h1>
+    <div class="container">
+
+      <div class="row">
+        <div class="col-md-8">
+          <div class="row">
+            <div class="col-md-12 feature-article">
+              <h4>Lorem ipsum dolor sit amet. [Feature article]</h4>
+              <p>
+<span class="first-word">Lorem</span> ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quis porttitor turpis. Fusce tristique gravida dui, eu tincidunt elit ultricies quis. Aenean gravida accumsan neque eu viverra. Curabitur vitae ipsum ornare, dapibus nulla ut, sagittis ex. Quisque in lectus odio. Nam nec mollis eros. Etiam maximus magna diam, eu fermentum turpis imperdiet ut. Vivamus eros tortor, hendrerit at tincidunt ut, imperdiet in dolor. Donec sit amet mauris ut ligula condimentum viverra.
+              </p>
+              <a href="article.html">Read more..</a>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-6">
+              <h4>Lorem ipsum dolor sit amet. [Article 1]</h4>
+              <p>
+                Sed eget accumsan sapien. Duis blandit eros ac sapien dictum, eu dapibus quam sodales. Nunc eget sem nulla. Sed sodales dolor eu finibus mollis. Phasellus nec enim enim. Aliquam imperdiet mi a sodales finibus. Nullam eget scelerisque lectus. Pellentesque at eleifend tortor. Cras aliquam vestibulum rutrum. Integer elementum eros sapien, a pellentesque sem efficitur sit amet. Sed maximus egestas diam et molestie. Phasellus vitae porta est.
+              </p>
+              <a href="article.html">Read more..</a>
+            </div>
+            <div class="col-md-6">
+              <h4>Lorem ipsum dolor sit amet. [Article 2]</h4>
+              <p>
+                Integer sed tincidunt elit. Nulla metus massa, imperdiet id porttitor sed, hendrerit non turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed suscipit consequat nisi non vulputate. Donec metus neque, euismod vel diam et, volutpat accumsan metus. Mauris aliquet in nisi id euismod. Suspendisse auctor sapien eget facilisis bibendum. Nullam ultricies blandit lectus, eu ullamcorper erat sagittis at. Nulla tempus egestas erat ut auctor. Morbi nec ullamcorper neque. Etiam rhoncus pretium lorem ac fringilla. Aenean lobortis fermentum scelerisque. Maecenas quis condimentum sem. Praesent dapibus vel est et tristique. In volutpat tristique quam, eget lobortis purus tempor vitae.
+              </p>
+              <a href="article.html">Read more..</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <h4>[Advertisement]</h4>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-3">
+          <p>Related sites</p>
+          <ul class="wnews-list-nostyle">
+            <li><a href="http://cnav.org.au" title="Community Newspaper Association of Victoria">Community Newspaper Association of Victoria</a></li>
+            <li><a href="http://www.rushcomhouse.org.au/">Rushworth Community House</a></li>
+            <li><a href="http://rushwortheasterfestival.org.au/">Rushworth Easter Heritage Festival</a></li>
+            <li><a href="http://rushworthmuseum.wordpress.com/" target="_blank">Rushworth Museum</a></li>
+            <li><a href="http://catalogue.nla.gov.au/Record/2813071" title="Archived Issues">Waranga News @ National Library of Australia</a></li>
+            <li><a href="http://whistlepost.org.au" rel="me" title="Community Forums" target="_blank">Whistlepost</a></li>
+          </ul>
+        </div>
+        <div class="col-md-3">
+          <p>Past issues</p>
+        </div>
+        <div class="col-md-3">
+          <p>Regional news</p>
+        </div>
+        <div class="col-md-3">
+          <p>Weather</p>
+        </div>
+      </div>
+
+    </div> <!-- /container -->
 
     <% sling.include("/content/footer.html"); %>
   </body>
 </html>
-
