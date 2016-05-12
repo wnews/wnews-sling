@@ -1,1 +1,33 @@
-{"title":"About - Waranga News","sling:resourceType":"wnews/page","jcr:primaryType":"nt:unstructured"}
+{
+  "title":"About - Waranga News",
+  "sling:resourceType":"wnews/page",
+  "jcr:primaryType":"nt:unstructured",
+  "sections": {
+    "sling:resourceType":"wnews/page/sections",
+    "history": {
+      "sling:resourceType":"wnews/page/section",
+      "jcr:primaryType":"nt:unstructured",
+      "title": "History",
+      "pars": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non elit ac dui viverra viverra. Praesent ut accumsan elit, porttitor vulputate ante. Suspendisse fringilla neque justo. Sed vitae purus ac orci consectetur ullamcorper. Maecenas consectetur ac magna ut pellentesque. Fusce mattis risus vitae dolor dictum, quis suscipit libero iaculis. Nunc sapien turpis, ultricies non nisl vel, placerat sagittis mauris. Integer sodales sodales dignissim. Sed id mauris elementum, euismod ex sit amet, malesuada turpis. Vivamus facilisis sed urna a cursus. Proin vitae nisi leo. Curabitur eu libero pulvinar, varius augue nec, iaculis dolor. Etiam faucibus ipsum sit amet porttitor efficitur. Sed consectetur lorem ut eros pulvinar efficitur.",
+        "Sed eget accumsan sapien. Duis blandit eros ac sapien dictum, eu dapibus quam sodales. Nunc eget sem nulla. Sed sodales dolor eu finibus mollis. Phasellus nec enim enim. Aliquam imperdiet mi a sodales finibus. Nullam eget scelerisque lectus. Pellentesque at eleifend tortor. Cras aliquam vestibulum rutrum. Integer elementum eros sapien, a pellentesque sem efficitur sit amet. Sed maximus egestas diam et molestie. Phasellus vitae porta est."
+      ]},
+    "staff": {
+      "sling:resourceType":"wnews/page/section",
+      "jcr:primaryType":"nt:unstructured",
+      "title": "Staff",
+      "pars": [
+        "Integer sed tincidunt elit. Nulla metus massa, imperdiet id porttitor sed, hendrerit non turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed suscipit consequat nisi non vulputate. Donec metus neque, euismod vel diam et, volutpat accumsan metus. Mauris aliquet in nisi id euismod. Suspendisse auctor sapien eget facilisis bibendum. Nullam ultricies blandit lectus, eu ullamcorper erat sagittis at. Nulla tempus egestas erat ut auctor. Morbi nec ullamcorper neque. Etiam rhoncus pretium lorem ac fringilla. Aenean lobortis fermentum scelerisque. Maecenas quis condimentum sem. Praesent dapibus vel est et tristique. In volutpat tristique quam, eget lobortis purus tempor vitae.",
+        "Etiam tristique sollicitudin tempor. Phasellus quis turpis aliquam, mattis leo eu, scelerisque enim. Nunc turpis nisl, gravida id nunc nec, efficitur volutpat lorem. Praesent eleifend ante at ipsum suscipit tincidunt. Sed feugiat massa non varius bibendum. Morbi nisi risus, cursus eu vehicula a, feugiat nec nibh. Morbi est eros, dictum non porta non, lobortis quis enim. Maecenas at mauris arcu. Integer ut lectus et mi tincidunt posuere. Fusce gravida congue felis a dignissim. In tincidunt tellus sed felis rutrum fermentum id eget neque. Fusce in tristique diam. Vivamus bibendum metus enim, ultricies porttitor mi sagittis ut."
+      ]
+    },
+    "get_involved": {
+      "sling:resourceType":"wnews/page/section",
+      "jcr:primaryType":"nt:unstructured",
+      "title": "Get Involved",
+      "pars": [
+        "Curabitur tristique nisi id nulla tincidunt vulputate. Nam dignissim erat vitae sapien hendrerit, nec pulvinar lacus fringilla. Donec in sapien sapien. Praesent fringilla orci id dolor malesuada, sed feugiat risus porttitor. Sed tristique commodo velit, vel iaculis elit sodales sit amet. Nunc et nulla viverra, condimentum turpis eget, ornare sapien. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac consectetur arcu, vitae lobortis velit. Vivamus sed orci elementum, tincidunt turpis ornare, ullamcorper ante. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed pellentesque arcu nec massa vulputate semper."
+      ]
+    }
+  }
+}

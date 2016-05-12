@@ -1,0 +1,22 @@
+<div class="container">
+
+    <div class="row">
+        <div class="col-md-8">
+            <div class="col-md-12">
+                <%
+                    for(var i in currentNode) {
+                        out.write("<h3>" + currentNode[i].title + "</h3>");
+                        var pars = currentNode[i].pars
+                        for (var j in pars) {
+                            out.write("<p>" + pars[j] + "</p>");
+                        }
+                    }
+                %>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <h4>[Advertisement]</h4>
+        </div>
+    </div>
+
+</div> <!-- /container -->
