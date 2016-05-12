@@ -2,19 +2,13 @@
 
     <div class="row">
         <div class="col-md-8">
-            <div class="col-md-12">
-                <%
-                    for(var i in currentNode) {
-                        if (currentNode[i]['sling:resourceType'] == "wnews/page/section") {
-                            out.write("<h3>" + currentNode[i].title + "</h3>");
-                            var pars = currentNode[i].pars
-                            for (var j in pars) {
-                                out.write("<p>" + pars[j] + "</p>");
-                            }
-                        }
+            <%
+                for(var i in currentNode) {
+                    if (currentNode[i]['sling:resourceType'] == "wnews/page/section") {
+                        sling.include(currentNode[i].path);
                     }
-                %>
-            </div>
+                }
+            %>
         </div>
         <div class="col-md-4">
             <h4>[Advertisement]</h4>
