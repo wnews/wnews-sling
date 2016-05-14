@@ -1,7 +1,7 @@
     <hr style="text-align: center; width: 70%">
 
     <footer>
-      <p>&copy; 2015 Waranga News, Inc.</p>
+      <p>&copy; <%= currentNode.copyright %></p>
     </footer>
 
     <!-- Bootstrap core JavaScript
