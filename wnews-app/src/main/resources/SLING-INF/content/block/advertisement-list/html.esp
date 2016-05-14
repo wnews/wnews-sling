@@ -1,0 +1,11 @@
+<div class="block-list">
+    <h4>[Advertisement]</h4>
+
+    <%
+        for(var i in currentNode) {
+            if (currentNode[i]['sling:resourceType'] == "wnews/block/advertisement") {
+                sling.include(currentNode[i].path);
+            }
+        }
+    %>
+</div>
