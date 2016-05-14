@@ -12,9 +12,9 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li class="<%= request.requestPathInfo.suffix == '/index' ? 'active' : '' %>"><a href="index.html">Home</a></li>
-            <li class="<%= request.requestPathInfo.suffix == '/about' ? 'active' : '' %>"><a href="about.html">About</a></li>
-            <li class="<%= request.requestPathInfo.suffix == '/contact' ? 'active' : '' %>"><a href="contact.html">Contact</a></li>
+            <li class="<%= request.requestPathInfo.suffix == '/index' ? 'active' : '' %>"><a href="/content/index.html">Home</a></li>
+            <li class="<%= request.requestPathInfo.suffix == '/about' ? 'active' : '' %>"><a href="/content/about.html">About</a></li>
+            <li class="<%= request.requestPathInfo.suffix == '/contact' ? 'active' : '' %>"><a href="/content/contact.html">Contact</a></li>
             <li class="wnews-navbar-link-em dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Advertising <span class="caret"></span></a>
               <ul class="dropdown-menu">
