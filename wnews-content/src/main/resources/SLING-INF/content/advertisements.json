@@ -1,0 +1,15 @@
+{
+  "title":"Advertisements - Waranga News",
+  "sling:resourceType":"wnews/page/list",
+  "jcr:primaryType":"nt:unstructured",
+  "list": {
+    "sling:resourceType":"wnews/block/advertisement-list",
+    "lorem-ipsum-1": {
+      "sling:resourceType": "wnews/block/advertisement",
+      "title": "Lorem ipsum dolor sit amet.",
+      "media": "advertisement-1.pdf",
+      "testimonials": "enabled",
+      "published": true
+    }
+  }
+}
