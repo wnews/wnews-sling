@@ -1,36 +1,36 @@
 {
   "title":"Contact - Waranga News",
-  "sling:resourceType":"wnews/page",
+  "sling:resourceType":"wnews/page/default",
   "jcr:primaryType":"nt:unstructured",
   "sections": {
-    "sling:resourceType": "wnews/page/sections",
+    "sling:resourceType": "wnews/block/section-list",
     "advertising": {
-      "sling:resourceType":"wnews/page/section",
+      "sling:resourceType":"wnews/block/section",
       "title": "Advertising",
       "pars": [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non elit ac dui viverra viverra. Praesent ut accumsan elit, porttitor vulputate ante. Suspendisse fringilla neque justo. Sed vitae purus ac orci consectetur ullamcorper. Maecenas consectetur ac magna ut pellentesque. Fusce mattis risus vitae dolor dictum, quis suscipit libero iaculis. Nunc sapien turpis, ultricies non nisl vel, placerat sagittis mauris. Integer sodales sodales dignissim. Sed id mauris elementum, euismod ex sit amet, malesuada turpis. Vivamus facilisis sed urna a cursus. Proin vitae nisi leo. Curabitur eu libero pulvinar, varius augue nec, iaculis dolor. Etiam faucibus ipsum sit amet porttitor efficitur. Sed consectetur lorem ut eros pulvinar efficitur."
       ],
       "sections": {
-        "sling:resourceType": "wnews/page/sections",
+        "sling:resourceType": "wnews/block/section-list",
         "classifieds": {
-          "sling:resourceType":"wnews/page/section",
+          "sling:resourceType":"wnews/block/section",
           "title": "Classifieds"
         },
         "flyers": {
-          "sling:resourceType":"wnews/page/section",
+          "sling:resourceType":"wnews/block/section",
           "title": "Flyers"
         },
         "display_advertising": {
-          "sling:resourceType":"wnews/page/section",
+          "sling:resourceType":"wnews/block/section",
           "title": "Display Advertising",
           "sections": {
-            "sling:resourceType": "wnews/page/sections",
+            "sling:resourceType": "wnews/block/section-list",
             "black_white": {
-              "sling:resourceType":"wnews/page/section",
+              "sling:resourceType":"wnews/block/section",
               "title": "Black & White"
             },
             "colour": {
-              "sling:resourceType":"wnews/page/section",
+              "sling:resourceType":"wnews/block/section",
               "title": "Full Colour"
             }
           }
@@ -38,14 +38,14 @@
       }
     },
     "subscriptions": {
-      "sling:resourceType":"wnews/page/section",
+      "sling:resourceType":"wnews/block/section",
       "title": "Subscriptions",
       "pars": [
         "Sed eget accumsan sapien. Duis blandit eros ac sapien dictum, eu dapibus quam sodales. Nunc eget sem nulla. Sed sodales dolor eu finibus mollis. Phasellus nec enim enim. Aliquam imperdiet mi a sodales finibus. Nullam eget scelerisque lectus. Pellentesque at eleifend tortor. Cras aliquam vestibulum rutrum. Integer elementum eros sapien, a pellentesque sem efficitur sit amet. Sed maximus egestas diam et molestie. Phasellus vitae porta est."
       ]
     },
     "submissions": {
-      "sling:resourceType":"wnews/page/section",
+      "sling:resourceType":"wnews/block/section",
       "title": "Submissions",
       "pars": [
         "Integer sed tincidunt elit. Nulla metus massa, imperdiet id porttitor sed, hendrerit non turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed suscipit consequat nisi non vulputate. Donec metus neque, euismod vel diam et, volutpat accumsan metus. Mauris aliquet in nisi id euismod. Suspendisse auctor sapien eget facilisis bibendum. Nullam ultricies blandit lectus, eu ullamcorper erat sagittis at. Nulla tempus egestas erat ut auctor. Morbi nec ullamcorper neque. Etiam rhoncus pretium lorem ac fringilla. Aenean lobortis fermentum scelerisque. Maecenas quis condimentum sem. Praesent dapibus vel est et tristique. In volutpat tristique quam, eget lobortis purus tempor vitae."

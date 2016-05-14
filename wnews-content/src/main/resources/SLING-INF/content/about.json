@@ -1,11 +1,11 @@
 {
   "title":"About - Waranga News",
-  "sling:resourceType":"wnews/page",
+  "sling:resourceType":"wnews/page/default",
   "jcr:primaryType":"nt:unstructured",
   "sections": {
-    "sling:resourceType":"wnews/page/sections",
+    "sling:resourceType":"wnews/block/section-list",
     "history": {
-      "sling:resourceType":"wnews/page/section",
+      "sling:resourceType":"wnews/block/section",
       "jcr:primaryType":"nt:unstructured",
       "title": "History",
       "pars": [
@@ -13,7 +13,7 @@
         "Sed eget accumsan sapien. Duis blandit eros ac sapien dictum, eu dapibus quam sodales. Nunc eget sem nulla. Sed sodales dolor eu finibus mollis. Phasellus nec enim enim. Aliquam imperdiet mi a sodales finibus. Nullam eget scelerisque lectus. Pellentesque at eleifend tortor. Cras aliquam vestibulum rutrum. Integer elementum eros sapien, a pellentesque sem efficitur sit amet. Sed maximus egestas diam et molestie. Phasellus vitae porta est."
       ]},
     "staff": {
-      "sling:resourceType":"wnews/page/section",
+      "sling:resourceType":"wnews/block/section",
       "jcr:primaryType":"nt:unstructured",
       "title": "Staff",
       "pars": [
@@ -22,7 +22,7 @@
       ]
     },
     "get_involved": {
-      "sling:resourceType":"wnews/page/section",
+      "sling:resourceType":"wnews/block/section",
       "jcr:primaryType":"nt:unstructured",
       "title": "Get Involved",
       "pars": [

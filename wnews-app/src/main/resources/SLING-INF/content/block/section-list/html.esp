@@ -3,13 +3,13 @@
         <div class="col-md-8">
             <%
                 for(var i in currentNode) {
-                    if (currentNode[i]['sling:resourceType'] == "wnews/page/section") {
+                    if (currentNode[i]['sling:resourceType'] == "wnews/block/section") {
                         sling.include(currentNode[i].path);
                     }
                 }
             %>
         </div>
         <div class="col-md-4">
-            <h4>[Advertisement]</h4>
+            <% sling.include("/content/advertisements/list.html"); %>
         </div>
     </div>

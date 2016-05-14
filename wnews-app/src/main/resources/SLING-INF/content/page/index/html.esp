@@ -40,8 +40,6 @@
 
     <div class="container">
 
-      <% sling.include(currentNode + "/sections.html"); %>
-
 
       <div class="row">
         <div class="col-md-8">
@@ -72,7 +70,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <h4>[Advertisement]</h4>
+            <% sling.include("advertisements/list.html"); %>
         </div>
       </div>
 
