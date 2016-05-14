@@ -36,7 +36,7 @@
   </head>
 
   <body>
-      <% sling.include("header.html"); %>
+      <% sling.include("header.html/" + currentNode.name); %>
 
     <div class="container">
 
