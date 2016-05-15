@@ -1,5 +1,5 @@
 {
-  "title":"Article - Waranga News",
+  "title":" - Waranga News",
   "sling:resourceType":"wnews/page/article",
   "jcr:primaryType":"nt:unstructured"
 }
