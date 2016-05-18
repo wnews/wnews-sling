@@ -4,7 +4,14 @@ wnews:
     - sling
   command: build deployBundle startBundle
   volumes_from:
-    - gradle-cache
+    - wnews-gradle-cache
+whistlepost:
+  image: micronode/whistlepost
+  links:
+    - sling
+  command: build deployBundle startBundle
+  volumes_from:
+    - whistlepost-gradle-cache
 sling:
   image: apachesling/sling
   mem_limit: 512m
@@ -28,7 +35,11 @@ haproxy:
     - "80:80"
     - "1936:1936"
   mem_limit: 134217728
-gradle-cache:
+wnews-gradle-cache:
+  image: cogniteev/echo:latest
+  volumes:
+    - /root/.gradle
+whistlepost-gradle-cache:
   image: cogniteev/echo:latest
   volumes:
     - /root/.gradle
