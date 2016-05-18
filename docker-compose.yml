@@ -1,5 +1,5 @@
 wnews:
-  image: wnews/site-sling
+  image: wnews/wnews-sling
   links:
     - sling
   command: build deployBundle startBundle
