@@ -1,5 +1,5 @@
 wnews:
-  build: .
+  image: wnews/site-sling
   links:
     - sling
   command: build deployBundle startBundle
@@ -15,10 +15,6 @@ whistlepost:
 sling:
   image: apachesling/sling
   mem_limit: 512m
-  #ports:
-  #  - 8081:8080
-  environment:
-    - "JAVA_OPTS=-Dosgi.http.endpoint=http://0.0.0.0:8080/"
   volumes:
     - "./sling.properties:/opt/sling/sling.properties"
   volumes_from:
@@ -34,7 +30,7 @@ haproxy:
   ports:
     - "80:80"
     - "1936:1936"
-  mem_limit: 134217728
+  mem_limit: 128m
 wnews-gradle-cache:
   image: cogniteev/echo:latest
   volumes:
