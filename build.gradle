@@ -24,6 +24,11 @@ subprojects {
         mavenCentral()
     }
 
+    task mkClassesDir << {
+      new File("$buildDir/classes/main").mkdirs()
+    }
+    tasks.processResources.dependsOn mkClassesDir
+
     task deployBundle(type: org._10ne.gradle.rest.RestTask) {
         client.encoder.putAt('multipart/form-data', { body ->
             MultipartEntityBuilder multipartRequestEntity = MultipartEntityBuilder.create()
