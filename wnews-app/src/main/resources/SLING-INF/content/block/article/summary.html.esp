@@ -1,5 +1,5 @@
             <div class="col-md-12">
                 <h3><%= currentNode.title %></h3>
                 <% out.write("<p>" + currentNode.pars[0] + "</p>"); %>
-                <a href="/content/article.html<%= currentNode %>">Read more..</a>
+                <a href="/article.html<%= currentNode %>">Read more..</a>
             </div>
