@@ -1,0 +1,19 @@
+{
+  "http": {
+    "wnews.org.au.80": {
+      "sling:internalRedirect": "/content",
+      "apps": {
+        "sling:internalRedirect": "/apps"
+      },
+      "libs": {
+        "sling:internalRedirect": "/libs"
+      },
+      "etc": {
+        "sling:internalRedirect": "/etc"
+      },
+      "system": {
+        "sling:internalRedirect": "/system"
+      }
+    }
+  }
+}
