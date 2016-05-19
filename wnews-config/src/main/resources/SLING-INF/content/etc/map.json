@@ -1,6 +1,7 @@
 {
   "http": {
-    "wnews.org.au.80": {
+    "any_wnews.org.au.80": {
+      "sling:match": ".+\.wnews\.org\.au\.80",
       "sling:internalRedirect": "/content",
       "apps": {
         "sling:internalRedirect": "/apps"
