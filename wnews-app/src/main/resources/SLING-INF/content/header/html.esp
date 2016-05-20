@@ -22,8 +22,8 @@
                 <li><a href="contact.html#flyers">Flyers</a></li>
                 <li role="separator" class="divider"></li>
                 <li class="dropdown-header">Display Advertising</li>
-                <li><a href="contact.html#display-black-white">Black &amp; White</a></li>
-                <li><a href="contact.html#display-colour">Full Colour</a></li>
+                <li><a href="contact.html#black_white">Black &amp; White</a></li>
+                <li><a href="contact.html#colour">Full Colour</a></li>
               </ul>
             </li>
           </ul>

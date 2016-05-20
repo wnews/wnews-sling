@@ -1,4 +1,5 @@
             <div class="col-md-12">
+                <a name="<%= currentNode.name %>" class="page-section"></a>
                 <h4><%= currentNode.title %></h4>
                 <%
                     var pars = currentNode.pars
