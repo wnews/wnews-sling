@@ -7,7 +7,7 @@
     "lorem-ipsum-1": {
       "sling:resourceType": "wnews/block/front-page",
       "title": "Lorem ipsum dolor sit amet.",
-      "media": "front-page-1.pdf",
+      "media": "wnews20140724P01.jpg",
       "comments": "enabled",
       "published": true
     }
