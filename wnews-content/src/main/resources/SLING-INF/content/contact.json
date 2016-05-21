@@ -14,11 +14,17 @@
         "sling:resourceType": "wnews/block/section-list",
         "classifieds": {
           "sling:resourceType":"wnews/block/section",
-          "title": "Classifieds"
+          "title": "Classifieds",
+          "pars": [
+            "$2.75 per line (minimum charge $11–4 lines)"
+          ]
         },
         "flyers": {
           "sling:resourceType":"wnews/block/section",
-          "title": "Flyers"
+          "title": "Flyers",
+          "pars": [
+            "Inserting pre-printed flyers in an edition:<ul><li>$80 – current advertisers</li><li>$100 – if advertisement also placed</li><li>$140 – without an advertisement</li></ul>"
+          ]
         },
         "display_advertising": {
           "sling:resourceType":"wnews/block/section",
@@ -27,11 +33,24 @@
             "sling:resourceType": "wnews/block/section-list",
             "black_white": {
               "sling:resourceType":"wnews/block/section",
-              "title": "Black & White"
+              "title": "Black & White",
+              "pars": [
+                "Single Column (6.4 cm wide) – $4.90 per cm depth",
+                "Double Column (13 cm wide) – $9.80 per cm depth",
+                "Triple Column (20 cm wide) – $14.70 per cm depth",
+                "Full Page (20 x 29.8 cm) – $440.55",
+                "Half Page (20 x 14.8 cm) – $220.28"
+              ]
             },
             "colour": {
               "sling:resourceType":"wnews/block/section",
-              "title": "Full Colour"
+              "title": "Full Colour",
+              "pars": [
+                "Full Page (20 x 29.8 cm) - $539.55",
+                "Half Page (20 x 14.8 cm) - $269.78",
+                "Per column centimetre - $6.00",
+                "Please call for further details."
+              ]
             }
           }
         }
@@ -41,7 +60,8 @@
       "sling:resourceType":"wnews/block/section",
       "title": "Subscriptions",
       "pars": [
-        "Sed eget accumsan sapien. Duis blandit eros ac sapien dictum, eu dapibus quam sodales. Nunc eget sem nulla. Sed sodales dolor eu finibus mollis. Phasellus nec enim enim. Aliquam imperdiet mi a sodales finibus. Nullam eget scelerisque lectus. Pellentesque at eleifend tortor. Cras aliquam vestibulum rutrum. Integer elementum eros sapien, a pellentesque sem efficitur sit amet. Sed maximus egestas diam et molestie. Phasellus vitae porta est."
+        "Annual subscription to WarangaNews – $48.00",
+        "Annual online subscription to Waranga News - $22.00"
       ]
     },
     "submissions": {
