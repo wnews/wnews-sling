@@ -1,0 +1,13 @@
+<div class="block-list">
+    <ul class="wnews-list-nostyle">
+    <%
+        for(var i in currentNode) {
+            if (currentNode[i]['sling:resourceType'] == "wnews/block/front-page") {
+                out.print("<li><a href=\"" + currentNode[i].path + ".html"
+                    + "\">" + currentNode[i].title + "</a></li>");
+            }
+        }
+    %>
+        <li><a href="<%= currentNode.path %>.html">More..</a></li>
+    </ul>
+</div>

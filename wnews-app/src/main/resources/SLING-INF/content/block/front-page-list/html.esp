@@ -1,0 +1,9 @@
+<div class="block-list">
+    <%
+        for(var i in currentNode) {
+            if (currentNode[i]['sling:resourceType'] == "wnews/block/front-page") {
+                sling.include(currentNode[i].path + ".preview.html");
+            }
+        }
+    %>
+</div>
