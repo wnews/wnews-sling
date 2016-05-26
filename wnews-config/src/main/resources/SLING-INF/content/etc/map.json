@@ -8,6 +8,9 @@
       },
       "libs": {
         "sling:internalRedirect": "/libs"
+      },
+      "wp": {
+        "sling:internalRedirect": "/content/wp"
       }
     }
   }
