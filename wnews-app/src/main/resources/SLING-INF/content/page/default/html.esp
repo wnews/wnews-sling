@@ -15,15 +15,11 @@
     <link href="/libs/whistlepost/bootstrap/bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+    <link href="/libs/whistlepost/bootstrap/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
     <link href="/apps/wnews/css/style.css" rel="stylesheet">
     <link href="/apps/wnews/css/grid.css" rel="stylesheet">
-
-    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
-    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
-    <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -45,7 +41,7 @@
           <% sling.include(currentNode + "/sections.html"); %>
         </div>
         <div class="col-md-4">
-          <% sling.include("/content/advertisements/list.html/5"); %>
+          <% sling.include("/content/wnews/advertisements/list.html/5"); %>
         </div>
       </div>
 
@@ -63,7 +59,7 @@
         </div>
         <div class="col-md-3">
           <p>Past issues</p>
-          <% sling.include("/content/past-issues/list.text.html/5"); %>
+          <% sling.include("/content/wnews/past-issues/list.text.html/5"); %>
         </div>
         <div class="col-md-3">
           <p>Regional news</p>
