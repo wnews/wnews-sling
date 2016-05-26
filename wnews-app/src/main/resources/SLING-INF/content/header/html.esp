@@ -18,12 +18,12 @@
             <li class="wnews-navbar-link-em dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Advertising <span class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><a href="contact.html#classifieds">Classifieds</a></li>
-                <li><a href="contact.html#flyers">Flyers</a></li>
+                <li><a href="/content/wnews/contact.html#classifieds">Classifieds</a></li>
+                <li><a href="/content/wnews/contact.html#flyers">Flyers</a></li>
                 <li role="separator" class="divider"></li>
                 <li class="dropdown-header">Display Advertising</li>
-                <li><a href="contact.html#black_white">Black &amp; White</a></li>
-                <li><a href="contact.html#colour">Full Colour</a></li>
+                <li><a href="/content/wnews/contact.html#black_white">Black &amp; White</a></li>
+                <li><a href="/content/wnews/contact.html#colour">Full Colour</a></li>
               </ul>
             </li>
           </ul>
