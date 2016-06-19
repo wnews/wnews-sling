@@ -12,10 +12,10 @@
     <title><%= article.adaptTo(javax.jcr.Node).title %><%= currentNode.title %></title>
 
     <!-- Bootstrap core CSS -->
-    <link href="/libs/whistlepost/bootstrap/bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/libs/wp-bootstrap/bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <link href="/libs/whistlepost/bootstrap/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+    <link href="/libs/wp-bootstrap/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
     <link href="/apps/wnews/css/style.css" rel="stylesheet">
