@@ -7,7 +7,7 @@
     "lorem-ipsum-1": {
       "sling:resourceType": "wnews/block/advertisement",
       "title": "Lorem ipsum dolor sit amet.",
-      "media": "advertisement-1.pdf",
+      "media": "placeholder-200x200.png",
       "testimonials": "enabled",
       "published": true
     }
