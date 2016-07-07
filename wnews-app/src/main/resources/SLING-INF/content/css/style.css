@@ -23,6 +23,10 @@ body {
     padding-left: 0;
 }
 
+.wnews-list-ads {
+    padding-left: 50;
+}
+
 .feature-article .first-word {
     font-family: garamond serif;
     font-size: 2em;
