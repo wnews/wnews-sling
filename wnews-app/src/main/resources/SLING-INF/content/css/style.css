@@ -27,6 +27,14 @@ body {
     padding-left: 50;
 }
 
+.wnews-list-ads h4 {
+    padding-left: 10;
+}
+
+.wnews-list-ads img {
+    padding: 10;
+}
+
 .feature-article .first-word {
     font-family: garamond serif;
     font-size: 2em;
