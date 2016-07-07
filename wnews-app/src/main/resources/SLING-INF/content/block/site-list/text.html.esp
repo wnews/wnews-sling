@@ -2,7 +2,7 @@
     <ul class="wnews-list-nostyle">
     <%
         for(var i in currentNode) {
-            if (currentNode[i]['sling:resourceType'] == "wnews/block/url") {
+            if (currentNode[i]['sling:resourceType'] == "wnews/block/site") {
                 out.print("<li><a href=\"" + currentNode[i].url + "\">" + currentNode[i].title + "</a></li>");
             }
         }

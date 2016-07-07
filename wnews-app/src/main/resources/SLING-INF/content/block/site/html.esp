@@ -1,0 +1,3 @@
+                <a href="<%= currentNode.url %>">
+                    <%= currentNode.title %>
+                </a>
