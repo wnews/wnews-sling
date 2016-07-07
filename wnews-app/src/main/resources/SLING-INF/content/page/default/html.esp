@@ -48,14 +48,7 @@
       <div class="row">
         <div class="col-md-3">
           <p>Related sites</p>
-          <ul class="wnews-list-nostyle">
-            <li><a href="http://cnav.org.au" title="Community Newspaper Association of Victoria">Community Newspaper Association of Victoria</a></li>
-            <li><a href="http://www.rushcomhouse.org.au/">Rushworth Community House</a></li>
-            <li><a href="http://rushwortheasterfestival.org.au/">Rushworth Easter Heritage Festival</a></li>
-            <li><a href="http://rushworthmuseum.wordpress.com/" target="_blank">Rushworth Museum</a></li>
-            <li><a href="http://catalogue.nla.gov.au/Record/2813071" title="Archived Issues">Waranga News @ National Library of Australia</a></li>
-            <li><a href="http://whistlepost.org.au" rel="me" title="Community Forums" target="_blank">Whistlepost</a></li>
-          </ul>
+          <% sling.include("/content/wnews/related-sites/list.text.html/5"); %>
         </div>
         <div class="col-md-3">
           <p>Past issues</p>

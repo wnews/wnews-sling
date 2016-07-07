@@ -1,0 +1,38 @@
+{
+  "title":"Related Sites - Waranga News",
+  "sling:resourceType":"wnews/page/list",
+  "jcr:primaryType":"nt:unstructured",
+  "list": {
+    "sling:resourceType":"wnews/block/url-list",
+    "cnav": {
+      "sling:resourceType": "wnews/block/url",
+      "title": "Community Newspaper Association of Victoria",
+      "url": "http://cnav.org.au",
+      "published": true
+    },
+    "rushcomhouse": {
+      "sling:resourceType": "wnews/block/url",
+      "title": "Rushworth Community House",
+      "url": "http://www.rushcomhouse.org.au",
+      "published": true
+    },
+    "rushwortheasterfestival": {
+      "sling:resourceType": "wnews/block/url",
+      "title": "Rushworth Easter Heritage Festival",
+      "url": "http://rushwortheasterfestival.org.au",
+      "published": true
+    },
+    "rushworthmuseum": {
+      "sling:resourceType": "wnews/block/url",
+      "title": "Rushworth Museum",
+      "url": "http://rushworthmuseum.wordpress.com",
+      "published": true
+    },
+    "nla": {
+      "sling:resourceType": "wnews/block/url",
+      "title": "Waranga News @ National Library of Australia",
+      "url": "http://catalogue.nla.gov.au/Record/2813071",
+      "published": true
+    }
+  }
+}
