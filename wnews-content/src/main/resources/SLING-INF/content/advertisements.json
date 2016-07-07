@@ -10,6 +10,13 @@
       "media": "placeholder-200x200.png",
       "testimonials": "enabled",
       "published": true
+    },
+    "lorem-ipsum-2": {
+      "sling:resourceType": "wnews/block/advertisement",
+      "title": "Lorem ipsum dolor sit amet.",
+      "media": "placeholder-200x200.png",
+      "testimonials": "enabled",
+      "published": true
     }
   }
 }
