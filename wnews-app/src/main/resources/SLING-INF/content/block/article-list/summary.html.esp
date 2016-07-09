@@ -1,0 +1,10 @@
+    <%
+        for(var i in currentNode) {
+            if (currentNode[i]['sling:resourceType'] == "wnews/block/article" && !currentNode[i].feature) {
+                sling.include(currentNode[i].path + ".summary.html");
+                if (i >= 1) {
+                    break;
+                }
+            }
+        }
+    %>

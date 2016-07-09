@@ -47,8 +47,7 @@
             <% sling.include("/content/wnews/articles/list.feature.html"); %>
           </div>
           <div class="row">
-            <% sling.include("/content/wnews/articles/list/lorem-ipsum-1.summary.html"); %>
-            <% sling.include("/content/wnews/articles/list/lorem-ipsum-1.summary.html"); %>
+            <% sling.include("/content/wnews/articles/list.summary.html"); %>
           </div>
         </div>
         <div class="col-md-4">
