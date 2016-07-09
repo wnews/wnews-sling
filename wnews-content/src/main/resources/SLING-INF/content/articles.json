@@ -21,6 +21,28 @@
       "comments": "enabled",
       "published": true
     },
+    "waranga-trail-progress": {
+      "sling:resourceType":"wnews/block/article",
+      "date": "2016-06-02",
+      "title": "Waranga Trail - a small step closer",
+      "pars": [
+        "Rushworth residents with long memories will know it’s been a long time coming, but construction of the local rail trail appears to be one step closer to becoming a reality. Now known as the Waranga Trail, the signing of land management agreements has been endorsed by Campaspe Shire Council so that external funding negotiations can go ahead.",
+        "Campaspe Mayor, Cr Leigh Wilson, said Council’s endorsement of the project would facilitate negotiations with grant bodies and partner organisations to secure funding to deliver the project some time in the future.",
+        "“The Waranga Trail has been a subject of consideration by the local community and Council for over ten years,” Cr Wilson said.",
+        "Over the past six months, Council has undertaken feasibility studies and cost/benefit analyses to assess the viability of the trail project. This information can now form the basis of a business case which will position the project as an attractive funding proposition.",
+        "The proposed Waranga Trail includes the rail trail from Murchison to Rushworth and a connecting trail through to Heathcote. Scoping and estimates for the section of the trail, from Rushworth eastwards to the shire boundary towards Murchison and the section from Heathcote to Rushworth, have now been completed.",
+        "Discussions and negotiations have been held with VicTrack, Department of Environment, Land, Water and Planning, Goulburn Murray Water, Parks Victoria, City of Greater Bendigo and private land holders. Consultation has also included Regional Development Victoria to affirm the potential viability of securing funding support.",
+        "“Based on these consultations, we have concluded that construction of both reaches of the trail is feasible and will generate a positive return on investment,” the Mayor said.",
+        "An interim costing predicts the Rushworth to Murchison link will cost approximately $1.2 million and the Heathcote to Rushworth link will cost approximately $1.1 million.",
+        "The Waranga Trail is identified as a key Shire of Campaspe project in the Regional Development Australia prospectus. Council officers have undertaken more detailed work seeking to secure access rights to the trail route to eliminate risks and issues should the project be funded.",
+        "“Council’s endorsement of the project and signing of agreements with VicTrack and Goulburn Murray Water to secure tenure of land will demonstrate our full commitment to potential external funding bodies,” Cr Wilson said.",
+        "However it’s not all in the bag yet. External grant opportunities are likely to require Council to match any funding contribution dollar for dollar. Council says it is committed to negotiating with stakeholders and partners to a point where the project is ready to go should the funding become available.",
+        "While the project does not extend to a trail linking Girgarre to Rushworth at present, Council acknowledges this would have the capacity to generate positive health and wellbeing outcomes for local residents.",
+        "Council officers will continue to facilitate negotiations to allow the Girgarre Development Committee to assume management of DELWP land between Girgarre and Stanhope to extend the existing small community-owned trail."
+      ],
+      "comments": "enabled",
+      "published": true
+    },
     "lorem-ipsum-1": {
       "sling:resourceType":"wnews/block/article",
       "title": "Lorem ipsum dolor sit amet.",
