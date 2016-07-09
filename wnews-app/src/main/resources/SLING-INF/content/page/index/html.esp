@@ -44,29 +44,11 @@
       <div class="row">
         <div class="col-md-8">
           <div class="row">
-            <div class="col-md-12 feature-article">
-              <h4>Lorem ipsum dolor sit amet. [Feature article]</h4>
-              <p>
-<span class="first-word">Lorem</span> ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quis porttitor turpis. Fusce tristique gravida dui, eu tincidunt elit ultricies quis. Aenean gravida accumsan neque eu viverra. Curabitur vitae ipsum ornare, dapibus nulla ut, sagittis ex. Quisque in lectus odio. Nam nec mollis eros. Etiam maximus magna diam, eu fermentum turpis imperdiet ut. Vivamus eros tortor, hendrerit at tincidunt ut, imperdiet in dolor. Donec sit amet mauris ut ligula condimentum viverra.
-              </p>
-              <a href="article.html">Read more..</a>
-            </div>
+            <% sling.include("/content/wnews/articles/list/editor-awarded-order-of-australia-medal.feature.summary.html"); %>
           </div>
           <div class="row">
-            <div class="col-md-6">
-              <h4>Lorem ipsum dolor sit amet. [Article 1]</h4>
-              <p>
-                Sed eget accumsan sapien. Duis blandit eros ac sapien dictum, eu dapibus quam sodales. Nunc eget sem nulla. Sed sodales dolor eu finibus mollis. Phasellus nec enim enim. Aliquam imperdiet mi a sodales finibus. Nullam eget scelerisque lectus. Pellentesque at eleifend tortor. Cras aliquam vestibulum rutrum. Integer elementum eros sapien, a pellentesque sem efficitur sit amet. Sed maximus egestas diam et molestie. Phasellus vitae porta est.
-              </p>
-              <a href="article.html">Read more..</a>
-            </div>
-            <div class="col-md-6">
-              <h4>Lorem ipsum dolor sit amet. [Article 2]</h4>
-              <p>
-                Integer sed tincidunt elit. Nulla metus massa, imperdiet id porttitor sed, hendrerit non turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed suscipit consequat nisi non vulputate. Donec metus neque, euismod vel diam et, volutpat accumsan metus. Mauris aliquet in nisi id euismod. Suspendisse auctor sapien eget facilisis bibendum. Nullam ultricies blandit lectus, eu ullamcorper erat sagittis at. Nulla tempus egestas erat ut auctor. Morbi nec ullamcorper neque. Etiam rhoncus pretium lorem ac fringilla. Aenean lobortis fermentum scelerisque. Maecenas quis condimentum sem. Praesent dapibus vel est et tristique. In volutpat tristique quam, eget lobortis purus tempor vitae.
-              </p>
-              <a href="article.html">Read more..</a>
-            </div>
+            <% sling.include("/content/wnews/articles/list/lorem-ipsum-1.summary.html"); %>
+            <% sling.include("/content/wnews/articles/list/lorem-ipsum-1.summary.html"); %>
           </div>
         </div>
         <div class="col-md-4">
