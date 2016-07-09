@@ -11,10 +11,10 @@
       "comments": "enabled",
       "published": true
     },
-    "lorem-ipsum-2": {
+    "2016-06-16": {
       "sling:resourceType": "wnews/block/front-page",
-      "title": "Lorem ipsum dolor sit amet.",
-      "media": "placeholder-480x640.png",
+      "title": "Front Page - June 16, 2016",
+      "media": "wnews/wnews20160616P01.jpeg",
       "comments": "enabled",
       "published": true
     }

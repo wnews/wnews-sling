@@ -10,6 +10,7 @@ COPY gradle gradle
 COPY wnews-app wnews-app
 COPY wnews-content wnews-content
 COPY wnews-config wnews-config
+COPY wnews-media wnews-media
 
 ENTRYPOINT ["/app/gradlew"]
 
