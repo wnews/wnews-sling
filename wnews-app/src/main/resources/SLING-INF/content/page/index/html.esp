@@ -44,7 +44,7 @@
       <div class="row">
         <div class="col-md-8">
           <div class="row">
-            <% sling.include("/content/wnews/articles/list/editor-awarded-order-of-australia-medal.feature.html"); %>
+            <% sling.include("/content/wnews/articles/list.feature.html"); %>
           </div>
           <div class="row">
             <% sling.include("/content/wnews/articles/list/lorem-ipsum-1.summary.html"); %>

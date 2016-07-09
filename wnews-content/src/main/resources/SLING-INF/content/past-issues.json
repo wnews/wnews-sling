@@ -13,7 +13,7 @@
     },
     "2016-06-16": {
       "sling:resourceType": "wnews/block/front-page",
-      "title": "Front Page - June 16, 2016",
+      "title": "June 16, 2016",
       "media": "wnews/wnews20160616P01.jpeg",
       "comments": "enabled",
       "published": true

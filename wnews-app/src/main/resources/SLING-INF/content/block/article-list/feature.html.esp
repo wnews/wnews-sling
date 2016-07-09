@@ -1,0 +1,8 @@
+    <%
+        for(var i in currentNode) {
+            if (currentNode[i].feature == true) {
+                sling.include(currentNode[i].path + ".feature.html");
+                break;
+            }
+        }
+    %>
