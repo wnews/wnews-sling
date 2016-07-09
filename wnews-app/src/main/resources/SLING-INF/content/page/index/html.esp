@@ -44,10 +44,10 @@
       <div class="row">
         <div class="col-md-8">
           <div class="row">
-            <% sling.include("/content/wnews/articles/list.feature.html"); %>
+            <% sling.include("articles/list.feature.html"); %>
           </div>
           <div class="row">
-            <% sling.include("/content/wnews/articles/list.summary.html"); %>
+            <% sling.include("articles/list.summary.html"); %>
           </div>
         </div>
         <div class="col-md-4">
@@ -58,11 +58,11 @@
       <div class="row">
         <div class="col-md-3">
           <p>Related sites</p>
-            <% sling.include("/content/wnews/related-sites/list.text.html/5"); %>
+            <% sling.include("related-sites/list.text.html/5"); %>
         </div>
         <div class="col-md-3">
             <p>Past issues</p>
-            <% sling.include("/content/wnews/past-issues/list.text.html/5"); %>
+            <% sling.include("past-issues/list.text.html/5"); %>
         </div>
         <div class="col-md-3">
           <p>Regional news</p>
