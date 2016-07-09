@@ -1,8 +1,0 @@
-            <div class="col-md-12">
-                <h3><%= currentNode.title %></h3>
-                <%
-                    var firstPar = currentNode.pars[0].split('\\s', 2)
-                    out.write("<p><span class='first-word'>" + firstPar[0] + "</span> " + firstPar[1] + "</p>");
-                %>
-                <a href="/article.html<%= currentNode %>">Read more..</a>
-            </div>
