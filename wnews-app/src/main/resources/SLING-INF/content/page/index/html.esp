@@ -44,14 +44,12 @@
       <div class="row">
         <div class="col-md-8">
           <div class="row">
-            <% sling.include("articles/list.feature.html"); %>
-          </div>
-          <div class="row">
-            <% sling.include("articles/list.summary.html"); %>
+            <% sling.include("articles/list.feature.html/1"); %>
+            <% sling.include("articles/list.summary.html/4"); %>
           </div>
         </div>
         <div class="col-md-4">
-            <% sling.include("advertisements/list.html"); %>
+            <% sling.include("advertisements/list.html/4"); %>
         </div>
       </div>
 
