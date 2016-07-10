@@ -1,6 +1,7 @@
     <%
         for(var i in currentNode) {
-            if (currentNode[i]['sling:resourceType'] == "wnews/block/article" && !currentNode[i].feature) {
+            if (currentNode[i]['sling:resourceType'] == "wnews/block/article"
+                && !currentNode[i].feature && currentNode[i].published) {
                 sling.include(currentNode[i].path + ".summary.html");
                 if (i >= 1) {
                     break;

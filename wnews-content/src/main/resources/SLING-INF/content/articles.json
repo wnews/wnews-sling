@@ -45,6 +45,29 @@
       "disqusShortName": "waranganews",
       "published": true
     },
+    "mavis-celebrating-102": {
+      "sling:resourceType":"wnews/block/article",
+      "date": "2016-06-02",
+      "title": "Mavis celebrating 102 years",
+      "pars": [
+        "Mavis Hunt celebrated her 102nd birthday with family & friends at Moyola Lodge, Tatura, on 24 May. An avid reader, Mavis always enjoys getting her Waranga News to catch up with the local events. She asked her daughter, Maggie Johnston, to say ‘thank you’ on her behalf for the beautiful cards, flowers and good wishes she received for her birthday."
+      ],
+      "published": true
+    },
+    "freak-storm-strikes": {
+      "sling:resourceType":"wnews/block/article",
+      "date": "2016-05-19",
+      "title": "Freak storm strikes Rushworth area",
+      "pars": [
+        "When ferocious winds and torrential rain impacted parts of Rushworth last week, it left some areas of the district looking like a war zone. Trees were up-rooted or had large parts of their canopies snapped off, and intense downpours occurred over some areas while others escaped virtually unscathed. These photos by Cass Alexander show the storm in action and some of its aftermath.",
+        "Rushworth Observatory recorded 30mm of rain in a five minute deluge that quickly left the domed telescope housing surrounded by water. Huge rain drops pelted down, as seen in the photo at right.",
+        "Trees toppled near Murchison, and the RushworthTatura Road was blocked by foliage dislodged from roadside trees (above). One tree on Chief Perry’s property was uprooted completely by the fierce winds (below).",
+        "Members of Rushworth Fire Brigade quickly initiated a cleanup operation, and were soon assisted by a front-end loader and driver from a nearby construction crew, and a local motorist who arrived with a chainsaw (lower right).",
+        "A VicRoads crew also arrived on scene, and the cleared road was finally given a final wash-down by the tanker’s powerful front monitor. The highway was reopened within a half hour, and traffic was soon moving once again",
+        "It was a great team effort by all of those involved."
+      ],
+      "published": true
+    },
     "lorem-ipsum-1": {
       "sling:resourceType":"wnews/block/article",
       "title": "Lorem ipsum dolor sit amet.",
