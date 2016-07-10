@@ -1,0 +1,14 @@
+{
+  "title":"Regional News - Waranga News",
+  "sling:resourceType":"wnews/page/list",
+  "jcr:primaryType":"nt:unstructured",
+  "list": {
+    "sling:resourceType":"wnews/block/site-list",
+    "abc-local": {
+      "sling:resourceType": "wnews/block/site",
+      "title": "ABC Local",
+      "url": "http://www.abc.net.au/local/topics/shepparton/rural/",
+      "published": true
+    }
+  }
+}
