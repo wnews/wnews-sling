@@ -3,7 +3,8 @@
 
     <%
         for(var i in currentNode) {
-            if (currentNode[i]['sling:resourceType'] == "wnews/block/advertisement") {
+            if (currentNode[i]['sling:resourceType'] == "wnews/block/advertisement"
+                && currentNode[i].published) {
                 sling.include(currentNode[i].path + ".html");
             }
         }
