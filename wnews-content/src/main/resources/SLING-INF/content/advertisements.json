@@ -9,6 +9,7 @@
       "title": "The Cottage Ice Cream Shoppe",
       "media": "wnews/Cottage-Ice-Cream-Shoppe.png",
       "testimonials": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "criterion-hotel-accommodation": {
@@ -16,6 +17,7 @@
       "title": "The Criterion Hotel",
       "media": "wnews/Criterion-Hotel-accomm.png",
       "testimonials": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "old-imperial-hotel": {
@@ -23,6 +25,7 @@
       "title": "The Old Imperial Hotel",
       "media": "wnews/Imperial-Hotel.png",
       "testimonials": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "king-billy-retreat": {
@@ -30,14 +33,13 @@
       "title": "King Billy Retreat",
       "media": "wnews/King-Billy-Retreat.png",
       "testimonials": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "lorem-ipsum-2": {
       "sling:resourceType": "wnews/block/advertisement",
       "title": "Lorem ipsum dolor sit amet.",
-      "media": "placeholder-200x200.png",
-      "testimonials": "enabled",
-      "published": false
+      "media": "placeholder-200x200.png"
     }
   }
 }
