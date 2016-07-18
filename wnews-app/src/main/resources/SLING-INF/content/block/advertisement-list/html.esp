@@ -2,11 +2,14 @@
     <h4>[Advertisement]</h4>
 
     <%
+        var max = parseInt(request.requestPathInfo.suffix);
         for(var i in currentNode) {
             if (currentNode[i]['sling:resourceType'] == "wnews/block/advertisement"
                 && currentNode[i].published) {
                 sling.include(currentNode[i].path + ".html");
             }
+            /* TODO: handle max is undefined/NaN) */
+            if (i >= max) break;
         }
     %>
 </div>
