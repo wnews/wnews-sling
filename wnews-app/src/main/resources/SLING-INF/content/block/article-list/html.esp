@@ -1,7 +1,8 @@
 <div class="block-list">
     <%
         for(var i in currentNode) {
-            if (currentNode[i]['sling:resourceType'] == "wnews/block/article") {
+            if (currentNode[i]['sling:resourceType'] == "wnews/block/article"
+                && currentNode[i].published) {
                 sling.include(currentNode[i].path + ".summary.html");
             }
         }
