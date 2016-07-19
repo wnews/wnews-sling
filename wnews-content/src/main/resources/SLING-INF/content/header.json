@@ -1,5 +1,12 @@
 {
   "title":"Waranga News",
   "sling:resourceType":"wnews/header",
-  "jcr:primaryType":"nt:unstructured"
+  "jcr:primaryType":"nt:unstructured",
+  "banner": {
+    "sling:resourceType":"wnews/block/banner",
+    "jcr:primaryType":"nt:unstructured",
+    "title": "Accommodation",
+    "href": "accommodation.html",
+    "blockHtml": "<img src=\"/wp/media/library/placeholder-640x120.png\"/>"
+  }
 }

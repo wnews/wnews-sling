@@ -1,3 +1,11 @@
+
+    <!-- Bottom banner -->
+    <%
+        if (currentNode.banner) {
+            sling.include(currentNode.banner + ".html");
+        }
+    %>
+
     <hr style="text-align: center; width: 70%">
 
     <footer>

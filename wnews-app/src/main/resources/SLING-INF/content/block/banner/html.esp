@@ -1,0 +1,5 @@
+            <div class="col-md-12">
+                <a href="<%= currentNode.href %>" title="<%= currentNode.title %>">
+                    <%= currentNode.blockHtml %>
+                </a>
+            </div>
