@@ -6,7 +6,7 @@
     "sling:resourceType":"wnews/block/banner",
     "jcr:primaryType":"nt:unstructured",
     "title": "Accommodation",
-    "href": "accommodation.html",
+    "href": "/content/wnews/accommodation.html",
     "blockHtml": "<img src=\"/wp/media/library/wnews/waranga-accommodation.png\"/>"
   }
 }

@@ -7,7 +7,7 @@
     "sling:resourceType":"wnews/block/banner",
     "jcr:primaryType":"nt:unstructured",
     "title": "Trades and Services",
-    "href": "trades-and-services.html",
+    "href": "/content/wnews/trades-and-services.html",
     "blockHtml": "<img src=\"/wp/media/library/wnews/trades-and-services.png\"/>"
   }
 }
