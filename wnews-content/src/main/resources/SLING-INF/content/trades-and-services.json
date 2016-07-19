@@ -1,0 +1,5 @@
+{
+  "title": "Trades and Services - Waranga News",
+  "sling:resourceType": "wnews/page/default",
+  "jcr:primaryType": "nt:unstructured"
+}

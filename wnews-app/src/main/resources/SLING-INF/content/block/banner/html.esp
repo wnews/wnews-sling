@@ -1,0 +1,5 @@
+            <div class="container">
+                <a href="<%= currentNode.href %>" title="<%= currentNode.title %>">
+                    <%= currentNode.blockHtml %>
+                </a>
+            </div>

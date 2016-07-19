@@ -2,5 +2,12 @@
   "title":"Waranga News",
   "sling:resourceType":"wnews/footer",
   "jcr:primaryType":"nt:unstructured",
-  "copyright": "2016 Waranga News, Inc."
+  "copyright": "2016 Waranga News, Inc.",
+  "banner": {
+    "sling:resourceType":"wnews/block/banner",
+    "jcr:primaryType":"nt:unstructured",
+    "title": "Trades and Services",
+    "href": "trades-and-services.html",
+    "blockHtml": "<img src=\"/wp/media/library/wnews/trades-and-services.png\"/>"
+  }
 }
