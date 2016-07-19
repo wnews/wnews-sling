@@ -7,14 +7,14 @@
     "lorem-ipsum-1": {
       "sling:resourceType": "wnews/block/front-page",
       "title": "Lorem ipsum dolor sit amet.",
-      "media": "placeholder-480x640.png",
+      "media": "placeholder.png/480x640",
       "comments": "enabled",
       "published": true
     },
     "2016-06-16": {
       "sling:resourceType": "wnews/block/front-page",
       "title": "June 16, 2016",
-      "media": "wnews/wnews20160616P01.jpeg",
+      "media": "library/wnews/wnews20160616P01.jpeg",
       "comments": "enabled",
       "published": true
     }

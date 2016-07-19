@@ -8,6 +8,6 @@
     "jcr:primaryType":"nt:unstructured",
     "title": "Trades and Services",
     "href": "trades-and-services.html",
-    "blockHtml": "<img src=\"/wp/media/library/placeholder-200x200.png\"/>"
+    "blockHtml": "<img src=\"/wp/media/placeholder.png/200x200\"/>"
   }
 }

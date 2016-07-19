@@ -7,6 +7,6 @@
     "jcr:primaryType":"nt:unstructured",
     "title": "Accommodation",
     "href": "accommodation.html",
-    "blockHtml": "<img src=\"/wp/media/library/placeholder-640x120.png\"/>"
+    "blockHtml": "<img src=\"/wp/media/placeholder.png/640x120\"/>"
   }
 }
