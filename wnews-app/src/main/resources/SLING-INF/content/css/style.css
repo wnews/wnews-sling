@@ -35,9 +35,18 @@ body {
     padding: 10;
 }
 
+.wnews-list-media {
+    padding: 20px;
+}
+
 .feature-article .first-word {
     font-family: garamond serif;
     font-size: 1.5em;
+}
+
+.date-published {
+    font-size: 0.8em;
+    color: silver;
 }
 
 a.page-section {

@@ -1,5 +1,14 @@
 {
   "title": "Accommodation - Waranga News",
-  "sling:resourceType": "wnews/page/default",
-  "jcr:primaryType": "nt:unstructured"
+  "sling:resourceType":"wnews/page/list",
+  "jcr:primaryType":"nt:unstructured",
+  "list": {
+    "sling:resourceType": "wnews/block/front-page-list",
+    "lorem-ipsum-2": {
+      "sling:resourceType": "wnews/block/front-page",
+      "title": "Lorem ipsum dolor sit amet.",
+      "media": "placeholder.png/480x640",
+      "published": true
+    }
+  }
 }
