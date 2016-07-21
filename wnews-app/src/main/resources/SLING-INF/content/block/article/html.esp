@@ -1,5 +1,6 @@
             <div class="col-md-12">
                 <h3><%= currentNode.title %></h3>
+                <p class="date-published"><%= currentNode.date %></p>
                 <%
                     var pars = currentNode.pars
                     for (var j in pars) {
