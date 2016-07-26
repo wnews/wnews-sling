@@ -53,6 +53,10 @@ body {
     padding-bottom: 5px;
 }
 
+.feature-article h3 {
+    margin-top: 10px;
+}
+
 .feature-article .first-word {
     font-family: garamond serif;
     font-size: 1.5em;
