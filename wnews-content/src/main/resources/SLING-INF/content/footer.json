@@ -6,8 +6,8 @@
   "banner": {
     "sling:resourceType":"wnews/block/banner",
     "jcr:primaryType":"nt:unstructured",
-    "title": "Trades and Services",
-    "href": "/content/wnews/trades-and-services.html",
-    "blockHtml": "<img src=\"/wp/media/library/wnews/trades-and-services.png\"/>"
+    "title": "Accommodation",
+    "href": "/content/wnews/accommodation.html",
+    "blockHtml": "<img src=\"/wp/media/library/wnews/waranga-accommodation.png\"/>"
   }
 }
