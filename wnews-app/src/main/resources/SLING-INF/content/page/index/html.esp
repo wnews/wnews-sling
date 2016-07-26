@@ -54,6 +54,12 @@
       </div>
 
       <div class="row">
+        <div class="col-md-12">
+          <a href="articles.html">More articles..</a>
+        </div>
+      </div>
+
+      <div class="row">
         <div class="col-md-3">
           <p>Related sites</p>
             <% sling.include("related-sites/list.text.html/5"); %>

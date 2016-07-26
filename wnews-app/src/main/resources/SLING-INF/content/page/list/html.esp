@@ -36,7 +36,18 @@
 
     <div class="container">
 
-      <% sling.include(currentNode + "/list.html"); %>
+      <div class="row">
+        <div class="col-md-8">
+          <%
+            if (currentNode.list) {
+              sling.include(currentNode + "/list.html");
+            }
+          %>
+        </div>
+        <div class="col-md-4">
+          <% sling.include("/content/wnews/advertisements/list.html/5"); %>
+        </div>
+      </div>
 
       <div class="row">
         <div class="col-md-3">
