@@ -1,6 +1,9 @@
-            <div class="col-md-12 feature-article">
+            <div class="col-md-12 feature-article wnews-article">
                 <h3><%= currentNode.title %></h3>
                 <p class="date-published"><%= currentNode.date %></p>
+                <% if (currentNode.media) { %>
+                <img src="/wp/media/<%= currentNode.media %>"/>
+                <% } %>
                 <%
                     var firstPar = currentNode.pars[0].split(' ')
                     out.write("<p><span class='first-word'>" + firstPar[0] + "</span> " + firstPar.slice(1).join(' ') + "</p>");

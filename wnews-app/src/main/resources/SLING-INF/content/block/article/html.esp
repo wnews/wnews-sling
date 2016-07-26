@@ -1,6 +1,9 @@
-            <div class="col-md-12">
+            <div class="col-md-12 wnews-article">
                 <h3><%= currentNode.title %></h3>
                 <p class="date-published"><%= currentNode.date %></p>
+                <% if (currentNode.media) { %>
+                <img src="/wp/media/<%= currentNode.media %>"/>
+                <% } %>
                 <%
                     var pars = currentNode.pars
                     for (var j in pars) {
