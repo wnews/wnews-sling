@@ -1,11 +1,15 @@
     <%
+        var count = 0;
+        var limit = request.requestPathInfo.suffix ? parseInt(request.requestPathInfo.suffix.substring(1)) : Number.MAX_SAFE_INTEGER;
+        log.info("Max results = " + limit);
+
         for(var i in currentNode) {
             if (currentNode[i]['sling:resourceType'] == "wnews/block/article"
                 && !currentNode[i].feature && currentNode[i].published == true) {
                 sling.include(currentNode[i].path + ".summary.html");
-                if (i >= 1) {
-                    break;
-                }
+
+                /* TODO: handle limit is undefined/NaN) */
+                if (++count >= limit) break;
             }
         }
     %>
