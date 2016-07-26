@@ -4,10 +4,10 @@
   "jcr:primaryType":"nt:unstructured",
   "list": {
     "sling:resourceType": "wnews/block/front-page-list",
-    "lorem-ipsum-2": {
+    "trade-pages": {
       "sling:resourceType": "wnews/block/front-page",
-      "title": "Lorem ipsum dolor sit amet.",
-      "media": "placeholder.png/480x640",
+      "title": "Trade Pages - May 1, 2015",
+      "media": "s3./wnews/Trade-pages-2015-05-01.jpg",
       "published": true
     }
   }
