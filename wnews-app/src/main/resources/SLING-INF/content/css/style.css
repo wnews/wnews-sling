@@ -44,6 +44,11 @@ body {
     height:auto;
 }
 
+.block-list img {
+    max-width:100%;
+    height:auto;
+}
+
 .wnews-article img {
     float: right;
     width: 25%;
