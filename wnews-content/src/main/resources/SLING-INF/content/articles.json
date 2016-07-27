@@ -9,7 +9,7 @@
       "feature": true,
       "date": "2016-06-16",
       "title": "Waranga News Editor awarded Order of Australia Medal",
-      "media": "placeholder.png/240x320",
+      "media": "s3./wnews/gallery/wnews20160616P01-188x188.jpeg",
       "pars": [
         "Our own Dr Mary Jo Fortuna of Rushworth has been awarded an Order of Australia Medal in the latest Queen’s Birthday honours list.",
         "The closely guarded news was kept amazingly ‘secret’ and embargoed, but with the publishing of the honours list last Monday, the news spread like wildfire, with the Waranga News Editor beseiged by phone calls at the News office and filming interviews for WIN news television screening.",
@@ -50,6 +50,7 @@
       "sling:resourceType":"wnews/block/article",
       "date": "2016-06-02",
       "title": "Mavis celebrating 102 years",
+      "media": "s3./wnews/gallery/wnews20160602P01-188x188.jpeg",
       "pars": [
         "Mavis Hunt celebrated her 102nd birthday with family & friends at Moyola Lodge, Tatura, on 24 May. An avid reader, Mavis always enjoys getting her Waranga News to catch up with the local events. She asked her daughter, Maggie Johnston, to say ‘thank you’ on her behalf for the beautiful cards, flowers and good wishes she received for her birthday."
       ],
@@ -59,6 +60,7 @@
       "sling:resourceType":"wnews/block/article",
       "date": "2016-05-19",
       "title": "Freak storm strikes Rushworth area",
+      "media": "s3./wnews/gallery/wnews20160519P01-188x188.jpeg",
       "pars": [
         "When ferocious winds and torrential rain impacted parts of Rushworth last week, it left some areas of the district looking like a war zone. Trees were up-rooted or had large parts of their canopies snapped off, and intense downpours occurred over some areas while others escaped virtually unscathed. These photos by Cass Alexander show the storm in action and some of its aftermath.",
         "Rushworth Observatory recorded 30mm of rain in a five minute deluge that quickly left the domed telescope housing surrounded by water. Huge rain drops pelted down, as seen in the photo at right.",
@@ -73,6 +75,7 @@
       "sling:resourceType":"wnews/block/article",
       "title": "Community rallies to save trees",
       "date": "2015-05-28",
+      "media": "s3./wnews/gallery/wnews20150528P01-188x188.jpg",
       "pars": [
         "Rushworth residents have come out in force to express their alarm at VicRoads plans to remove more than 120 mature indigenous trees along the Tatura-Rushworth Road leading into the town.",
         "As contractors arrived to commence work, word quickly spread and at the eleventh hour a group of local residents gathered and succeeded in temporarily halting the scheduled road works.",
@@ -92,6 +95,7 @@
       "sling:resourceType":"wnews/block/article",
       "title": "Record crowds mark Centenary ANZAC Day",
       "date": "2015-04-30",
+      "media": "s3./wnews/gallery/wnews20150430P01-188x188.jpg",
       "pars": [
         "ANZAC Day was observed around the district with particular fervour and record attendances in this year commemorating the landing at Gallipoli 100 years ago. Included in the day were special ceremonies - the opening of a War Memorial in Corop and the unveiling of a plaque to honour Vietnam Veterans in Rushworth.",
         "Poppies marked each of the names on the old Shire of Waranga Honour Roll boards at the Memorial, a labour of love by Mary Beck and Mavis Raglus. More  oral tributes were added throughout the day, as a succession of wreaths were laid by people representing many generations of our community.",

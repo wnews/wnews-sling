@@ -51,7 +51,7 @@ body {
 
 .wnews-article img {
     float: right;
-    width: 25%;
+    width: 40%;
     height: auto;
     max-width:400px;
     padding-left: 5px;
@@ -60,6 +60,10 @@ body {
 
 .feature-article h3 {
     margin-top: 10px;
+}
+
+.feature-article img {
+    width: 25%;
 }
 
 .feature-article .first-word {
