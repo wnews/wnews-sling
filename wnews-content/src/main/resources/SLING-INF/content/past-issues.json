@@ -4,19 +4,68 @@
   "jcr:primaryType":"nt:unstructured",
   "list": {
     "sling:resourceType":"wnews/block/front-page-list",
+    "2016-06-16": {
+      "sling:resourceType": "wnews/block/front-page",
+      "title": "June 16, 2016",
+      "media": "s3./wnews/wnews20160616P01.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2015-04-16": {
+      "sling:resourceType": "wnews/block/front-page",
+      "title": "April 16, 2015",
+      "media": "s3./wnews/past-issues/wnews20150416P01.jpg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2015-04-02": {
+      "sling:resourceType": "wnews/block/front-page",
+      "title": "April 2, 2015",
+      "media": "s3./wnews/past-issues/wnews20150402P01.jpg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2015-02-05": {
+      "sling:resourceType": "wnews/block/front-page",
+      "title": "February 5, 2015",
+      "media": "s3./wnews/past-issues/wnews20150205P01.jpg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2014-12-11": {
+      "sling:resourceType": "wnews/block/front-page",
+      "title": "December 11, 2014",
+      "media": "s3./wnews/past-issues/Wnews20141211P01.jpg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2014-11-27": {
+      "sling:resourceType": "wnews/block/front-page",
+      "title": "November 27, 2014",
+      "media": "s3./wnews/past-issues/wnews20141127P01.jpg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2014-11-13": {
+      "sling:resourceType": "wnews/block/front-page",
+      "title": "November 13, 2014",
+      "media": "s3./wnews/past-issues/wnews20141113P01.jpg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2014-10-30": {
+      "sling:resourceType": "wnews/block/front-page",
+      "title": "October 30, 2014",
+      "media": "s3./wnews/past-issues/wnews20141030P01.jpg",
+      "comments": "enabled",
+      "published": true
+    },
     "lorem-ipsum-1": {
       "sling:resourceType": "wnews/block/front-page",
       "title": "Lorem ipsum dolor sit amet.",
       "media": "placeholder.png/480x640",
       "comments": "enabled",
-      "published": true
-    },
-    "2016-06-16": {
-      "sling:resourceType": "wnews/block/front-page",
-      "title": "June 16, 2016",
-      "media": "library/wnews/wnews20160616P01.jpeg",
-      "comments": "enabled",
-      "published": true
+      "published": false
     }
   }
 }

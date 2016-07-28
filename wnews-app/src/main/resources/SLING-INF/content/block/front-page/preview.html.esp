@@ -1,3 +1,3 @@
-                <a href="<%= currentNode.path %>">
-                    <img src="/wp/media/<%= currentNode.media %>"/>
+                <a href="<%= currentNode.path %>.html">
+                    <img class="wnews-preview" src="/wp/media/<%= currentNode.media %>"/>
                 </a>

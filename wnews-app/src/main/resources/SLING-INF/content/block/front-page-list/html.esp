@@ -1,9 +1,14 @@
 <div class="block-list">
+    <ul class="wnews-list-nostyle">
     <%
         for(var i in currentNode) {
-            if (currentNode[i]['sling:resourceType'] == "wnews/block/front-page") {
+            if (currentNode[i]['sling:resourceType'] == "wnews/block/front-page"
+                    && currentNode[i].published == true) {
+                out.print("<li>");
                 sling.include(currentNode[i].path + ".preview.html");
+                out.print("</li>");
             }
         }
     %>
+    </ul>
 </div>
