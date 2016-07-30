@@ -8,6 +8,6 @@
             }
         }
     %>
-        <li><a href="<%= currentNode.path %>.html">More..</a></li>
+        <li><a href="past-issues.html">More..</a></li>
     </ul>
 </div>
