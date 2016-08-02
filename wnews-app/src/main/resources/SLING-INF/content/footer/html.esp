@@ -20,3 +20,4 @@
     <script src="/libs/wp-bootstrap/bower_components/bootstrap-css/bootstrap.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="/libs/wp-bootstrap/js/ie10-viewport-bug-workaround.js"></script>
+    <% sling.include("analytics.google.html"); %>
