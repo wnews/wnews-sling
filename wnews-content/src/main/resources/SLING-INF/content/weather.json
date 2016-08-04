@@ -1,20 +1,6 @@
 {
   "title":"Weather - Waranga News",
-  "sling:resourceType":"wnews/page/list",
+  "sling:resourceType":"/libs/wp-rss/block/list",
   "jcr:primaryType":"nt:unstructured",
-  "list": {
-    "sling:resourceType":"wnews/block/site-list",
-    "weathercomau": {
-      "sling:resourceType": "wnews/block/site",
-      "title": "Weather.com.au",
-      "url": "http://www.weather.com.au/vic/rushworth",
-      "published": true
-    },
-    "current-conditions": {
-      "sling:resourceType": "wnews/block/site",
-      "title": "Current conditions",
-      "url": "http://www.weather.com.au/vic/rushworth/current",
-      "published": true
-    }
-  }
+  "feedUrl": "http://rss.weather.com.au/vic/rushworth"
 }
