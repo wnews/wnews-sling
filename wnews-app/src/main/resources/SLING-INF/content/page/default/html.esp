@@ -60,7 +60,7 @@
         </div>
         <div class="col-md-3">
           <p>Regional news</p>
-          <% sling.include("regional-news/list.text.html"); %>
+          <% sling.include("regional-news.html/5"); %>
         </div>
         <div class="col-md-3">
           <p>Weather</p>

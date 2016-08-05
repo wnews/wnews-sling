@@ -2,5 +2,6 @@
   "title":"Weather - Waranga News",
   "sling:resourceType":"/libs/wp-rss/block/list",
   "jcr:primaryType":"nt:unstructured",
-  "feedUrl": "http://rss.weather.com.au/vic/rushworth"
+  "feedUrl": "http://rss.weather.com.au/vic/rushworth",
+  "htmlUrl": "http://weather.com.au/vic/rushworth"
 }
