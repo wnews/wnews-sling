@@ -7,56 +7,56 @@
     "2016-07-14": {
       "sling:resourceType": "wnews/block/front-page",
       "title": "July 14, 2016",
-      "media": "s3./wnews/wnews20160714P01.jpeg",
+      "media": "s3./wnews/past-issues/wnews20160714P01.jpeg",
       "comments": "enabled",
       "published": true
     },
     "2016-06-16": {
       "sling:resourceType": "wnews/block/front-page",
       "title": "June 16, 2016",
-      "media": "s3./wnews/wnews20160616P01.jpeg",
+      "media": "s3./wnews/past-issues/wnews20160616P01.jpeg",
       "comments": "enabled",
       "published": true
     },
     "2016-06-02": {
       "sling:resourceType": "wnews/block/front-page",
       "title": "June 2, 2016",
-      "media": "s3./wnews/wnews20160602P01.jpeg",
+      "media": "s3./wnews/past-issues/wnews20160602P01.jpeg",
       "comments": "enabled",
       "published": true
     },
     "2016-05-19": {
       "sling:resourceType": "wnews/block/front-page",
       "title": "May 19, 2016",
-      "media": "s3./wnews/wnews20160519P01.jpeg",
+      "media": "s3./wnews/past-issues/wnews20160519P01.jpeg",
       "comments": "enabled",
       "published": true
     },
     "2016-04-07": {
       "sling:resourceType": "wnews/block/front-page",
       "title": "April 7, 2016",
-      "media": "s3./wnews/wnews20160407P01.jpeg",
+      "media": "s3./wnews/past-issues/wnews20160407P01.jpeg",
       "comments": "enabled",
       "published": true
     },
     "2016-03-24": {
       "sling:resourceType": "wnews/block/front-page",
       "title": "March 24, 2016",
-      "media": "s3./wnews/wnews20160324P01.jpeg",
+      "media": "s3./wnews/past-issues/wnews20160324P01.jpeg",
       "comments": "enabled",
       "published": true
     },
     "2016-02-25": {
       "sling:resourceType": "wnews/block/front-page",
       "title": "February 25, 2016",
-      "media": "s3./wnews/wnews20160225P01.jpeg",
+      "media": "s3./wnews/past-issues/wnews20160225P01.jpeg",
       "comments": "enabled",
       "published": true
     },
     "2016-02-24": {
       "sling:resourceType": "wnews/block/front-page",
       "title": "February 24, 2016",
-      "media": "s3./wnews/wnews20160224P01.jpeg",
+      "media": "s3./wnews/past-issues/wnews20160224P01.jpeg",
       "comments": "enabled",
       "published": true
     },
