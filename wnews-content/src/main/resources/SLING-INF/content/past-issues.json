@@ -133,42 +133,42 @@
     "2014-10-16": {
       "sling:resourceType": "wnews/block/front-page",
       "title": "October 16, 2014",
-      "media": "s3./wnews/past-issues/wnews20141016p01.jpg",
+      "media": "s3./wnews/past-issues/wnews20141016P01.jpg",
       "comments": "enabled",
       "published": true
     },
     "2014-10-02": {
       "sling:resourceType": "wnews/block/front-page",
       "title": "October 2, 2014",
-      "media": "s3./wnews/past-issues/wnews20141002p01.jpg",
+      "media": "s3./wnews/past-issues/wnews20141002P01.jpg",
       "comments": "enabled",
       "published": true
     },
     "2014-09-18": {
       "sling:resourceType": "wnews/block/front-page",
       "title": "September 18, 2014",
-      "media": "s3./wnews/past-issues/wnews20140918p01.jpg",
+      "media": "s3./wnews/past-issues/wnews20140918P01.jpg",
       "comments": "enabled",
       "published": true
     },
     "2014-09-04": {
       "sling:resourceType": "wnews/block/front-page",
       "title": "September 4, 2014",
-      "media": "s3./wnews/past-issues/wnews20140904p01.jpg",
+      "media": "s3./wnews/past-issues/wnews20140904P01.jpg",
       "comments": "enabled",
       "published": true
     },
     "2014-08-21": {
       "sling:resourceType": "wnews/block/front-page",
       "title": "August 21, 2014",
-      "media": "s3./wnews/past-issues/wnews20140821p01.jpg",
+      "media": "s3./wnews/past-issues/wnews20140821P01.jpg",
       "comments": "enabled",
       "published": true
     },
     "2014-06-12": {
       "sling:resourceType": "wnews/block/front-page",
       "title": "June 12, 2014",
-      "media": "s3./wnews/past-issues/wnews20140612p01.jpg",
+      "media": "s3./wnews/past-issues/wnews20140612P01.jpg",
       "comments": "enabled",
       "published": true
     },
@@ -182,14 +182,14 @@
     "2014-05-01": {
       "sling:resourceType": "wnews/block/front-page",
       "title": "May 1, 2014",
-      "media": "s3./wnews/past-issues/wnews20140501p01.jpg",
+      "media": "s3./wnews/past-issues/wnews20140501P01.jpg",
       "comments": "enabled",
       "published": true
     },
     "2014-04-17": {
       "sling:resourceType": "wnews/block/front-page",
       "title": "April 17, 2014",
-      "media": "s3./wnews/past-issues/wnews20140417p01.jpg",
+      "media": "s3./wnews/past-issues/wnews20140417P01.jpg",
       "comments": "enabled",
       "published": true
     },
@@ -203,7 +203,7 @@
     "2014-03-06": {
       "sling:resourceType": "wnews/block/front-page",
       "title": "March 6, 2014",
-      "media": "s3./wnews/past-issues/wnews20140306p01.jpg",
+      "media": "s3./wnews/past-issues/wnews20140306P01.jpg",
       "comments": "enabled",
       "published": true
     },
