@@ -55,11 +55,11 @@
           <p>Related sites</p>
           <% sling.include("related-sites/list.text.html/5"); %>
         </div>
-        <div class="col-md-3">
+        <div class="col-md-1">
           <p>Past issues</p>
           <% sling.include("past-issues/list.text.html/5"); %>
         </div>
-        <div class="col-md-3">
+        <div class="col-md-5">
           <p>Regional news</p>
           <% sling.include("regional-news.html/5"); %>
         </div>
