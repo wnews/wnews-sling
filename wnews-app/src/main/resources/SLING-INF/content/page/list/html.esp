@@ -40,7 +40,8 @@
         <div class="col-md-8">
           <%
             if (currentNode.list) {
-              sling.include(currentNode + "/list.html/12");
+              var suffix = request.requestPathInfo.suffix ? request.requestPathInfo.suffix : "";
+              sling.include(currentNode + "/list.html" + suffix);
             }
           %>
         </div>
