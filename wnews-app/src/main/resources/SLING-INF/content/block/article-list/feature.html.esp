@@ -4,7 +4,7 @@
 
         for(var i in currentNode) {
             if (currentNode[i]['sling:resourceType'] == "wnews/block/article"
-                && currentNode[i].feature && currentNode[i].published) {
+                && currentNode[i].feature  && currentNode[i].published == true) {
                 sling.include(currentNode[i].path + ".feature.html");
 
                 /* TODO: handle limit is undefined/NaN) */

@@ -5,7 +5,8 @@
 
         for(var i in currentNode) {
             if (currentNode[i]['sling:resourceType'] == "wnews/block/article"
-                && currentNode[i].published) {
+                && currentNode[i].published == true) {
+
                 sling.include(currentNode[i].path + ".summary.fullwidth.html");
 
                 /* TODO: handle limit is undefined/NaN) */
