@@ -4,6 +4,29 @@
   "jcr:primaryType":"nt:unstructured",
   "list": {
     "sling:resourceType":"wnews/block/article-list",
+    "state-of-the-forest": {
+      "sling:resourceType":"wnews/block/article",
+      "date": "2016-07-14",
+      "title": "State of the forest raises concern",
+      "pars": [
+        "A very disappointing discovery in the State forest near Whroo of some of the area’s iconic Grass Trees which have been destroyed through an act of environmental vandalism. The species is known for its slow growth rate and stunning form as it inhabits the forest floor in clusters and provides habitat for grounddwelling species such as the wallaby. Neil Laurie was recently embarrassed by the state of the forest when showing visitors around."
+      ],
+      "comments": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "chief-celebrates": {
+      "sling:resourceType":"wnews/block/article",
+      "date": "2016-06-30",
+      "title": "Chief celebrates 90 years",
+      "pars": [
+        "Ninety years, twenty grandchildren and twenty five great-grandchildren can only be classed as a great achievement. On Sunday 12 June, Chief (Jeff) Perry celebrated his 90th birthday with over a hundred family and friends at the Rushworth Football and Netball Clubrooms.",
+        "While the formal event was held on the Sunday afternoon, the celebration was enjoyed over several days.",
+        "Chief likes nothing better than to have family around him and in particular he loves his grandchildren visiting. During the long weekend Chief’s home was filled with family and he thoroughly enjoyed sitting round the camp fire and joining in the singing and sharing of yarns.",
+        "Chief particularly enjoyed spending time with family members who travelled from afar for the celebrations and their efforts to travel were greatly appreciated. Chief was also surprised by the Rushworth Brass Band which attended the Sunday venue and played Happy Birthday, as well as a number of other pieces. Chief has been associated with the Band for many years and their attendance brought him much pleasure."
+      ],
+      "published": true
+    },
     "editor-awarded-order-of-australia-medal": {
       "sling:resourceType":"wnews/block/article",
       "feature": true,
@@ -68,6 +91,42 @@
         "Members of Rushworth Fire Brigade quickly initiated a cleanup operation, and were soon assisted by a front-end loader and driver from a nearby construction crew, and a local motorist who arrived with a chainsaw (lower right).",
         "A VicRoads crew also arrived on scene, and the cleared road was finally given a final wash-down by the tanker’s powerful front monitor. The highway was reopened within a half hour, and traffic was soon moving once again",
         "It was a great team effort by all of those involved."
+      ],
+      "published": true
+    },
+    "save-local-pools": {
+      "sling:resourceType":"wnews/block/article",
+      "date": "2016-05-05",
+      "title": "Move to save local pools",
+      "pars": [
+        "Small town communities in the Shire of Campaspe have come out in force to save their much-loved community facility, their local swimming pool, from being decomissioned.",
+        "While Council claims the proposed changes are necessary cost-cutting measures, and that limited resources must be used to provide services to the greatest number of people, small town residents feel their own community needs are as important as the bigger centres and are at present being overlooked."
+      ],
+      "published": true
+    },
+    "trees-last-stand": {
+      "sling:resourceType":"wnews/block/article",
+      "date": "2016-03-10",
+      "title": "Trees last stand",
+      "pars": [
+        "Despite the best efforts of the Rushworth Action Group for the Environment (RAGE) and its many supporters, roadworks have commenced this week that will see 91 trees removed from the RushworthTatura Road entrance to town.",
+        "However, all was not lost in the the RAGE campaign to protect Rushworth’s old-growth roadside trees, with 65 of those originally slated for removal now being retained.",
+        "Other compromises reached in negotiations with VicRoads include reduction in the speed limit from 100kph to 80kph for an extended distance along the winding road and reduction in the extent of the use of wire rope and steel guard railing.",
+        "In addition, all of the timber from the felled trees will be retained in the town for the use of the community."
+      ],
+      "published": true
+    },
+    "a-legendairy-winner": {
+      "sling:resourceType":"wnews/block/article",
+      "title": "A Legendairy Australia Day winner",
+      "date": "2015-01-28",
+      "media": "s3./wnews/gallery/wnews20160128P01-188x188.jpeg",
+      "pars": [
+        "Members of the Stanhope & District Development Committee (S&DDC) were delighted to learn their nomination, Andrew Hipwell, was declared Citizen of the Year in the Rushworth District and also Citizen of the Year across the Shire of Campaspe.",
+        "The S&DDC considered Andrew to be a very worthy recipient of the awards, following his efforts of the past few years, in bringing a great deal of awareness of Stanhope across Victoria and Australia.",
+        "His work with the young people of the Stanhope District, through his and their involvement and participation with Auskick, has been greatly appreciated by many parents.",
+        "However, his involvement with all the Stanhope community in playing a major role, together with others, by successfully nominating Stanhope for recognition as “The Legendairy Capital of Australia “ has been outstanding and strengthened the resolve of the S&DDC in nominating Andrew for the award.",
+        "Secretary of the S&DDC, Bob Holschier, said members were absolutely delighted to see that Andrew has been fittingly recognised for his tremendous work during the past few years. Mr Holschier stated, “We were very encouraged with putting forward Andrew’s nomination, when we received so many supporting letters from the various organisations Andrew was involved with, that brought so much recognition Australia - wide to Stanhope”. These supporting letters came from Dairy Australia, Fonterra, AFL, Murray Goulburn region, the Stanhope Primary School and parents of children involved with Auskick."
       ],
       "published": true
     },
