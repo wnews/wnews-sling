@@ -12,7 +12,7 @@ buildscript {
     }
     dependencies {
         classpath 'org.figurate:gradle-bundle-plugin:1.0.1-feature-codenarc-analysis-SNAPSHOT'
-        classpath 'org._10ne.gradle:rest-gradle-plugin:0.4.1', 'org.apache.httpcomponents:httpmime:4.3.6'
+        classpath 'org._10ne.gradle:rest-gradle-plugin:0.4.2', 'org.apache.httpcomponents:httpmime:4.3.6'
     }
 }
 
