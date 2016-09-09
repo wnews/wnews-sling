@@ -4,7 +4,19 @@
   "jcr:primaryType":"nt:unstructured",
   "list": {
     "sling:resourceType":"wnews/block/article-list",
-    "wildflower-hunt" {
+    "fire-destroys-homestead": {
+      "sling:resourceType":"wnews/block/article",
+      "date": "2016-09-08",
+      "title": "Fire destroys Rushworth homestead",
+      "pars": [
+        "When firefighters from Rushworth and Stanhope Brigades were paged out to a structure fire in Parramatta Gully Road early on Saturday morning, first responders were stunned to find the house already “fully involved”, even though the fire had been reported promptly and fire appliances arrived within minutes of the call.",
+        "Fortunately, the occupants of the house escaped the blaze, but decades of priceless memorabilia relating to the eucalyptus factory and its succession of owners was destroyed.",
+        "The fire is likely to have been caused by a combustion heater, which can be seen in the above photo with a damaged front glass."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "wildflower-hunt": {
       "sling:resourceType":"wnews/block/article",
       "feature": true,
       "date": "2016-08-25",
