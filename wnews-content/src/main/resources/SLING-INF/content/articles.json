@@ -4,6 +4,35 @@
   "jcr:primaryType":"nt:unstructured",
   "list": {
     "sling:resourceType":"wnews/block/article-list",
+    "wildflower-hunt" {
+      "sling:resourceType":"wnews/block/article",
+      "feature": true,
+      "date": "2016-08-25",
+      "title": "Wildflower hunt this weekend",
+      "pars": [
+        "The sun is starting to shine again and it’s time to welcome in the new season by unlocking Rushworth’s hidden treasures at the second annual Wildflower Hunt.",
+        "Explore the vast array of native wildflowers in the Rushworth Ironbark Forest on Sunday 28 August at 10am meeting at the Rushworth Cemetery.",
+        "Participants can explore the forest following a set 6km route with some side routes for the more adventurous. An array of wildflowers will be in bloom, such as downy grevillea, flax lilies, autumn greenhoods, correas, grey everlastings, brachyscome and much more. In addition to wildflowers there will be birds and other wildlife to see as well as historic sites and relics from the gold mining days.",
+        "Included in this year’s Wildflower Hunt is the option of taking a guided botanical walk or a guided bird walk along the route given by local experts in the Rushworth Ironbark Forest. Also offered will be a self guided tour of the Rushworth cemetery which is the start and end point of the walk, showcasing some of the stories behind the people buried there."
+      ],
+      "comments": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "new-easter-festival-committee": {
+      "sling:resourceType":"wnews/block/article",
+      "date": "2016-08-11",
+      "title": "New Committee steps up for Easter Festival",
+      "pars": [
+        "Rushworth’s popular Easter Festival is set to go ahead for 2017 with the election of a new Festival Committee and Parade Coordinator.",
+        "Following the Rushworth Easter Festival Inc AGM in July which failed to elect a new committee, a public meeting was held on Monday evening, with a view to either electing a new committee or winding up the incorprated body.",
+        "The full house (about forty people) indicated there was plenty of interest in keeping the festival alive and, after an intially slow start, a new committee came forward to takeover the reigns.",
+        "The meeting was unanimous in expressing congratulations and gratitude to the previous committee members, many of whom had been the driving force behind the Easter Festival since its beginning."
+      ],
+      "comments": "disabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
     "state-of-the-forest": {
       "sling:resourceType":"wnews/block/article",
       "date": "2016-07-14",
