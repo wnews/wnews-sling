@@ -6,6 +6,27 @@
     "sling:resourceType":"wnews/block/front-page-list",
     "2016-07-14": {
       "sling:resourceType": "wnews/block/front-page",
+      "title": "September 8, 2016",
+      "media": "s3./wnews/past-issues/wnews20160908P01.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2016-08-25": {
+      "sling:resourceType": "wnews/block/front-page",
+      "title": "August 25, 2016",
+      "media": "s3./wnews/past-issues/wnews20160825P01.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2016-08-11": {
+      "sling:resourceType": "wnews/block/front-page",
+      "title": "August 11, 2016",
+      "media": "s3./wnews/past-issues/wnews20160811P01.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2016-07-14": {
+      "sling:resourceType": "wnews/block/front-page",
       "title": "July 14, 2016",
       "media": "s3./wnews/past-issues/wnews20160714P01.jpeg",
       "comments": "enabled",
