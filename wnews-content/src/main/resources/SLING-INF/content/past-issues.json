@@ -9,10 +9,38 @@
       "pageSize": 24,
       "total": 46
     },
+    "2016-09-08": {
+      "sling:resourceType": "wnews/block/front-page",
+      "title": "September 8, 2016",
+      "media": "s3./wnews/past-issues/wnews20160908P01.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2016-08-25": {
+      "sling:resourceType": "wnews/block/front-page",
+      "title": "August 25, 2016",
+      "media": "s3./wnews/past-issues/wnews20160825P01.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2016-08-11": {
+      "sling:resourceType": "wnews/block/front-page",
+      "title": "August 11, 2016",
+      "media": "s3./wnews/past-issues/wnews20160811P01.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
     "2016-07-14": {
       "sling:resourceType": "wnews/block/front-page",
       "title": "July 14, 2016",
       "media": "s3./wnews/past-issues/wnews20160714P01.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2016-06-30": {
+      "sling:resourceType": "wnews/block/front-page",
+      "title": "June 30, 2016",
+      "media": "s3./wnews/past-issues/2016/07/wnews20160630P01.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -62,6 +90,83 @@
       "sling:resourceType": "wnews/block/front-page",
       "title": "February 24, 2016",
       "media": "s3./wnews/past-issues/wnews20160224P01.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2016-02-11": {
+      "sling:resourceType": "wnews/block/front-page",
+      "title": "February 11, 2016",
+      "media": "s3./wnews/past-issues/2016/02/wnews20160211P01.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2016-01-28": {
+      "sling:resourceType": "wnews/block/front-page",
+      "title": "January 28, 2016",
+      "media": "s3./wnews/past-issues/2016/02/wnews20160128P01.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2015-11-12": {
+      "sling:resourceType": "wnews/block/front-page",
+      "title": "November 12, 2015",
+      "media": "s3./wnews/past-issues/2015/11/wnews20151112P01.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2015-10-29": {
+      "sling:resourceType": "wnews/block/front-page",
+      "title": "October 29, 2015",
+      "media": "s3./wnews/past-issues/2015/11/wnews20151029P01.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2015-10-15": {
+      "sling:resourceType": "wnews/block/front-page",
+      "title": "October 15, 2015",
+      "media": "s3./wnews/past-issues/2015/10/wnews20151015P01.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2015-10-01": {
+      "sling:resourceType": "wnews/block/front-page",
+      "title": "October 1, 2015",
+      "media": "s3./wnews/past-issues/2015/10/wnews20151001P01.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2015-08-20": {
+      "sling:resourceType": "wnews/block/front-page",
+      "title": "August 20, 2015",
+      "media": "s3./wnews/past-issues/2015/10/wnews20150820P01.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2015-08-06": {
+      "sling:resourceType": "wnews/block/front-page",
+      "title": "August 6, 2015",
+      "media": "s3./wnews/past-issues/2015/10/wnews20150806P01.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2015-07-09": {
+      "sling:resourceType": "wnews/block/front-page",
+      "title": "July 9, 2015",
+      "media": "s3./wnews/past-issues/2015/10/wnews20150709P01.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2015-06-25": {
+      "sling:resourceType": "wnews/block/front-page",
+      "title": "June 25, 2015",
+      "media": "s3./wnews/past-issues/2015/10/wnews20150625P01.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2015-06-11": {
+      "sling:resourceType": "wnews/block/front-page",
+      "title": "June 11, 2015",
+      "media": "s3./wnews/past-issues/2015/10/wnews20150611P01.jpeg",
       "comments": "enabled",
       "published": true
     },
