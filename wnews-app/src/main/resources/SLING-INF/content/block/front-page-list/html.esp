@@ -1,7 +1,6 @@
 <div class="block-list">
     <div class="row">
         <%
-            var count = 0;
             var offset = 0;
             var limit = Number.MAX_SAFE_INTEGER;
 
@@ -14,7 +13,8 @@
                     limit = parseInt(suffix[0]);
                 }
             }
-
+            
+            var count = offset;
             for(var i in currentNode) {
                 if (currentNode[i]['sling:resourceType'] == "wnews/block/front-page"
                     && currentNode[i].published == true && --offset < 0) {
