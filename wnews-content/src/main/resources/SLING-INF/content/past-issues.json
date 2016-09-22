@@ -6,7 +6,7 @@
     "sling:resourceType":"wnews/block/front-page-list",
     "paging": {
       "sling:resourceType":"wnews/block/paging",
-      "pageSize": 24,
+      "pageSize": 16,
       "total": 46
     },
     "2016-09-08": {
