@@ -5,7 +5,7 @@
   "list": {
     "sling:resourceType":"wnews/block/front-page-list",
     "paging": {
-      "sling:resourceType":"wnews/block/paging",
+      "sling:resourceType":"wp/block/paging",
       "pageSize": 16,
       "total": 60
     },
