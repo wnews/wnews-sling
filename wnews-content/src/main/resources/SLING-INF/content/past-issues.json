@@ -4,6 +4,11 @@
   "jcr:primaryType":"nt:unstructured",
   "list": {
     "sling:resourceType":"wnews/block/front-page-list",
+    "paging": {
+      "sling:resourceType":"wnews/block/paging",
+      "pageSize": 24,
+      "total": 46
+    },
     "2016-07-14": {
       "sling:resourceType": "wnews/block/front-page",
       "title": "July 14, 2016",

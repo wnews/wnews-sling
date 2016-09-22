@@ -42,6 +42,10 @@
             if (currentNode.list) {
               var suffix = request.requestPathInfo.suffix ? request.requestPathInfo.suffix : "";
               sling.include(currentNode + "/list.html" + suffix);
+              if (currentNode.list.paging) {
+                var currentPage = request.getRequestParameter("p");
+                sling.include(currentNode + "/list/paging." + currentPage + ".html" + currentNode);
+              }
             }
           %>
         </div>
