@@ -1,11 +1,22 @@
 <div class="block-list">
     <%
-        var count = 0;
-        var limit = request.requestPathInfo.suffix ? parseInt(request.requestPathInfo.suffix.substring(1)) : Number.MAX_SAFE_INTEGER;
+        var offset = 0;
+        var limit = Number.MAX_SAFE_INTEGER;
 
+        if (request.requestPathInfo.suffix) {
+            var suffix = request.requestPathInfo.suffix.substring(1).split("-")
+            if (suffix.length > 1) {
+                offset = parseInt(suffix[0]);
+                limit = parseInt(suffix[1]);
+            } else {
+                limit = parseInt(suffix[0]);
+            }
+        }
+        
+        var count = offset;
         for(var i in currentNode) {
             if (currentNode[i]['sling:resourceType'] == "wnews/block/article"
-                && currentNode[i].published == true) {
+                && currentNode[i].published == true && --offset < 0) {
 
                 sling.include(currentNode[i].path + ".summary.fullwidth.html");
 

@@ -1,11 +1,21 @@
     <%
-        var count = 0;
-        var limit = request.requestPathInfo.suffix ? parseInt(request.requestPathInfo.suffix.substring(1)) : Number.MAX_SAFE_INTEGER;
-        log.info("Max results = " + limit);
+        var offset = 0;
+        var limit = Number.MAX_SAFE_INTEGER;
 
+        if (request.requestPathInfo.suffix) {
+            var suffix = request.requestPathInfo.suffix.substring(1).split("-")
+            if (suffix.length > 1) {
+                offset = parseInt(suffix[0]);
+                limit = parseInt(suffix[1]);
+            } else {
+                limit = parseInt(suffix[0]);
+            }
+        }
+        
+        var count = offset;
         for(var i in currentNode) {
             if (currentNode[i]['sling:resourceType'] == "wnews/block/article"
-                && !currentNode[i].feature && currentNode[i].published == true) {
+                && !currentNode[i].feature && currentNode[i].published == true && --offset < 0) {
                 sling.include(currentNode[i].path + ".summary.html");
 
                 if (++count % 2 == 0) out.write("<div class=\"clearfix visible-md visible-lg\"></div>");

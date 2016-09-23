@@ -4,6 +4,11 @@
   "jcr:primaryType":"nt:unstructured",
   "list": {
     "sling:resourceType":"wnews/block/article-list",
+    "paging": {
+      "sling:resourceType":"wp/block/paging",
+      "pageSize": 6,
+      "total": 15
+    },
     "fire-destroys-homestead": {
       "sling:resourceType":"wnews/block/article",
       "date": "2016-09-08",
