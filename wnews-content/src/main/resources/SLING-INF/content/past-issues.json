@@ -5,9 +5,9 @@
   "list": {
     "sling:resourceType":"wnews/block/front-page-list",
     "paging": {
-      "sling:resourceType":"wnews/block/paging",
-      "pageSize": 24,
-      "total": 46
+      "sling:resourceType":"wp/block/paging",
+      "pageSize": 16,
+      "total": 66
     },
     "2016-09-08": {
       "sling:resourceType": "wnews/block/front-page",
@@ -205,6 +205,27 @@
       "comments": "enabled",
       "published": true
     },
+    "2015-03-19": {
+      "sling:resourceType": "wnews/block/front-page",
+      "title": "March 19, 2015",
+      "media": "s3./wnews/past-issues/2015/03/wnews20150319P01.jpg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2015-03-05": {
+      "sling:resourceType": "wnews/block/front-page",
+      "title": "March 5, 2015",
+      "media": "s3./wnews/past-issues/2015/03/wnews20150305P01.jpg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2015-02-19": {
+      "sling:resourceType": "wnews/block/front-page",
+      "title": "February 19, 2015",
+      "media": "s3./wnews/past-issues/2015/03/wnews20150219p01.jpg",
+      "comments": "enabled",
+      "published": true
+    },
     "2015-02-05": {
       "sling:resourceType": "wnews/block/front-page",
       "title": "February 5, 2015",
@@ -272,6 +293,27 @@
       "sling:resourceType": "wnews/block/front-page",
       "title": "August 21, 2014",
       "media": "s3./wnews/past-issues/wnews20140821P01.jpg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2014-08-07": {
+      "sling:resourceType": "wnews/block/front-page",
+      "title": "August 7, 2014",
+      "media": "s3./wnews/past-issues/2014/08/wnews20140807p01.jpg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2014-07-24": {
+      "sling:resourceType": "wnews/block/front-page",
+      "title": "July 24, 2014",
+      "media": "s3./wnews/past-issues/2014/08/wnews20140724P01.jpg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2014-07-10": {
+      "sling:resourceType": "wnews/block/front-page",
+      "title": "July 10, 2014",
+      "media": "s3./wnews/past-issues/2014/07/wnews20140710P01.jpg",
       "comments": "enabled",
       "published": true
     },

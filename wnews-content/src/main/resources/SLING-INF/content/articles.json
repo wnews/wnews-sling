@@ -4,10 +4,16 @@
   "jcr:primaryType":"nt:unstructured",
   "list": {
     "sling:resourceType":"wnews/block/article-list",
+    "paging": {
+      "sling:resourceType":"wp/block/paging",
+      "pageSize": 6,
+      "total": 15
+    },
     "fire-destroys-homestead": {
       "sling:resourceType":"wnews/block/article",
       "date": "2016-09-08",
       "title": "Fire destroys Rushworth homestead",
+      "media": "s3./wnews/gallery/2016/09/wnews20160908P01-002.png",
       "pars": [
         "When firefighters from Rushworth and Stanhope Brigades were paged out to a structure fire in Parramatta Gully Road early on Saturday morning, first responders were stunned to find the house already “fully involved”, even though the fire had been reported promptly and fire appliances arrived within minutes of the call.",
         "Fortunately, the occupants of the house escaped the blaze, but decades of priceless memorabilia relating to the eucalyptus factory and its succession of owners was destroyed.",
@@ -21,6 +27,7 @@
       "feature": true,
       "date": "2016-08-25",
       "title": "Wildflower hunt this weekend",
+      "media": "s3./wnews/gallery/2016/08/wnews20160825P01-000.png",
       "pars": [
         "The sun is starting to shine again and it’s time to welcome in the new season by unlocking Rushworth’s hidden treasures at the second annual Wildflower Hunt.",
         "Explore the vast array of native wildflowers in the Rushworth Ironbark Forest on Sunday 28 August at 10am meeting at the Rushworth Cemetery.",
@@ -35,6 +42,7 @@
       "sling:resourceType":"wnews/block/article",
       "date": "2016-08-11",
       "title": "New Committee steps up for Easter Festival",
+      "media": "s3./wnews/gallery/2016/08/wnews20160811P01-001.png",
       "pars": [
         "Rushworth’s popular Easter Festival is set to go ahead for 2017 with the election of a new Festival Committee and Parade Coordinator.",
         "Following the Rushworth Easter Festival Inc AGM in July which failed to elect a new committee, a public meeting was held on Monday evening, with a view to either electing a new committee or winding up the incorprated body.",
@@ -49,6 +57,7 @@
       "sling:resourceType":"wnews/block/article",
       "date": "2016-07-14",
       "title": "State of the forest raises concern",
+      "media": "s3./wnews/gallery/2016/07/wnews20160714P01-001.png",
       "pars": [
         "A very disappointing discovery in the State forest near Whroo of some of the area’s iconic Grass Trees which have been destroyed through an act of environmental vandalism. The species is known for its slow growth rate and stunning form as it inhabits the forest floor in clusters and provides habitat for grounddwelling species such as the wallaby. Neil Laurie was recently embarrassed by the state of the forest when showing visitors around."
       ],
