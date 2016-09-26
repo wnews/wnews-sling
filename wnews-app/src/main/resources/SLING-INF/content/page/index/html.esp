@@ -21,6 +21,8 @@
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <link href="/libs/wp-bootstrap/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
 
+    <link href="https://fonts.googleapis.com/css?family=Droid+Serif" rel="stylesheet"/>
+
     <!-- Custom styles for this template -->
     <link href="/apps/wnews/css/style.css" rel="stylesheet">
     <link href="/apps/wnews/css/grid.css" rel="stylesheet">
