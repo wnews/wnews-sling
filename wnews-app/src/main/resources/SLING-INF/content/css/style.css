@@ -84,7 +84,7 @@ a.page-section {
     visibility: hidden;
 }
 
-block-title {
+.block-title {
     font-family: verdana, sans-serif;
     font-weight: bold;
 }
