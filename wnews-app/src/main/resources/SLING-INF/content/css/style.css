@@ -84,6 +84,11 @@ a.page-section {
     visibility: hidden;
 }
 
+block-title {
+    font-family: verdana, sans-serif;
+    font-weight: bold;
+}
+
 footer {
     text-align: center;
 }
