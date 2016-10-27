@@ -29,26 +29,14 @@ subprojects {
     }
     tasks.processResources.dependsOn mkClassesDir
 
-    task deployBundle(type: org._10ne.gradle.rest.RestTask) {
-        client.encoder.putAt('multipart/form-data', { body ->
-            MultipartEntityBuilder multipartRequestEntity = MultipartEntityBuilder.create()
-            body.each { part ->
-                if (part.value instanceof File) {
-                    multipartRequestEntity.addBinaryBody(part.key, part.value).build()
-                } else {
-                    multipartRequestEntity.addTextBody(part.key, part.value).build()
-                }
-            }
-            multipartRequestEntity.build()
-        })
-
-        httpMethod = 'post'
-        contentType = 'multipart/form-data'
+    task deployBundle(type: org.figurate.gradle.plugin.bundle.BundleInstallTask) {
         uri = "http://$sling_host:$sling_port/system/console/bundles"
         username = sling_username
         password = sling_password
-        requestBody = [action: 'install', bundlestartlevel: '20', bundlefile: file("$buildDir/libs/$jar.archiveName")]
-        requestHeaders = ['User-Agent': project.name, 'Cache-Control': 'no-cache']
+        bundlestart = true
+        bundlestartlevel = 20
+        bundlefile = file("$buildDir/libs/$jar.archiveName")
+        userAgent = project.name
     }
 
     task startBundle << {
