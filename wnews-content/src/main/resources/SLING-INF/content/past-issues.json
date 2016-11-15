@@ -7,7 +7,28 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 16,
-      "total": 66
+      "total": 69
+    },
+    "2016-11-03": {
+      "sling:resourceType": "wnews/block/front-page",
+      "title": "November 3, 2016",
+      "media": "s3./wnews/past-issues/2016/11/wnews20161103P01.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2016-10-20": {
+      "sling:resourceType": "wnews/block/front-page",
+      "title": "October 20, 2016",
+      "media": "s3./wnews/past-issues/2016/10/wnews20161020P01.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2016-09-22": {
+      "sling:resourceType": "wnews/block/front-page",
+      "title": "September 22, 2016",
+      "media": "s3./wnews/past-issues/2016/09/wnews20160922P01.jpeg",
+      "comments": "enabled",
+      "published": true
     },
     "2016-09-08": {
       "sling:resourceType": "wnews/block/front-page",
