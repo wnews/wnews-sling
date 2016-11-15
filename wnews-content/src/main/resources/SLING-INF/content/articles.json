@@ -7,7 +7,77 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 6,
-      "total": 15
+      "total": 19
+    },
+    "a-fresh-approach": {
+      "sling:resourceType":"wnews/block/article",
+      "date": "2016-11-03",
+      "title": "A fresh approach",
+      "media": "s3./wnews/gallery/2016/11/20161103-1.jpg",
+      "pars": [
+        "Rushworth Garden Festival, spread over two weekends this year, was once again a great success. The Garden Expo on the second weekend was a vibrant collection of plant stalls, handmade craft, garden produce, live music and guest speakers. The community joyfully embraced the new concept and an atmosphere of sharing and promise for the future resonated throughout the village green. Organisers are to be applauded for their initiative and the above image of the P-12 kitchen garden produce emulates this fresh approach."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "council-elections-see-some-new-faces": {
+      "sling:resourceType":"wnews/block/article",
+      "date": "2016-11-03",
+      "title": "Council elections see some new faces",
+      "pars": [
+        "<strong>Council election results have been declared in much of the State, with Campaspe Shire Council results officially announced on Monday morning (31 October). Four new councillors have been elected, three in the Echuca Ward and one in Kyabram.</strong>",
+        "The nine successful candidates representing the five wards for the Campaspe Shire Council are:",
+        "<strong>Echuca Ward:</strong> Annie Vickers, Daniel Mackrell, Kristen Munro",
+        "<strong>Kyabram Deakin Ward:</strong> Neil Pankhurst, Vicki Neele, John Zobec",
+        "<strong>Rochester Ward:</strong> Leigh Wilson",
+        "<strong>Western Ward:</strong> Leanne Pentreath",
+        "<strong>Waranga Ward:</strong> Adrian Weston",
+        "Chief Executive Officer, Jason Russell, congratulated the successful candidates and thanked retiring and outgoing councillors for their service.",
+        "“We have a new council with a good blend of experienced and new councillors and with four female councillors, the highest representation of females we have had on council to date.”",
+        "Waranga Ward Councillor Adrian Weston also noted the improved gender balance which was reflected across the State.",
+        "“It’s good to see four women elected to Council and four new councillors. I’m looking forward to some new and fresh thinking and am feeling positive about the potential for this new group of councillors to achieve some good community outcomes during the next four years,” he said.",
+        "The statutory meeting, where councillors will take the Oath of Office, sign the Code of Conduct and officially elect the Mayor, will be held on Tuesday, 8 November at 5pm."
+      ],
+      "comments": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "huge-stanhope-weekend": {
+      "sling:resourceType":"wnews/block/article",
+      "date": "2016-10-20,
+      "title": "Huge Stanhope weekend",
+      "media": "s3./wnews/gallery/2016/10/20161020-1.jpg",
+      "pars": [
+        "<strong>Hundreds turn out to celebrate Stanhope School’s 100 years.</strong>",
+        "Hundreds of visitors, many former residents of Stanhope, came back to town last weekend to celebrate the centenary of their old school.",
+        "The celebrations commenced on Friday with the local school children, their parents and friends, launching one hundred balloons to celebrate the one hundred years life of the school (pictured above).",
+        "Many visiting former students and staff inspected the school during the afternoon, along with all its modern facilities.",
+        "Saturday was the main day of celebrations, with more than 300 people attending the school to inspect the facilities, together with a photo display of students from years gone by, but most importantly, to catch up with former friends and mates from their school days, some more recent, but most from many years ago. There were many memories revived and stories told of years gone by (mostly true, but some perhaps a little exaggerated).",
+        "The afternoon concluded with photos being taken of groups of former students, representing the ten decades of the school.",
+        "Following such a successful day, the dinner in the Stanhope Community Hall was just as successful, with more than one hundred attending. Once again stories from the past were related by some of the very senior students, including Mr David Bell, the oldest living former student, now in his mid nineties. The members of the organising committee were rightly ecstatic with the highly successful weekend."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "mini-market-another-great-success": {
+      "sling:resourceType":"wnews/block/article",
+      "feature": true,
+      "date": "2016-09-22",
+      "title": "P12 Mini Market another great success… YEP it was!",
+      "media": "s3./wnews/gallery/2016/09/20160922-1.jpg",
+      "pars": [
+        "<strong>What a great community we live in!</strong>",
+        "Staff and students were thrilled with the recent support from the community regarding their Mini Market on Wednesday 7 September.",
+        "The Year 4/5/6 students and Year 9/10 YEP students had worked tirelessly since the last market to bring their customers some new, improved experiences.",
+        "The barista’s were busy honing their skills, the pizza boys did a mammoth job not only cooking pizza’s for those who attended the Market, but for the majority of students who had ordered one or more for lunch that day! The ‘craft’ teams had been busy making ‘things’. Who would have guessed those ‘cookies in a jar’ would be such a HOT item?",
+        "This group of willing workers raised over $700, the best one ever!",
+        "They say there is no rest for the wicked and these groups of students (who are a long way from wicked), have already begun planning for the two final events of 2016.",
+        "The students are excited to be joining in the festivities of the Rushworth Spring Garden Festival Fair on Saturday 29 October - 10am until 2pm. They will have a stall promoting the Stephanie Alexander Kitchen Garden as well as a range of ‘garden inspired’ goods for sale!",
+        "They will also hold another Mini Market at the College in November, with a Christmas theme, the date of which will be established early next term."
+        "Thank you again to everyone who supported this event. The students hope to see you all again at their next two events."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true
     },
     "fire-destroys-homestead": {
       "sling:resourceType":"wnews/block/article",
