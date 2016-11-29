@@ -51,7 +51,24 @@
         </div>
       </div>
 
-      <% sling.include("include/navigation.html"); %>
+      <div class="row">
+        <div class="col-md-3">
+            <p class="block-title">Past issues</p>
+            <% sling.include("past-issues/list.text.html/5"); %>
+        </div>
+        <div class="col-md-3">
+          <p class="block-title">Regional news</p>
+          <% sling.include("regional-news.html/5"); %>
+        </div>
+        <div class="col-md-3">
+          <p class="block-title">Related sites</p>
+            <% sling.include("related-sites/list.text.html/5"); %>
+        </div>
+        <div class="col-md-3">
+          <p class="block-title">Weather</p>
+          <% sling.include("weather.html"); %>
+        </div>
+      </div>
     </div> <!-- /container -->
 
     <% sling.include("footer.html"); %>
