@@ -1,5 +1,5 @@
 <div class="block-list wnews-list-ads">
-    <h4>[Advertisement]</h4>
+    <h4 style="padding-left:30px;">[Advertisement]</h4>
 
     <%
         var count = 0;
