@@ -57,7 +57,7 @@
       </div>
 
       <div class="row">
-        <div class="col-md-3">
+        <div class="col-md-2">
             <p class="block-title">Past issues</p>
             <% sling.include("past-issues/list.text.html/5"); %>
         </div>
