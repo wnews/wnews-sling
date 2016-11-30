@@ -7,7 +7,7 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 6,
-      "total": 19
+      "total": 18
     },
     "a-fresh-approach": {
       "sling:resourceType":"wnews/block/article",
