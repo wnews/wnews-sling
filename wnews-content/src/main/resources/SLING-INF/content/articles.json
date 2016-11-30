@@ -44,6 +44,7 @@
     },
     "huge-stanhope-weekend": {
       "sling:resourceType":"wnews/block/article",
+      "feature": true,
       "date": "2016-10-20",
       "title": "Huge Stanhope weekend",
       "media": "s3./wnews/gallery/2016/10/20161020-1.jpg",
