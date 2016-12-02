@@ -8,6 +8,6 @@
     "jcr:primaryType":"nt:unstructured",
     "title": "Accommodation",
     "href": "/content/wnews/accommodation.html",
-    "blockHtml": "<img src=\"/wp/media/library/wnews/waranga-accommodation.png\"/>"
+    "blockHtml": "<img src=\"/wp/media/s3./wnews/waranga-accommodation.png\"/>"
   }
 }
