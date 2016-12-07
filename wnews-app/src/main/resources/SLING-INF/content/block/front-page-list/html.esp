@@ -19,7 +19,7 @@
                 if (currentNode[i]['sling:resourceType'] == "wnews/block/front-page"
                     && currentNode[i].published == true && --offset < 0) {
 
-                    out.print('<div class="col-xs-6 col-md-3">');
+                    out.print('<div class="col-xs-6 col-md-4">');
                     sling.include(currentNode[i].path + ".preview.html");
                     out.print("</div>");
 
