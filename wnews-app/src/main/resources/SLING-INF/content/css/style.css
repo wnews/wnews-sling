@@ -61,6 +61,10 @@ body {
     padding-bottom: 15px;
 }
 
+.wnews-article a:hover {
+    background-color: #fcfcfc;
+}
+
 .feature-article h3 {
     margin-top: 10px;
 }
