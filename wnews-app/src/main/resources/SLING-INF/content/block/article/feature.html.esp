@@ -1,4 +1,4 @@
-            <div class="col-md-12 feature-article wnews-article">
+            <div class="col-md-12 feature-article article-link wnews-article">
                 <h3><%= currentNode.title %></h3>
                 <p class="date-published"><%= currentNode.date %></p>
                 <% if (currentNode.media) { %>
