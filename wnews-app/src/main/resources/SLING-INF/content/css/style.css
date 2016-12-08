@@ -61,11 +61,11 @@ body {
     padding-bottom: 15px;
 }
 
-.wnews-article:hover {
+.article-summary:hover {
     background-color: #fcfcfc;
 }
 
-.wnews-article span.link {
+.article-summary span.link {
   position:absolute; 
   width:100%;
   height:100%;
