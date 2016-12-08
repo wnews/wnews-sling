@@ -61,11 +61,11 @@ body {
     padding-bottom: 15px;
 }
 
-.article-summary:hover {
+.article-link:hover {
     background-color: #fcfcfc;
 }
 
-.article-summary span.link {
+.article-link span.link {
   position:absolute; 
   width:100%;
   height:100%;
