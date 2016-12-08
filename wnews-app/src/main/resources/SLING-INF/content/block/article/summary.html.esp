@@ -1,6 +1,6 @@
             <div class="col-md-6 wnews-article">
-                <a href="/article.html<%= currentNode %>"><span class="link"></span></a>
                 <h4><%= currentNode.title %></h4>
                 <p class="date-published"><%= currentNode.date %></p>
                 <% out.write("<p>" + currentNode.pars[0] + "</p>"); %>
+                <a href="/article.html<%= currentNode %>"><span class="link"></span></a>
             </div>
