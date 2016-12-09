@@ -26,8 +26,8 @@
                 <li><a href="/content/wnews/contact.html#colour">Full Colour</a></li>
               </ul>
             </li>
-            <li><a href="https://twitter.com/WarangaNews" target="_blank" alt="Follow on Twitter"><span class="fa fa-twitter" style="font-size:1.5em;"></span></a></li>
-            <li><a href="https://facebook.com/WarangaNews" target="_blank" alt="Connect on Facebook"><span class="fa fa-facebook-square" style="font-size:1.5em;"></span></a></li>
+            <li><a href="https://twitter.com/WarangaNews" target="_blank" alt="Follow on Twitter"><span class="fa fa-twitter" style="font-size:1.2em;"></span></a></li>
+            <li><a href="https://facebook.com/WarangaNews" target="_blank" alt="Connect on Facebook"><span class="fa fa-facebook-square" style="font-size:1.2em;"></span></a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
