@@ -26,7 +26,7 @@
       "sling:resourceType":"wnews/block/section",
       "title": "Advertising",
       "pars": [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non elit ac dui viverra viverra. Praesent ut accumsan elit, porttitor vulputate ante. Suspendisse fringilla neque justo. Sed vitae purus ac orci consectetur ullamcorper. Maecenas consectetur ac magna ut pellentesque. Fusce mattis risus vitae dolor dictum, quis suscipit libero iaculis. Nunc sapien turpis, ultricies non nisl vel, placerat sagittis mauris. Integer sodales sodales dignissim. Sed id mauris elementum, euismod ex sit amet, malesuada turpis. Vivamus facilisis sed urna a cursus. Proin vitae nisi leo. Curabitur eu libero pulvinar, varius augue nec, iaculis dolor. Etiam faucibus ipsum sit amet porttitor efficitur. Sed consectetur lorem ut eros pulvinar efficitur."
+        "Advertising rates are subject to change, so please contact us for the latest pricing and website advertising options."
       ],
       "sections": {
         "sling:resourceType": "wnews/block/section-list",
