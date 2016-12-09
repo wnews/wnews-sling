@@ -1,5 +1,5 @@
 {
-  "title":"About - Waranga News",
+  "title":"Waranga News | About Us",
   "sling:resourceType":"wnews/page/default",
   "jcr:primaryType":"nt:unstructured",
   "sections": {

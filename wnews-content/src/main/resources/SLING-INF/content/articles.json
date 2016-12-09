@@ -1,5 +1,5 @@
 {
-  "title":"Articles - Waranga News",
+  "title":"Waranga News | Articles",
   "sling:resourceType":"wnews/page/list",
   "jcr:primaryType":"nt:unstructured",
   "list": {

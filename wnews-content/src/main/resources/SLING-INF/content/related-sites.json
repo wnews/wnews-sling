@@ -1,5 +1,5 @@
 {
-  "title":"Related Sites - Waranga News",
+  "title":"Waranga News | Related Sites",
   "sling:resourceType":"wnews/page/list",
   "jcr:primaryType":"nt:unstructured",
   "list": {

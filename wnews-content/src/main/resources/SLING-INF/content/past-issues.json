@@ -1,5 +1,5 @@
 {
-  "title":"Past Issues - Waranga News",
+  "title":"Waranga News | Past Issues",
   "sling:resourceType":"wnews/page/list",
   "jcr:primaryType":"nt:unstructured",
   "list": {

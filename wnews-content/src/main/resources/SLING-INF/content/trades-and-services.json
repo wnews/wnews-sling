@@ -1,5 +1,5 @@
 {
-  "title": "Trades and Services - Waranga News",
+  "title": "Waranga News | Trades and Services",
   "sling:resourceType":"wnews/page/list",
   "jcr:primaryType":"nt:unstructured",
   "list": {

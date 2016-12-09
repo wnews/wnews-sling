@@ -1,5 +1,5 @@
 {
-  "title":"Advertisements - Waranga News",
+  "title":"Waranga News | Advertisements",
   "sling:resourceType":"wnews/page/list",
   "jcr:primaryType":"nt:unstructured",
   "list": {

@@ -1,5 +1,5 @@
 {
-  "title":"Contact - Waranga News",
+  "title":"Waranga News | Contact Us",
   "sling:resourceType":"wnews/page/default",
   "jcr:primaryType":"nt:unstructured",
   "sections": {

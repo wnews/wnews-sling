@@ -1,5 +1,5 @@
 {
-  "title":"Regional News - Waranga News",
+  "title":"Waranga News | Regional News",
   "sling:resourceType":"/libs/wp-rss/block/list",
   "jcr:primaryType":"nt:unstructured",
   "feedUrl": "http://www.abc.net.au/local/rss/shepparton/all.xml",
