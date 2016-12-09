@@ -14,8 +14,8 @@
       "jcr:primaryType":"nt:unstructured",
       "title": "History",
       "pars": [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non elit ac dui viverra viverra. Praesent ut accumsan elit, porttitor vulputate ante. Suspendisse fringilla neque justo. Sed vitae purus ac orci consectetur ullamcorper. Maecenas consectetur ac magna ut pellentesque. Fusce mattis risus vitae dolor dictum, quis suscipit libero iaculis. Nunc sapien turpis, ultricies non nisl vel, placerat sagittis mauris. Integer sodales sodales dignissim. Sed id mauris elementum, euismod ex sit amet, malesuada turpis. Vivamus facilisis sed urna a cursus. Proin vitae nisi leo. Curabitur eu libero pulvinar, varius augue nec, iaculis dolor. Etiam faucibus ipsum sit amet porttitor efficitur. Sed consectetur lorem ut eros pulvinar efficitur.",
-        "Sed eget accumsan sapien. Duis blandit eros ac sapien dictum, eu dapibus quam sodales. Nunc eget sem nulla. Sed sodales dolor eu finibus mollis. Phasellus nec enim enim. Aliquam imperdiet mi a sodales finibus. Nullam eget scelerisque lectus. Pellentesque at eleifend tortor. Cras aliquam vestibulum rutrum. Integer elementum eros sapien, a pellentesque sem efficitur sit amet. Sed maximus egestas diam et molestie. Phasellus vitae porta est."
+        "Way back in September 1978, an enthusiastic group of community-minded people who mourned the passing of the <em>Rushworth Chronicle</em> finally got their 'baby' on the road.",
+        "These days the <em>Waranga News<em> has a print run of 1100 each fortnight, including some 250 subscribers."
       ]},
     "staff": {
       "sling:resourceType":"wnews/block/section",
