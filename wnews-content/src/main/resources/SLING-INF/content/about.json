@@ -4,6 +4,11 @@
   "jcr:primaryType":"nt:unstructured",
   "sections": {
     "sling:resourceType":"wnews/block/section-list",
+    "preface": {
+      "sling:resourceType":"wnews/block/section",
+      "jcr:primaryType":"nt:unstructured",
+      "pars": ["The Waranga News is a volunteer community newspaper serving the Waranga region of northern Victoria."]
+    },
     "history": {
       "sling:resourceType":"wnews/block/section",
       "jcr:primaryType":"nt:unstructured",
