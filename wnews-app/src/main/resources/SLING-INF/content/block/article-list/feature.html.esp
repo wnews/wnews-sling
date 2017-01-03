@@ -14,9 +14,9 @@
         
         var count = offset;
         for(var i in currentNode) {
-            if (currentNode[i]['sling:resourceType'] == "wnews/block/article"
+            if (currentNode[i]['sling:resourceType'] == "wnews/page/article"
                 && currentNode[i].feature  && currentNode[i].published == true && --offset < 0) {
-                sling.include(currentNode[i].path + ".feature.html");
+                sling.include(currentNode[i].path + ".feature.html", "wnews/block/article");
 
                 /* TODO: handle limit is undefined/NaN) */
                 if (++count >= limit) break;

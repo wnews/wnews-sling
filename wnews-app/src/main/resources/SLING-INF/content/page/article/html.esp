@@ -8,8 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" href="/apps/wnews/favicon.ico">
-    <% var article = request.resourceResolver.resolve(request.requestPathInfo.suffix); %>
-    <title><%= currentNode.title %><%= article.adaptTo(javax.jcr.Node).title %></title>
+    <title>Waranga News | <%= currentNode.title %></title>
 
     <!-- Bootstrap core CSS -->
     <link href="/libs/wp-bootstrap/bower_components/bootstrap-css/bootstrap.min.css" rel="stylesheet">
@@ -35,44 +34,44 @@
   </head>
 
   <body>
-      <% sling.include("header.html/" + currentNode.name); %>
+      <% sling.include("/content/wnews/header.html/" + currentNode.name); %>
 
     <div class="container">
 
       <div class="row">
         <div class="col-md-8">
-          <% sling.include(article.path); %>
+          <% sling.include(currentNode.path, "wnews/block/article"); %>
           <%
-            if (article.adaptTo(javax.jcr.Node).comments == "enabled") {
-              sling.include("comments.disqus.html/" + article.path);
-            }
+            //if (article.adaptTo(javax.jcr.Node).comments == "enabled") {
+              sling.include("/content/wnews/comments.disqus.html/" + currentNode.path);
+            //}
           %>
         </div>
         <div class="col-md-4">
-          <% sling.include("advertisements/list.html/5"); %>
+          <% sling.include("/content/wnews/advertisements/list.html/5"); %>
         </div>
       </div>
 
       <div class="row">
         <div class="col-md-2">
             <p class="block-title">Past issues</p>
-            <% sling.include("past-issues/list.text.html/5"); %>
+            <% sling.include("/content/wnews/past-issues/list.text.html/5"); %>
         </div>
         <div class="col-md-3">
           <p class="block-title">Regional news</p>
-          <% sling.include("regional-news.html/5"); %>
+          <% sling.include("/content/wnews/regional-news.html/5"); %>
         </div>
         <div class="col-md-3">
           <p class="block-title">Related sites</p>
-            <% sling.include("related-sites/list.text.html/5"); %>
+            <% sling.include("/content/wnews/related-sites/list.text.html/5"); %>
         </div>
         <div class="col-md-3">
           <p class="block-title">Weather</p>
-          <% sling.include("weather.html"); %>
+          <% sling.include("/content/wnews/weather.html"); %>
         </div>
       </div>
     </div> <!-- /container -->
 
-    <% sling.include("footer.html"); %>
+    <% sling.include("/content/wnews/footer.html"); %>
   </body>
 </html>

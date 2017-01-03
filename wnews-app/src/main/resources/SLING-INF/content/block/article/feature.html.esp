@@ -18,5 +18,5 @@
                         sling.include(currentNode.sections.path + ".h4.html");
                     }
                 %>
-                <a href="/article.html<%= currentNode %>"><span class="link"></span></a>
+                <a href="<%= currentNode %>.html"><span class="link"></span></a>
             </div>

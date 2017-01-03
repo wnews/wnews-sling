@@ -10,7 +10,7 @@
       "total": 18
     },
     "a-fresh-approach": {
-      "sling:resourceType":"wnews/block/article",
+      "sling:resourceType":"wnews/page/article",
       "date": "2016-11-03",
       "title": "A fresh approach",
       "media": "s3./wnews/gallery/2016/11/20161103-1.jpg",
@@ -21,7 +21,7 @@
       "published": true
     },
     "council-elections-see-some-new-faces": {
-      "sling:resourceType":"wnews/block/article",
+      "sling:resourceType":"wnews/page/article",
       "date": "2016-11-03",
       "title": "Council elections see some new faces",
       "pars": [
@@ -43,7 +43,7 @@
       "published": true
     },
     "huge-stanhope-weekend": {
-      "sling:resourceType":"wnews/block/article",
+      "sling:resourceType":"wnews/page/article",
       "feature": true,
       "date": "2016-10-20",
       "title": "Huge Stanhope weekend",
@@ -61,7 +61,7 @@
       "published": true
     },
     "mini-market-another-great-success": {
-      "sling:resourceType":"wnews/block/article",
+      "sling:resourceType":"wnews/page/article",
       "feature": true,
       "date": "2016-09-22",
       "title": "P12 Mini Market another great success… YEP it was!",
@@ -81,7 +81,7 @@
       "published": true
     },
     "fire-destroys-homestead": {
-      "sling:resourceType":"wnews/block/article",
+      "sling:resourceType":"wnews/page/article",
       "date": "2016-09-08",
       "title": "Fire destroys Rushworth homestead",
       "media": "s3./wnews/gallery/2016/09/wnews20160908P01-002.png",
@@ -94,7 +94,7 @@
       "published": true
     },
     "wildflower-hunt": {
-      "sling:resourceType":"wnews/block/article",
+      "sling:resourceType":"wnews/page/article",
       "feature": true,
       "date": "2016-08-25",
       "title": "Wildflower hunt this weekend",
@@ -110,7 +110,7 @@
       "published": true
     },
     "new-easter-festival-committee": {
-      "sling:resourceType":"wnews/block/article",
+      "sling:resourceType":"wnews/page/article",
       "date": "2016-08-11",
       "title": "New Committee steps up for Easter Festival",
       "media": "s3./wnews/gallery/2016/08/wnews20160811P01-001.png",
@@ -125,7 +125,7 @@
       "published": true
     },
     "state-of-the-forest": {
-      "sling:resourceType":"wnews/block/article",
+      "sling:resourceType":"wnews/page/article",
       "date": "2016-07-14",
       "title": "State of the forest raises concern",
       "media": "s3./wnews/gallery/2016/07/wnews20160714P01-001.png",
@@ -137,7 +137,7 @@
       "published": true
     },
     "chief-celebrates": {
-      "sling:resourceType":"wnews/block/article",
+      "sling:resourceType":"wnews/page/article",
       "date": "2016-06-30",
       "title": "Chief celebrates 90 years",
       "pars": [
@@ -149,7 +149,7 @@
       "published": true
     },
     "editor-awarded-order-of-australia-medal": {
-      "sling:resourceType":"wnews/block/article",
+      "sling:resourceType":"wnews/page/article",
       "feature": true,
       "date": "2016-06-16",
       "title": "Waranga News Editor awarded Order of Australia Medal",
@@ -168,7 +168,7 @@
       "published": true
     },
     "waranga-trail-progress": {
-      "sling:resourceType":"wnews/block/article",
+      "sling:resourceType":"wnews/page/article",
       "date": "2016-06-02",
       "title": "Waranga Trail - a small step closer",
       "pars": [
@@ -191,7 +191,7 @@
       "published": true
     },
     "mavis-celebrating-102": {
-      "sling:resourceType":"wnews/block/article",
+      "sling:resourceType":"wnews/page/article",
       "date": "2016-06-02",
       "title": "Mavis celebrating 102 years",
       "media": "s3./wnews/gallery/wnews20160602P01-188x188.jpeg",
@@ -201,7 +201,7 @@
       "published": true
     },
     "freak-storm-strikes": {
-      "sling:resourceType":"wnews/block/article",
+      "sling:resourceType":"wnews/page/article",
       "date": "2016-05-19",
       "title": "Freak storm strikes Rushworth area",
       "media": "s3./wnews/gallery/wnews20160519P01-188x188.jpeg",
@@ -216,7 +216,7 @@
       "published": true
     },
     "save-local-pools": {
-      "sling:resourceType":"wnews/block/article",
+      "sling:resourceType":"wnews/page/article",
       "date": "2016-05-05",
       "title": "Move to save local pools",
       "pars": [
@@ -226,7 +226,7 @@
       "published": true
     },
     "trees-last-stand": {
-      "sling:resourceType":"wnews/block/article",
+      "sling:resourceType":"wnews/page/article",
       "date": "2016-03-10",
       "title": "Trees last stand",
       "pars": [
@@ -238,7 +238,7 @@
       "published": true
     },
     "a-legendairy-winner": {
-      "sling:resourceType":"wnews/block/article",
+      "sling:resourceType":"wnews/page/article",
       "title": "A Legendairy Australia Day winner",
       "date": "2016-01-28",
       "media": "s3./wnews/gallery/wnews20160128P01-188x188.jpeg",
@@ -252,7 +252,7 @@
       "published": true
     },
     "save-the-trees": {
-      "sling:resourceType":"wnews/block/article",
+      "sling:resourceType":"wnews/page/article",
       "title": "Community rallies to save trees",
       "date": "2015-05-28",
       "media": "s3./wnews/gallery/wnews20150528P01-188x188.jpg",
@@ -272,7 +272,7 @@
       "published": true
     },
     "centenary-anzac-day": {
-      "sling:resourceType":"wnews/block/article",
+      "sling:resourceType":"wnews/page/article",
       "title": "Record crowds mark Centenary ANZAC Day",
       "date": "2015-04-30",
       "media": "s3./wnews/gallery/wnews20150430P01-188x188.jpg",
@@ -287,7 +287,7 @@
       "published": true
     },
     "lorem-ipsum-1": {
-      "sling:resourceType":"wnews/block/article",
+      "sling:resourceType":"wnews/page/article",
       "title": "Lorem ipsum dolor sit amet.",
       "date": "1970-01-01",
       "pars": [
