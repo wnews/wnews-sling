@@ -1,14 +1,9 @@
 {
   "title": "Waranga News | Accommodation",
-  "sling:resourceType":"wnews/page/list",
+  "sling:resourceType":"wnews/page/advertisement",
   "jcr:primaryType":"nt:unstructured",
-  "list": {
-    "sling:resourceType": "wnews/block/front-page-list",
-    "accommodation-page": {
-      "sling:resourceType": "wnews/block/front-page",
-      "title": "Waranga Accommodation",
-      "media": "s3./wnews/Accommodation.jpg",
-      "published": true
-    }
-  }
+  "media": "s3./wnews/Accommodation.jpg",
+  "published": true,
+  "testimonials": "enabled",
+  "disqusShortName": "waranganews"
 }

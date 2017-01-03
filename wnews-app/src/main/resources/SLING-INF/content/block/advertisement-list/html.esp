@@ -6,9 +6,9 @@
         var limit = request.requestPathInfo.suffix ? parseInt(request.requestPathInfo.suffix.substring(1)) : Number.MAX_SAFE_INTEGER;
 
         for(var i in currentNode) {
-            if (currentNode[i]['sling:resourceType'] == "wnews/block/advertisement"
+            if (currentNode[i]['sling:resourceType'] == "wnews/page/advertisement"
                 && currentNode[i].published) {
-                sling.include(currentNode[i].path + ".html");
+                sling.include(currentNode[i].path + ".html", "wnews/block/advertisement");
 
                 /* TODO: handle limit is undefined/NaN) */
                 if (count++ >= limit) break;

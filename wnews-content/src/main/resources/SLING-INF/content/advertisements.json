@@ -5,7 +5,7 @@
   "list": {
     "sling:resourceType":"wnews/block/advertisement-list",
     "cottage-ice-cream-shoppe": {
-      "sling:resourceType": "wnews/block/advertisement",
+      "sling:resourceType": "wnews/page/advertisement",
       "title": "The Cottage Ice Cream Shoppe",
       "media": "s3./wnews/Cottage-Ice-Cream-Shoppe.png",
       "testimonials": "enabled",
@@ -13,7 +13,7 @@
       "published": true
     },
     "criterion-hotel-accommodation": {
-      "sling:resourceType": "wnews/block/advertisement",
+      "sling:resourceType": "wnews/page/advertisement",
       "title": "The Criterion Hotel",
       "media": "s3./wnews/Criterion-Hotel-accomm.png",
       "testimonials": "enabled",
@@ -21,7 +21,7 @@
       "published": true
     },
     "old-imperial-hotel": {
-      "sling:resourceType": "wnews/block/advertisement",
+      "sling:resourceType": "wnews/page/advertisement",
       "title": "The Old Imperial Hotel",
       "media": "s3./wnews/Imperial-Hotel.png",
       "testimonials": "enabled",
@@ -29,7 +29,7 @@
       "published": true
     },
     "king-billy-retreat": {
-      "sling:resourceType": "wnews/block/advertisement",
+      "sling:resourceType": "wnews/page/advertisement",
       "title": "King Billy Retreat",
       "media": "s3./wnews/King-Billy-Retreat.png",
       "testimonials": "enabled",
@@ -37,7 +37,7 @@
       "published": true
     },
     "lorem-ipsum-2": {
-      "sling:resourceType": "wnews/block/advertisement",
+      "sling:resourceType": "wnews/page/advertisement",
       "title": "Lorem ipsum dolor sit amet.",
       "media": "placeholder.png/200x200"
     }

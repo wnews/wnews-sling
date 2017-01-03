@@ -1,14 +1,9 @@
 {
   "title": "Waranga News | Trades and Services",
-  "sling:resourceType":"wnews/page/list",
+  "sling:resourceType":"wnews/page/advertisement",
   "jcr:primaryType":"nt:unstructured",
-  "list": {
-    "sling:resourceType": "wnews/block/front-page-list",
-    "trade-pages": {
-      "sling:resourceType": "wnews/block/front-page",
-      "title": "Trade Pages - May 1, 2015",
-      "media": "s3./wnews/Trade-pages-2015-05-01.jpg",
-      "published": true
-    }
-  }
+  "media": "s3./wnews/Trade-pages-2015-05-01.jpg",
+  "published": true,
+  "testimonials": "enabled",
+  "disqusShortName": "waranganews"
 }
