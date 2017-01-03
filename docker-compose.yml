@@ -2,14 +2,14 @@ wnews:
   build: .
   links:
     - sling
-  command: build deployBundle startBundle
+  command: build bundleInstall
   volumes_from:
     - wnews-gradle-cache
 whistlepost:
   image: micronode/whistlepost
   links:
     - sling
-  command: build deployBundle startBundle
+  command: build bundleInstall
   volumes_from:
     - whistlepost-gradle-cache
 sling:
