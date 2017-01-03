@@ -5,7 +5,7 @@
         var limit = request.requestPathInfo.suffix ? parseInt(request.requestPathInfo.suffix.substring(1)) : Number.MAX_SAFE_INTEGER;
 
         for(var i in currentNode) {
-            if (currentNode[i]['sling:resourceType'] == "wnews/block/front-page"
+            if (currentNode[i]['sling:resourceType'] == "wnews/page/front-page"
                 && currentNode[i].published == true) {
 
                 out.print("<li><a href=\"" + currentNode[i].path + ".html"
@@ -15,6 +15,6 @@
             }
         }
     %>
-        <li><a href="/past-issues.html/12?p=1">More..</a></li>
+        <li><a href="/content/wnews/past-issues.html/12?p=1">More..</a></li>
     </ul>
 </div>

@@ -52,6 +52,11 @@ body {
     height:auto;
 }
 
+.full-page img {
+    max-width:100%;
+    height:auto;
+}
+
 .wnews-article img {
     float: right;
     width: 50%;

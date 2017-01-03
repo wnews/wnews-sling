@@ -16,11 +16,11 @@
             
             var count = offset;
             for(var i in currentNode) {
-                if (currentNode[i]['sling:resourceType'] == "wnews/block/front-page"
+                if (currentNode[i]['sling:resourceType'] == "wnews/page/front-page"
                     && currentNode[i].published == true && --offset < 0) {
 
                     out.print('<div class="col-xs-6 col-md-4">');
-                    sling.include(currentNode[i].path + ".preview.html");
+                    sling.include(currentNode[i].path + ".preview.html", "wnews/block/front-page");
                     out.print("</div>");
 
                     if (++count >= limit) break;
