@@ -14,6 +14,7 @@
       "title": "November 3, 2016",
       "media": "s3./wnews/past-issues/2016/11/wnews20161103P01.jpeg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2016-10-20": {
@@ -21,6 +22,7 @@
       "title": "October 20, 2016",
       "media": "s3./wnews/past-issues/2016/10/wnews20161020P01.jpeg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2016-09-22": {
@@ -28,6 +30,7 @@
       "title": "September 22, 2016",
       "media": "s3./wnews/past-issues/2016/09/wnews20160922P01.jpeg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2016-09-08": {
@@ -35,6 +38,7 @@
       "title": "September 8, 2016",
       "media": "s3./wnews/past-issues/wnews20160908P01.jpeg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2016-08-25": {
@@ -42,6 +46,7 @@
       "title": "August 25, 2016",
       "media": "s3./wnews/past-issues/wnews20160825P01.jpeg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2016-08-11": {
@@ -49,6 +54,7 @@
       "title": "August 11, 2016",
       "media": "s3./wnews/past-issues/wnews20160811P01.jpeg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2016-07-14": {
@@ -56,6 +62,7 @@
       "title": "July 14, 2016",
       "media": "s3./wnews/past-issues/wnews20160714P01.jpeg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2016-06-30": {
@@ -63,6 +70,7 @@
       "title": "June 30, 2016",
       "media": "s3./wnews/past-issues/2016/07/wnews20160630P01.jpeg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2016-06-16": {
@@ -70,6 +78,7 @@
       "title": "June 16, 2016",
       "media": "s3./wnews/past-issues/wnews20160616P01.jpeg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2016-06-02": {
@@ -77,6 +86,7 @@
       "title": "June 2, 2016",
       "media": "s3./wnews/past-issues/wnews20160602P01.jpeg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2016-05-19": {
@@ -84,6 +94,7 @@
       "title": "May 19, 2016",
       "media": "s3./wnews/past-issues/wnews20160519P01.jpeg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2016-04-07": {
@@ -91,6 +102,7 @@
       "title": "April 7, 2016",
       "media": "s3./wnews/past-issues/wnews20160407P01.jpeg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2016-03-24": {
@@ -98,6 +110,7 @@
       "title": "March 24, 2016",
       "media": "s3./wnews/past-issues/wnews20160324P01.jpeg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2016-02-25": {
@@ -105,6 +118,7 @@
       "title": "February 25, 2016",
       "media": "s3./wnews/past-issues/wnews20160225P01.jpeg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2016-02-24": {
@@ -112,6 +126,7 @@
       "title": "February 24, 2016",
       "media": "s3./wnews/past-issues/wnews20160224P01.jpeg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2016-02-11": {
@@ -119,6 +134,7 @@
       "title": "February 11, 2016",
       "media": "s3./wnews/past-issues/2016/02/wnews20160211P01.jpeg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2016-01-28": {
@@ -126,6 +142,7 @@
       "title": "January 28, 2016",
       "media": "s3./wnews/past-issues/2016/02/wnews20160128P01.jpeg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2015-11-12": {
@@ -133,6 +150,7 @@
       "title": "November 12, 2015",
       "media": "s3./wnews/past-issues/2015/11/wnews20151112P01.jpeg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2015-10-29": {
@@ -140,6 +158,7 @@
       "title": "October 29, 2015",
       "media": "s3./wnews/past-issues/2015/11/wnews20151029P01.jpeg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2015-10-15": {
@@ -147,6 +166,7 @@
       "title": "October 15, 2015",
       "media": "s3./wnews/past-issues/2015/10/wnews20151015P01.jpeg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2015-10-01": {
@@ -154,6 +174,7 @@
       "title": "October 1, 2015",
       "media": "s3./wnews/past-issues/2015/10/wnews20151001P01.jpeg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2015-08-20": {
@@ -161,6 +182,7 @@
       "title": "August 20, 2015",
       "media": "s3./wnews/past-issues/2015/10/wnews20150820P01.jpeg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2015-08-06": {
@@ -168,6 +190,7 @@
       "title": "August 6, 2015",
       "media": "s3./wnews/past-issues/2015/10/wnews20150806P01.jpeg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2015-07-09": {
@@ -175,6 +198,7 @@
       "title": "July 9, 2015",
       "media": "s3./wnews/past-issues/2015/10/wnews20150709P01.jpeg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2015-06-25": {
@@ -182,6 +206,7 @@
       "title": "June 25, 2015",
       "media": "s3./wnews/past-issues/2015/10/wnews20150625P01.jpeg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2015-06-11": {
@@ -189,6 +214,7 @@
       "title": "June 11, 2015",
       "media": "s3./wnews/past-issues/2015/10/wnews20150611P01.jpeg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2015-05-28": {
@@ -196,6 +222,7 @@
       "title": "May 28, 2015",
       "media": "s3./wnews/past-issues/wnews20150528P01.jpg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2015-05-14": {
@@ -203,6 +230,7 @@
       "title": "May 14, 2015",
       "media": "s3./wnews/past-issues/wnews20150514P01.jpg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2015-04-30": {
@@ -210,6 +238,7 @@
       "title": "April 30, 2015",
       "media": "s3./wnews/past-issues/wnews20150430P01.jpg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2015-04-16": {
@@ -217,6 +246,7 @@
       "title": "April 16, 2015",
       "media": "s3./wnews/past-issues/wnews20150416P01.jpg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2015-04-02": {
@@ -224,6 +254,7 @@
       "title": "April 2, 2015",
       "media": "s3./wnews/past-issues/wnews20150402P01.jpg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2015-03-19": {
@@ -231,6 +262,7 @@
       "title": "March 19, 2015",
       "media": "s3./wnews/past-issues/2015/03/wnews20150319P01.jpg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2015-03-05": {
@@ -238,6 +270,7 @@
       "title": "March 5, 2015",
       "media": "s3./wnews/past-issues/2015/03/wnews20150305P01.jpg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2015-02-19": {
@@ -245,6 +278,7 @@
       "title": "February 19, 2015",
       "media": "s3./wnews/past-issues/2015/03/wnews20150219p01.jpg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2015-02-05": {
@@ -252,6 +286,7 @@
       "title": "February 5, 2015",
       "media": "s3./wnews/past-issues/wnews20150205P01.jpg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2014-12-11": {
@@ -259,6 +294,7 @@
       "title": "December 11, 2014",
       "media": "s3./wnews/past-issues/Wnews20141211P01.jpg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2014-11-27": {
@@ -266,6 +302,7 @@
       "title": "November 27, 2014",
       "media": "s3./wnews/past-issues/wnews20141127P01.jpg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2014-11-13": {
@@ -273,6 +310,7 @@
       "title": "November 13, 2014",
       "media": "s3./wnews/past-issues/wnews20141113P01.jpg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2014-10-30": {
@@ -280,6 +318,7 @@
       "title": "October 30, 2014",
       "media": "s3./wnews/past-issues/wnews20141030P01.jpg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2014-10-16": {
@@ -287,6 +326,7 @@
       "title": "October 16, 2014",
       "media": "s3./wnews/past-issues/wnews20141016P01.jpg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2014-10-02": {
@@ -294,6 +334,7 @@
       "title": "October 2, 2014",
       "media": "s3./wnews/past-issues/wnews20141002P01.jpg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2014-09-18": {
@@ -301,6 +342,7 @@
       "title": "September 18, 2014",
       "media": "s3./wnews/past-issues/wnews20140918P01.jpg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2014-09-04": {
@@ -308,6 +350,7 @@
       "title": "September 4, 2014",
       "media": "s3./wnews/past-issues/wnews20140904P01.jpg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2014-08-21": {
@@ -315,6 +358,7 @@
       "title": "August 21, 2014",
       "media": "s3./wnews/past-issues/wnews20140821P01.jpg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2014-08-07": {
@@ -322,6 +366,7 @@
       "title": "August 7, 2014",
       "media": "s3./wnews/past-issues/2014/08/wnews20140807p01.jpg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2014-07-24": {
@@ -329,6 +374,7 @@
       "title": "July 24, 2014",
       "media": "s3./wnews/past-issues/2014/08/wnews20140724P01.jpg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2014-07-10": {
@@ -336,6 +382,7 @@
       "title": "July 10, 2014",
       "media": "s3./wnews/past-issues/2014/07/wnews20140710P01.jpg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2014-06-12": {
@@ -343,6 +390,7 @@
       "title": "June 12, 2014",
       "media": "s3./wnews/past-issues/wnews20140612P01.jpg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2014-05-29": {
@@ -350,6 +398,7 @@
       "title": "May 29, 2014",
       "media": "s3./wnews/past-issues/wnews20140529p01.jpg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2014-05-01": {
@@ -357,6 +406,7 @@
       "title": "May 1, 2014",
       "media": "s3./wnews/past-issues/wnews20140501P01.jpg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2014-04-17": {
@@ -364,6 +414,7 @@
       "title": "April 17, 2014",
       "media": "s3./wnews/past-issues/wnews20140417P01.jpg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2014-04-03": {
@@ -371,6 +422,7 @@
       "title": "April 3, 2014",
       "media": "s3./wnews/past-issues/wnews20140403p01.jpg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2014-03-06": {
@@ -378,6 +430,7 @@
       "title": "March 6, 2014",
       "media": "s3./wnews/past-issues/wnews20140306P01.jpg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2014-02-20": {
@@ -385,6 +438,7 @@
       "title": "February 20, 2014",
       "media": "s3./wnews/past-issues/wnews20140220p01.jpg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2014-02-06": {
@@ -392,6 +446,7 @@
       "title": "February 6, 2014",
       "media": "s3./wnews/past-issues/wnews-frontpage-20140206.jpg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2011-06-30": {
@@ -399,6 +454,7 @@
       "title": "June 30, 2011",
       "media": "s3./wnews/past-issues/frontpage-20110630.png",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2011-06-16": {
@@ -406,6 +462,7 @@
       "title": "June 16, 2011",
       "media": "s3./wnews/past-issues/frontpage-20110616.png",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2011-06-02": {
@@ -413,6 +470,7 @@
       "title": "June 2, 2011",
       "media": "s3./wnews/past-issues/frontpage-20110602.png",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2011-05-19": {
@@ -420,6 +478,7 @@
       "title": "May 19, 2011",
       "media": "s3./wnews/past-issues/frontpage-20110519.png",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2011-05-05": {
@@ -427,6 +486,7 @@
       "title": "May 5, 2011",
       "media": "s3./wnews/past-issues/frontpage-20110505.png",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2011-04-21": {
@@ -434,6 +494,7 @@
       "title": "April 21, 2011",
       "media": "s3./wnews/past-issues/frontpage-20110421.png",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2011-04-07": {
@@ -441,6 +502,7 @@
       "title": "April 7, 2011",
       "media": "s3./wnews/past-issues/frontpage-20110407.png",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2011-03-24": {
@@ -448,6 +510,7 @@
       "title": "March 24, 2011",
       "media": "s3./wnews/past-issues/frontpage-20110324.png",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2011-03-10": {
@@ -455,6 +518,7 @@
       "title": "March 10, 2011",
       "media": "s3./wnews/past-issues/frontpage-20110310.png",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2010-07-22": {
@@ -462,6 +526,7 @@
       "title": "July 22, 2010",
       "media": "s3./wnews/past-issues/July-22-2010.jpg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2010-07-08": {
@@ -469,6 +534,7 @@
       "title": "July 8, 2010",
       "media": "s3./wnews/past-issues/8-July-2010.jpg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2010-06-24": {
@@ -476,6 +542,7 @@
       "title": "June 24, 2010",
       "media": "s3./wnews/past-issues/24-June-2010.jpg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2010-06-10": {
@@ -483,6 +550,7 @@
       "title": "June 10, 2010",
       "media": "s3./wnews/past-issues/10-June-2010.jpg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "2008-09-18": {
@@ -490,6 +558,7 @@
       "title": "September 18, 2008",
       "media": "s3./wnews/past-issues/front-page-20080918.jpg",
       "comments": "enabled",
+      "disqusShortName": "waranganews",
       "published": true
     },
     "lorem-ipsum-1": {
