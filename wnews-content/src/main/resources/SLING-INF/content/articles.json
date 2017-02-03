@@ -9,6 +9,46 @@
       "pageSize": 6,
       "total": 18
     },
+    "herb-is-the-one": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2017-02-02",
+      "title": "Herb is the One!",
+      "media": "s3./wnews/gallery/2017/02/20170202-1.jpg",
+      "pars": [
+        "This year Colbinabbin Primary welcomed just one prep child to the school. Herb Ireland will join big brother, Lenny at school - and he is sure to receive plenty of attention! Although the sole preppie, there are no worries about Herb settling confidently into school life after participating in the school’s term four Pre-Prep Program last year."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "australia-day-celebrated": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-02-02",
+      "title": "Australia Day celebrated",
+      "media": "s3./wnews/gallery/2017/02/20170202-2.jpg",
+      "pars": [
+        "Australia Day was marked across the region with community celebrations and citizens being recognised for outstanding contribution to their local communities.",
+        "In Rushworth about 150 people attended in the cool comfort of the Shire Hall, with its comfortable seats and notable absence of biting insects.",
+        "Activities kicked off with the traditional barbeque hosted by the Rushworth & District Lions Club and drinks provided by the members of the local SES Unit. Our much admired band played during the BBQ, and also performed the National Anthem and a concert piece when the official entertainment started at 6 pm.",
+        "A number of local entertainers performed before Mayor Adrian Weston addressed the audience with some personal thoughts about Australia Day.",
+        "More entertainment followed and guest speaker Bob Holschier delivered a fascinating discourse on some little-known historic events in Rushworth and Whroo, explaining many of the unusual things that we all take for granted.",
+        "The evening climaxed with the presentation of awards by Mayor Adrian Weston and Bob, after which the evening closed with a somewhat shortened version of “I Still Call Australia Home”.",
+        "<strong>Waranga Ward winners</strong>",
+        "Citizen of the Year - Doug Gray",
+        "Young Citizen of the Year - Not awarded",
+        "Sportsperson of the Year - Alexandrea Bethell",
+        "Junior Sportsperson of the Year - Not Awarded",
+        "Community Group of the Year - Stanhope & District Men’s Shed",
+        "Arts Person of the Year - Tony (Anthony) Crosbie",
+        "* Doug Gray was also selected as the Shire of Campaspe’s Citizen of the Year. (See page 6)",
+        "<strong>Rushworth township awards</strong>",
+        "This year two local Rushworth awards were presented.",
+        "Citizen of the Year went to Ray Barber, in recognition of his many years of service to Rushworth Easter Festival and Rushworth SES Unit.",
+        "A Special Commendation was also awarded to Lorraine Lloyd for dedicated service as School Crossing Lollipop Lady for many years."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true
+    },
     "a-fresh-approach": {
       "sling:resourceType":"wnews/page/article",
       "date": "2016-11-03",

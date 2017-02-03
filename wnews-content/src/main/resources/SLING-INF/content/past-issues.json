@@ -9,6 +9,14 @@
       "pageSize": 12,
       "total": 69
     },
+    "2017-02-02": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "February 2, 2017",
+      "media": "s3./wnews/past-issues/2017/02/wnews20170202P01.jpeg",
+      "comments": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
     "2016-11-03": {
       "sling:resourceType": "wnews/page/front-page",
       "title": "November 3, 2016",
