@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://www.wnews.org.au/sitemap.xml
