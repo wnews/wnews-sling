@@ -1,0 +1,15 @@
+{
+    "sling:resourceType":"wp/sitemap",
+    "jcr:primaryType":"nt:unstructured",
+    "change-frequency": "weekly",
+    "url-base": "    "",
+    "uris": [
+        "/index.html",
+        "/accommodation.html",
+        "/past-issues.html",
+        "/contact.html",
+        "/trades-and-services.html",
+        "/articles.html",
+        "/about.html"
+    ]
+}
