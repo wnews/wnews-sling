@@ -36,6 +36,46 @@
       "disqusShortName": "waranganews",
       "published": true
     },
+    "campbell-smith": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Campbell Smith",
+      "media": "s3./wnews/Campbell-Smith.png",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "clinical-massage": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Clinical Massage",
+      "media": "s3./wnews/Clinical-Massage.png",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "clive-coventry": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Clive Coventry",
+      "media": "s3./wnews/Clive-Coventry.png",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "coghlans-iga": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Coghlans IGA",
+      "media": "s3./wnews/Coghlans-IGA.png",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "mud-hut-joga": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Mud Hut Yoga",
+      "media": "s3./wnews/Mud-Hut-Yoga-proof.png",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
     "lorem-ipsum-2": {
       "sling:resourceType": "wnews/page/advertisement",
       "title": "Lorem ipsum dolor sit amet.",
