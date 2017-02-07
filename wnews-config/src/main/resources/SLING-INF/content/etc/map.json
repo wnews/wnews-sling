@@ -17,12 +17,6 @@
       },
       "wp": {
         "sling:internalRedirect": "/content/wp"
-      },
-      "robots.txt": {
-        "sling:internalRedirect": "/apps/wnews/robots.txt"
-      },
-      "sitemap.xml": {
-        "sling:internalRedirect": "/apps/wnews/sitemap.xml"
       }
     }
   }
