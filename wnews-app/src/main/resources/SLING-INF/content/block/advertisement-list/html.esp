@@ -22,7 +22,6 @@
 
                 /* TODO: handle limit is undefined/NaN) */
                 if (count++ >= limit) break;
-            }
         }
     %>
 </div>
