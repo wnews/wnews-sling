@@ -7,7 +7,7 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 6,
-      "total": 24
+      "total": 25
     },
     "welcome-preps-2017": {
       "sling:resourceType":"wnews/page/article",
