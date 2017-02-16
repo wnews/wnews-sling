@@ -42,9 +42,9 @@
         <div class="col-md-8">
           <% sling.include(currentNode.path, "wnews/block/article"); %>
           <%
-            //if (article.adaptTo(javax.jcr.Node).comments == "enabled") {
+            if (currentNode.comments == "enabled") {
               sling.include("/content/wnews/comments.disqus.html/" + currentNode.path);
-            //}
+            }
           %>
         </div>
         <div class="col-md-4">
