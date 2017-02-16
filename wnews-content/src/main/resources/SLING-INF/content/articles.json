@@ -7,7 +7,7 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 6,
-      "total": 20
+      "total": 23
     },
     "welcome-preps-2017": {
       "sling:resourceType":"wnews/page/article",
@@ -25,7 +25,6 @@
     },
     "heart-breaking-end": {
       "sling:resourceType":"wnews/page/article",
-      "feature": true,
       "date": "2017-02-16",
       "title": "Heart breaking end to search",
       "pars": [
@@ -36,7 +35,6 @@
     },
     "residents-have-a-say": {
       "sling:resourceType":"wnews/page/article",
-      "feature": true,
       "date": "2017-02-16",
       "title": "Residents still able to have a say",
       "pars": [
@@ -51,6 +49,24 @@
         "“I wish to thank our staff who gave up their Saturday morning to assist councillors with this event.”",
         "A full review of the survey information will be undertaken once the survey is closed and will be reported back to the community in the March community newsletter.",
         "The survey can be accessed via council’s website, or directly at link <a href=&quot;https://www.surveymonkey.com/r/convoday&quot;>https://www.surveymonkey.com/r/convoday</a>"
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "comments": "enabled"
+    },
+    "bridge-construction-imminent": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-02-16",
+      "title": "Start Of Works On Echuca Moama Second Bridge Imminent",
+      "media": "s3./wnews/gallery/2017/02/20170216-4.jpg",
+      "pars": [
+        "Start of construction of the Echuca Moama second bridge is imminent with all formal approvals now in place.",
+        "“With ministerial approval of the planning scheme amendment needed to lock in the land, and public gazetting of the project on 1 December 2016, we are thrilled that all check boxes have now been ticked, giving the green light for works to begin on the Echuca Moama second bridge crossing,” Campaspe Mayor, Cr Adrian Weston, said.",
+        "“Bringing this project to fruition has been a high priority and ongoing advocacy issue of council and the community for many years, so this is fantastic news for our entire shire.”",
+        "Formal approval of Amendment C103 to Campaspe’s Planning Scheme reserves the land required for the project, and sets out planning controls to ensure that any impact on the environment and community are managed. This, together with the land identifi ed for the new crossing in Moama that was previously approved in the Review of Environmental Factors in NSW, formalises the project to be built along the Mid West Option.",
+        "“Benefits of the new bridge will be signifi cant and wide-ranging,” Cr Weston said.",
+        "“In addition to the regional economic and social advantages, the communities of Echuca and Moama, which rely heavily on the crossing for employment, tourism and emergency services, will benefi t greatly on a daily basis and in a very tangible way.",
+        "“We now look forward to the opening of the VicRoads project offi ce on site later this month, signalling to residents that project implementation is finally underway.”"
       ],
       "disqusShortName": "waranganews",
       "published": true,
