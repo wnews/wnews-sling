@@ -22,8 +22,8 @@
       "jcr:primaryType":"nt:unstructured",
       "title": "Staff",
       "pars": [
-        "Integer sed tincidunt elit. Nulla metus massa, imperdiet id porttitor sed, hendrerit non turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed suscipit consequat nisi non vulputate. Donec metus neque, euismod vel diam et, volutpat accumsan metus. Mauris aliquet in nisi id euismod. Suspendisse auctor sapien eget facilisis bibendum. Nullam ultricies blandit lectus, eu ullamcorper erat sagittis at. Nulla tempus egestas erat ut auctor. Morbi nec ullamcorper neque. Etiam rhoncus pretium lorem ac fringilla. Aenean lobortis fermentum scelerisque. Maecenas quis condimentum sem. Praesent dapibus vel est et tristique. In volutpat tristique quam, eget lobortis purus tempor vitae.",
-        "Etiam tristique sollicitudin tempor. Phasellus quis turpis aliquam, mattis leo eu, scelerisque enim. Nunc turpis nisl, gravida id nunc nec, efficitur volutpat lorem. Praesent eleifend ante at ipsum suscipit tincidunt. Sed feugiat massa non varius bibendum. Morbi nisi risus, cursus eu vehicula a, feugiat nec nibh. Morbi est eros, dictum non porta non, lobortis quis enim. Maecenas at mauris arcu. Integer ut lectus et mi tincidunt posuere. Fusce gravida congue felis a dignissim. In tincidunt tellus sed felis rutrum fermentum id eget neque. Fusce in tristique diam. Vivamus bibendum metus enim, ultricies porttitor mi sagittis ut."
+        "<strong>Editor:</strong> Mary Jo Fortuna",
+        "<strong>Office & Accounts Manager:</strong> Vicki Arnel"
       ]
     },
     "get_involved": {
