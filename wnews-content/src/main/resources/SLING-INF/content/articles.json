@@ -7,7 +7,54 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 6,
-      "total": 18
+      "total": 20
+    },
+    "welcome-preps-2017": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2017-02-16",
+      "title": "Welcome to Prep/Foundation students for 2017",
+      "media": "s3./wnews/gallery/2017/02/20170216-1.jpg",
+      "pars": [
+        "The start of the 2017 year brought with it a name change for some prep students. Foundation students is the new term used to describe preps, this was introduced to give a national uniform approach.",
+        "Left: St Mary’s Rushworth welcome, Back row: Nevaeh Shelton, Kaley Knight, Nevaeh Forsyth, Mieke Wright, Elvie Wright, Torri Eagles, Kaitlyn Garvey. Front Row: Amber Coates, Patrick Williams, JJ Robertson, Billie Johnstone, Skylar McConnell, Willow Bertram.",
+        "Bottom Left: Rushworth P-12, welcome to the College (L-R) Isaac Chester-White, Michelle Fung, Helena Edwards, Declan Hawking. (Absent were Eden Jones & Erik Demillo)."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "heart-breaking-end": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2017-02-16",
+      "title": "Heart breaking end to search",
+      "pars": [
+        "We are saddened by the news, the police have confirmed after a three day search, divers have recovered the body of the missing 21 year old Rushworth man, feared drowned. The man went missing last Saturday afternoon, after entering the channel and not resurfacing. The incident occurred on Channel Inlet road, a channel that leads into the Waranga Basin. Our hearts go out to the family and friends."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "residents-have-a-say": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2017-02-16",
+      "title": "Residents still able to have a say",
+      "pars": [
+        "More than 330 residents took the time on Saturday (4 February) to join in the Campaspe Conversation event, chatting to councillors and staff.",
+        "Mayor, Cr Adrian Weston, said the event, held for the fifth year, was a success and councillors enjoyed meeting many residents across the region.",
+        "“I thank community members who took the time to meet with us on Saturday, it was great to hear first-hand your views and comments.”",
+        "“Echuca was much busier this year, with Kyabram, Rushworth and Rochester similar in numbers. This year we also added Gunbower in the Western Ward, and although quiet, provided an opportunity for residents to participate.”",
+        "“The conversation was quite varied, from current shire-wide issues, to a general chat and catch-up, to lodging a service request.”",
+        "“To date we have received 155 responses through our survey, but will leave the survey open through to 17 February to give residents time to participate,” Cr Weston said.",
+        "“A quick review of the responses to date shows that 80% did not participate in last year’s event, similar to last year at 83% - which is good news that we have connected with even more people from across our shire.”",
+        "Staff had access to the IT system to assist in the lodgement or follow-up of service requests as well as the use of iPads for survey responses.",
+        "“I wish to thank our staff who gave up their Saturday morning to assist councillors with this event.”",
+        "A full review of the survey information will be undertaken once the survey is closed and will be reported back to the community in the March community newsletter.",
+        "The survey can be accessed via council’s website, or directly at link <a href=&quot;https://www.surveymonkey.com/r/convoday&quot;>https://www.surveymonkey.com/r/convoday</a>"
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "comments": "enabled"
     },
     "herb-is-the-one": {
       "sling:resourceType":"wnews/page/article",
