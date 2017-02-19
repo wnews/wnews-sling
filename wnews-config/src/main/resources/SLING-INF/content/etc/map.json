@@ -17,9 +17,6 @@
       },
       "wp": {
         "sling:internalRedirect": "/content/wp"
-      },
-      "category/past-issues": {
-        "sling:redirect": "http://www.wnews.org.au/past-issues.html/12?p=1"
       }
     }
   }
