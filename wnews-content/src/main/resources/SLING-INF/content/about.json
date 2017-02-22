@@ -20,10 +20,23 @@
     "staff": {
       "sling:resourceType":"wnews/block/section",
       "jcr:primaryType":"nt:unstructured",
-      "title": "Staff",
+      "title": "Staff &amp; Volunteers",
       "pars": [
         "<strong>Editor:</strong> Mary Jo Fortuna",
-        "<strong>Office & Accounts Manager:</strong> Vicki Arnel"
+        "<strong>Office & Accounts Manager:</strong> Vicki Arnel",
+        "<strong>Committee:</strong> Cate Fraser, Eloise Mitchell",
+        "<strong>Reporters:</strong> Glenys Avard, Denise Corbin, Kerrie Raglus, Cass Alexander, Neil Laurie, Neil Short",
+        "<strong>Photographers:</strong> Cass Alexander",
+        "<strong>Layout and Publishing:</strong> Natalie Ryan, Louise Pelle, Gillian Schoenborn, Glenys Avard, Denise Corbin, Kerrie Raglus, Mike Wellington",
+        "<strong>Proofreaders:</strong> Noelle Grinter, Rosemary Hawking, Maureen McCarthy, Neil Laurie, Neil Short",
+        "<strong>Colbo Tit Bits:</strong> Clare Ireland, Michelle Rathjen, Natalie Ryan",
+        "<strong>Stanhope Correspondents:</strong> Bob Holschier, Floss Holschier",
+        "<strong>50 Years Ago:</strong> Alan McLean",
+        "<strong>Green Gardner:</strong> Carol McMillian",
+        "<strong>Rogies Ramblings:</strong> Ian Rogerson",
+        "<strong>Wrappers:</strong> Cathy Hourigan, Glenys Oliver",
+        "<strong>Distribution:</strong> Helen Harcoan, Maureen McCarthy, Neil Short, Ian Rogerson, Mike Wellington",
+        "<strong>Receptionist:</strong> Rosemary Hawking"
       ]
     },
     "get_involved": {
