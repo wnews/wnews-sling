@@ -7,7 +7,29 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 6,
-      "total": 25
+      "total": 26
+    },
+    "twenty-years-gone-by": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2017-03-02",
+      "title": "Waranga Hostel - Twenty years gone by",
+      "media": "s3./wnews/gallery/2017/03/wnews20170302-000.jpg",
+      "pars": [
+        "On a warm and sunny Sunday (19 February 2017),  locals and visitors gathered in the gardens of the Waranga Hostel in Rushworth to help celebrate the hostel’s 20th birthday.",
+        "The garden and the setting had been manicured and planned in fine detail to make everyone feel welcome and to put them in a party mood.",
+        "Dignitaries were present to give the occasion some gravitas as Clem Furphy guided the occasion through its formalities. About 170 guests - including Steph Ryan Member for Euroa), Sharman Stone (who officially opened the hostel in 1997) and Doug Crow (at that time, the Chief Commissioner of the newly-formed Shire of Campaspe) who turned the first sod. Clem added to the historical touch of the day by bringing along the actual shovel used, but suitably rejuvenated for the occasion with a touch of gold paint!",
+        "Also present were Campaspe Mayor, Adrian Weston, Noel Maughan (former Member for Rodney), John and Mark O’Mahoney (the builders), Trevor Saunders (CEO of GV Health) and Jane French (Manager/Director of Nursing of GV Health, Waranga Campus).",
+        "<strong>A community celebration</strong>",
+        "But the day belonged to the Hostel and its staff and residents - and the work and coordination of the Friends of the Hostel who had put so much time and effort into making the celebration the great success it was.",
+        "Many thanks to all these people (including staff who volunteered their time on the day) who made the Garden Party such a successful community event.",
+        "Hostel residents and their families, staff and local guests were treated to a plentiful afternoon tea,   followed by a barbecue later in the day - for anyone who could manage to eat anything more!",
+        "Students of Rushworth P-12 College were the very capable and friendly waiting staff serving the tables and the Lions Club manned the sausage sizzle, the Rushworth Concert Band entertained the guests and Murray Ross sketched away in the background.",
+        "It was good to acknowledge all those who had been part of the original idea, planning and fund-raising that made the Hostel a reality - and what a boost it’s been for our local area. It has enabled locals in need of care to stay local and to remain part of the community. Its location, right in the centre of Rushworth, means that residents are not cut-off from the town facilities and can always get a yarn if they are up to a walk down the street.",
+        "The hostel has also been a boost for training and employment opportunities. Congratulations to all concerned who have all contributed to this great asset for the local community."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true
     },
     "welcome-preps-2017": {
       "sling:resourceType":"wnews/page/article",
