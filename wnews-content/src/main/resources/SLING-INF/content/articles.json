@@ -7,7 +7,7 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 6,
-      "total": 26
+      "total": 29
     },
     "twenty-years-gone-by": {
       "sling:resourceType":"wnews/page/article",
@@ -27,6 +27,59 @@
         "Students of Rushworth P-12 College were the very capable and friendly waiting staff serving the tables and the Lions Club manned the sausage sizzle, the Rushworth Concert Band entertained the guests and Murray Ross sketched away in the background.",
         "It was good to acknowledge all those who had been part of the original idea, planning and fund-raising that made the Hostel a reality - and what a boost it’s been for our local area. It has enabled locals in need of care to stay local and to remain part of the community. Its location, right in the centre of Rushworth, means that residents are not cut-off from the town facilities and can always get a yarn if they are up to a walk down the street.",
         "The hostel has also been a boost for training and employment opportunities. Congratulations to all concerned who have all contributed to this great asset for the local community."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "farewell-doris": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-03-02",
+      "title": "Farewell to Doris from the Waranga News",
+      "media": "s3./wnews/gallery/2017/03/wnews20170302-010.jpg",
+      "pars": [
+        "The Waranga News team was saddened to hear of the passing of their long-term valued volunteer, Doris Barlow, last Saturday.",
+        "Until 2014 Doris had been one of our longest serving team members, having commenced with the paper in the early 1980’s and serving in a number of roles, including reception, proof-reading and reporting for clubs such as the Senior Citizens. She was also a Waranga News Board member and most recently served as Vice-President for a number of years.",
+        "Doris was enthusiastic and committed to the community newspaper cause and regularly attended the annual conferences of the Community Newspapers of Victoria (CNAV) at various venues around the state. She was well-loved in CNAV circles and known for her proud claim to be the oldest attendee there. Although it was past the time she was able to attend conferences, she was still featured on the cover of the Association’s 10th anniversary program!",
+        "<em>Farewell Doris from your Waranga News friends, past and present - you are sadly missed.</em>"
+      ],
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "calling-all-animal-lovers": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-03-02",
+      "title": "Calling all animal lovers - new volunteer roles available",
+      "pars": [
+        "The Campaspe Animal Shelter is on the lookout for animal lovers with an interest in becoming part of the shelter’s newly-launched Volunteer Program.",
+        "Campaspe Mayor, Cr Adrian Weston, said the volunteering opportunities on offer included a broad range of hands-on roles at the shelter as well as foster carers to look after the animals for short periods of time in their own home.",
+        "“The Campaspe Animal Shelter provides a safe, temporary place for lost, stray or unwanted dogs and cats until a permanent home can be found, so we are looking for volunteers passionate about providing the highest quality of care for these animals during their stay at the facility,” Cr Weston said.",
+        "“This is a wonderful opportunity for the animal lovers in our community to make a positive and valuable contribution to the ongoing physical and psychological wellbeing of these animals.",
+        "“All animals at the shelter are tested for temperament and health, so volunteers and foster carers would only care for those that have passed all the tests and have been deemed suitable for adoption.",
+        "“As the focus of this council service is to re-home the animals, the quality of care provided by volunteers is vitally important in ensuring each animal has the best possible chance of  nding its forever home.”",
+        "To ensure the suitability of volunteers for particular roles, council has a comprehensive volunteer recruitment program in place that includes an expression of interest process, then upon acceptance, formal induction, training and on-site health and safety education.",
+        "“This system not only assists us to match volunteers with jobs aligned with their knowledge, skills and experience, it enables prospective volunteers to fully understand what’s involved in becoming a volunteer,” Cr Weston said.",
+        "Positions on offer for the current intake of volunteers include general assistants to help with play, exercise and grooming with the Campaspe Animal Shelter. Foster carers are also needed to provide short-term respite within their own home for animals who may have been at the facility for extended periods of time.",
+        "Council is holding a public information session on Thursday, 9 March from 6-7pm at the Echuca Civic Centre Function Room for interested members of the public to  nd out more about these volunteering opportunities. Further information, including application forms, is also available on Council’s website <a href=http://www.campaspe.vic.gov.au>www.campaspe.vic.gov.au</a>.",
+        "Expressions of interest must be received by Council by Monday, 20 March. These can be emailed to shire@campaspe.vic.gov.au or sent to Campaspe Shire Council, PO Box 35, Echuca VIC 3564.",
+        "To coordinate an interview or seek further information contact, Communications Unit, 5481 2203, Email: s.ennis@campaspe.vic.gov.au"
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "comments": "enabled"
+    },
+    "colbo-primary-celebrates": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-03-02",
+      "title": "Colbinabbin Primary celebrates 100 years of quality education",
+      "media": "s3./wnews/gallery/2017/03/wnews20170302-012.jpg",
+      "pars": [
+        "Around fifty community members gathered on the lawns of Colbinabbin Primary School recently to launch a year of centenary celebrations for the school. The school children were all dressed in period costume, appropriately setting the scene for celebrating 100 years of education in Colbinabbin.",
+        "School leader, Jack McArdle, welcomed all the guests and then added a special welcome to Department of Education colleagues, past principals, past and present school council presidents and councillors, past and present Parent and Friend members, past and present staff members and pupils.",
+        "Barrie Winzar, Principal from 1965-1967, addressed the crowd gathered and reminisced fondly about his time at Colbinabbin, with some funny anecdotes, and noted how the physical buildings had changed so much. However he believed that the crowd present was indicative of the fact that the Colbinabbin community spirit had not changed and that this community was indeed still the special place he remembered.",
+        "Following this, House Leader, Ned Morgan, and Prep student, Herb Ireland unveiled the centenary plaque.",
+        "The next stage of the proceedings saw the burying of a time capsule that had been made by the children. House Leader, Kiara Kaiser, read out a list of all the items that had been placed in the time capsule. Josh Simeon, Green Team Leader, then placed the capsule in the ground and read the plaque to the audience gathered. The ceremony concluded with the children singing a rendition of Waltzing Matilda.",
+        "Principal, Robyn MacLean, thanked all those who had worked to prepare the school for the special celebrations. Wendy Morgan, who has taught at the school for many years, then cut the cake depicting a ‘100’ as the crowd gave three cheers for the future of the Colbinabbin Primary School. Those gathered then enjoyed a delicious morning tea prepared by the Colbinabbin parents and coordinated by Centenary Celebrations working group member, Robyn Ryan.",
+        "<em><strong> - Robyn MacLean, Colbinabbin Primary School</strong></em>"
       ],
       "disqusShortName": "waranganews",
       "published": true
