@@ -14,4 +14,14 @@
                         sling.include(currentNode.sections.path + ".h4.html");
                     }
                 %>
+                <% if (currentNode.related) { %>
+                <div>
+                    <h4>Related Articles:</h4>
+                    <% for (var k in currentNode.related) { %>
+                    <ul>
+                        <li><% sling.include("/content/wnews/articles/list/" + currentNode.related[k] + ".link.html", "wnews/block/article"); %></li>
+                    </ul>
+                    <% } %>
+                </div>
+                <% } %>
             </div>

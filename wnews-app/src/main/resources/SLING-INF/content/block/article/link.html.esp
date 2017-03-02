@@ -1,0 +1,1 @@
+<a href="/content/wnews/articles/list/<%= currentNode.name %>.html"><%= currentNode.title %></a>

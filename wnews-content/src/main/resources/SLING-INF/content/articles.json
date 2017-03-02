@@ -99,7 +99,8 @@
       ],
       "disqusShortName": "waranganews",
       "published": true,
-      "comments": "enabled"
+      "comments": "enabled",
+      "related": ["carnage-in-state-forest"]
     },
     "welcome-preps-2017": {
       "sling:resourceType":"wnews/page/article",
@@ -113,7 +114,8 @@
         "Bottom Left: Rushworth P-12, welcome to the College (L-R) Isaac Chester-White, Michelle Fung, Helena Edwards, Declan Hawking. (Absent were Eden Jones & Erik Demillo)."
       ],
       "disqusShortName": "waranganews",
-      "published": true
+      "published": true,
+      "related": ["herb-is-the-one"]
     },
     "heart-breaking-end": {
       "sling:resourceType":"wnews/page/article",
@@ -448,7 +450,8 @@
         "Other compromises reached in negotiations with VicRoads include reduction in the speed limit from 100kph to 80kph for an extended distance along the winding road and reduction in the extent of the use of wire rope and steel guard railing.",
         "In addition, all of the timber from the felled trees will be retained in the town for the use of the community."
       ],
-      "published": true
+      "published": true,
+      "related": ["save-the-trees"]
     },
     "a-legendairy-winner": {
       "sling:resourceType":"wnews/page/article",
