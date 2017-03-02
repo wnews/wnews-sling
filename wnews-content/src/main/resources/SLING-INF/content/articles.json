@@ -84,6 +84,23 @@
       "disqusShortName": "waranganews",
       "published": true
     },
+    "rushworth-bush-tracks-debate": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-03-02",
+      "title": "Rushworth’s bush tracks in parliamentary debate",
+      "media": "s3./wnews/gallery/2017/03/wnews20170302-028.jpg",
+      "pars": [
+        "A recent public outcry about the state government’s track-blocking policy has urged a number of state MP’s and local government representatives, to visit the now famous ‘Telstra Trail’.",
+        "Social media attention for the ‘Telstra Track’ near Rushworth has brought the standard practice of track- blocking into scrutiny as thousands of comments are recorded from across the nation complaining that public land is becoming increasingly inaccessible.",
+        "Last week staff from the Department of Environment, Land, Water and Planning, admitted they were responsible for the widely condemned action of felling track-adjacent trees along seven kilometres of the popular ‘Telstra Trail’ in the Redcastle-Graytown State Forest, near Rushworth. They say this was done to deter trail- bike access and allow the track to regenerate after increased off-road use. Spokesperson, Paul Bates, is quoted saying around one hundred trees were felled across the track; however, a survey conducted by a local resident has recorded one hundred and ninety-three live trees have been destroyed. Over one hundred dead trees and branches have also been dragged across the forest  oor to create obstacles. It was noted that a large machine was used to move and push many of the trees over and that this machinery caused signi cant and widespread damage to countless native understory  ora species.",
+        "The vox pop on social media shows that the community is unhappy not only about the environmental damage and access restriction, but also because there was no public consultation. Residents claim that prior to the Department’s actions the track was in good condition with minimal damage. It is described as a good, all-purpose track for walking and cycling on. The department spokesperson stated that walkers and cyclists may continue to use the track but it is evident that the new obstructions present great dif culty and danger to current legal users and that trail-bike riders will now just ride around the felled trees and cause further damage to the environment. A trail-bike rider on social media claimed that the obstacles will just make the track more of a challenge. It is interesting to note that not until after the works were complete, were signs erected advising users of restricted access. The attempt to prevent illegal use of the area has also encouraged the illegal collection of  rewood, with people already removing the fallen trees.",
+        "The clear message that has been voiced to the environment minister by a number of state MPs in parliament is that forests should be able to be appropriately used by the public, but environmental concerns, including forest conservation and protection of ecosystems, must also be addressed.",
+        "The department has acknowledged that in hindsight it should have done things differently, but unfortunately there is no way to turn back time. Instead the minister must look into the situation and create safeguards to protect the environment from future similar actions as well as to allow the public fair access and ongoing use."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "comments": "enabled"
+    },
     "welcome-preps-2017": {
       "sling:resourceType":"wnews/page/article",
       "feature": true,
