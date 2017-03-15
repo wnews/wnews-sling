@@ -7,7 +7,15 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 12,
-      "total": 72
+      "total": 73
+    },
+    "2017-03-16": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "March 16, 2017",
+      "media": "s3./wnews/past-issues/2017/03/wnews20170316.jpeg",
+      "comments": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
     },
     "2017-03-02": {
       "sling:resourceType": "wnews/page/front-page",
