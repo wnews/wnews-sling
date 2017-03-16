@@ -7,7 +7,61 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 6,
-      "total": 29
+      "total": 31
+    },
+    "colbo-lapathon-exceeds-target": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2017-03-16",
+      "title": "Colbinabbin Lap-A-Thon exceeds target!",
+      "media": "s3./wnews/gallery/2017/03/wnews20170316-001.jpg",
+      "pars": [
+        "Some of the 250 fresh-faced and full of energy Colbinabbin Lap-A-Thon walkers prepare to take off on their way to an enormously successful day to raise funds for the Melanoma Institute of Australia. Some $30,000 has been raised -with late donations still trickling in at the time of going to print.",
+        "More than 250 people took to the newly re-grassed Colbinabbin Recreation Reserve on 11 March 2017 to participate in the Colbinabbin Lap-A-Thon.",
+        "The Lap-A-Thon was held to raise money for the Melanoma Institute of Australia and will support  nding a cure for melanoma.",
+        "The inspiration behind the event was Colbo born and bred Lucinda Ryan, who is currently undergoing treatment for Stage 4 melanoma.",
+        "This year, a group of Lou’s friends – known as <em>‘The Moles’</em> decided to run a Lap-A-Thon in her now home town of Wongan Hills, WA. Lou’s Colbo family jumped on board with the idea of running a ‘sister’ event in Colbo on the same day. Prior to the day, participants collected sponsors through social media and online donations, or in person, with many seeking a donation per lap completed on the day."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "vale-doris-barlow": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-03-16",
+      "title": "Valé Doris Barlow",
+      "media": "s3./wnews/gallery/2017/03/wnews20170316-012.jpg",
+      "pars": [
+        "<strong>23 October 1925 – 25 February 2017</strong>",
+        "A much loved and highly respected resident of Rushworth, Doris Barlow was farewelled at St Paul’s Anglican Church and at a graveside ceremony at the Rushworth Lawn Cemetery, both of which were conducted by Fr. André Du Plooy, on the afternoon of Friday 3 March.",
+        "The esteem in which Doris was held was evident by the large number in attendance, with St Paul’s Church packed.",
+        "Among the family present were Doris’s sisters, Enid and Marion, and the family of her other sister, Jean, who was not well enough to attend. Also there were Doris’s daughter, Heather, and sons Ross, Colin and Neil, together with members of her extended family.",
+        "The tribute to Doris was presented by her son, Colin, on behalf of the family and forms the basis of the following information.",
+        "<strong>The early years</strong>",
+        "Doris was born in Natimuk on 23 October 1925 to James Palmer and his wife Ida (nee Pfennig). Three sisters followed: Jean, Enid and Marion. Her mother, known as Edie, died of pneumonia in Woodend at age 35, two months after Marion’s birth.",
+        "Doris attended Kyneton High School, and then went to Melbourne Teachers College, whilst living with her family who had transferred to Essendon.",
+        "<strong>The teacher</strong>",
+        "Doris first taught at an upper elementary school in the northern suburbs of Melbourne for a year, Yarram Upper Elementary for a year, then transferred to Rushworth.",
+        "<strong>Family life</strong>",
+        "It was at Rushworth that Doris met and married Robert Henry (Bob) Barlow, a third generation farmer. The wedding was in Essendon, and then Doris took on the duties of housewife, retiring from teaching after the initial eighteen months at Rushworth.",
+        "They lived on the family farm ‘Moorakyne’, speaking often of the candle and kerosene lighting days and irregular water supply, depending on the temperamental windmill on the Nine Mile Creek.",
+        "Bob and Doris had four children: Heather, Ross, Colin and Neil. She was thrilled by the arrival of Heather’s children (Narelle and David), Ross’s children (Alexandra and Andrew) and Colin’s children (Christopher, Matthew and Catherine), and loved knitting baby clothes as each new baby arrived. There are now six great grandchildren.",
+        "The friendship and support of neighbours were very much appreciated and Bob and Doris had a lot of fun playing tennis at Wanalta, and golf at Rushworth and further a field.",
+        "<strong>The move into Rushworth</strong>",
+        "The dif culty of providing water and the absence of power on the farm led to Bob and Doris building a new solid brick house called ‘Wyeera’ in Moora Road, about the time Ross was born. This was the family home and continued to be Doris’s residence until frailty forced her into the Waranga Aged Care Hostel and then the Nursing Home.",
+        "Both Bob and Doris continued playing tennis and golf after shifting into Rushworth, until well into their sixties, and in the later years took up bowls as well. Many longstanding friendships that continued for the rest of their lives were initiated on the sporting  elds. Doris loved playing golf, not only at Rushworth, but also at Tatura and other surrounding clubs.",
+        "<strong>Love of travel</strong>",
+        "Doris travelled extensively in Australia, including the Canning Stock Route, Rabbit Flat, Ayers Rock and all the capital cities.",
+        "She also regularly ventured overseas to Europe, Asia, New Zealand and many other places.",
+        "<strong>Community involvement</strong>",
+        "Doris was involved in many community organisations over the years, including: The Council of Adult Education; Probus; The ‘buddy program’ at the school; Secretary of the Rushworth CAG (the Shire of Campaspe Advisory Group after the amalgamation of the shires); Neighbourhood Watch; Rushworth Senior Citizens; School and sporting club committees; The Waranga News.",
+        "<strong>Thank you</strong>",
+        "Colin concluded his address by saying, “On behalf of the family, I would like to sincerely thank the staff at the Waranga Aged Care Hostel and more recently the Nursing Home for the wonderful way they cared for Mum, and I must also thank Judy Ogden, Laurel Goggin, Nan Jessup and the many others who regularly visited and supported her whilst in care. Mum never failed to mention every time I visited her how lucky she was to be so well cared for at the Nursing Home.”",
+        "<strong>A life well lived</strong>",
+        "Doris’s life was certainly well lived. As Colin said in the eulogy, the family thought her life was best described in the words of the Frank Sinatra song, ‘I Did It My Way’."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "related": ["farewell-doris"]
     },
     "twenty-years-gone-by": {
       "sling:resourceType":"wnews/page/article",
