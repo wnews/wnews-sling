@@ -7,7 +7,7 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 6,
-      "total": 33
+      "total": 34
     },
     "colbo-lapathon-exceeds-target": {
       "sling:resourceType":"wnews/page/article",
@@ -85,6 +85,30 @@
         "The resident music makers are all getting warmed up to belt out all the old and new classics for you, so grab a cuppa and cake or lunch and sit, listen, and enjoy them! There are plenty of tables and chairs! The jumping castle man is back again too! Plus, heaps more!",
         "Just give me a call if you want more information, or you can join in the fun by giving us a hand for an hour or so! Either way here’s my number/email 58561405 st-thoms2@ optusnet.com.au. Take care folks and see you all soon!",
         "<em>Hooroo from Maz</em>"
+      ],
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "ride-for-youth-mental-health": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-03-16",
+      "title": "Freemasons Cycling Club members ride for youth mental health",
+      "media": "s3./wnews/gallery/2017/03/wnews20170316-051.jpg",
+      "pars": [
+        "Eight members of the Freemasons Cycling Club (Vic) and the five members of their support crew stopped at Rushworth on their four day ride from Wodonga to Ballarat to raise much-needed funds for the youth mental health service, headspace. Late on the morning of Thursday 2 March (on a very hot day) they took a break and enjoyed lunch at the Rushworth Bakery. That day they were riding from Shepparton to Bendigo, and in the local area they also took breaks at the Basin and at Colbinabbin.",
+        "The cyclists, Colin Prout, Malcolm Mann, Milton Mann, Matt DeNatris, Rod Pilmore, Darren Hill, Keith Stewart and Cyril Land, ranged in age from 48 to 69 years. Three of them came from Wodonga, with the others from Bacchus Marsh, Diggers Rest, Wangaratta, Tatura and Werribee.",
+        "Organiser of the ride, Malcolm Mann from Diggers Rest, told the Waranga News, ‘Members of the Freemasons Cycling Club (Vic) had previously ridden in events organised by others for charitable purposes, but we decided to ride to raise funds for a charity of our choice – the National Youth Mental Health Foundation, headspace.",
+        "‘All the riders in this event have been touched by mental illness within their families. If headspace had existed when our children were younger, it could have helped them substantially.’",
+        "<strong>headspace</strong>",
+        "The National Youth Mental Health Foundation, headspace, provides early intervention mental health services to 12 – 25 year olds, along with assistance in promoting young people’s wellbeing. The headspace programs cover four core areas: mental health, physical health, work and study support, and alcohol and other drug services.",
+        "<strong>Fundraising</strong>",
+        "100% of the funds raised during the ride went to headspace, with the riders and their support crew fully meeting all expenses incurred, including accommodation, meals, repairs to bicycles, and fuel for the support vehicles.",
+        "In addition to funds raised during the ride, the Freemason’s Foundation of Victoria provided a matching $1 for $1 donation up to $5,000.",
+        "At 11:35 am on the Thursday at Rushworth $3,570 had been raised for headspace on the everydayhero website.",
+        "At the end of the ride at Ballarat on Friday 3 March, following presentations by Milton Mann about the Freemasons Cycling Club (Vic) and Janelle Johnstone (Manager, Ballarat headspace) about the work of headspace in the local community, a cheque for $11,000 representing the total amount of funds raised by the Ride for headspace (as at 3 March) was presented to Ms Johnstone.",
+        "Ride organiser, Malcolm Mann told the Waranga News, ‘We’re appreciative of the support received along the way, including from the Rushworth Jubilee Lodge, those Lodges hosting awareness evenings for us, and all who made donations, including the Freemasons Foundation of Victoria.’ He added, ‘The event generally, and the total of funds raised in particular, exceeded all our expectations.’",
+        "<strong>You can still make a donation</strong>",
+        "If you would like to support the work of headspace you can still make a donation via the Freemasons Cycling Club (Vic) Ride on www.everydayhero.com/au, searching the word ‘Freemason’, and following the link to the ‘Give Now’ button. This website will remain open until 3 July 2017. Donations of $2 and more are tax deductible."
       ],
       "disqusShortName": "waranganews",
       "published": true
