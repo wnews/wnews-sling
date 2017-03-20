@@ -7,7 +7,7 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 6,
-      "total": 31
+      "total": 33
     },
     "colbo-lapathon-exceeds-target": {
       "sling:resourceType":"wnews/page/article",
@@ -62,6 +62,52 @@
       "disqusShortName": "waranganews",
       "published": true,
       "related": ["farewell-doris"]
+    },
+    "draught-horses-working-for-easter": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-03-16",
+      "title": "Working draught horses galore at moora for Easter",
+      "media": "s3./wnews/gallery/2017/03/wnews20170316-029.jpg",
+      "pars": [
+        "Easter Sunday will see the staging of the 9th Moora Working Draught Horse Muster.",
+        "This wonderful ‘step back into the past’ event began in July 2009 with only seventeen ‘big horses’ and approximately 500 members of the public through the gate. We have grown over the years to such an extent that last Easter (2016) we had ninety-three ‘big horses’ all working throughout the day and 2000 to 3000 people through the gate. May I have a small boast by saying we are only W.A and the N.T. short of having horses coming from Australia wide to moora!",
+        "In 2010 we decided to move our event to Easter Sunday to complement the Rushworth Easter Heritage Festival held on Easter Saturday. By making it a two separate days weekend we hoped it would help bring extra people and tourists into the town and district and therefore be helping the local economic situation.",
+        "The 2013 Shire survey showed the two days bought close to half a million dollars into the town and district, something both committees are extremely proud of as we had all achieved our goal!",
+        "<strong>Community group/Event of the Year for 2014!</strong>",
+        "The icing on the cake was most de nitely our Rushworth Easter Heritage Festival being honoured with not only The Rushworth and District Award but the Shire of Campaspe’s Award too.",
+        "Now, with both committees in full  ight for this year’s Easter events and the days rushing by, time for a normal life-style has been shelved for several weeks. I know my friends and family don’t expect any sort of in-depth conversations with me that don’t involve heavy horses or what can be safe in the street parade!",
+        "Most of our Victorian “big boys” are all ready to roll. Some will be on the road for several hours to get here, but then, some from NSW, SA and our Queenslander can expect to be on the road not just hours but days! I just hope that our Tasmanian has a better trip over than last Easter, as he and his two beautiful big horses and the dog were twelve hours on the boat coming across in that dreadful storm the week before Easter. He wasn’t allowed down to the truck to check if the boys were safe and standing up or if they were down and cast. A terrifying trip over for them all.",
+        "When Raymond and I went out to the Moora Reserve early on the Friday morning to see if they had arrived and alright, we were met by four very exhausted travellers! Luckily horses and their slaves, plus dog, are very tough characters! After several feeds and sleeps they were all back on track again! Some of you may remember seeing them last year, the big coach with the two huge grey shire horses in the shafts both in the street parade on Saturday and working round at Moora on Sunday.",
+        "Our line-up this year will include all your old favourites that will be ploughing, harrowing, scarifying, and pulling sleds etc. There will also be a variety of different horse-drawn vehicles on parade for you to see and photograph. Plus, a line-up of different working displays. I’m excited because our own stationary baler has been set in order and working again. It was owned and used by the late Max Seamer who was the driving force behind our Working Draught Horse Muster and our founding member.",
+        "Salty’s hammering up a storm and old Dave will be giving him his usual cheek! Big Mick the rope-maker will be there with bells on, or so he tells me! Bill the packsaddle man is loaded up and hot to trot as is Wiltshire’s Harness store and the rest of our “Mug’s Alley” traders, not forgetting the camp oven scone man. Yum!",
+        "Michelle Bird, equine artist, after a lifetime spent with her beloved horses has turned to now drawing them. She captures their expressions beautifully! We are rapt to be able to have once again one of her framed works as  rst prize in our raf e. Last year’s picture was Rick’s big team and I am looking forward to seeing who will star in this year’s prize.",
+        "The craft demonstrators are gathering all their wares again. Lyn’s Ironbark Soy Melts and Rushlyn Studio’s hand-made cards, together with the folk-art ladies, are all brushed up and glued to their chairs, as are the Lace Making ladies with their  ne and fancy goods. Jenni’s Shed with her most beautiful leather goods just has me enraptured and Michelle will be displaying her beautiful pencil drawings; you can watch her creating a new work of art. All these wonderful people are more than happy to show and explain how they work.",
+        "The resident music makers are all getting warmed up to belt out all the old and new classics for you, so grab a cuppa and cake or lunch and sit, listen, and enjoy them! There are plenty of tables and chairs! The jumping castle man is back again too! Plus, heaps more!",
+        "Just give me a call if you want more information, or you can join in the fun by giving us a hand for an hour or so! Either way here’s my number/email 58561405 st-thoms2@ optusnet.com.au. Take care folks and see you all soon!",
+        "<em>Hooroo from Maz</em>"
+      ],
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "positive-partnerships-on-track": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-03-16",
+      "title": "Reaction to track closure leads to positive partnerships",
+      "media": "s3./wnews/gallery/2017/03/wnews20170316-068.jpg",
+      "pars": [
+        "Recent events in the Whroo State forest saw almost two hundred native trees and countless under-storey species destroyed in an effort to prevent trail-bike use.",
+        "This measure left some people with cause for concern about future access for visitors to the forest surrounding Rushworth but as Newton’s third law states; ‘For every action, there is an opposite and equal reaction!’",
+        "With this in mind, it is reasonable to hope for a positive outcome from the Department of Environment, Land, Water and Planning (DELWP) standard procedure for track closure and rehabilitation. It is also reasonable to consider that this action could be a catalyst for recognising and promoting the ecotourism potential of Rushworth’s natural environment.",
+        "The unprecedented public response to the track closure attracted the attention of a number of key interest groups with a shared objective of preserving and enhancing existing bush tracks within the box-ironbark forest; encouraging their responsible use for locals and visitors alike.",
+        "Representatives from the Shire of Campaspe, Goulburn Broken Catchment Management Authority (GBCMA), Parks Victoria, Rushworth Offroad Cycling Association (RORCA) and Rushworth Action Group for the Environment (RAGE) met in Rushworth last week to discuss a vision for the creation of a formal rail-trail ‘artery’ running from Rushworth to Heathcote and beyond.",
+        "Readers may be aware of the Murchison Rail-trail that comes to an abrupt halt, halfway to Rushworth. The group learned that the proposal to continue the trail is well under way, with the Shire of Campaspe currently in negotiations with DELWP and Regional Development Victoria to complete the trail to Rushworth and extend it through the forest. This would give rail-trail enthusiasts (and there are plenty) the ability to travel by train from Melbourne to Murchison and cycle the central Victorian gold elds, spending time and tourist dollars in small towns like Rushworth.",
+        "The development of additional forest loop tracks and track access to Graytown and Mount Black within Heathcote-Graytown National Park was discussed as a draw-card for cyclists and walkers wanting to explore the environment more intimately away from main roads. Many opportunities were highlighted within the culturally and naturally diverse landscape to enhance existing tracks with up- to-date signage and locally accessible maps. There is also potential to complement tours of the forest with the latest technological applications for the more cyber-savvy users who want an informative exploration of Rushworth’s local forest without carrying a paper map!",
+        "Momentum is growing for the development of partnerships, with the aim of creating an integrated, cross-shire border, local nature experience that bush tracks provide, and the conversation will soon include the Shire of Strathbogie.",
+        "The irony of the situation is not lost, as the closure of this track may lead to the opening of an entire track system that promotes public appreciation for the bush, public health and a genuine opportunity for the economic growth of small regional towns like Rushworth."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "related": ["rushworth-bush-tracks-debate", "carnage-in-state-forest"]
     },
     "twenty-years-gone-by": {
       "sling:resourceType":"wnews/page/article",
