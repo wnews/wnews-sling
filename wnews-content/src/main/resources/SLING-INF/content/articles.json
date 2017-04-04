@@ -7,7 +7,22 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 6,
-      "total": 34
+      "total": 35
+    },
+    "heroes-remembered": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2017-03-30",
+      "title": "Rushworth’s heroes remembered",
+      "media": "s3./wnews/gallery/2017/03/wnews20170330-000.jpg",
+      "pars": [
+        "High St Rushworth was a colourful sight on Monday morning with rows of red crocheted poppies in the lawn, splendidly uniformed Defence Force dignitaries sporting lots of gold braid and many medals, and the Royal Australian Airforce Band adding to the atmosphere of excitement. The long-anticipated time had come for the unveiling of memorials in honour of two celebrated Rushworth heroes of World War 1, Air Vice-Marshal Frank McNamara and Air Marshal Sir George Jones.",
+        "Defence Force personnel, including the Chief of Defence Force, Air Chief Marshal Mark Binskin, AC, and the Chief of Air Force, Air Marshal Leo Davies, AO, CSC, joined with the Rushworth RSL, descendants of the celebrated airmen, community members, school children and visitors to commemorate the local Australian Flying Corps and Royal Australian Air Force heroes, exactly 100 years to the day since the sel ess act that awarded Air Vice-Marshal Frank McNamara the Victoria Cross.",
+        "The event, part of the Centenary of ANZAC 2014-2018 of cial commemoration, was the culmination of three years of planning and organisation by a special committee of Rushworth RSL.",
+        "In his address, Air Marshal Davies thanked the RSL. “It is important to reflect on our history and remember our forefathers,” he said."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true
     },
     "colbo-lapathon-exceeds-target": {
       "sling:resourceType":"wnews/page/article",
