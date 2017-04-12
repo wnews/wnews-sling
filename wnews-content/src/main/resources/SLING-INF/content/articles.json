@@ -7,7 +7,91 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 6,
-      "total": 35
+      "total": 39
+    },
+    "rushworth-the-place-to-be": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2017-04-13",
+      "title": "Rushworth at Easter - the place to be",
+      "media": "s3./wnews/gallery/2017/04/wnews20170413-000.jpg",
+      "pars": [
+        "Rushworth has become a go-to place for the Easter weekend with crowds turning up from all over the region and beyond to experience all the fun of the Festival on Saturday and the Moora Muster of working draught horses on Sunday.",
+        "The Lions Club’s traditional Wood and Produce Auction is still a highlight of the day. Hilder’s Block at 10 am is the time and place for your chance to bid for quality  rewood and local produce. And of course you have the added satisfaction of knowing your purchases contribute to the worthy causes supported by Rushworth & District Lions Club.",
+        "The market will be ready for business from 8 am with over one hundred stalls  lling the streetscape on High Street.",
+        "In addition to fare from our local food outlets, there will be Indian, Dutch, Asian and good old Aussie bbq cuisine to choose from in the food department. You will not go hungry and your taste-buds may be even delighted.",
+        "Children will be treated to a free Easter Egg hunt at the Community House at 11.30 am. Pete the Clown on his penny farthing will also be giving away eggs between 12 pm and 2 pm. Popcorn, fairy  oss, toffee apples, and slushies will also undoubtedly delight the children - if not the parents! - and free showbags will be an added attraction. (Free kids’ activities at the Shire Hall might just help use up some of that sugar-fuelled energy!)",
+        "After checking out the exhibitions and displays you may need a spell from all the excitement and you can rest your weary feet at the rotunda while listening to music by Southern Cross.",
+        "<strong>The Parade</strong>",
+        "At 1 pm the much anticipated ‘Grand Parade’ will take place - there are always some surprises on the day, so who knows how many old and new vehicles and other ambulatory bodies will take to the street.",
+        "<strong>Photo competition</strong>",
+        "If you are good with your camera, some good snaps on the day may win you $500! Go online and register your photo (check terms and conditions) at www.rushworthfestival.org. The photos submitted will be used to make a calendar for next year.",
+        "And, last but not least, don’t forget to look out for our raf e tickets at the REHF stall. At $1 ticket, you can win tokens to the value of $1000 ( rst prize), $500 (second prize), $250 (third prize) to spend in town at most of the local retailers - a bonus for the winner and for the town!",
+        "<strong>Sunday at Moora</strong>",
+        "On Sunday the Moora Recreation Reserve will be where it’s all happening. As well as the popular working horses, there will be heaps of other ‘country life’ entertainment, with demonstrations of old-style farm skills and displays of bush crafts and folk art.",
+        "A great way to  nish off an action packed Rushworth weekend!"
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "related": ["draught-horses-working-for-easter"]
+    },
+    "rushworth-court-house": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-04-13",
+      "title": "New book on Rushworth’s historic Court House",
+      "media": "s3./wnews/gallery/2017/04/wnews20170413-008.jpg",
+      "pars": [
+        "Rushworth Court House is re-awakening. Waranga News of 30 March reported on plans to remove bats and white ants, and to appoint local management. Now the imposing old building, built in 1877, is featured in a new book by local historian and News writer Alan McLean, titled “Order in the Court!”",
+        "The book shows the Court House has witnessed an extraordinary passing parade, some arriving on foot, others tying a horse to a nearby rail or tree. The building welcomed “an able-bodied specimen of the loa ng fraternity”. Another defendant challenged the nasal senses, being “as shy of water as he was of work”. More than one went up for endangering lives by “furious riding”.",
+        "In 1887, after 18 years as a Justice of the Peace, Wolton Wigg, a local brewer, was called into the dock, not to his preferred seat on the Bench. Found in a boat with a gun and a bag of dead game birds, he strangely pleaded “not guilty”! The good J.P. was convicted and  ned for shooting ducks out of season. His career on the Bench continued but his days hearing poaching charges were over.",
+        "In 1898, a well-known Rushworth woman was accused of “pilfering and behaving in a way not conducive to the morality of the township”. She went to Bendigo gaol, found guilty of being a “disorderly prostitute”. If only she had been a little more orderly...",
+        "Some left the Court House escorted across a paddock to “compulsory retirement in the logs” for a short period. Others won a longer visit to “Her Majesty’s boarding house”, referring to Queen Victoria.",
+        "A predecessor timber Court House was hastily built in 1857. Not attending to face charges was a once well-respected local bank manager, Lowson Salmon. He and the bank’s cash left the district coincidentally one night in 1860, never to be seen again.",
+        "Even before that original building was constructed and within six months of the discovery of gold in 1853, two visitors to the local diggings went straight to Melbourne’s Supreme Court where they were convicted of separate crimes at Moora and Rushworth. Both were hanged in Melbourne Gaol.",
+        "In 1857, three men went down for “highway robbery” near Rushworth’s Criterion Hotel. The Moora hotels, the Wanalta hotel and several hotels at Whroo also had their share of unwanted action. In a major shock, the book  nds that some pubs traded outside legal hours!",
+        "More than one publican was  ned for operating an unlicensed billiard table. Others were found guilty of allowing unauthorised dancing in their “public houses”. Law and order in the district were plainly under serious attack from the forces of evil!",
+        "Brawling Chinamen,  ghting farmers, horse thieves, aggressive foul-mouthed drunks, passive drunks, cadgers, owners of sly-grog shanties, swagmen carrying more than their own goods (usually in a bottle), owners of destructive wandering goats and pigs, carriers who neglected to put their name on their cart, a man found at night in Wigg’s brewery, and a mother of 14 who failed to send her eldest child to school for the speci ed number of days. All passed through the Court House door, each earning a place in the book.",
+        "Lucky to avoid a visit in 1883 were Murchison loafers and vagrants who had “thoroughly mastered the art of living on nix, and getting drunk on the pro ts!”",
+        "These colourful characters, and many more, bring to life the  rst  fty years of settlement at Rushworth, Colbinabbin, Corop, Gobarup, Moora, Stanhope, Toolleen, Wanalta, Whroo, and Murchison.",
+        "Alan’s book will be available for purchase during the Easter festivities at Rushworth, from Stanhope Newsagency, and from Rushworth Gift and Variety, at just $23."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "comments": "enabled"
+    },
+    "rushworth-p-12-memorial-thanks": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-04-13",
+      "title": "P-12 College thanked for memorial help",
+      "media": "s3./wnews/gallery/2017/04/wnews20170413-010.jpg",
+      "pars": [
+        "Local schools played a signi cant role in the recent activities to commemorate the extraordinary bravery and skill exhibited by two of Rushworth’s most illustrious sons, Air Vice-Marshal Frank McNamara VC CBE CB and Air Marshal Sir George Jones KBE CB DFC. Hundreds of people attended the unveiling of statues to the two men adjacent to the War Memorial in High Street, and the event received nationwide attention in the media.",
+        "Co-hosted by Rushworth RSL Sub-Branch and the RAAF, the event commemorated the awarding of a Victoria Cross Medal to locally born aviator, Frank McNamara, after whom McNamara House at Rushworth P-12 College is named.",
+        "Current Year 12 students of the College - <em>alma mater</em> to both heroes - played an especially important role, presenting wreaths to dignitaries during the wreath-laying ceremony at the War Memorial.",
+        "By way of thanks, the RAAF presented each Year 12 student with a History of the Royal Australia Air Force between its formal foundation in 1921 and 2016, when the book was published.",
+        "Rushworth RSL representative Ian Riley - accompanied by wife Marion - recently attended a weekly College assembly to present the Year 12 students with their books on behalf of the RAAF. Especially notable recipients were 2016 College Dux Blake Rosenberg and McNamara House Co-Captain Kody Diegan, who spoke so eloquently on behalf of the College during the statue unveiling ceremony.",
+        "Everyone agreed that all of the Rushworth P-12 College students had “done their school and community proud”, and merited the praise lavished upon them from so many quarters."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "travellers-experience-magic-of-india": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-04-13",
+      "title": "Travellers experience India’s magic",
+      "media": "s3./wnews/gallery/2017/04/wnews20170413-019.jpg",
+      "pars": [
+        "Excitement was high when, in early February, a group of 12 yoga students and friends met at Tullamarine Airport ready for adventure. They were heading off on the inaugural Sacred Earth Yoga Tour to India, a tour organised by Sue Barlow of the Mud Hut Yoga Studio, Rushworth. The idea was to create an opportunity to experience the wonders of India (the birth place of yoga) and at the same time to experience yoga in quite a different way from attending a regular class at a studio.",
+        "Needless to say, the excitement was well-justi ed, as was that little tinge of edgy anticipation - wondering just what was ahead for the travellers. From the moment of exiting the airport, India was everything one might have expected - and then add some! Immediately all of the senses are engaged in experiencing the land and its culture. The visual explosion of colourful saris, ceremonial  owers and sparkly ‘jewel’ encrusted wares, the cacophony of endless beeping horns in chaotic traf c of cars and rickshaws, the smells of incense and spice (and some of not so pleasant origin), the teeming pedestrian population of people old and young, of street vendors, of animals - sometimes camels and donkeys, but always, always COWS.",
+        "Here is one traveller’s account of some of the trip’s highlights. It’s just a little taste - as to do more than scratch the surface might require the pages of a small book!",
+        "The tour started in Delhi where we explored the bustling bazaars of Old Delhi by foot and by rickshaw. We visited an amazing Sikh temple where thousands of people are fed every day by volunteers and we became a little familiar with the sounds, smells and sights of India that would become our ‘norm’ for the next two weeks.",
+        "Our next stop was Agra where we saw the amazing, breathtaking Taj Mahal. Busy is an understatement! Indians visit the Taj four times in their lifetimes if possible: when they are born, when they are in school, when they are married and then when they take their own children. It was a Sunday when we visited – and they were all there – the whole 1.25 billion – well, not really, but it felt like that for those of us used to space and a lot less people!",
+        "From Agra, we visited Jaipur (the pink city), Pushkar (a holy city nestled on a lake on the edge of a desert) and Jodphur (the blue city). While we were in Jodphur we were lucky enough to attend three concerts that were part of the Sacred Spirit Festival. What an amazing experience. The evening concerts were held in the Mehrangarh Fort. The Fort was lit up against the night sky and the music was so very beautiful it is impossible to do justice by way of explanation. After this we travelled to Varanasi. This city is considered very holy and many pilgrims come to Varanasi to bathe in the Ganges River. It is considered auspicious to die and be cremated in Varanasi. This extremely busy and fascinating city is undergoing many changes at present, which will hopefully make life easier for the residents. This is only a brief snapshot of all the things we saw and experienced.",
+        "Throughout our tour, we had regular yoga classes which were designed to either prepare us for the day ahead or relax us and calm us for a good night’s sleep. We also attended a Laughter Yoga class in a park in Jaipur which was a lot of fun. Ridiculous really – but a lot of fun!! We also attended a community sunrise yoga class down by the Ganges while in Varanasi. The food and accommodation was excellent throughout. Our Indian guide, Amit, went out of his way to ensure we were informed, comfortable and enjoying ourselves. And, being a yogi himself, he even had us doing yoga on the bus some days. We walked, we talked, we ate, we laughed, we saw amazing sights and we all came home with a great appreciation for India.",
+        "In many ways, the highlight of the trip was the fantastic group of people. Everyone had a great time and we all enjoyed one another’s company."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true
     },
     "heroes-remembered": {
       "sling:resourceType":"wnews/page/article",
