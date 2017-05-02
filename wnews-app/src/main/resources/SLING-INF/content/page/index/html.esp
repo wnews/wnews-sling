@@ -49,6 +49,8 @@
       <div class="row">
         <div class="col-md-8">
           <div class="row">
+            <hr style="border-top: 2px solid black; width: 65%; margin-left: 50px;"/>
+
             <% sling.include("articles/list.feature.html/1"); %>
             <% sling.include("articles/list.summary.html/4"); %>
           </div>

@@ -39,5 +39,3 @@
           sling.include(currentNode.banner + ".html");
         }
     %>
-
-<hr style="border-top: 2px solid black; width: 50%; margin-left: 165px;"/>
