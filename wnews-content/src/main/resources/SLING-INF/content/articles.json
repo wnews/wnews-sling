@@ -7,7 +7,20 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 6,
-      "total": 39
+      "total": 40
+    },
+    "clowning-around": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2017-04-27",
+      "title": "Clowning around at the Festival",
+      "media": "s3./wnews/gallery/2017/04/wnews20170427-000.jpg",
+      "pars": [
+        "The Parade is always the crowning glory of the Rushworth Heritage Easter Festival and the large crowd this year was not disappointed. There was much to see and enjoy during the day including the variety of interesting stalls such as Nigel of Quirky Designs (left) with his garden sculptures."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "related": ["rushworth-the-place-to-be", "draught-horses-working-for-easter"]
     },
     "rushworth-the-place-to-be": {
       "sling:resourceType":"wnews/page/article",
