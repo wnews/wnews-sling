@@ -41,6 +41,8 @@
 
       <div class="row">
         <div class="col-md-8">
+          <hr style="border-top: 2px solid black; width: 65%; margin-left: 90px;"/>
+
           <%
             if (currentNode.list) {
               var suffix = request.requestPathInfo.suffix ? request.requestPathInfo.suffix : "";
