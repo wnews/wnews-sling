@@ -7,7 +7,7 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 6,
-      "total": 40
+      "total": 42
     },
     "clowning-around": {
       "sling:resourceType":"wnews/page/article",
@@ -21,6 +21,37 @@
       "disqusShortName": "waranganews",
       "published": true,
       "related": ["rushworth-the-place-to-be", "draught-horses-working-for-easter"]
+    },
+    "anzacs-remembered": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-04-27",
+      "title": "ANZAC Day remembered in district towns",
+      "media": "s3./wnews/gallery/2017/04/wnews20170427-012.jpg",
+      "pars": [
+        "ANZAC Day was once again commemorated in the district with a range of events including the traditional Dawn Service, flag-raising and march.",
+        "In Rushworth the atmospheric Dawn Service at the War Memorial was enhanced by lone piper Ramon Rathjen’s playing of the lament. Rushworth P-12 College student Jess Hamilton read a moving poem and Toni Wright laid a wreath on behalf of the College.",
+        "At 10 am, the march to the Shire Hall, led by the Rushworth and District Concert Band, began at the Post Of ce and paused at the War Memorial.",
+        "Rushworth Sub-Branch President, Bill Barlow, chaired the service at the Shire Hall, and introduced guest speaker Group Captain Joseph Medved.",
+        "The morning’s service included a poem written and presented by student Isobel Crute, and prayers conducted by Rev Kevin Maxwell."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "related": ["heroes-remembered", "centenary-anzac-day"]
+    },
+    "bottom-pub-raises-thousands": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-04-27",
+      "title": "Bottom Pub raises thousands for Kids",
+      "media": "s3./wnews/gallery/2017/04/wnews20170427-025.jpg",
+      "pars": [
+        "The Rushworth Hotel (Bottom Pub) held its annual Charity Auction and Raf e for the Royal Children’s Hospital on Good Friday evening, and proprietors Maz and Andy are thrilled with the 2017 result - an extraordinary $9205.45 raised to help maintain the vital work of this unique medical establishment.",
+        "By 7.30, the Pub was packed with patrons ready to buy up big in support of the Hospital; some bidding for goods that they may not need, others securing items that they immediately donated back to the Hotel to augment its decor!",
+        "Sporting memorabilia was popular, as were the vast array of tools and household appliances assembled for the sale.",
+        "There was even a pale blue vehicle bonnet, lovingly restored and emblazoned with an image of the pub and a reminder of its outstanding support of the Royal Children Hospital Appeal.",
+        ""
+      ],
+      "disqusShortName": "waranganews",
+      "published": true
     },
     "rushworth-the-place-to-be": {
       "sling:resourceType":"wnews/page/article",
