@@ -7,7 +7,19 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 6,
-      "total": 42
+      "total": 43
+    },
+    "avards-adventure-land": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2017-05-11",
+      "title": "AVARD ADVENTURE LAND",
+      "media": "s3./wnews/gallery/2017/05/wnews20170511-000.jpg",
+      "pars": [
+        "Colbinabbin Kinder children recently found excitement just down the road when they visited the beautiful and adventure-filled garden of John and Glenys Avard. The children discovered a dragon in the lake, made their way through a labyrinth and found some stones that were excellent for grinding seed pods. It was a lovely day for a picnic and a play, and a fun day was had by all."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true
     },
     "clowning-around": {
       "sling:resourceType":"wnews/page/article",
