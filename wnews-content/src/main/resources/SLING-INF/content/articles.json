@@ -7,7 +7,23 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 6,
-      "total": 43
+      "total": 44
+    },
+    "spectacular-sunrises": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2017-05-25",
+      "title": "Spectacular sunrises around Rushworth",
+      "media": "s3./wnews/gallery/2017/05/wnews20170525-000.jpg",
+      "pars": [
+        "From time to time, Rushworth’s location north of the Great Dividing Range provides us with spectacular weather phenomena, including brilliant sunsets and sunrises that can soften the hardest of hearts! A rising sun and cold, crisp mornings can create spectacular vistas that photographers crave, whether in their “backyards” or the depths of a forest.",
+        "The top photo was taken as the rising sun cast vivid golden beams onto the tops of trees near Rushworth’s Astronomical Observatory, the glowing grey-box tree tops contrasting brilliantly with the grey-blue early morning sky.",
+        "The photo at right was taken as morning sunlight began trickling through the box and sugar gums at Gum Flat, between Rushworth and Whroo.",
+        "Recent heavy downpours had carved  ood-ways amid the leaf-litter on the forest  oor, and these are now sprouting an eye- pleasing carpet of grass shoots and mosses;  ne fare for furry forest folk!",
+        "The high resolution cameras built into modern smartphones can yield superb photos, as these two images taken by Rushworth Community House’s photographer Cass Alexander clearly demonstrate."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true
     },
     "avards-adventure-land": {
       "sling:resourceType":"wnews/page/article",

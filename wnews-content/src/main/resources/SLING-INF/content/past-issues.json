@@ -7,12 +7,20 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 12,
-      "total": 77
+      "total": 78
     },
     "2017-05-11": {
       "sling:resourceType": "wnews/page/front-page",
       "title": "May 11, 2017",
       "media": "s3./wnews/past-issues/2017/05/wnews20170511.jpeg",
+      "comments": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "2017-05-25": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "May 25, 2017",
+      "media": "s3./wnews/past-issues/2017/05/wnews20170525.jpeg",
       "comments": "enabled",
       "disqusShortName": "waranganews",
       "published": true
