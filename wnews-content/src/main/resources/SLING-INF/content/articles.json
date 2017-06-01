@@ -7,7 +7,7 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 6,
-      "total": 44
+      "total": 46
     },
     "spectacular-sunrises": {
       "sling:resourceType":"wnews/page/article",
@@ -23,7 +23,47 @@
         "The high resolution cameras built into modern smartphones can yield superb photos, as these two images taken by Rushworth Community House’s photographer Cass Alexander clearly demonstrate."
       ],
       "disqusShortName": "waranganews",
-      "published": true
+      "published": true,
+      "related": ["photo-competition", "wildflower-hunt"]
+    },
+    "photo-competition": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-05-25",
+      "title": "Introducing the Waranga News photo competition",
+      "media": "s3./wnews/gallery/2017/05/wnews20170525-008.jpg",
+      "pars": [
+        "Our front page photos this edition remind us of how photogenic our local district is and especially how it changes with the changing seasons. So it has inspired us to offer our readers a chance to show off their own photography skills.",
+        "Getting out and about in the local environment with a camera in hand, whether it be a mobile phone or a top of the range DSLR is an enjoyable way to while away a few hours.",
+        "Our Facebook and Instagram feeds are always  lled with great images of the Waranga district, so we know that there are many keen snappers in the community!",
+        "With the changing of the seasons, we are looking for images with a ‘Winter in Waranga’ theme for our  rst photography competition. You can participate by submitting up to three winter images to wnews@iinet.net.au",
+        "We will then upload ten entries that best interpret the theme to the Waranga News Facebook page for a popular vote.",
+        "The winning entry will be published in colour in a future issue of the Waranga News, so you might like to consider an eye catching composition, a compelling subject, and striking colours when taking your photos."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "related": ["spectacular-sunrises", "wildflower-hunt"]
+    },
+    "rushworth-okeefe-rail-trail": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-05-25",
+      "title": "Linking Rushworth to the O’Keefe Rail Trail",
+      "media": "s3./wnews/gallery/2017/05/wnews20170525-009.jpg",
+      "pars": [
+        "Linking Rushworth to a network of Victorian rail trails is something that some may only think is a dream, yet such could start to happen sooner, rather being just a dream! With the popular O’Keefe Rail Trail now extended and connecting Heathcote, Axedale and Bendigo, bringing tourists to those areas, could Rushworth also be on the radar for those same trail walkers and cyclists?",
+        "On Wednesday 17 May, eight members of the Friends of the Bendigo-Kilmore Rail Trail group rode into Rushworth from Heathcote. Why? Were they lost? What was to be achieved?",
+        "No they were not lost, and yes they wanted to be in Rushworth! Yes, they did spend money in both Heathcote and Rushworth, and yes they enjoyed looking at places of interest along High Street, Rushworth and the former railway reserve. One cycling member and his wife plus caravan were even staying overnight at Rushworth.",
+        "The real reason for the ride was to explore and assess ‘on-the-ground’, a possible cycling route between Heathcote and Rushworth, away from rural roads and traf c where possible.",
+        "A route that was both interesting and safe, for the type of people who enjoy visiting rail trails.",
+        "The selected route for the investigation was mostly utilising forest tracks within the Heathcote-Graytown National Park and the Whroo Nature Conservation Reserve, yet some rural roads did have to be included.",
+        "With the Murchison-Rushworth (Waranga) Rail Trail having its section within the Greater Shepparton Council area completed, many trail cycling and walking tourists are waiting for the remaining section into Rushworth to be completed by the Campaspe Shire.",
+        "When the trail is continuous, it will be a large boost for tourism in the area, plus being used by the local community. Maximising this trail’s potential would bene t hugely from also being connected to other such trails, like the O’Keefe Rail Trail.",
+        "A funded feasibility study is currently investigating the potential and possibility of a proposed Wallan to Heathcote Rail Trail (65kms). Such a trail would directly connect to the O’Keefe Rail Trail (50kms) at Heathcote, a combined 115kms trail. The study’s consultants are also investigating the possibility of linking such a trail into the Melbourne Metro trail network, as well as the Great Victorian Rail Trail. This possibility has huge potential for Victorian regional cycle and walking tourism, the creation of a network of linked trails. The study’s  nal report is expected to be published by July of this year.",
+        "In the meantime, Friends of the Bendigo-Kilmore Rail Trail members who rode the 50kms on Wednesday were impressed by their chosen route, as well as the points of interest noted along the ride.",
+        "Plus, the Rushworth Bakery’s vanilla slices were also definitely highly rated!"
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "related": ["positive-partnerships-on-track", "ride-for-youth-mental-health"]
     },
     "avards-adventure-land": {
       "sling:resourceType":"wnews/page/article",
