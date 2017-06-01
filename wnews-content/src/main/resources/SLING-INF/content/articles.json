@@ -7,7 +7,7 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 6,
-      "total": 46
+      "total": 47
     },
     "spectacular-sunrises": {
       "sling:resourceType":"wnews/page/article",
@@ -64,6 +64,24 @@
       "disqusShortName": "waranganews",
       "published": true,
       "related": ["positive-partnerships-on-track", "ride-for-youth-mental-health"]
+    },
+    "meet-earl": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-05-25",
+      "title": "Meet Earl",
+      "media": "s3./wnews/gallery/2017/05/wnews20170525-026.jpg",
+      "pars": [
+        "Earl was found on the ground at a farmland property at Earlston. There was no mother koala in sight, but in a nearby tree an adult male was spotted.",
+        "Although it is outside the main breeding time for koalas in our area they can also mate during this time, so there is always the possibility that little Earl was separated from his mother in an altercation between her and a male. Like many of our patients here at Bohollow, we will never know his full story as to how he ran into trouble and ended up alone on the ground, but he has likely been without his mother for more than just one day as he is under-weight.",
+        "Deb picked him up from our Bunbartha shelter shortly after I arrived home with him and he has already perked up considerably with regular feeds and care. He will be raised by Deb at our Kotupna shelter and eventually go on to be released if all goes well.",
+        "Female koalas usually begin to breed around three or four years of age and can have one offspring each year, although sometimes they may only produce young once every two or three years. This can depend on food sources, habitat and the age of the female. Females average a lifespan in the wild of around twelve years and during their life they may only have  ve or six young.",
+        "From conception to the birth of a koala joey, it only takes 35 days! Newborn koalas are teeny, only weighing in at about a gram and measuring around 2cm long. Just like other marsupial joeys, they are akin to a hairless, pink, blind jelly bean and they make the same arduous journey from the birth canal to their mother’s pouch without any help. To do this, they rely on their sense of smell and touch, using their already strong forelimbs and claws to make the climb. Upon reaching the safety of the pouch, the koala joey attaches itself to one of two teats. The teat swells to  ll its tiny mouth which helps to prevent the babe from detaching and mother koala contracts muscles at the top of her pouch to keep her young safe and free from the danger of falling out.",
+        "For six to seven months, the koala joey remains in the pouch, only drinks its mother’s milk and develops eyes, ears and fur. When they are around twenty-two weeks old, they begin to take peeks out of the pouch with freshly opened eyes.",
+        "Koala mothers also produce a substance other than milk which is called pap. Pap has a soft, runny consistency and is actually made of faeces (droppings) and this is a vital part of the joey’s diet from around twenty-two to thirty weeks. Pap contains the micro- organisms in the mother’s digestive system and is rich in protein which, through digesting the pap, is passed onto the joey. This allows the transition from milk to eucalyptus leaves, as these important micro-organisms enable the koala to digest them. To feed on pap, the joey must lean out of the pouch. Pap becomes a regular part of their diet until they begin to feed on fresh leaves, usually feeding on these while on their mother’s back. When a koala joey is too big to  t inside the pouch, the mother’s teat becomes very elongated so it protrudes from the pouch to make feeding easier. A baby koala will continue to drink milk from their mother until they are a year old and remain with their mother until the next joey appears from the pouch. Therefore if a female does not have another joey the following year, her joey will often remain with her longer and has a greater chance of survival.",
+        "Koalas truly are one of Australia’s unique critters!"
+      ],
+      "disqusShortName": "waranganews",
+      "published": true
     },
     "avards-adventure-land": {
       "sling:resourceType":"wnews/page/article",
