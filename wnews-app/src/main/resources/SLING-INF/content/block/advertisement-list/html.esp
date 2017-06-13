@@ -9,7 +9,7 @@
 
         for(var i in currentNode) {
             if (currentNode[i]['sling:resourceType'] == "wnews/page/advertisement"
-                && currentNode[i].published) {
+                && currentNode[i].published == true) {
 
 		ads.push(currentNode[i].path);
 	    }
