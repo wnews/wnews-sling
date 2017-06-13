@@ -4,6 +4,14 @@
   "jcr:primaryType":"nt:unstructured",
   "list": {
     "sling:resourceType":"wnews/block/advertisement-list",
+    "3b-small-engines": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "3B Small Engines",
+      "media": "s3./wnews/",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": false
+    },
     "cottage-ice-cream-shoppe": {
       "sling:resourceType": "wnews/page/advertisement",
       "title": "The Cottage Ice Cream Shoppe",
@@ -50,7 +58,7 @@
       "media": "s3./wnews/Clinical-Massage.png",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
-      "published": true
+      "published": false
     },
     "clive-coventry": {
       "sling:resourceType": "wnews/page/advertisement",
@@ -68,10 +76,90 @@
       "disqusShortName": "waranganews",
       "published": true
     },
+    "generations-church": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Generations Church",
+      "media": "s3./wnews/Generations-Church.png",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "kyabram-funeral-directors": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Kyabram Funeral Directors",
+      "media": "s3./wnews/Kyabram-Dist-Funeral-Services.png",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "motofinish-cafe": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Motofinish Cafe",
+      "media": "s3./wnews/Motofinish-Cafe.png",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "murchison-service-station": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Murchison Service Station",
+      "media": "s3./wnews/Murchison-Service-Station.png",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
     "mud-hut-joga": {
       "sling:resourceType": "wnews/page/advertisement",
       "title": "Mud Hut Yoga",
       "media": "s3./wnews/Mud-Hut-Yoga-proof.png",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "rushworth-bakery": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Rushworth Bakery",
+      "media": "s3./wnews/Rushworth-Bakery.png",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "rushworth-community-house": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Rushworth Community House",
+      "media": "s3./wnews/Rushworth-Community-House.png",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "rushworth-gift-variety": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Rushworth Gift &amp; Variety",
+      "media": "s3./wnews/Rushworth-Gift-Variety.png",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "steph-ryan": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Steph Ryan",
+      "media": "s3./wnews/",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": false
+    },
+    "truffles": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Truffles",
+      "media": "s3./wnews/",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": false
+    },
+    "valley-funerals": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Valley Funerals",
+      "media": "s3./wnews/Valley-Funerals.png",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
