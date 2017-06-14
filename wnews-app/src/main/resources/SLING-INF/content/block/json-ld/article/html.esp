@@ -1,0 +1,11 @@
+<script type="application/ld+json">
+{
+  "headline": "<%= currentNode.title %>"
+<% if (currentNode.media) { %>,
+  "image": {
+    "@type": "ImageObject",
+    "url": "http://wnews.org.au/wp/media/<%= currentNode.media %>"
+  }
+<% } %>
+}
+</script>
