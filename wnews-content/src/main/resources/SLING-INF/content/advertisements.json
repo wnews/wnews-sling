@@ -7,10 +7,58 @@
     "3b-small-engines": {
       "sling:resourceType": "wnews/page/advertisement",
       "title": "3B Small Engines",
-      "media": "s3./wnews/",
+      "media": "s3./wnews/3b Small Engines.jpg",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
-      "published": false
+      "published": true
+    },
+    "alan-howard": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Alan Howard Real Estate",
+      "media": "s3./wnews/Allan Howard Real Estate.jpg",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "anton-damen": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Anton Damen",
+      "media": "s3./wnews/Anton Damen.jpg",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "bayly-solar": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Bayly Solar",
+      "media": "s3./wnews/Bayly Solar.jpg",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "beau-jangles": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Beau Jangles",
+      "media": "s3./wnews/Beau Jangles.jpg",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "bj-repairs": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "BJ Repairs",
+      "media": "s3./wnews/BJ Repairs.jpg",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "colbinabbin-hotel": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Colbinabbin Hotel",
+      "media": "s3./wnews/Colbinabbin Hotel.jpg",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
     },
     "cottage-ice-cream-shoppe": {
       "sling:resourceType": "wnews/page/advertisement",
@@ -47,7 +95,7 @@
     "campbell-smith": {
       "sling:resourceType": "wnews/page/advertisement",
       "title": "Campbell Smith",
-      "media": "s3./wnews/Campbell-Smith.png",
+      "media": "s3./wnews/Campbell Smith.jpg",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
@@ -63,7 +111,7 @@
     "clive-coventry": {
       "sling:resourceType": "wnews/page/advertisement",
       "title": "Clive Coventry",
-      "media": "s3./wnews/Clive-Coventry.png",
+      "media": "s3./wnews/Clive Coventry.jpg",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
@@ -71,7 +119,7 @@
     "coghlans-iga": {
       "sling:resourceType": "wnews/page/advertisement",
       "title": "Coghlans IGA",
-      "media": "s3./wnews/Coghlans-IGA.png",
+      "media": "s3./wnews/Coghlans.jpg",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
