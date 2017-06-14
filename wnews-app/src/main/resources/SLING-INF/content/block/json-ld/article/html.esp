@@ -1,5 +1,7 @@
 <script type="application/ld+json">
 {
+  "@context": "http://schema.org",
+  "@type": "NewsArticle",
   "headline": "<%= currentNode.title %>",
   "datePublished": "<%= currentNode.date %>"
 <% if (currentNode.media) { %>,
