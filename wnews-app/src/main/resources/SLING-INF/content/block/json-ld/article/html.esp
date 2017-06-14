@@ -1,6 +1,7 @@
 <script type="application/ld+json">
 {
-  "headline": "<%= currentNode.title %>"
+  "headline": "<%= currentNode.title %>",
+  "datePublished": "<%= currentNode.date %>"
 <% if (currentNode.media) { %>,
   "image": {
     "@type": "ImageObject",
