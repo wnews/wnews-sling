@@ -9,6 +9,14 @@
       "pageSize": 12,
       "total": 79
     },
+    "2017-06-22": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "June 22, 2017",
+      "media": "s3./wnews/past-issues/2017/06/wnews20170622.jpeg",
+      "comments": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
     "2017-06-08": {
       "sling:resourceType": "wnews/page/front-page",
       "title": "June 8, 2017",
