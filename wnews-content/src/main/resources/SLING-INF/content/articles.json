@@ -7,7 +7,69 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 6,
-      "total": 48
+      "total": 51
+    },
+    "indian-delights": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2017-06-22",
+      "title": "Indian delights in Rushworth",
+      "media": "s3./wnews/gallery/2017/06/wnews20170622-000.jpg",
+      "pars": [
+        "Ben, Glen, Pauline and Peter enjoy the Indian fare. (That’s a henna painted arm being held up to dry in the foreground!).",
+        "The idea of an Indian Banquet certainly drew a response with over ninety diners enjoying the sit-down lunch served in St Mary’s Hall, Rushworth.",
+        "The fund-raising event was in aid of a  edgling school in India. Fr Joseph Thippabathini who is the resident priest in Rushworth opened the school back home in Madhya Pradesh before he made the trip to serve in Australia’s Sandhurst Diocese.",
+        "The school offers education to children who previously were missing out - some  fty children being taught by the one teacher, a priest, Fr Joseph’s cousin. Money raised at Sunday’s event in Rushworth will go towards funding the school and support the education of children of very poor families."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "related": ["indian-banquet"]
+    },
+    "charity-shearing-day": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-06-22",
+      "title": "Annual charity shearing day",
+      "media": "s3./wnews/gallery/2017/06/wnews20170622-005.jpg",
+      "pars": [
+        "Planning is well under way for the third annual Royal Children’s Hospital charity shearing day to be held at Bill and Val Barlow’s farm’ Corydon’ - the fundraising initiative born out of local families’  rst-hand experience of the workings, value and importance of this world class hospital.",
+        "The decision was made by some local farmers together with their network of friends and district businesses, to do something positive to support this valuable institution.",
+        "The day is structured around people and businesses within the sheep industry donating their time, skills, products or services for one days shearing.",
+        "The  rst two charity days have raised a total of over $16,000.",
+        "After public inquiries and offers of further support, it has been decided to introduce a support arrangement that will give all an opportunity to contribute to this unique day.",
+        "The arrangement is centered around sponsoring a stand.",
+        "The shearing shed at Corydon will have seven named stands and each stand may have several shearers on the day.",
+        "People or businesses who wish to make a contribution are invited to sponsor a stand.",
+        "For example, the Wanalta Park stand shears 150 sheep @ 50 cents = $75.",
+        "The shearers and shed hands who donate their time would certainly appreciate support and recognition that their considerable effort deserves.",
+        "This community minded generation of Colbinnabin, Wanalta, Gobarup and Rushworth district sheep, lamb and wool farmers have gained a well deserved reputation of being very good at what they do.",
+        "Their commitment to the industry, willingness to embrace change and awareness of the wellbeing of their livestock is constantly re ected in the presentation of their sheep and wool, as well as in consistent strong results in the market place.",
+        "Information on how you may support the day and contact details will be available in the next edition on the Waranga News."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "related": ["bottom-pub-raises-thousands"]
+    },
+    "callum-gleeson": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-06-22",
+      "title": "Callum Gleeson releases a new album",
+      "media": "s3./wnews/gallery/2017/06/wnews20170622-008.jpg",
+      "pars": [
+        "Popular local performer and recording artist, Callum Gleeson, has recently released a new album, ‘Most Requested’ Volume 2.",
+        "Songs on this twelve track album are ‘Tennessee Whiskey’, ‘I’ll Leave This World Loving You’, ‘It’s Your Song’, ‘Little Sister’, ‘Holy Water’, ‘Making Memories Of Us’, ‘I Know One’, ‘Take These Chains’, ‘Thinking About Leaving’, ‘Dance The Night Away’, ‘As Long as There’s Lovin’ Tonight’ and ‘Hallelujah’.",
+        "This album is available at the Waranga News of ce in Rushworth, the ONE FM studios (Shepparton), Focus Cards and Gifts (Shepparton), High Street Vacuums and Electrical (Shepparton) and the Wunghu Tavern, at a cost of $20.",
+        "<strong>Performances at NZ festival</strong>",
+        "In May, Callum performed at the Bay of Islands Country Rock Festival at Paihia, a major festival that has been running for 28 years. He performed seven shows over three days, including one at one of the major motels in the city, with an audience of approximately 300. This year 54 artists were involved and, although there is a policy not to invite international artists in consecutive years, Callum has been invited to perform again next year for the fourth consecutive year.",
+        "Callum told the Waranga News, “The festival at Paihia is very prestigious and to be honoured with an invitation for next year, the fourth in a row, is a feather in my cap. I wish to thank the Festival organisers for their wonderful support.”",
+        "<strong>Signing with leading Melbourne agent</strong>",
+        "Callum has recently signed with a leading booking agent in Melbourne and is performing in the city and suburbs. To date he has done eight shows, including RSL Clubs and Morning Melodies at a range of clubs.",
+        "<strong>Radio commitments</strong>",
+        "As well as being a talented performer and recording artist, Callum continues to be a very capable radio presenter on 98.5 ONE FM. His program is on Thursdays from midday to 3pm, unless he is performing or travelling to or from a performance.",
+        "<strong>Further information</strong>",
+        "Further information about Callum is available at his website: callumgleeson.com.au"
+      ],
+      "disqusShortName": "waranganews",
+      "published": true
     },
     "towards-reconciliation": {
       "sling:resourceType":"wnews/page/article",
