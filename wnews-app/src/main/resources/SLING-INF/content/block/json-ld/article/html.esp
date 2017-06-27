@@ -4,7 +4,7 @@
   "@type": "NewsArticle",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http://wnews.org.au<%= currentNode.path %>"
+    "@id": "http://wnews.org.au<%= currentNode.path.replace(/^\/content\/wnews/, '') %>"
   },
   "headline": "<%= currentNode.title %>",
   "datePublished": "<%= currentNode.date %>",
