@@ -7,7 +7,7 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 6,
-      "total": 52
+      "total": 54
     },
     "winter-films": {
       "sling:resourceType":"wnews/page/article",
@@ -20,6 +20,53 @@
         "Three films were screened over the weekend - the toe-tapping classic ‘Singin’ in the Rain’, the cult classic Coen Brothers’ film ‘The Big Lebowski’, and the hauntingly beautiful film ‘The Piano’, set in frontier New Zealand.",
         "Movie-goers were entertained, wined and dined during the festival by a large group of local volunteers.",
         "Highlights of the weekend included the snappily dressed tray boys and girls, offering a range of Cottage Ice Cream Shoppe lollies, ice-creams and freshly made popcorn to the crowd, whilst the ushers decked out in black ties added a touch of vintage glamour to the event."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "community-grant-for-environment": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2017-07-06",
+      "title": "Community grant for environment project",
+      "media": "s3./wnews/gallery/2017/07/wnews20170706-006.jpg",
+      "pars": [
+        "The recent announcement of Shire of Campaspe funding for community projects has made the Rushworth Action Group for the Environment (a sub-committee of the Goulburn Valley Environment Group) very excited to learn that it is one of the successful recipients.",
+        "An allocation of $4000 will be gratefully received by the group members enabling them to commence a community project which they hope to be completed by this spring.",
+        "The proposal, which was initially estimated to cost $6000, has been unsuccessful with additional funding and has therefore been revised to suit the $4500 budget, with $500 coming from the group’s own fundraising efforts.",
+        "The project aims to engage the entire community on a number of levels.",
+        "Located at the Rushworth Railway Reserve, just east of the skate park, the objective of the project is to beautify an area of the Railway Reserve by providing two large wildflower beds which run quite close to the edge of the path on both sides, making it easy for walkers to view the species planted there.",
+        "The garden beds are organically shaped but lineal in fashion, and run alongside the bitumen walking path, surrounding the park bench and integrating with existing plantings.",
+        "At present, the area in question is made up of a number of weed species, dominated by bindii, making the area otherwise inaccessible for recreation. The design takes into account any possibilities for future use of the Railway Reserve and does not encroach on usable open space or restrict access to the goods shed. It also allows for opportunities to develop the area further as the entrance to the township from Melbourne.",
+        "The wildflower bed concept was initiated by the environment group after a Goulburn Valley Water infrastructure project which saw the removal of many understory species along the Bendigo-Murchison Road. GVWater agreed to compensate by supplying the plants and tree guards, but more funding was needed to construct the beds in a professional manner.",
+        "The project will see the revegetation of many of the same species which were removed, to create a wildflower display which celebrates the species diversity of the local area and can be used as an educational tool and seed bank.",
+        "Garden bed construction will take up most of the funding, with materials and landscape supplies being the major expense. The rest of the work, including the actual planting activity, will be carried out by the group and any community organisation or individual who wishes to be involved.",
+        "Now that the funding has been announced, a date will be set for a community planting day and local groups will be invited to take part.",
+        "Members of the local environment group are very pleased to have the opportunity to contribute to the amenity, aesthetics and community participation opportunities for the township.",
+        "To register your interest, please contact Louise Costa-Pelle on 0437 153 203"
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "related": ["wildflower-hunt", "spectacular-sunrises"]
+    },
+    "stanhope-cheese-plant": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2017-07-06",
+      "title": "First milk flows at new Stanhope cheese plant",
+      "media": "s3./wnews/gallery/2017/07/wnews20170706-012.jpg",
+      "pars": [
+        "Stanhope’s new state-of-the-art cheese plant is a step closer to making cheese after the first milk flowed through the lines. The milk, collected from local dairy farms in Northern Victoria, will be made into cheese destined for the domestic and global markets.",
+        "Fonterra commenced its A$140 million dollar rebuild and expansion of its Stanhope site in Northern Victoria in 2015, after the cheese plant was destroyed by fire in December 2014.",
+        "Fonterra Australia Managing Director René Dedoncker said this begins a new era at Stanhope.",
+        "“Today is an important milestone for our Australian business and a key pillar of our strategy. Our investment in the long-term future of the Stanhope cheese plant will help us meet growing global demand for cheese and have positive flow-on effects for the local community and our farmers,” said René.",
+        "“The plant will process millions of litres of milk from across Northern Victoria each year to make cheese and whey. This means certainty for our farmers that they will have a home for their milk.",
+        "Stanhope dairy farmer Rob Schloss says the new cheese plant will have a very positive impact on the local community, who are looking forward to seeing Stanhope cheese on supermarket shelves again.",
+        "“For the community, I think it’s going to be a big plus to have the cheese plant operating again, and it will put some positivity back into the industry in the north,” said Rob.",
+        "Ms Dedoncker noted the exceptional job done to have the site ready for first milk by everyone involved in Stanhope.",
+        "“Before long we’ll be making mozzarella at Stanhope for the first time, which will soon be topping delicious pizzas in China,” she said.",
+        "Over the next eight weeks, the new modern plant will ramp up production in readiness to supply Fonterra’s full range of cheese for domestic and global markets.",
+        "The cheese plant will be officially opened at an event in mid-August."
       ],
       "disqusShortName": "waranganews",
       "published": true
