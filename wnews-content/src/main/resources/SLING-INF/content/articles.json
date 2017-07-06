@@ -26,7 +26,6 @@
     },
     "community-grant-for-environment": {
       "sling:resourceType":"wnews/page/article",
-      "feature": true,
       "date": "2017-07-06",
       "title": "Community grant for environment project",
       "media": "s3./wnews/gallery/2017/07/wnews20170706-006.jpg",
@@ -51,7 +50,6 @@
     },
     "stanhope-cheese-plant": {
       "sling:resourceType":"wnews/page/article",
-      "feature": true,
       "date": "2017-07-06",
       "title": "First milk flows at new Stanhope cheese plant",
       "media": "s3./wnews/gallery/2017/07/wnews20170706-012.jpg",
