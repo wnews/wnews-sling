@@ -52,50 +52,18 @@
       "disqusShortName": "waranganews",
       "published": true
     },
-    "colbinabbin-hotel": {
-      "sling:resourceType": "wnews/page/advertisement",
-      "title": "Colbinabbin Hotel",
-      "media": "s3./wnews/advertisements/Colbinabbin Hotel.jpg",
-      "testimonials": "enabled",
-      "disqusShortName": "waranganews",
-      "published": true
-    },
-    "cottage-ice-cream-shoppe": {
-      "sling:resourceType": "wnews/page/advertisement",
-      "title": "The Cottage Ice Cream Shoppe",
-      "media": "s3./wnews/advertisements/Cottage-Ice-Cream-Shoppe.png",
-      "testimonials": "enabled",
-      "disqusShortName": "waranganews",
-      "published": true
-    },
-    "criterion-hotel-accommodation": {
-      "sling:resourceType": "wnews/page/advertisement",
-      "title": "The Criterion Hotel",
-      "media": "s3./wnews/advertisements/Criterion-Hotel-accomm.png",
-      "testimonials": "enabled",
-      "disqusShortName": "waranganews",
-      "published": true
-    },
-    "old-imperial-hotel": {
-      "sling:resourceType": "wnews/page/advertisement",
-      "title": "The Old Imperial Hotel",
-      "media": "s3./wnews/advertisements/Imperial-Hotel.png",
-      "testimonials": "enabled",
-      "disqusShortName": "waranganews",
-      "published": true
-    },
-    "king-billy-retreat": {
-      "sling:resourceType": "wnews/page/advertisement",
-      "title": "King Billy Retreat",
-      "media": "s3./wnews/advertisements/King-Billy-Retreat.png",
-      "testimonials": "enabled",
-      "disqusShortName": "waranganews",
-      "published": true
-    },
     "campbell-smith": {
       "sling:resourceType": "wnews/page/advertisement",
       "title": "Campbell Smith",
       "media": "s3./wnews/advertisements/Campbell Smith.jpg",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "clive-coventry": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Clive Coventry",
+      "media": "s3./wnews/advertisements/Clive Coventry.jpg",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
@@ -108,14 +76,6 @@
       "disqusShortName": "waranganews",
       "published": false
     },
-    "clive-coventry": {
-      "sling:resourceType": "wnews/page/advertisement",
-      "title": "Clive Coventry",
-      "media": "s3./wnews/advertisements/Clive Coventry.jpg",
-      "testimonials": "enabled",
-      "disqusShortName": "waranganews",
-      "published": true
-    },
     "coghlans-iga": {
       "sling:resourceType": "wnews/page/advertisement",
       "title": "Coghlans IGA",
@@ -124,10 +84,98 @@
       "disqusShortName": "waranganews",
       "published": true
     },
+    "colbinabbin-hotel": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Colbinabbin Hotel",
+      "media": "s3./wnews/advertisements/Colbinabbin Hotel.jpg",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "cottage-ice-cream-shoppe": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "The Cottage Ice Cream Shoppe",
+      "media": "s3./wnews/advertisements/Cottage Ice Cream Shoppe.jpg",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "criterion-hotel": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "The Criterion Hotel",
+      "media": "s3./wnews/advertisements/Criterion Hotel.jpg",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "dawes-vary-riordan": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Dawes &amp; Vary Riordan",
+      "media": "s3./wnews/advertisements/Dawes &amp; Vary Riordan.jpg",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "ew-pumps": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "EW Pumps",
+      "media": "s3./wnews/advertisements/EW Pumps.jpg",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "farriervet": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Farriervet",
+      "media": "s3./wnews/advertisements/Farriervet.jpg",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
     "generations-church": {
       "sling:resourceType": "wnews/page/advertisement",
       "title": "Generations Church",
-      "media": "s3./wnews/advertisements/Generations-Church.png",
+      "media": "s3./wnews/advertisements/Generations.jpg",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "gv-level-lift": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "GV Level &amp; Lift",
+      "media": "s3./wnews/advertisements/GV Level &amp; Lift.jpg",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "hairzone": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Hairzone",
+      "media": "s3./wnews/advertisements/Hairzone.jpg",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "hotwire": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Hotwire",
+      "media": "s3./wnews/advertisements/Hotwire.jpg",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "jones-geisler-bros": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Jones-Geisler Bros",
+      "media": "s3./wnews/advertisements/Jones-Geisler Bros.jpg",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "king-billy-retreat": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "King Billy Retreat",
+      "media": "s3./wnews/advertisements/King Billy Retreat.jpg",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
@@ -135,7 +183,39 @@
     "kyabram-funeral-directors": {
       "sling:resourceType": "wnews/page/advertisement",
       "title": "Kyabram Funeral Directors",
-      "media": "s3./wnews/advertisements/Kyabram-Dist-Funeral-Services.png",
+      "media": "s3./wnews/advertisements/Kyabram &amp; Dist Funeral.jpg",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "lake-waranga-caravan-park": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Lake Waranga Caravan Park",
+      "media": "s3./wnews/advertisements/Lake Waranga CPark.jpg",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "mawsons": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Mawsons",
+      "media": "s3./wnews/advertisements/Mawsons.jpg",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "mj-glew": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "MJ Glew",
+      "media": "s3./wnews/advertisements/MJ Glew.jpg",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "morgans-fuel": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Morgans Fuel",
+      "media": "s3./wnews/advertisements/Morgans Fuel.jpg",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
@@ -143,15 +223,7 @@
     "motofinish-cafe": {
       "sling:resourceType": "wnews/page/advertisement",
       "title": "Motofinish Cafe",
-      "media": "s3./wnews/advertisements/Motofinish-Cafe.png",
-      "testimonials": "enabled",
-      "disqusShortName": "waranganews",
-      "published": true
-    },
-    "murchison-service-station": {
-      "sling:resourceType": "wnews/page/advertisement",
-      "title": "Murchison Service Station",
-      "media": "s3./wnews/advertisements/Murchison-Service-Station.png",
+      "media": "s3./wnews/advertisements/Motofinish.jpg",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
@@ -159,7 +231,55 @@
     "mud-hut-joga": {
       "sling:resourceType": "wnews/page/advertisement",
       "title": "Mud Hut Yoga",
-      "media": "s3./wnews/advertisements/Mud-Hut-Yoga-proof.png",
+      "media": "s3./wnews/advertisements/Mud Hut Yoga.jpg",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "murchison-service-station": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Murchison Service Station",
+      "media": "s3./wnews/advertisements/Murch Service Station.jpg",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "natrad": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Natrad",
+      "media": "s3./wnews/advertisements/Natrad.jpg",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "old-imperial-hotel": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "The Old Imperial Hotel",
+      "media": "s3./wnews/advertisements/Imperial Hotel.jpg",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "over-vb-sand-gravel": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Over VB Sand &amp; Gravel",
+      "media": "s3./wnews/advertisements/Over VB Sand &amp; Gravel.jpg",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "peter-knobel": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Peter Knobel",
+      "media": "s3./wnews/advertisements/Peter Knobel.jpg",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "red-plumbing": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Red Plumbing",
+      "media": "s3./wnews/advertisements/Red Plumbing.jpg",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
@@ -167,7 +287,7 @@
     "rushworth-bakery": {
       "sling:resourceType": "wnews/page/advertisement",
       "title": "Rushworth Bakery",
-      "media": "s3./wnews/advertisements/Rushworth-Bakery.png",
+      "media": "s3./wnews/advertisements/RW Bakery.jpg",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
@@ -175,7 +295,7 @@
     "rushworth-community-house": {
       "sling:resourceType": "wnews/page/advertisement",
       "title": "Rushworth Community House",
-      "media": "s3./wnews/advertisements/Rushworth-Community-House.png",
+      "media": "s3./wnews/advertisements/RCH Services",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
@@ -183,7 +303,79 @@
     "rushworth-gift-variety": {
       "sling:resourceType": "wnews/page/advertisement",
       "title": "Rushworth Gift &amp; Variety",
-      "media": "s3./wnews/advertisements/Rushworth-Gift-Variety.png",
+      "media": "s3./wnews/advertisements/RW Gift &amp; Variety.jpg",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "rushworth-hardware": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Rushworth Hardware",
+      "media": "s3./wnews/advertisements/RW Hardware.jpg",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "rushworth-hardware-electrical": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Rushworth Hardware Electrical",
+      "media": "s3./wnews/advertisements/RW Hardware Electrical.jpg",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "rushworth-pharmacy": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Rushworth Pharmacy",
+      "media": "s3./wnews/advertisements/Rushworth Pharmacy Mediconsul.jpg",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "rushworth-tv-antenna": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Rushworth TV Antenna",
+      "media": "s3./wnews/advertisements/Rushworth TV Antenna.jpg",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "spin-doctor": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Spin Doctor",
+      "media": "s3./wnews/advertisements/Spin Doctor.jpg",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "stanhope-appliances": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Stanhope Appliances",
+      "media": "s3./wnews/advertisements/Stanhope Appliances.jpg",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "stanhope-monster-garage-sale": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Stanhope Monster Garage Sale",
+      "media": "s3./wnews/advertisements/Stanhope Monster Garage Sale.jpg",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "stanhope-motors": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Stanhope Motors",
+      "media": "s3./wnews/advertisements/Stanhope Motors.jpg",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "stanhope-plumbing": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Stanhope Plumbing",
+      "media": "s3./wnews/advertisements/Stanhope Plumbing.jpg",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
@@ -191,23 +383,39 @@
     "steph-ryan": {
       "sling:resourceType": "wnews/page/advertisement",
       "title": "Steph Ryan",
-      "media": "s3./wnews/advertisements/",
+      "media": "s3./wnews/advertisements/Steph Ryan.jpg",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
-      "published": false
+      "published": true
+    },
+    "the-agitator": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "The Agitator",
+      "media": "s3./wnews/advertisements/The Agitator.jpg",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
     },
     "truffles": {
       "sling:resourceType": "wnews/page/advertisement",
       "title": "Truffles",
-      "media": "s3./wnews/advertisements/",
+      "media": "s3./wnews/advertisements/Truffles.jpg",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
-      "published": false
+      "published": true
     },
     "valley-funerals": {
       "sling:resourceType": "wnews/page/advertisement",
       "title": "Valley Funerals",
-      "media": "s3./wnews/advertisements/Valley-Funerals.png",
+      "media": "s3./wnews/advertisements/Valley Funerals.jpg",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "workmate": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Workmate",
+      "media": "s3./wnews/advertisements/Workmate.jpg",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
