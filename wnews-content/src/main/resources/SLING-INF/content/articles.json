@@ -7,7 +7,22 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 6,
-      "total": 51
+      "total": 52
+    },
+    "winter-films": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2017-07-06",
+      "title": "Winter Films with ‘Gold Class’ service",
+      "media": "s3./wnews/gallery/2017/07/wnews20170706-000.jpg",
+      "pars": [
+        "Once again, the Waranga Winter Film Festival offered patrons a unique movie going experience in the cosy surrounds of the Shire Hall, Rushworth.",
+        "Three films were screened over the weekend - the toe-tapping classic ‘Singin’ in the Rain’, the cult classic Coen Brothers’ film ‘The Big Lebowski’, and the hauntingly beautiful film ‘The Piano’, set in frontier New Zealand.",
+        "Movie-goers were entertained, wined and dined during the festival by a large group of local volunteers.",
+        "Highlights of the weekend included the snappily dressed tray boys and girls, offering a range of Cottage Ice Cream Shoppe lollies, ice-creams and freshly made popcorn to the crowd, whilst the ushers decked out in black ties added a touch of vintage glamour to the event."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true
     },
     "indian-delights": {
       "sling:resourceType":"wnews/page/article",
