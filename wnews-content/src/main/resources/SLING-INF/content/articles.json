@@ -7,7 +7,19 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 6,
-      "total": 54
+      "total": 55
+    },
+    "girls-night-out": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2017-07-20",
+      "title": "Colbo girls enjoy glam night out at CFNC Ball",
+      "media": "s3./wnews/gallery/2017/07/wnews20170720-000.jpg",
+      "pars": [
+        "<strong>Party time:</strong> Colbinabbin footballers and netballers took time out from the serious ‘on-field’ business to enjoy an ‘off-field’ get-together with friends at their Club Ball at Radcliffes in Echuca. The happy group pictured are (back l-r) Vanessa Moroney, Jamieson Lowe, Hannah Fuller, Jane Mackinlay, Lily Wareham, Lou Dupuy, (front) Meg Bennett, Zena Wareham."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true
     },
     "winter-films": {
       "sling:resourceType":"wnews/page/article",
