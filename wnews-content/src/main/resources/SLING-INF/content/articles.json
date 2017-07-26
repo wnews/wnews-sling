@@ -7,7 +7,7 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 6,
-      "total": 55
+      "total": 56
     },
     "girls-night-out": {
       "sling:resourceType":"wnews/page/article",
@@ -20,6 +20,60 @@
       ],
       "disqusShortName": "waranganews",
       "published": true
+    },
+    "grants-for-grass-roots": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-07-20",
+      "title": "Grants Program benefits grass roots groups",
+      "media": "s3./wnews/gallery/2017/07/wnews20170720-002.jpg",
+      "pars": [
+        "Council recently presented cheques to 53 community groups who were successful recipients in round one of the Community Grants Program.",
+        "Campaspe Shire Mayor, Cr Adrian Weston, said the Community Support grants aim to deliver programs, projects and activities that benefit the residents of the shire.",
+        "“The program offers financial support to the shire’s not-for-profit sector for projects, events, exhibitions and/or performances which make Campaspe a more vibrant and stimulating place for people to live, work and visit,” Cr Weston said.",
+        "Grants were allocated in two categories, community support and events.",
+        "<strong>Community Support category</strong>",
+        "$3,500 Winter Blues Festival Inc, guitar painting exhibition, home grown stage and blues bootcamp.",
+        "$2,881 Kyabram Town Hall Inc, Art for Everyone – Instagram community art project.",
+        "$4,000 Echuca Community Church Relief Centre (Echuca Community Church), relief centre. $1,622 Community Living &amp; Respite Services Inc, recyclability.",
+        "$3,990 Crossenvale Community Group Inc, access for all initiative.",
+        "$4,000 Echuca Moama Men’s Shed Inc, purchase of equipment and tools for the engineering room.",
+        "$1,000 Berrimba Childcare Centre Inc, bringing local culture to local schools and kindergartens by local aboriginal children.",
+        "$4,000 GVEG for Rushworth Action Group for the Environment - railway reserve wildflower bed construction and environment education.",
+        "$4,000 Echuca Moama &amp; District Agricultural &amp; Pastoral Society Inc, education and training to meet the needs of the show society.",
+        "$4,000 Echuca Moama Rockets Football Club Inc, Echuca Moama Rockets Football Club.",
+        "$4,000 Echuca Moama Theatre Company Inc, 2017 EMTC youth production, Elf the Musical Jr.",
+        "$2,200 Stanhope Recreation Reserve Committee of Management, goal post upgrade.",
+        "$2,250 Echuca Moama Arts Initiative Inc, functioning of Foundry Art Space.",
+        "$2,732 Rochester Mural Festival (Committee 4 Rochester Inc), strategic mural installations.",
+        "$4,000 Wyuna Recreation Reserve, purchase of a ride on mower.",
+        "$4,000 Echuca Football Netball Club Inc, seating at the netball courts.",
+        "$1,600 Gunbower Memorial Hall Committee of Management (DELWP), purchase and installation of a split system air conditioner in main hall.",
+        "$2,901 Echuca Neighbourhood House Inc, comfort for all.",
+        "$2,183 Kyabram Urban Landcare Group (Landcare Victoria Inc), grey box reserve interpretive trail.",
+        "$1,710 Fit to Drive Foundation Inc, the F2D Year 11 workshop.",
+        "$2,880 Life Saving Victoria, sink or swim education for youth in the Campaspe Shire.",
+        "$653 Leitchville Gunbower Auskick &amp; Net Set Go (Leitchville Gunbower Football Netball Club Inc), Leitchville Gunbower Auskick &amp; Net Set Go",
+        "$1,500 Australian Hands on Health Campaspe Murray Inc, STEPS ongoing health, social and community support to disadvantaged people.",
+        "<strong>Events category</strong>",
+        "$1,000 Girgarre Community Group Inc, Open Garden Festival.",
+        "$1,000 Colbinabbin Primary School, Colbinabbin Primary School centenary celebrations.",
+        "$950 Kyabram Carpet Bowls Association Inc, Victorian Country State Championships.",
+        "$1,000 Rotary Club of Rochester Inc, Farm &amp; Road Safe Expo.",
+        "$1,000 Stanhope &amp; District Development Committee Inc, Stanhope community carols.",
+        "$900 Girgarre RSL, Girgarre Bush Dance.",
+        "$850 Rochester Sub-Branch RSL (RSL Victorian Branch Headquarters), Rochester Remembrance Day Commemoration service.",
+        "$1,000 Rochester Football Netball Club Inc, Rochy fun run 2017.",
+        "$1,000 Rochester Anglican Church (Anglican Parish of Rochester), Christmas exhibition.",
+        "$2,800 Kyabram RV Country Music Corral (Kyabram Development Committee Inc), Kyabram RV Country Music Corral.",
+        "$3,000 Girgarre Development Group Inc, Girgarre Moosic Muster.",
+        "$2,000 Kyabram Parkland Golf Club Inc, Men’s &amp; Ladies Victorian Amateur Par 3 Championships.",
+        "$2,600 Rochester Business Network Inc, Rochester Town Garage Sale.",
+        "Community Grants were presented by the Mayor at a special function held on 12 July.",
+        "The second round of Community Grants will open to the community on 1 August this year."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "related": ["community-grant-for-environment"]
     },
     "winter-films": {
       "sling:resourceType":"wnews/page/article",
@@ -192,7 +246,7 @@
       "title": "Exciting changes for Community Bank",
       "media": "s3./wnews/gallery/2017/06/wnews20170608-013.jpg",
       "pars": [
-        "Staff changes at Rushworth & District Community Bank will see Manager Kevin Livingstone extending his service to Tongala where he will also be Branch Manager of the local district Community Bank.",
+        "Staff changes at Rushworth &amp; District Community Bank will see Manager Kevin Livingstone extending his service to Tongala where he will also be Branch Manager of the local district Community Bank.",
         "The new sharing arrangement will capitalise on Kevin’s experience and people skills, with other staff changes ensuring good service is maintained at Rushworth and Stanhope.",
         "Nikki McKay has been promoted to a Customer Relationship Management role and will lead the team in Rushworth and Stanhope, while Sharon Felsbourg has stepped up into a Customer Relationship Of cer role to take care of all personal credit requirements.",
         "The new staff roles will ensure customers receive the same knowledge-based service throughout the week. Kevin Livingston will be available in the Rushworth and Stanhope branches Monday, Thursday and Fridays.",
@@ -374,7 +428,7 @@
       "media": "s3./wnews/gallery/2017/04/wnews20170413-000.jpg",
       "pars": [
         "Rushworth has become a go-to place for the Easter weekend with crowds turning up from all over the region and beyond to experience all the fun of the Festival on Saturday and the Moora Muster of working draught horses on Sunday.",
-        "The Lions Club’s traditional Wood and Produce Auction is still a highlight of the day. Hilder’s Block at 10 am is the time and place for your chance to bid for quality  rewood and local produce. And of course you have the added satisfaction of knowing your purchases contribute to the worthy causes supported by Rushworth & District Lions Club.",
+        "The Lions Club’s traditional Wood and Produce Auction is still a highlight of the day. Hilder’s Block at 10 am is the time and place for your chance to bid for quality  rewood and local produce. And of course you have the added satisfaction of knowing your purchases contribute to the worthy causes supported by Rushworth &amp; District Lions Club.",
         "The market will be ready for business from 8 am with over one hundred stalls  lling the streetscape on High Street.",
         "In addition to fare from our local food outlets, there will be Indian, Dutch, Asian and good old Aussie bbq cuisine to choose from in the food department. You will not go hungry and your taste-buds may be even delighted.",
         "Children will be treated to a free Easter Egg hunt at the Community House at 11.30 am. Pete the Clown on his penny farthing will also be giving away eggs between 12 pm and 2 pm. Popcorn, fairy  oss, toffee apples, and slushies will also undoubtedly delight the children - if not the parents! - and free showbags will be an added attraction. (Free kids’ activities at the Shire Hall might just help use up some of that sugar-fuelled energy!)",
@@ -691,7 +745,7 @@
       "pars": [
         "The start of the 2017 year brought with it a name change for some prep students. Foundation students is the new term used to describe preps, this was introduced to give a national uniform approach.",
         "Left: St Mary’s Rushworth welcome, Back row: Nevaeh Shelton, Kaley Knight, Nevaeh Forsyth, Mieke Wright, Elvie Wright, Torri Eagles, Kaitlyn Garvey. Front Row: Amber Coates, Patrick Williams, JJ Robertson, Billie Johnstone, Skylar McConnell, Willow Bertram.",
-        "Bottom Left: Rushworth P-12, welcome to the College (L-R) Isaac Chester-White, Michelle Fung, Helena Edwards, Declan Hawking. (Absent were Eden Jones & Erik Demillo)."
+        "Bottom Left: Rushworth P-12, welcome to the College (L-R) Isaac Chester-White, Michelle Fung, Helena Edwards, Declan Hawking. (Absent were Eden Jones &amp; Erik Demillo)."
       ],
       "disqusShortName": "waranganews",
       "published": true,
@@ -784,7 +838,7 @@
       "pars": [
         "Australia Day was marked across the region with community celebrations and citizens being recognised for outstanding contribution to their local communities.",
         "In Rushworth about 150 people attended in the cool comfort of the Shire Hall, with its comfortable seats and notable absence of biting insects.",
-        "Activities kicked off with the traditional barbeque hosted by the Rushworth & District Lions Club and drinks provided by the members of the local SES Unit. Our much admired band played during the BBQ, and also performed the National Anthem and a concert piece when the official entertainment started at 6 pm.",
+        "Activities kicked off with the traditional barbeque hosted by the Rushworth &amp; District Lions Club and drinks provided by the members of the local SES Unit. Our much admired band played during the BBQ, and also performed the National Anthem and a concert piece when the official entertainment started at 6 pm.",
         "A number of local entertainers performed before Mayor Adrian Weston addressed the audience with some personal thoughts about Australia Day.",
         "More entertainment followed and guest speaker Bob Holschier delivered a fascinating discourse on some little-known historic events in Rushworth and Whroo, explaining many of the unusual things that we all take for granted.",
         "The evening climaxed with the presentation of awards by Mayor Adrian Weston and Bob, after which the evening closed with a somewhat shortened version of “I Still Call Australia Home”.",
@@ -793,7 +847,7 @@
         "Young Citizen of the Year - Not awarded",
         "Sportsperson of the Year - Alexandrea Bethell",
         "Junior Sportsperson of the Year - Not Awarded",
-        "Community Group of the Year - Stanhope & District Men’s Shed",
+        "Community Group of the Year - Stanhope &amp; District Men’s Shed",
         "Arts Person of the Year - Tony (Anthony) Crosbie",
         "* Doug Gray was also selected as the Shire of Campaspe’s Citizen of the Year. (See page 6)",
         "<strong>Rushworth township awards</strong>",
@@ -991,7 +1045,7 @@
       "title": "Mavis celebrating 102 years",
       "media": "s3./wnews/gallery/wnews20160602P01-188x188.jpeg",
       "pars": [
-        "Mavis Hunt celebrated her 102nd birthday with family & friends at Moyola Lodge, Tatura, on 24 May. An avid reader, Mavis always enjoys getting her Waranga News to catch up with the local events. She asked her daughter, Maggie Johnston, to say ‘thank you’ on her behalf for the beautiful cards, flowers and good wishes she received for her birthday."
+        "Mavis Hunt celebrated her 102nd birthday with family &amp; friends at Moyola Lodge, Tatura, on 24 May. An avid reader, Mavis always enjoys getting her Waranga News to catch up with the local events. She asked her daughter, Maggie Johnston, to say ‘thank you’ on her behalf for the beautiful cards, flowers and good wishes she received for her birthday."
       ],
       "published": true
     },
@@ -1039,7 +1093,7 @@
       "date": "2016-01-28",
       "media": "s3./wnews/gallery/wnews20160128P01-188x188.jpeg",
       "pars": [
-        "Members of the Stanhope & District Development Committee (S&DDC) were delighted to learn their nomination, Andrew Hipwell, was declared Citizen of the Year in the Rushworth District and also Citizen of the Year across the Shire of Campaspe.",
+        "Members of the Stanhope &amp; District Development Committee (S&DDC) were delighted to learn their nomination, Andrew Hipwell, was declared Citizen of the Year in the Rushworth District and also Citizen of the Year across the Shire of Campaspe.",
         "The S&DDC considered Andrew to be a very worthy recipient of the awards, following his efforts of the past few years, in bringing a great deal of awareness of Stanhope across Victoria and Australia.",
         "His work with the young people of the Stanhope District, through his and their involvement and participation with Auskick, has been greatly appreciated by many parents.",
         "However, his involvement with all the Stanhope community in playing a major role, together with others, by successfully nominating Stanhope for recognition as “The Legendairy Capital of Australia “ has been outstanding and strengthened the resolve of the S&DDC in nominating Andrew for the award.",
