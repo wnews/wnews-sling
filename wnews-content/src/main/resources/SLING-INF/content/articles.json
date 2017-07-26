@@ -7,7 +7,7 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 6,
-      "total": 56
+      "total": 60
     },
     "girls-night-out": {
       "sling:resourceType":"wnews/page/article",
@@ -74,6 +74,82 @@
       "disqusShortName": "waranganews",
       "published": true,
       "related": ["community-grant-for-environment"]
+    },
+    "wildflower-hunt-2017": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-07-20",
+      "title": "Wildflower Hunt on again in 2017",
+      "media": "s3./wnews/gallery/2017/07/wnews20170720-006.jpg",
+      "pars": [
+        "After successfully running its second annual Rushworth Wildflower Hunt last year, the Maps to Apps Community Group will again be running the event in August this year.",
+        "The committee has been busy defining a new and interesting route for this year incorporating a diverse range of bush habitats and historic sites. The event will entail a 7km walking loop or an easier 5.5 km loop for those looking for a more comfortable stroll through the forest.",
+        "The Wildflower Hunt walk loop will cover the ironbark forest south of Rushworth as well as some historic sites in and around the town including the old Rushworth cemetery and a mudbrick miners hut which has been standing for over 100 years. The starting and finishing point for the walk will be in front of the Rushworth War Memorial in High Street.",
+        "The event will be run on Sunday 27 August between 10am and 1pm. On the day maps with the route and points of interest will be available for a gold coin donation. The route will take two to three hours to complete.",
+        "So whether you are interested in wildflowers, birds and other wildlife, historic relics or just want to go for a walk in our unique ironbark forest, come and join us and bring the family as well.",
+        "We are also looking for some more volunteers to help out on the actual day of the event which will simply involve either handing out maps and pamphlets at the start of the event, or helping with tea and coffee at its half way point. So if you would like to be involved in this fun activity just for the day then please contact us.",
+        "More information on the wildflower hunt can be accessed from www.rushworthit.com. au or contact Nick Buzza on 0423 658 245 or nbuzza@yahoo.com."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "related": ["community-grant-for-environment", "wildflower-hunt"]
+    },
+    "local-timber-use-for-didge": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-07-20",
+      "title": "Local timber used for didge",
+      "media": "s3./wnews/gallery/2017/07/wnews20170720-027.jpg",
+      "pars": [
+        "A didgeridoo fashioned from local timber was recently sent to Fitzroy Crossing to be painted by John (Prince) Siddon at the Mankaja Art Centre.",
+        "The timber used, ‘Blue Mallee’, grows amongst the Blue and Green Mallee at Long Hill, traditional Bangerang country south of Rushworth. It is naturally hollowed out by termites and then finished by hand.",
+        "Mangkaja Arts Resource is an Aboriginal owned art centre at Fitzroy Crossing in the Kimberley region of WA. It is an incorporated body of a small group of artists supporting cultural, social and economic development in the region.",
+        "John ‘Prince’ Siddon is the son of one of the founding painters at Mangkaja Arts Resource Agency."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "related": ["callum-gleeson"]
+    },
+    "ibis-entanglements": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-07-20",
+      "title": "Ibis entanglements",
+      "media": "s3./wnews/gallery/2017/07/wnews20170720-031.jpg",
+      "pars": [
+        "Two ibis were released at Bohollow on Friday. Both were local birds found in Shepparton and both were entanglement cases.",
+        "One, a sacred ibis was the victim of fishing line and had been flying around the Shepparton Lake for a few months before I was finally able to catch him with our newest rescue tool, the net gun. Sadly, his feet had suffered badly from being caught in the line and on one foot he only had one toe left; the others had all fallen off previously through lack of circulation from the tightness of the line. The other foot had damage to the bottom of his leg and one toe was partially missing. When I finally caught him, he had deteriorated to the point of barely being able to walk and spent a lot of his time sitting right down on the ground, which is not a normal position for an ibis at all. He was also quite underweight.",
+        "After spending the past month at Bohollow, he has improved dramatically. Once the line was removed, he took a few days before beginning to walk much better and the day of his release, he barely had a limp. He will always bear the scars of the fishing line but now he has the chance to continue his life without the cruel fate hanging over his head which being entangled was going to bring.",
+        "This is one bird who I spent many hours attempting to catch and the happiness that fills my heart to see him hit the skies without that rotten line wrapped around his legs is one I find difficult to describe.",
+        "The other bird, a straw-necked ibis, was found entangled in a soccer net at a local school. His entanglement caused severe bruising and lacerations to both his wings but after only a couple of weeks in care, all evidence of his injuries were completely gone and he was itching to get back out there. They have been buddies in the same enclosure and as they were both ready to go at the same time, they were released together.",
+        "It surprised me that they both decided to stick around for a while as I know they are both flying really well. I expected them to take off into the blue yonder. We have large flocks of ibis of both species who frequent the paddocks of Bohollow and the neighbouring farmland and wetland so I know they will both join the flocks as they like to forage in groups.",
+        "Interestingly, from my observations of them in their wild environment, the flocks often consist of one or the other species but nearly always, in a flock of sacred ibis there will usually be at least one straw-necked and in a flock of sacreds there will undoubtedly be a single or a couple of straw-necked. I am not sure why this is so, but I do know they mix readily.",
+        "I last saw the straw-necked still feeding further out in the paddock and the sacred had flown further into the heart of the property and landed at the centre dam.",
+        "Good luck out there fellas and stay clear of line, twine and all things horrid."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "related": ["whroo-nest-boxes", "meet-earl"]
+    },
+    "whroo-nest-boxes": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-07-20",
+      "title": "Whroo Goldfields nest box monitoring",
+      "media": "s3./wnews/gallery/2017/07/wnews20170720-030.jpg",
+      "pars": [
+        "In 2009 more than 360 nest boxes were constructed and installed in the Whroo Goldfields region by the Goulburn Broken CMA Drought Employment Program crew. There are now 1000 nest boxes installed.",
+        "The nest boxes were installed throughout the Whroo Goldfields Conservation Management Network (WGCMN) area to provide habitat for native species where there is a lack of hollow bearing trees and to provide an opportunity to carry out surveys to find populations of threatened species in areas where they had not been recorded before.",
+        "We can see what a big difference this artificial habitat makes and the keen interest and desire of local people to contribute to this success. Funding for the nest box program comes from various grants and through the generous support of Goulburn Broken CMA and Mandalay Resources.",
+        "Always looking for a new way to fund and continue this great venture, the ‘Adopt- A-Nest Box’ program was developed and managed by WGCMN President Orlando Talamo. There are currently 31 adopted nest boxes installed in the Whroo Goldfields region, each providing much needed habitat for our native marsupials, including the endangered brushtailed phascogale.",
+        "For $100 a box ($50 to share a box), members of the public can adopt their own nest box, and have their name, or names of their family members or business engraved on it. The $100 covers materials, building, installation and monitoring. Each year, a photograph is sent of any ‘residents’, to the adopter. This is a wonderful, tangible way to see what positive difference can be made for our native species.",
+        "The majority of nest boxes were installed in public forests, with others installed on private land. Monitoring (data recording and photos taken inside each nest box) is conducted by Orlando Talamo, WGCMN President and local landholder.",
+        "This year Orlando recorded a 60% use/occupation of the nest boxes. We have again seen plenty of evidence of a sugar gliders occupying phascogale nests and vice versa, which is probably an indication of the pressure on ‘tree hollow’ real estate. In some areas, we have seen an almost 100% use of the nest boxes, which demonstrates the ongoing need for safe habitat for these beautiful animals. The usual variety of bats, spiders, antechinus and insects are also taking advantage of this extra habitat.",
+        "<strong>Monitoring statistics for nest boxes - 2017</strong>",
+        "102 locations monitored (each location consisting typically of three boxes)",
+        "Total boxes monitored: 306 145 active/occupied sugar glider nests (4 disused sugar gliders nests).",
+        "45 nest boxes had sugar gliders present when photos were taken. 38 active/occupied brush-tailed phascogale nests 63 boxes occupied by insects 16 boxes had unidentified scats present",
+        "The results are outstanding, considering these are all new boxes installed for 12 months or less. Total percentage of use/ occupancy is 60%. 12% of these are brush-tailed phascogale occupations, which is a wonderful result for nest boxes installed for one year or less."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "related": ["meet-earl"]
     },
     "winter-films": {
       "sling:resourceType":"wnews/page/article",
