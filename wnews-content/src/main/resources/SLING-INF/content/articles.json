@@ -7,7 +7,7 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 6,
-      "total": 61
+      "total": 63
     },
     "click-go-the-shears": {
       "sling:resourceType":"wnews/page/article",
@@ -21,6 +21,50 @@
       "disqusShortName": "waranganews",
       "published": true,
       "related": ["charity-shearing-day", "bottom-pub-raises-thousands"]
+    },
+    "fonterra-opens-its-doors": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-08-03",
+      "title": "Fonterra Stanhope will open its doors to the community",
+      "media": "s3./wnews/gallery/2017/08/wnews20170803-006.jpg",
+      "pars": [
+        "Fonterra is in the final stretch of construction at Stanhope, with the first milk flowing through the lines of a state-of-the-art cheese plant, which will soon begin sending cheese to the world.",
+        "Fonterra’s new Stanhope cheese plant is a major investment in Northern Victoria and is the result of two years of planning, hard work and collaboration.",
+        "“The rebuild and expansion has been an incredible journey which has given us the opportunity to celebrate Stanhope, its broader communities and Fonterra’s place in it,” said Stanhope Manager Jason Wright.",
+        "Part of the rebuild includes a community art installation – a 48 metre by 5 metre wall mural, with the theme ‘Legendairy Stanhope – Proud People, Proud Community’. It celebrates Stanhope’s cheese-making history dating back to the 1920s, along with the rural community known for its dairy farms and agricultural abundance.",
+        "The Legendairy Stanhope Mural has been installed, with the community now able to see the massive mosaic on the northern wall of the cheese plant.",
+        "“To celebrate the commissioning of the new cheese plant and officially unveil the Legendairy Stanhope Mural, we will be holding a Community day on Sunday 17 September 2017 at Stanhope’s community hall,” Jason said.",
+        "“We’re encouraging our farmers, employees and the entire community to come along to join in a number of fun family activities and the chance to take a tour through the new cheese plant. We’re delighted that we will soon open the cheese plant doors and bring the community inside.”",
+        "Make sure you mark Sunday 17 September in your diaries, and keep your eyes peeled for more information to come!"
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "related": ["a-legendairy-winner"]
+    },
+    "swamp-wallaby-rescue": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-08-03",
+      "title": "Swamp Wallaby rescue",
+      "media": "s3./wnews/gallery/2017/08/wnews20170803-024.jpg",
+      "pars": [
+        "On Sunday night I received a call-out for a kangaroo joey at Dookie. I was told it was pink and very small. The people who found it kindly agreed to meet me in Shepparton to cut down my travel time and I set off, calling Deb before I left to give her the heads up that we had an incoming joey arriving.",
+        "The trip into town wasn’t a good one. As I was travelling on the road there was a car heading towards me and a car further back behind me. I caught a quick glimpse of a dark shape on the middle white lines. With the lights of the oncoming car, I couldn’t be sure what it was but I made sure I missed it and made the split second decision to turn around immediately and go back to make sure it wasn’t an animal. It only took me a minute to turn around and head back to where I saw it. In that time, both other cars had gone past and I was dismayed to find the shape had now moved to the edge of the road and was now laying on its side, kicking in agony and distress. It was a juvenile black wallaby or swamp wallaby as they are commonly known, and he wasn’t in a good way.",
+        "I grabbed a towel from the ute and tried to comfort him as best I could. I could feel his nose was shattered and there was a lot of blood. All I could do was to wrap him up and take him with me, knowing that this little fellow was not going to make it and would need to be euthanised upon return to the shelter.",
+        "With a heavy heart, I continued my journey and when I arrived, I discovered that the kangaroo joey happened to be a swamp wallaby joey!",
+        "The people who hit this little fellow’s mother stopped immediately to check if she was still alive. Initially they thought she was still breathing until they realised, with amazement, that the movement they were seeing was this little joey moving in her pouch. They called straight away and followed my instructions to keep him warm by placing him down their jumper. He was beautiful and toasty when they passed him to me. This is so important for young joeys, particularly ones that do not possess fur, as they cannot maintain enough heat on their own to keep warm.",
+        "It is also so important to stop and check if you hit a critter, any critter, bird, mammal or reptile. Even if you do not think they could have survived, they surprisingly often do and can remain injured on the road for many hours, sometimes even days or get hit again when they may have been able to be saved. In the case of our native mammals it is vital that you check if the animal is female, has a pouch and check for live young. Many pouched young survive the impact and can be saved or can also be terribly injured and require help. Pouched young can sometimes survive for days in their dead mother’s pouch. For this reason some people, particularly wildlife carers, will stop and check deceased animals for pouched young. We usually pull them well off the road and spray a cross on them with bright spray paint to let others know that the animal has already been checked to save someone else stopping to check the same animal.",
+        "Through taking the time to stop and check, you may just save a life or spare one from much more pain and suffering.",
+        "Deb met me back at our Bunbartha shelter where we sadly euthanised the young wallaby which I had picked up on the way, and the little pink joey was transported back to our Kotupna shelter with Deb for care.",
+        "This night is a perfect example of the ups and downs of shelter life and what we, as wildlife rescuers, have to cope with on a daily basis. Life and hope in one hand, death in another.",
+        "Operating a reliable 24 hour rescue service not only means we must be able to handle different wildlife species, injuries and rescue situations; it also means we must be competent at dealing with the human aspect. Just as wildlife that are injured are suffering great distress, many people who come across injured wildlife can find it very distressing and upsetting to be confronted with the situation, especially when they don’t know what they can do to help. The two kind gentlemen who hit this joey’s mother were greatly upset that she had died and when they discovered the tiny joey, they did not know who to call or what they should do. Once they made contact and realised that this little fellow could possibly be saved, they were relieved to find help and the feeling of helplessness subsided.",
+        "Although we deal with horrific injury often and it is a part of our job as wildlife carers and rescuers, we too feel the same distress and helplessness at times. We are by no means immune to it, just more accustomed to it. As I placed this precious cargo into a prepared pouch for transport and chatted to the guys about what would now happen to the little joey and how his chances were good because they had stopped to check and help, it was still fresh in my mind that moments before I was on my knees in the gravel on the side of a dark road, holding a terribly wounded wallaby’s head in my hands, trying to ease his suffering, assessing his injury and making decisions on what needed to be done. I believe that when I first passed this wallaby, he was sitting, hunched over but upright in the middle of the road. I believe that one of the other two cars which were travelling from both directions actually hit him in the time it took me to turn around. While I was tending to him on the roadside, a few more cars passed.",
+        "No one else stopped.",
+        "If I had not have happened to be heading to a rescue, he may have spent hours suffering on the roadside before he succumbed to his injuries. Although we may not show it, we do feel the distress too, and yes, it still hurts.",
+        "The little fellow in the photo (right) has an excellent chance of growing up to be independent and released back to his wild home. This is why we do what we do; for life and hope."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "related": ["ibis-entanglements", "whroo-nest-boxes", "meet-earl"]
     },
     "girls-night-out": {
       "sling:resourceType":"wnews/page/article",
