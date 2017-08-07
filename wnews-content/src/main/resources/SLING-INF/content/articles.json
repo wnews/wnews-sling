@@ -7,7 +7,20 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 6,
-      "total": 60
+      "total": 61
+    },
+    "click-go-the-shears": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2017-08-03",
+      "title": "Click go the Shears - and $27,000 raised for kids’ cancer support",
+      "media": "s3./wnews/gallery/2017/08/wnews20170803-000.jpg",
+      "pars": [
+        "A frosty start, but with the promise of a lovely sunny day to follow, greeted about 20 shearers and rousabouts when they gathered at Bill and Val Barlow’s shearing shed “Corydon” for the annual ‘Shearing for Kids’ cancer fund raising day on Friday 21 July. Sponsorship, donations and a good deal of hard yakka resulted in an impressive figure of $27,000 raised for facilities, research and support for kids with cancer and their families. Peter Raglus seen here rolling the fleece."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "related": ["charity-shearing-day", "bottom-pub-raises-thousands"]
     },
     "girls-night-out": {
       "sling:resourceType":"wnews/page/article",
