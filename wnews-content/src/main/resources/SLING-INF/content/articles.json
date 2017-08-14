@@ -4,6 +4,7 @@
   "jcr:primaryType":"nt:unstructured",
   "list": {
     "sling:resourceType":"wnews/block/article-list",
+    "opengraph_type": "article",
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 6,
