@@ -21,7 +21,8 @@
       ],
       "disqusShortName": "waranganews",
       "published": true,
-      "related": ["charity-shearing-day", "bottom-pub-raises-thousands"]
+      "related": ["charity-shearing-day", "bottom-pub-raises-thousands"],
+      "gallery": "click-go-the-shears"
     },
     "fonterra-opens-its-doors": {
       "sling:resourceType":"wnews/page/article",
