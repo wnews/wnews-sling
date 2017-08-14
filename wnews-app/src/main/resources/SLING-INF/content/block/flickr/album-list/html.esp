@@ -1,0 +1,11 @@
+<div class="block-list">
+    <ul class="wnews-list-nostyle">
+        <%
+        for(var i in currentNode) {
+        if (currentNode[i]['sling:resourceType'] == "wnews/block/flickr/album") {
+        out.print("<li><a href=\"https://www.flickr.com/photos/waranganews/albums/" + currentNode[i].id + "\">" + currentNode[i].title + "</a></li>");
+        }
+    }
+    %>
+</ul>
+</div>

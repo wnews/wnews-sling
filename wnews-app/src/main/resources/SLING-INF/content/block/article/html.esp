@@ -24,4 +24,10 @@
                     <% } %>
                 </div>
                 <% } %>
+                <% if (currentNode.gallery) { %>
+                <div>
+                    <h4>Gallery:</h4>
+                    <% sling.include("/content/wnews/gallery/list/" + currentNode.gallery + ".html"); %>
+                </div>
+                <% } %>
             </div>
