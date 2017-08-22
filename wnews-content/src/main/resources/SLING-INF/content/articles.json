@@ -8,7 +8,22 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 6,
-      "total": 63
+      "total": 64
+    },
+    "winter-in-waranga": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2017-08-17",
+      "title": "Celebrating Winter in Waranga",
+      "media": "s3./wnews/gallery/2017/08/wnews20170817-000.jpg",
+      "pars": [
+        "<strong>Photo comp reveals loads of local talent</strong>",
+        "This winter may have been a bit chilly at times, with a good smattering of icy nights and foggy mornings. But the season also served up a wonderful variety of sunsets and sunrises - and plenty of opportunity for our talented local photographers to capture the visual beauty of Winter in Waranga. We were overwhelmed with the number and quality of entries in our competition, but eventually had to face the difficult task of choosing a winner.",
+        "Karen Lloyd’s Foggy Sunrise (above) has won her a year’s online subscription to the Waranga News and a poster size print of her front page photo."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "related": ["spectacular-sunrises", "photo-competition"]
     },
     "click-go-the-shears": {
       "sling:resourceType":"wnews/page/article",
