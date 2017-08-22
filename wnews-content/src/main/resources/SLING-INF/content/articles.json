@@ -8,7 +8,7 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 6,
-      "total": 63
+      "total": 64
     },
     "winter-in-waranga": {
       "sling:resourceType":"wnews/page/article",
