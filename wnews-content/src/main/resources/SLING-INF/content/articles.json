@@ -8,7 +8,7 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 6,
-      "total": 64
+      "total": 66
     },
     "winter-in-waranga": {
       "sling:resourceType":"wnews/page/article",
@@ -24,6 +24,47 @@
       "disqusShortName": "waranganews",
       "published": true,
       "related": ["spectacular-sunrises", "photo-competition"]
+    },
+    "rushworth-band-displaced-by-termites": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-08-17",
+      "title": "Rushworth Band driven out by termites",
+      "media": "s3./wnews/gallery/2017/08/wnews20170817-021.jpg",
+      "pars": [
+        "Following more than eighty years of weekly practising in their premises at the rear of the Rushworth Shire Hall, the Rushworth Concert Band is about to move to a new home. The Band will now play their music and store their equipment in rooms at the current Shire of Campaspe Service Centre.",
+        "The move has been brought about by the continual attack by termites (white ants) on the old building which has been declared unsafe. The new site is much more convenient and, following some renovations, will be a great improvement on the old premises according to the secretary/treasurer of the band Graeme Wakefield. He said the move to the new premises was supported and greatly assisted by local ward councillor and Mayor Cr Adrian Weston.",
+        "<strong>Funds required</strong>",
+        "Graeme told the Waranga News the band is looking forward to the move, however funds need to be raised to carry out the required renovations. He said it was estimated these renovations would require some $4,000 to complete satisfactorily. The work would include the removal of a wall and the installation of doors and shelving, together with air conditioning and painting throughout.",
+        "<strong>Part of local history</strong>",
+        "The Rushworth Band is very much a part of the history of Rushworth, having commenced more then 130 years ago. It is one of the longest serving bands, if not the longest, in Australia. Two of the current members commenced playing with the band more than 70 years ago when they were in their pre-teen years.",
+        "The Rushworth Concert Band is in continual demand by local organisations to play at a variety of festivals and services throughout the region."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "related": ["local-timber-use-for-didge", "callum-gleeson"]
+    },
+    "rushworth-wartime-prison-camps": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-08-17",
+      "title": "Rushworth’s Wartime Prison Camps",
+      "pars": [
+        "No bushwalker or prospector exploring the dense ironbark forest at Graytown could fail to eventually stumble across the decaying remains of the prisoner of war camp that occupied this tract of bushland more than 60 years ago.",
+        "Situated at the junction of the Heathcote-Nagambie highway and the Rushworth track, the camp is now little more than tangles of rusted barbed wire which once marked the camp’s perimeter and numerous concrete slabs marking the sites of latrine blocks and kitchen facilities.",
+        "I first explored the remains of this camp in 1983, at which time several wooden buildings were situated atop the hill overlooking the main road. These were all that remained of the camp’s headquarters and which were at that time still in use by the Forestry Department. The huts are now gone, leaving only the concrete footings.",
+        "Graytown was of course much more than the site for a World War II POW camp. Beginning in the 1860s, this had been a rich goldfield that produced impressive quantities of gold until a major flood in 1870 inundated most of the mining activities and ruined the town’s commercial viability. This was a major stroke or irony since, in common with many of Victoria’s goldfields, mining operations in Graytown, prior to the deluge, had been severely hampered for lack of water for washing pay dirt.",
+        "Nowadays high bank sluice operators who choose to operate along either Spring or Compton Creeks where there is, at the time of writing, still residual water in the numerous deep pools, will usually pick up gold that has been leached from the banks and washed downstream. For detector operators the prospects aren’t so rosy, though there are plenty of relics waiting to be unearthed.",
+        "<strong>Containing the ‘enemy’</strong>",
+        "After Britain’s declaration of war on Germany in 1939 Australia’s Prime Minister, Robert Menzies, promptly demonstrated his solidarity with the British and also declared war on Germany. On the heels of his German co-belligerent, Italy’s Mussolini soon joined the war on what he obviously believed would be the winning side.",
+        "As a precaution against possible internal threats by citizens of countries with which Australia was now at war, thousands of foreign nationals of German and Italian extraction were arrested by Australian police and packed off to hastily erected ‘internment camps’. It was certainly not to our credit that so many of these internees were people who had worked long and hard in a manner that would have qualified them as true pioneers and worthwhile settlers in other circumstances.",
+        "To add to the problems of the Australian Government which attempted to accommodate and administer thousands of ‘internees’, Australia agreed to accept more German and Austrian internees from the United Kingdom, Egypt and Palestine. The problem was later compounded by large number of German and Italian prisoners of war arriving from North Africa where the British and Commonwealth forces were finally gaining the upper hand. POWs in their thousands were also shipped off to Kenya, Canada and the USA. Most of the cost of accommodating Axis personnel in Australia was met by the British government.",
+        "<strong>Graytown</strong>",
+        "The Graytown camp was listed as Prisoner of War Forestry Camp 6 and housed both German soldiers and sailors, Italians and a few Finns. The German Kriegsmarine sailors were survivors of the armed commerce raider HKS Kormoran which sank the Australian cruiser HMAS Sydney in a naval battle in the Indian Ocean on Wednesday, 19 November 1941, with the loss of 645 Australian naval personnel. The sinking of the Sydney remains the most disastrous naval loss of life in a single action in Australian history and far outweighs the loss of 496 men of all three services in the ten years of the Vietnam War.",
+        "The German seamen aboard the Kormoran were also brave and determined men, losing 78 crew members in the short but bloody naval artillery battle with the Sydney. The damage inflicted on the Kormoran was so extensive that the order was given to abandon ship and the vessel was scuttled.",
+        "Three hundred and fifteen German seamen including their captain, Fregattenkapitan Theodor Detmars, were captured either at sea in the life craft or after their arrival on the Western Australian coast. Eventually all were sent by rail to central Victoria to be interned in the camps then being constructed. No doubt the three day journey over the Nullarbor would have created the depressing and lasting impression on these Germans that this was an inhospitable county from which escape was hardly a viable option."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "related": ["anzacs-remembered", "heroes-remembered"]
     },
     "click-go-the-shears": {
       "sling:resourceType":"wnews/page/article",
