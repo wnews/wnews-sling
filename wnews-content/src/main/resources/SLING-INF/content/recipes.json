@@ -1,0 +1,33 @@
+{
+  "title": "Waranga News | Cooks Column",
+  "sling:resourceType": "wnews/page/list",
+  "jcr:primaryType": "nt:unstructured",
+  "list": {
+    "sling:resourceType":"wnews/block/recipe-list",
+    "apple-cake": {
+      "sling:resourceType": "wnews/page/recipe",
+      "date": "2017-08-31",
+      "title": "Apple Cake",
+      "media": "s3./wnews/gallery/2017/08/wnews20170831-064.jpg",
+      "pars": [
+        "Bernadette had used a mini muffin tray and simply tossed them in cinnamon and sugar. Cute and yummy! I did a dozen mini muffins and cooked the rest in a loaf tin. I think it worked better as mini muffins."
+      ],
+      "ingredients": [
+        "250g SR flour",
+        "125g sugar",
+        "125g butter chopped roughly",
+        "3 or 4 cooking apples peeled, cored and roughly chopped",
+        "1 egg",
+        "enough milk to make into a fairly stiff batter"
+      ],
+      "method": [
+        "Mix all together to form a lumpy mixture.",
+        "Place in a greased roasting pan or lamington pan and bake in a moderate oven about 1 hour - or until cooked when tested.",
+        "While hot, spread with butter and sprinkle with cinnamon and sugar. Serve hot with cream or custard for a dessert, or cold as a slice."
+      ],
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    }
+  }
+}
