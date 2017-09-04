@@ -1,0 +1,50 @@
+<div class="col-md-12 wnews-article">
+    <h3><%= currentNode.title %></h3>
+    <p class="date-published"><%= currentNode.date %></p>
+    <% if (currentNode.media) { %>
+    <img src="/wp/media/<%= currentNode.media %>"/>
+    <% } %>
+    <%
+        var pars = currentNode.pars
+            for (var j in pars) {
+            out.write("<p>" + pars[j] + "</p>");
+        }
+    %>
+
+    <% if (currentNode.ingredients) { %>
+    <a name="ingredients" class="page-section"></a>
+    <h4>Ingredients</h4>
+    <ul>
+        <%
+            var ingredients = currentNode.ingredients
+            for (var k in ingredients) {
+                out.write("<li>" + ingredients[k] + "</li>");
+            }
+        %>
+    </ul>
+    <% } %>
+
+    <% if (currentNode.method) { %>
+    <a name="method" class="page-section"></a>
+    <h4>Method</h4>
+    <ul>
+        <%
+            var method = currentNode.method
+            for (var l in method) {
+                out.write("<li>" + method[l] + "</li>");
+            }
+        %>
+    </ul>
+    <% } %>
+
+    <% if (currentNode.related) { %>
+    <div>
+        <h4>Related Articles:</h4>
+        <% for (var k in currentNode.related) { %>
+        <ul>
+            <li><% sling.include("/content/wnews/articles/list/" + currentNode.related[k] + ".link.html", "wnews/block/article"); %></li>
+        </ul>
+        <% } %>
+    </div>
+    <% } %>
+</div>

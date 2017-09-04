@@ -1,0 +1,30 @@
+<div class="block-list">
+    <%
+    var offset = 0;
+    var limit = Number.MAX_SAFE_INTEGER;
+
+    if (request.requestPathInfo.suffix) {
+    var suffix = request.requestPathInfo.suffix.substring(1).split("-")
+    if (suffix.length > 1) {
+    offset = parseInt(suffix[0]);
+    limit = parseInt(suffix[1]);
+    } else {
+    limit = parseInt(suffix[0]);
+    }
+    }
+
+    var count = offset;
+    for(var i in currentNode) {
+    if (currentNode[i]['sling:resourceType'] == "wnews/page/recipe"
+    && currentNode[i].published == true && --offset < 0) {
+
+    sling.include(currentNode[i].path + ".summary.html", "wnews/block/recipe");
+
+    if (++count % 2 == 0) out.write("<div class=\"clearfix visible-md visible-lg\"></div>");
+
+        /* TODO: handle limit is undefined/NaN) */
+        if (count >= limit) break;
+        }
+        }
+        %>
+        </div>
