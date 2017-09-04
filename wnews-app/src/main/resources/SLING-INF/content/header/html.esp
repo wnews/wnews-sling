@@ -13,6 +13,12 @@
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
             <li class="<%= request.requestPathInfo.suffix == '/articles' ? 'active' : '' %>"><a href="/content/wnews/articles.html/0-6?p=1">Articles</a></li>
+            <li class="wnews-navbar-link-em dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Columns <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="/content/wnews/recipes.html">Cooks Column</a></li>
+              </ul>
+            </li>
             <li class="<%= request.requestPathInfo.suffix == '/about' ? 'active' : '' %>"><a href="/content/wnews/about.html">About</a></li>
             <li class="<%= request.requestPathInfo.suffix == '/contact' ? 'active' : '' %>"><a href="/content/wnews/contact.html">Contact</a></li>
             <li class="wnews-navbar-link-em dropdown">
