@@ -1,0 +1,55 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Recipe",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://wnews.org.au<%= currentNode.path.replace('/content/wnews', '') %>.html"
+  },
+  "name": "<%= currentNode.title %>",
+  "description": "<%= currentNode.pars[0] %>",
+  "datePublished": "<%= currentNode.date %>",
+  "recipeIngredient": [
+    <%
+        for (i in ingredients) {
+            out.write('"' + ingredients[i] + '"');
+            if (i < ingredients.length - 1) {
+                out.write(',\n');
+            }
+        }
+    %>
+  ],
+  "recipeInstructions": [
+    <%
+        for (j in method) {
+            out.write('"' + method[j] + '"');
+            if (j < method.length - 1) {
+                out.write(',\n');
+            }
+        }
+    %>
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Waranga News"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "name": "Waranga News",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://wnews.org.au/images/wnews_p5.png",
+      "width": 46,
+      "height": 48
+    }
+  }
+<% if (currentNode.media) { %>,
+  "image": {
+    "@type": "ImageObject",
+    "url": "http://wnews.org.au/wp/media/<%= currentNode.media %>",
+    "height": 400,
+    "width": 400
+  }
+<% } %>
+}
+</script>
