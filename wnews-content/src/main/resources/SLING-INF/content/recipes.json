@@ -28,6 +28,37 @@
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
+    },
+    "chocolate-special-occasion-cake": {
+      "sling:resourceType": "wnews/page/recipe",
+      "date": "2017-08-03",
+      "title": "Pam’s Chocolate Special Occasion Cake",
+      "media": "s3./wnews/gallery/2017/08/wnews20170803-047.jpg",
+      "pars": [
+        "I didn’t make it, but I ate it, together with the other members of the Colbo Exercise group (CAFÉ) and it really WAS delicious."
+      ],
+      "ingredients": [
+        "3/4 cup hot strong coffee (2tsp of instant coffee)",
+        "1/2 cup cocoa",
+        "1 1/4 cup sugar",
+        "120 gm butter",
+        "3 eggs - separated",
+        "1 tsp salt",
+        "1 tsp vanilla",
+        "1 tsp bicarb soda",
+        "1/2 cup sour cream",
+        "2 cups plain flour",
+        "1/2 cup sugar extra",
+        "Whipped cream to serve"
+      ],
+      "method": [
+        "Stir hot coffee gradually into cocoa. Mix together 1 1/4 cups sugar with butter and egg yolks, salt, vanilla and 1/2 the coffee/cocoa mixture. Beat till light and creamy. Mix bicarb and sour cream together. Add butter and sugar, sour cream mixture and cocoa and coffee, alternately with sifted flour. Beat egg white to stiff, gradually adding 1/2cup sugar to stiff peaks and fold into cake mixture.",
+        "Grease and line deep greased 9-10 inch tin. Bake in a mod oven for 60-70 minutes (Pam says 50 minutes did hers).",
+        "Cool, cut through middle and fill with whipped cream. Spread frosting on top and decorate with walnuts and cherries - or strawberries (as was MY birthday cake). Thank you, Pam!"
+      ],
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
     }
   }
 }
