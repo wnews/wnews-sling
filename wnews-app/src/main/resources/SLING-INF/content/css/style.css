@@ -70,13 +70,14 @@ body {
 .wnews-article .sidebar {
     clear: right;
     float: right;
-    width: 50%;
+    width: 48%;
     height: auto;
     max-width:400px;
     padding-left: 15px;
     padding-bottom: 15px;
     border: 1px solid black;
     background: gray;
+    font-size: 0.9em;
 }
 
 .article-link:hover {
