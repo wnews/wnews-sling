@@ -4,10 +4,15 @@
     <% if (currentNode.media) { %>
     <img src="/wp/media/<%= currentNode.media %>"/>
     <% } %>
+    <% if (currentNode.sidebar) { %>
+    <% sling.include("/content/wnews/recipes/list/" + currentNode.sidebar + ".sidebar.html", "wnews/block/recipe"); %>
+    <% } %>
     <%
-        var pars = currentNode.pars
+        if (currentNode.pars) {
+            var pars = currentNode.pars
             for (var j in pars) {
-            out.write("<p>" + pars[j] + "</p>");
+                out.write("<p>" + pars[j] + "</p>");
+            }
         }
     %>
 

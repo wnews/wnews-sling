@@ -7,7 +7,7 @@
     "@id": "http://wnews.org.au<%= currentNode.path.replace('/content/wnews', '') %>.html"
   },
   "name": "<%= currentNode.title %>",
-  "description": "<%= currentNode.pars[0] %>",
+  "description": "<%= currentNode.pars ? currentNode.pars[0] : '' %>",
   "datePublished": "<%= currentNode.date %>",
   "recipeIngredient": [
     <%

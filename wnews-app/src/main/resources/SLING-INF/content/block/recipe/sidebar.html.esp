@@ -1,0 +1,28 @@
+<div class="col-md-12 sidebar">
+    <h3><%= currentNode.title %></h3>
+    <% if (currentNode.ingredients) { %>
+    <a name="ingredients" class="page-section"></a>
+    <h4>Ingredients</h4>
+    <ul>
+        <%
+            var ingredients = currentNode.ingredients
+            for (var k in ingredients) {
+                out.write("<li>" + ingredients[k] + "</li>");
+            }
+        %>
+    </ul>
+    <% } %>
+
+    <% if (currentNode.method) { %>
+    <a name="method" class="page-section"></a>
+    <h4>Method</h4>
+    <ul>
+        <%
+            var method = currentNode.method
+            for (var l in method) {
+                out.write("<li>" + method[l] + "</li>");
+            }
+        %>
+    </ul>
+    <% } %>
+</div>
