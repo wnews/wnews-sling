@@ -16,6 +16,7 @@
       "date": "2017-08-31",
       "title": "Wildflower hunters brave the chill",
       "media": "s3./wnews/gallery/2017/08/wnews20170831-000.jpg",
+      "sidebar": "wildflower-planting",
       "pars": [
         "The annual Rushworth Wildflower Hunt was again held on Sunday 27 August. The weather was cold and windy but that didn’t stop a record 200 people taking part in the event. There were many wildflowers out in bloom including the leopard orchid or golden guinea, brachycome, everlastings, grevilleas and egg and bacon. Particularly impressive this year was the sea of yellow from the many wattles in full bloom.",
         "The guided botanical walk was well attended where participants were particularly impressed with the wildflower diversity in the Growlers Hill Wildflower Sanctuary. Also popular again was the tea and coffee stand at the half way point where many old friends who had not seen each other for quite a while caught up over a hot beverage.",
@@ -28,6 +29,23 @@
       "disqusShortName": "waranganews",
       "published": true,
       "related": ["winter-in-waranga", "wildflower-hunt-2017", "photo-competition", "wildflower-hunt"]
+    },
+    "wildflower-planting": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-08-31",
+      "title": "Wildflowers for the Rushworth Railway Reserve",
+      "pars": [
+        "<strong>Save the date for our upcoming Rushworth community planting day!</strong>",
+        "Come along and plant a native wildflower in the new garden beds at the Rushworth Railway Reserve, just east of the skatepark. Learn about some of our local wildflower species and help to celebrate the diversity of species of Rushworth’s Box-Ironbark forest as well as contributing to the beautification of the railway reserve.",
+        "Morning tea, tools and gloves will be provided.",
+        "<strong>Saturday 23 September</strong>",
+        "<strong>10am - 12pm (near the old goods shed)</strong>",
+        "<strong>Bendigo-Murchison Road</strong>",
+        "The planting activity will be followed by the Goulburn Valley Environment Group (GVEG) AGM at the Rushworth Community House from 12.30pm - 2.30pm. All welcome!",
+        "For more information call Louise Costa- Pelle on 0437 153 203"
+      ],
+      "disqusShortName": "waranganews",
+      "published": false
     },
     "new-stanhope-cheese-plant": {
       "sling:resourceType":"wnews/page/article",

@@ -1,0 +1,13 @@
+            <div class="col-md-12 sidebar">
+                <h3><%= currentNode.title %></h3>
+                <%
+                    var pars = currentNode.pars
+                    for (var j in pars) {
+                        out.write("<p>" + pars[j] + "</p>");
+                    }
+
+                    if (currentNode.sections) {
+                        sling.include(currentNode.sections.path + ".h4.html");
+                    }
+                %>
+            </div>

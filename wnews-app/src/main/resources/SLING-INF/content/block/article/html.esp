@@ -4,6 +4,9 @@
                 <% if (currentNode.media) { %>
                 <img src="/wp/media/<%= currentNode.media %>"/>
                 <% } %>
+                <% if (currentNode.sidebar) { %>
+                <% sling.include("/content/wnews/articles/list/" + currentNode.sidebar + ".sidebar.html", "wnews/block/article"); %>
+                <% } %>
                 <%
                     var pars = currentNode.pars
                     for (var j in pars) {
