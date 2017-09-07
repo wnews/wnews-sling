@@ -5,7 +5,7 @@
                 <img src="/wp/media/<%= currentNode.media %>"/>
                 <% } %>
                 <% if (currentNode.sidebar) { %>
-                <% sling.include("/content/wnews/articles/list/" + currentNode.sidebar + ".sidebar.html", "wnews/block/article"); %>
+                <% sling.include("/content/wnews" + currentNode.sidebar + ".sidebar.html", "wnews/block/article"); %>
                 <% } %>
                 <%
                     var pars = currentNode.pars

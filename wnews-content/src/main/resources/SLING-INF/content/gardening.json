@@ -1,0 +1,36 @@
+{
+  "title": "Waranga News | Garden Hints &amp; Tips",
+  "sling:resourceType": "wnews/page/list",
+  "jcr:primaryType": "nt:unstructured",
+  "list": {
+    "sling:resourceType":"wnews/block/article-list",
+    "spring-is-in-the-air": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2017-08-31",
+      "title": "Spring is in the Air...",
+      "media": "s3./wnews/gallery/2017/08/wnews20170831-065.jpg",
+      "sidebar": "/gardening/list/handy-hints-20170831",
+      "pars": [
+        "Finally the days are getting longer and the temperatures are rising, although only in little bursts! Gardens are starting to come to life with bulbs popping up all over the place, bringing an end to that winter gloomy weather we have experienced this year. Roses should have been pruned by now and signs of new growth charging along promising us lovely blooms in the next few months. Fruit trees are all budding up and almond trees are in full blossom giving a very spectacular early spring display.",
+        "Spring brings many garden activities at home and out and about in our region over the next 3-4 months including our own Rushworth Spring Garden Expo down in the Village Green, showcasing some wonderful and exciting stalls and demonstrations for all on Saturday 7 October. For more information see page two of this Waranga News edition.",
+        "There has been a lot of frost damage on plants around our area this year. Hopefully most of the heavy frosts have passed now but, to be safe, maybe leave another week or two before tidying up frost-affected plants.",
+        "Feeding fruit trees and general feeding of home gardens is in full swing. Any organic matter that you can get your hands on ensuring good healthy growth in the coming season. With all the good frosts this year, it should bring us some good yields on our stonefruit in the home orchard ..... reminder if you haven’t sprayed for curly leaf you may still just have enough time, if no leaves have developed yet!",
+        "<em>Happy Gardening</em>",
+        "<em>‘Green Earth Gardener’</em>"
+      ],
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "handy-hints-20170831": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-08-31",
+      "title": "Handy Hints for the home by Lyn Rumble",
+      "pars": [
+        "<ul><li><strong>Oven drip tray</strong> – Using aluminium foil, cut a length to suit your oven and line the bottom. It’s economical and can be replaced easily when dirty - plus saves you cleaning!</li><li><strong>Blunt scissors</strong> – cut a piece of folded aluminium foil several times and then cut through it with the scissors - this should help to re-sharpen the scissors.</li><li>Lemon juice – need to juice a lemon easily? Get a lemon and roll it on the kitchen counter top with palm of your hand until lemon gets a bit softer. Get a metal skewer and insert into one end to make a small hole and remove. Squirt your lemon juice into your dish or bowl as required; nice and clean and easy.</li><li><strong>Butter too frozen to spread</strong> - grate a piece of your slab of butter, and then use the grated butter to spread on your bread or toast as needed.</li><li><strong>Burnt nonstick frying pan</strong> - Boil three parts water and one part vinegar in the pan for about ten minutes. Allow the solution to cool and then scrub the pot with warm, soapy water and a soft cloth. Add vinegar to the suds for particularly stubborn stains.</li></ul>"
+      ],
+      "disqusShortName": "waranganews",
+      "published": false
+    }
+  }
+}
