@@ -1,0 +1,24 @@
+{
+  "title": "Waranga News | Handy Hints for the home by Lyn Rumble",
+  "sling:resourceType": "wnews/page/list",
+  "jcr:primaryType": "nt:unstructured",
+  "list": {
+    "sling:resourceType":"wnews/block/article-list",
+    "handy-hints-20170831": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-08-31",
+      "title": "Handy Hints",
+      "pars": [
+        "<strong>Oven drip tray</strong> – Using aluminium foil, cut a length to suit your oven and line the bottom. It’s economical and can be replaced easily when dirty - plus saves you cleaning!",
+        "<strong>Blunt scissors</strong> – cut a piece of folded aluminium foil several times and then cut through it with the scissors - this should help to re-sharpen the scissors.",
+        "<strong>Lemon juice</strong> – need to juice a lemon easily? Get a lemon and roll it on the kitchen counter top with palm of your hand until lemon gets a bit softer. Get a metal skewer and insert into one end to make a small hole and remove. Squirt your lemon juice into your dish or bowl as required; nice and clean and easy.",
+        "<strong>Butter too frozen to spread</strong> - grate a piece of your slab of butter, and then use the grated butter to spread on your bread or toast as needed.",
+        "<strong>Burnt nonstick frying pan</strong> - Boil three parts water and one part vinegar in the pan for about ten minutes. Allow the solution to cool and then scrub the pot with warm, soapy water and a soft cloth. Add vinegar to the suds for particularly stubborn stains."
+      ],
+      "disqusShortName": "waranganews",
+      "testimonials": true,
+      "published": true,
+      "comments": "enabled"
+    }
+  }
+}
