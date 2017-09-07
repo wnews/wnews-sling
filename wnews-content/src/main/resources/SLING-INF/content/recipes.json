@@ -56,9 +56,25 @@
         "Grease and line deep greased 9-10 inch tin. Bake in a mod oven for 60-70 minutes (Pam says 50 minutes did hers).",
         "Cool, cut through middle and fill with whipped cream. Spread frosting on top and decorate with walnuts and cherries - or strawberries (as was MY birthday cake). Thank you, Pam!"
       ],
+      "sidebar": "chocolate-special-occasion-cake-frosting",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
+    },
+    "chocolate-special-occasion-cake-frosting": {
+      "sling:resourceType": "wnews/page/recipe",
+      "date": "2017-08-03",
+      "title": "Pam’s Chocolate Special Occasion Cake - Frosting",
+      "ingredients": [
+        "125g dark chocolate",
+        "1/2 cup sour cream",
+        "pinch salt"
+      ],
+      "method": [
+        "Melt chocolate over hot water, cool lightly and stir in salt and sour cream."
+      ],
+      "disqusShortName": "waranganews",
+      "published": false
     }
   }
 }
