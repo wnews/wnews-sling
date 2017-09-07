@@ -1,5 +1,5 @@
 <div class="col-md-12 sidebar">
-    <h3><%= currentNode.title %></h3>
+    <h4><%= currentNode.title %></h4>
     <% if (currentNode.ingredients) { %>
     <a name="ingredients" class="page-section"></a>
     <h4>Ingredients</h4>
