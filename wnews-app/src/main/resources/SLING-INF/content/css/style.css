@@ -59,15 +59,16 @@ body {
 }
 
 .wnews-article img {
+    width: 100%;
     height: auto;
     max-width:400px;
-    padding-left: 15px;
     padding-bottom: 15px;
 }
 
 .wnews-article .sidebar {
     height: auto;
     max-width:400px;
+    margin-bottom: 5px;
     padding-left: 15px;
     padding-bottom: 15px;
     border: 1px solid black;
