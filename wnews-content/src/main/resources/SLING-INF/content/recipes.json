@@ -4,6 +4,37 @@
   "jcr:primaryType": "nt:unstructured",
   "list": {
     "sling:resourceType":"wnews/block/recipe-list",
+    "lemon-sour-muffins": {
+      "sling:resourceType": "wnews/page/recipe",
+      "date": "2017-09-14",
+      "title": "Marita’s Lemon Sour Muffins",
+      "media": "s3./wnews/gallery/2017/09/wnews20170914-082.jpg",
+      "pars": [
+        "Do make yourself a cuppa and sit down before you continue reading . . . I have some exciting news!",
+        "Well, it’s exciting for ME . . . and quite likely exciting for those who read this column. The Cooks Column has become a Team Effort!",
+        "I’d like to welcome Pauline Wilson and Claire Lewington who will share the compiling of a Cooks Column each edition with me - we even have a roster. How organised is that!",
+        "I don’t know why I’m in a cake making mode at the moment (because I’m not a baker by anyone’s standards), but I had sour cream in the fridge and no plans for it, when I remembered a quite delicious sour cream lemon cake that was served in a cafe in Williamstown some years ago. (I managed to wheedle the recipe from she who baked there)."
+      ],
+      "ingredients": [
+        "250g butter",
+        "2 cups plain flour",
+        "1/4 cup SR flour",
+        "2 cups caster sugar",
+        "6 eggs",
+        "200g sour cream",
+        "1 tbsp grated lemon rind"
+      ],
+      "method": [
+        "The original recipe specifies ‘by hand’ but, are you surprised, I used my electric beaters?",
+        "Cream butter and sugar until fluffy. Add eggs one at a time, beating after each addition. Sift flours together well and add to mix, alternating flour with sour cream. Add lemon rind.",
+        "Bake in a lined 20-22cm tin or, if making muffins, spray well with oil.",
+        "Dust the cooled cake with icing sugar. If you fancy icing (I, myself, am not an icing fan). It could be even more mouth-wateringly edible with a cream cheese, butter, icing sugar and lemon juice mix.",
+        "The cake was always served as muffins in Williamstown when I happened upon them - still piping hot from the oven. Oh deliciousness! With a cup of cappucino . . ."
+      ],
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
     "apple-cake": {
       "sling:resourceType": "wnews/page/recipe",
       "date": "2017-08-31",
