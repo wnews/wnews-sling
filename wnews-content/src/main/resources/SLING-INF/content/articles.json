@@ -8,7 +8,32 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 6,
-      "total": 69
+      "total": 70
+    },
+    "hostel-redevelopment-announced": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2017-09-14",
+      "title": "Builder announced for hostel - hospital redevelopment",
+      "media": "s3./wnews/gallery/2017/08/wnews20170914-000.jpg",
+      "pars": [
+        "Goulburn Valley Health has announced the builder selected for the redevelopment and co-location of Rushworth’s hospital and aged care hostel. Commercial Industrial Construction Group Pty Ltd (CICG) will commence construction of the the $10 million project later this month.",
+        "The redevelopment, funded by the Victorian State Government, will create one integrated healthcare facility offering a range of acute health, aged care and community health services in the centre of Rushworth.",
+        "CICG have recently worked on a number of projects in the health sector including the Moorabbin Hospital and its Simulation Centre, Greensborough Medical Centre and Melton Health and Community Services Hub.",
+        "GV Health Chair, Rebecca Woolstencroft said it is an exciting time at GV Health with a number of key redevelopment projects about to begin.",
+        "“The redevelopment of the Waranga Aged Care Hostel is a project all GV Health stakeholders are looking forward to, particularly those who live within the Rushworth community.",
+        "“The fact this company is exceptionally experienced in the health care sector gives us the confi dence that the project will be delivered on budget and in a timely manner and we know the fi nal product will service the needs of the community,” Ms Woolstencroft said.",
+        "GV Health Chief Executive Officer, Trevor Saunders said it is important that the local community be provided with an improved health care service.",
+        "“We are excited that the redevelopment of Waranga is very close to starting and that the completion of the build will give the community of Rushworth a health care facility that will service the needs of all.”",
+        "GV Health Manager Waranga Campus Jayne French said she is excited to have all the services on one site.",
+        "“It will be beneficial to the community as well as the staff to work alongside each other, which will only benefit the resident-patient journey.”",
+        "Peter Walsh has been appointed as the site manager. Mr Walsh has managed a number of regional health projects overs his 30 years in the construction industry.",
+        "Some of the key projects he has previously led include Swan Hill District Health Residential Aged Care Facility, La Trobe Rural Health, Rochester & Elmore District Health Services and Echuca Regional Health.",
+        "Construction will begin late September 2017 and is scheduled for completion in April 2019."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "related": ["twenty-years-gone-by", "vale-doris-barlow"]
     },
     "wildflower-hunters": {
       "sling:resourceType":"wnews/page/article",
@@ -833,7 +858,7 @@
         "Bob and Doris had four children: Heather, Ross, Colin and Neil. She was thrilled by the arrival of Heather’s children (Narelle and David), Ross’s children (Alexandra and Andrew) and Colin’s children (Christopher, Matthew and Catherine), and loved knitting baby clothes as each new baby arrived. There are now six great grandchildren.",
         "The friendship and support of neighbours were very much appreciated and Bob and Doris had a lot of fun playing tennis at Wanalta, and golf at Rushworth and further a field.",
         "<strong>The move into Rushworth</strong>",
-        "The dif culty of providing water and the absence of power on the farm led to Bob and Doris building a new solid brick house called ‘Wyeera’ in Moora Road, about the time Ross was born. This was the family home and continued to be Doris’s residence until frailty forced her into the Waranga Aged Care Hostel and then the Nursing Home.",
+        "The difculty of providing water and the absence of power on the farm led to Bob and Doris building a new solid brick house called ‘Wyeera’ in Moora Road, about the time Ross was born. This was the family home and continued to be Doris’s residence until frailty forced her into the Waranga Aged Care Hostel and then the Nursing Home.",
         "Both Bob and Doris continued playing tennis and golf after shifting into Rushworth, until well into their sixties, and in the later years took up bowls as well. Many longstanding friendships that continued for the rest of their lives were initiated on the sporting  elds. Doris loved playing golf, not only at Rushworth, but also at Tatura and other surrounding clubs.",
         "<strong>Love of travel</strong>",
         "Doris travelled extensively in Australia, including the Canning Stock Route, Rabbit Flat, Ayers Rock and all the capital cities.",

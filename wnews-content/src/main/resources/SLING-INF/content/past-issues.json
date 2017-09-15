@@ -7,7 +7,15 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 12,
-      "total": 84
+      "total": 85
+    },
+    "2017-09-14": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "September 14, 2017",
+      "media": "s3./wnews/past-issues/2017/09/wnews20170914.jpeg",
+      "comments": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
     },
     "2017-08-31": {
       "sling:resourceType": "wnews/page/front-page",
