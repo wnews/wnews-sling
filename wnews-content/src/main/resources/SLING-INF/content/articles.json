@@ -8,7 +8,7 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 6,
-      "total": 71
+      "total": 72
     },
     "hostel-redevelopment-announced": {
       "sling:resourceType":"wnews/page/article",
