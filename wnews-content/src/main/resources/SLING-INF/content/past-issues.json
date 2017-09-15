@@ -7,7 +7,7 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 12,
-      "total": 85
+      "total": 86
     },
     "2017-09-14": {
       "sling:resourceType": "wnews/page/front-page",
@@ -541,6 +541,14 @@
       "sling:resourceType": "wnews/page/front-page",
       "title": "May 1, 2014",
       "media": "s3./wnews/past-issues/wnews20140501P01.jpg",
+      "comments": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "2014-09-04": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "September 4, 2014",
+      "media": "s3./wnews/past-issues/wnews20140904P01.jpg",
       "comments": "enabled",
       "disqusShortName": "waranganews",
       "published": true

@@ -8,7 +8,7 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 6,
-      "total": 70
+      "total": 72
     },
     "hostel-redevelopment-announced": {
       "sling:resourceType":"wnews/page/article",
@@ -34,6 +34,18 @@
       "disqusShortName": "waranganews",
       "published": true,
       "related": ["twenty-years-gone-by", "vale-doris-barlow"]
+    },
+    "farewell-chief": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-09-14",
+      "title": "Farewell to Chief - end of an era",
+      "media": "s3./wnews/gallery/2017/09/wnews20170914-003.jpg",
+      "pars": [
+        "The Rushworth community was saddened to hear of the passing of Jeff ‘Chief’ Perry last Friday morning. A much-loved town elder, Chief will be remembered as a pillar of the community, involved in many local clubs and organisation over the past sixty plus years. With his wife, Vera, he opened the popular Perry’s Butchery in the 1950s, where he worked with his family over many decades serving customers from far and wide with fi ne cuts of meat - and especially the famous Perry’s sausages!"
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "related": ["chief-celebrates", "community-life"]
     },
     "wildflower-hunters": {
       "sling:resourceType":"wnews/page/article",
@@ -1434,6 +1446,16 @@
         "“(Anzac Day) is our day when we as a nation remember all those who have fought and died for their country in time of con ict, but especially this morning. “We remember and honour not only those original Anzacs who landed at Gallipoli 100 years ago today, but all Australians and our brother New Zealanders who fought and died for the cause of freedom in that most horrendous and tragic period in our nation’s history”.",
         "As more than three hundred people gathered around Rushworth’s High Street War Memorial, the ritual was played out with great solemnity and respect.",
         "Those assembled heard the poignant words of a letter written to local loved ones on 24 April by Charlie Bale, a man who was to die the very next day. The Ode about not growing old was followed by the Last Post, a minute’s silence and the Reveille, the familiar sequence that is at once haunting and uplifting."
+      ],
+      "published": true
+    },
+    "community-life": {
+      "sling:resourceType":"wnews/page/article",
+      "title": "Community - life is all about that!",
+      "date": "2014-09-04",
+      "media": "s3./wnews/gallery/2014/09/wnews20140904P01-000.jpg",
+      "pars": [
+        "You meet the nicest people in Rushworth’s Community Garden - that’s where Chief Perry and Marcie Martin caught up recently over pizza. Pizza Days in the Garden regularly attract a wide variety of people getting together for great food and first class companionship."
       ],
       "published": true
     },
