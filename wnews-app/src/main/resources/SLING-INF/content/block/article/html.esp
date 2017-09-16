@@ -4,8 +4,10 @@
                 <% if (currentNode.media) { %>
                 <img src="/wp/media/<%= currentNode.media %>"/>
                 <% } %>
-                <% if (currentNode.sidebar) { %>
-                <% sling.include("/content/wnews" + currentNode.sidebar + ".sidebar.html", "wnews/block/article"); %>
+                <% if (currentNode.sidebar && currentNode.sidebar.startsWith("/")) { %>
+                <% sling.include("/content/wnews" + currentNode.sidebar); %>
+                <% } else if (currentNode.sidebar) { %>
+                <% sling.include("/content/wnews/" + currentNode.sidebar + ".sidebar.html", "wnews/block/article"); %>
                 <% } %>
                 <%
                     var pars = currentNode.pars

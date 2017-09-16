@@ -3,20 +3,116 @@
   "sling:resourceType": "wnews/page/list",
   "jcr:primaryType": "nt:unstructured",
   "list": {
-    "sling:resourceType":"wnews/block/article-list",
-    "handy-hints-20170831": {
-      "sling:resourceType":"wnews/page/article",
-      "date": "2017-08-31",
-      "title": "Handy Hints",
+    "sling:resourceType":"wnews/block/tip-list",
+    "title": "Handy Hints",
+    "zippers-1": {
+      "sling:resourceType":"wnews/page/tip",
+      "date": "2017-09-14",
+      "title": "Zippers 1",
       "pars": [
-        "<strong>Oven drip tray</strong> – Using aluminium foil, cut a length to suit your oven and line the bottom. It’s economical and can be replaced easily when dirty - plus saves you cleaning!",
-        "<strong>Blunt scissors</strong> – cut a piece of folded aluminium foil several times and then cut through it with the scissors - this should help to re-sharpen the scissors.",
-        "<strong>Lemon juice</strong> – need to juice a lemon easily? Get a lemon and roll it on the kitchen counter top with palm of your hand until lemon gets a bit softer. Get a metal skewer and insert into one end to make a small hole and remove. Squirt your lemon juice into your dish or bowl as required; nice and clean and easy.",
-        "<strong>Butter too frozen to spread</strong> - grate a piece of your slab of butter, and then use the grated butter to spread on your bread or toast as needed.",
-        "<strong>Burnt nonstick frying pan</strong> - Boil three parts water and one part vinegar in the pan for about ten minutes. Allow the solution to cool and then scrub the pot with warm, soapy water and a soft cloth. Add vinegar to the suds for particularly stubborn stains."
+        "If your zipper is not gliding up and down the teeth well, rub the lead of a graphite pencil across and up and down the teeth for about an inch below the problem area a few times. Slide zip down onto graphite coverage and up and down a few times. This should help the gliding and work well again."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "comments": "enabled"
+    },
+    "zippers-2": {
+      "sling:resourceType":"wnews/page/tip",
+      "date": "2017-09-14",
+      "title": "Zippers 2",
+      "pars": [
+        "If the end clamp has been lost on your zipper, use a stapler and put two staples across the end of the teeth where you want the end to be. This should hold it well until able to repair properly."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "comments": "enabled"
+    },
+    "rubberband": {
+      "sling:resourceType":"wnews/page/tip",
+      "date": "2017-09-14",
+      "title": "Rubberband",
+      "pars": [
+        "If your photo in the photo frame keeps sliding and not straight – place two rubber bands on top of the photo, then the frame base plate and fasten. The rubber will grip the frame base and the photo will not move."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "comments": "enabled"
+    },
+    "screw-head-slip": {
+      "sling:resourceType":"wnews/page/tip",
+      "date": "2017-09-14",
+      "title": "Screw head slipping in cavity",
+      "pars": [
+        "If when you try to tighten up a screw and the screwdriver head just slips in the cavity – place a wide elastic band over the cavity and reinsert your screwdriver. The screwdriver should grip tightly in the cavity making it easy for you to tighten or unscrew as required."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "comments": "enabled"
+    },
+    "pool-noodles": {
+      "sling:resourceType":"wnews/page/tip",
+      "date": "2017-09-14",
+      "title": "Pool noodles",
+      "pars": [
+        "If you don’t like the line on your clothes when you hang them across the airer to dry in the house over winter, slice open one side of a length of pool noodle, the length of your clothes dryer, and put over the bar – then hang the clothes- hey presto no crease line."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "comments": "enabled"
+    },
+    "oven-drip-tray": {
+      "sling:resourceType":"wnews/page/tip",
+      "date": "2017-08-31",
+      "title": "Oven drip tray",
+      "pars": [
+        "Using aluminium foil, cut a length to suit your oven and line the bottom. It’s economical and can be replaced easily when dirty - plus saves you cleaning!"
       ],
       "disqusShortName": "waranganews",
       "testimonials": true,
+      "published": true,
+      "comments": "enabled"
+    },
+    "blunt-scissors": {
+      "sling:resourceType":"wnews/page/tip",
+      "date": "2017-08-31",
+      "title": "Blunt scissors",
+      "pars": [
+        "Cut a piece of folded aluminium foil several times and then cut through it with the scissors - this should help to re-sharpen the scissors."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "comments": "enabled"
+    },
+    "lemon-juice": {
+      "sling:resourceType":"wnews/page/tip",
+      "date": "2017-08-31",
+      "title": "Lemon juice",
+      "pars": [
+        "Need to juice a lemon easily? Get a lemon and roll it on the kitchen counter top with palm of your hand until lemon gets a bit softer. Get a metal skewer and insert into one end to make a small hole and remove. Squirt your lemon juice into your dish or bowl as required; nice and clean and easy."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "comments": "enabled"
+    },
+    "frozen-butter": {
+      "sling:resourceType":"wnews/page/tip",
+      "date": "2017-08-31",
+      "title": "Butter too frozen to spread",
+      "pars": [
+        "Grate a piece of your slab of butter, and then use the grated butter to spread on your bread or toast as needed."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "comments": "enabled"
+    },
+    "burnt-frying-pan": {
+      "sling:resourceType":"wnews/page/tip",
+      "date": "2017-08-31",
+      "title": "Burnt nonstick frying pan",
+      "pars": [
+        "Boil three parts water and one part vinegar in the pan for about ten minutes. Allow the solution to cool and then scrub the pot with warm, soapy water and a soft cloth. Add vinegar to the suds for particularly stubborn stains."
+      ],
+      "disqusShortName": "waranganews",
       "published": true,
       "comments": "enabled"
     }

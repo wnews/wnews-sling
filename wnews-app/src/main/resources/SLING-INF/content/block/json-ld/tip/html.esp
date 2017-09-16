@@ -1,0 +1,35 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://wnews.org.au<%= currentNode.path.replace('/content/wnews', '') %>.html"
+  },
+  "headline": "<%= currentNode.title %>",
+  "datePublished": "<%= currentNode.date %>",
+  "dateModified": "<%= currentNode.date %>",
+  "author": {
+    "@type": "Organization",
+    "name": "Waranga News"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "name": "Waranga News",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://wnews.org.au/images/wnews_p5.png",
+      "width": 46,
+      "height": 48
+    }
+  }
+<% if (currentNode.media) { %>,
+  "image": {
+    "@type": "ImageObject",
+    "url": "http://wnews.org.au/wp/media/<%= currentNode.media %>",
+    "height": 400,
+    "width": 400
+  }
+<% } %>
+}
+</script>
