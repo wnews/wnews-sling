@@ -1,0 +1,23 @@
+<div class="col-md-12 wnews-article">
+    <h3><%= currentNode.title %></h3>
+    <p class="date-published"><%= currentNode.date %></p>
+    <% if (currentNode.media) { %>
+    <img src="/wp/media/<%= currentNode.media %>"/>
+    <% } %>
+    <%
+    var pars = currentNode.pars
+    for (var j in pars) {
+    out.write("<p>" + pars[j] + "</p>");
+    }
+    %>
+    <% if (currentNode.related) { %>
+    <div>
+        <h4>Related Tips:</h4>
+        <% for (var k in currentNode.related) { %>
+        <ul>
+            <li><% sling.include("/content/wnews/home-hints/list/" + currentNode.related[k] + ".link.html", "wnews/block/tip"); %></li>
+        </ul>
+        <% } %>
+    </div>
+    <% } %>
+</div>

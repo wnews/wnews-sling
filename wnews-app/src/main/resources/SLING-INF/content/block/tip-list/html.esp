@@ -1,0 +1,25 @@
+<div class="block-list wnews-list-nostyle">
+    <%
+    var count = 0;
+    var limit = request.requestPathInfo.suffix ? parseInt(request.requestPathInfo.suffix.substring(1)) : Number.MAX_SAFE_INTEGER;
+
+    var tips = [];
+
+    for(var i in currentNode) {
+    if (currentNode[i]['sling:resourceType'] == "wnews/page/tip"
+    && currentNode[i].published == true) {
+
+    tips.push(currentNode[i].path);
+    }
+    }
+
+    tips.sort(function() { return 0.5 - Math.random() });
+
+    for (var i = 0; i < tips.length; i++) {
+    sling.include(tips[i] + ".summary.html", "wnews/block/tip");
+
+    /* TODO: handle limit is undefined/NaN) */
+    if (count++ >= limit) break;
+    }
+    %>
+</div>
