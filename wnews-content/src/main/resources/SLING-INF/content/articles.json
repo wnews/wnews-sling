@@ -47,6 +47,19 @@
       "published": true,
       "related": ["chief-celebrates", "community-life"]
     },
+    "adopt-a-nest-box": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-09-14",
+      "title": "Adopt-A-Nest Box!",
+      "media": "s3./wnews/gallery/2017/09/wnews20170914-034.jpg",
+      "pars": [
+        "<strong>The Whroo Goldfields CMN nest box program does not receive specific government funding; they are reliant on grants and the generosity of local businesses like Mandalay Resources and Ray White Real Estate Heathcote to operate.</strong>",
+        "Adopt-A-Nest Box is a great way to contribute to the program and to the preservation of our native marsupials. You can adopt a nest box for $100, or half a nest box for $50. This cost covers the building, installation, monitoring and administration.",
+        "You will receive updates on how your nest box is going (or the critters in it, more to the point), and your name, or the name/s of those on whose behalf you adopted it, engraved on the outside. For more information, email Janicem@gbcma.vic.gov.au"
+      ],
+      "disqusShortName": "waranganews",
+      "published": false
+    },
     "wildflower-hunters": {
       "sling:resourceType":"wnews/page/article",
       "feature": true,
