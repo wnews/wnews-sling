@@ -8,7 +8,7 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 6,
-      "total": 72
+      "total": 79
     },
     "hostel-redevelopment-announced": {
       "sling:resourceType":"wnews/page/article",
@@ -46,6 +46,24 @@
       "disqusShortName": "waranganews",
       "published": true,
       "related": ["chief-celebrates", "community-life"]
+    },
+    "rushworth-shire-hall": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-09-14",
+      "title": "Expanded use of Rushworth Shire Hall",
+      "media": "s3./wnews/gallery/2017/09/wnews20170914-045.jpg",
+      "pars": [
+        "Concurrent with the changes at the nearby Rushworth Community House, the Committee charged with managing the iconic Rushworth Shire Hall has begun expanding the building’s use and utilisation. Some of the more space-hungry activities formerly run at the Community House have now been transferred to the Hall, enabling both the House and the Hall to maximise the comfort and efficiency of their activities, and allowing for simultaneous use of the two adjacent facilities while sharing amenities the kitchen and other amenities at the Community House",
+        "Rushworth Shire Hall has a long, proud tradition of serving the community dating back to around 1870. For many years, the building served as the hub of the Shire of Waranga, but its importance diminished considerably after the formation of the Shire of Campaspe, based at Echuca, with Rushworth one of several regional population centres that lost their local government primacy.",
+        "Use of the Hall has been very limited since Campaspe, and the Committee which manages its operations on behalf of the Shire is keen to expand its utilisation and make it available for hitherto undreamed-of roles.",
+        "As explained on page 12, Rushworth Community House needed more space to undertake its wide range of services and activities, notably exercise programs that were previously conducted in the confines of the Community House’s Multipurpose Room.",
+        "Strength Training and Tai Chi are now conducted in the generous surrounds of the historic Hall, and space within adjacent offices is being used to accommodate the exercise balls, weights and exercise mates that are used during these classes.",
+        "It is anticipated that production of special boutique vinegars will also be approved in the next few days, allowing small-scale manufacture of these precious liquids to be undertaken in the spacious kitchen adjacent to the main Hall. Several improvements to the kitchen will be undertaken to allow the facility to comply with food safety handling requirements and “brewing” will not interfere with other activities undertaken within the Shire Hall, notably School Examinations later in the year.",
+        "Meanwhile, repair work has been carried out to remove localised termite activity under the floorboards of one of the Hall offices. A Shire-appointed tradesman completed the work this week, restricting the spread of the termites and ensuring that the floor will remain structurally sound."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "related": ["rushworth-band-displaced-by-termites", "winter-films"]
     },
     "adopt-a-nest-box": {
       "sling:resourceType":"wnews/page/article",
