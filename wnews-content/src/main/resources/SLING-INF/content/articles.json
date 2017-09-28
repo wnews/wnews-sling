@@ -8,7 +8,21 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 6,
-      "total": 79
+      "total": 80
+    },
+    "wildflowers-all-the-rage": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2017-09-28",
+      "title": "Wildflowers all the RAGE",
+      "media": "s3./wnews/gallery/2017/09/wnews20170928-000.jpg",
+      "pars": [
+        "Hundreds of native wildflowers found a home at the Rushworth Railway Reserve last week over two very successful community planting days.",
+        "The activity involved volunteers from Rushworth Action Group for the Environment (RAGE), Goulburn Murray Landcare and Goulburn Valley Water, students from the P-12 college and St. Mary’s School and a bunch of enthusiastic community members who came out last Saturday morning to complete the project. The activity was certainly a case of many hands making light work with a sea of white tree-guarded seedlings transforming the site and creating two large garden beds for all users of the Reserve to enjoy."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "related": ["wildflower-hunters", "wildflower-planting"]
     },
     "hostel-redevelopment-announced": {
       "sling:resourceType":"wnews/page/article",
