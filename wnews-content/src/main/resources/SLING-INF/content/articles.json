@@ -8,7 +8,7 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 6,
-      "total": 80
+      "total": 81
     },
     "wildflowers-all-the-rage": {
       "sling:resourceType":"wnews/page/article",
@@ -23,6 +23,22 @@
       "disqusShortName": "waranganews",
       "published": true,
       "related": ["wildflower-hunters", "wildflower-planting"]
+    },
+    "housefire-woman-airlifted": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-09-28",
+      "title": "House fire leaves woman airlifted to Melbourne",
+      "media": "s3./wnews/gallery/2017/09/wnews20170928-013.jpg",
+      "pars": [
+        "A Rushworth woman is in hospital in Melbourne after being airlifted with burns to her hands and upper body after a fire in the early hours of Sunday 17 September on the property in Old Place Road. The fire needed twenty firefighters from three crews to bring it under control.",
+        "The inside of the house was gutted and fire caused considerable damage to the structure of the building, although there are stone walls still standing.",
+        "It took the fire fighters about forty minutes to bring the blaze under control.",
+        "The house was originally a weekender until Bill and Carmel Stubbs, a former well known entity in the area, built on a stone room, the walls of which have survived the heat.",
+        "Rushworth friends wish Kate the very best for her recovery and hope she will be back in town as soon as possible."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "related": ["fire-destroys-homestead"]
     },
     "hostel-redevelopment-announced": {
       "sling:resourceType":"wnews/page/article",
