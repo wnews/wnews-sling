@@ -4,6 +4,29 @@
   "jcr:primaryType": "nt:unstructured",
   "list": {
     "sling:resourceType":"wnews/block/article-list",
+    "2017-spring-gardens-expo": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2017-09-28",
+      "title": "2017 Spring Gardens Expo",
+      "media": "s3./wnews/gallery/2017/09/wnews20170928-053.jpg",
+      "sidebar": "/home-hints/list.sidebar.html/3",
+      "pars": [
+        "The Rushworth Spring Gardens Committee welcomes a variety of guest speakers to the 2017 Spring Gardens Expo.",
+        "The Expo will take place Saturday 7 October, High Street, Rushworth, and is proudly sponsored by the Waranga News. Come along and get a dose of inspiration for your garden!",
+        "At 10.30am Katie and Hugh Finlay from Mt Alexander Fruit Gardens will speak about <em>‘Top 10 tips to care for fruit trees in spring’</em>.",
+        "Katie is passionate about helping people learn how to successfully grow organic fruit. Katie and her husband Hugh have twenty years’ experience running their own organic orchard at Harcourt, and in their spare time they also run an online organic fruit growing home-study program called Grow Great Fruit. Katie and Hugh are big believers in teaching from basic principles, to make it easy and understandable for everyone from beginners to experienced gardeners.",
+        "Betsy Sue Clarke is the Director and Principal Designer of Dirtscape Dreaming, a company dedicated for eighteen years to helping people connect to nature through highly creative landscape design and garden creation, the sharing of knowledge, and providing opportunities for emotional growth. The work of Dirtscape Dreaming has been recognised here in Australia and internationally, and has been featured in popular magazines and TV. Betsy Sue has a holistic and unique approach to design and is a knowledgeable and passionate presenter.",
+        "<em>Dirtscape Dreaming</em> will be guest speaking at the Spring Gardens Expo, and following the Expo, Betsy Sue will be presenting a Garden Design Workshop at the Rushworth Community House from 2pm - 4pm. The workshop costs $85.00 per person.",
+        "Tickets to the event can be arranged via Cherie ph. 0408 572 930, or Betsy Sue ph. 0413 044 631",
+        "<em>The Garden Design Workshop</em> will allow you to create a place of sanctuary in your garden. Betsy Sue writes: ‘We come to times in our life, with certainty, where much is uncertain and we feel the need to retreat for a time in order to find the way forward again. In a garden there can be beauty, hope, fulfilment and a sense of connection to ourselves if it is created with understanding of your emotional needs.",
+        "‘In this workshop, you will be inspired to think differently about your garden, be guided to find the connection that is meaningful to you with it’s healing potential, then begin to identify and plan the elements to make it your place of sanctuary. The workshop will leave you infused with passion and a greater understanding of you.’",
+        "Local florist, Kylie Wales, will demonstrate how to create a stunning arrangement using seasonal spring blooms.",
+        "<em>Nat Ryan</em>"
+      ],
+      "disqusShortName": "waranganews",
+      "published": true
+    },
     "wattle-it-be": {
       "sling:resourceType":"wnews/page/article",
       "feature": true,
