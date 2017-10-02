@@ -4,6 +4,49 @@
   "jcr:primaryType": "nt:unstructured",
   "list": {
     "sling:resourceType":"wnews/block/recipe-list",
+    "asian-style-fish-soup": {
+      "sling:resourceType": "wnews/page/recipe",
+      "date": "2017-09-28",
+      "title": "Cheat’s Asian-style Fish Soup",
+      "media": "s3./wnews/gallery/2017/09/wnews20170928-052.jpg",
+      "pars": [
+        "I could tell you how to make a quite authentic Asian-style fish soup . . or I could give you a cheat’s version. Which would you prefer? And it can be gluten-free, too. Oh so many decisions!"
+      ],
+      "ingredients": [
+        "2 litres good vegetable stock",
+        "1 piece of white fish fillet",
+        "1 slice of root ginger",
+        "2 lightly beaten eggs",
+        "1 bundle sai foon (bean curd noodles - GF)",
+        "finely sliced spring onions to serve"
+      ],
+      "method": [
+        "Soak the bean curd noodles (sometimes called glass noodles) until soft enough to cut into pieces about 8 -10cm long (it just makes it easier to eat!).",
+        "<strong>Cheats:</strong> Bring stock to the boil and add sliced fish pieces together with the ginger. When fish is cooked a matter of maybe five minutes, add the softened noodles and continue simmering another five minutes or so. When you’re happy that all’s cooked, bring to a rapid boil and slowly pour in the beaten egg, stirring all the while so it cooks in shreds. Turn off heat. Serve sprinkled with spring onions.",
+        "<strong>More Authentic:</strong> Simmer together the stock, fish, ginger, Chinese mushrooms, fish sauce, sesame oil and sai foon for about 10 minutes. Add cubes of tofu and simmer gently, then bring soup to a rapid boil and slowly pour in the beaten egg, stirring all the while.",
+        "Serve sprinkled with chopped spring onions and fresh coriander. A drop or two of sesame oil on top of each serving adds a nice touch.",
+        "Note: If you use sai foon noodles, it’s a gluten-free soup. You can, of course, use a rice or wheaten noodles instead.",
+        "You can add some frozen peas, some sweet corn kernels or baby spinach leaves to make it more nutritious. GA"
+      ],
+      "sidebar": "asian-style-fish-soup-extra-ingredients",
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "asian-style-fish-soup-extra-ingredients": {
+      "sling:resourceType": "wnews/page/recipe",
+      "date": "2017-09-28",
+      "title": "Extra ingredients for more authentic version",
+      "ingredients": [
+        "2-3 dried Chinese mushrooms (soaked and sliced)",
+        "1 tspn (or so) Fish Sauce",
+        "1 pkt Firm (I use shelf-life) Tofu cut into small cubes",
+        "1 tspn sesame oil",
+        "Fresh chopped coriander to serve"
+      ],
+      "disqusShortName": "waranganews",
+      "published": false
+    },
     "lemon-sour-muffins": {
       "sling:resourceType": "wnews/page/recipe",
       "date": "2017-09-14",
