@@ -77,5 +77,6 @@
     </div> <!-- /container -->
 
     <% sling.include("/content/wnews/footer.html"); %>
+    <% sling.include(currentNode.path, "wnews/block/json-ld/advertisement"); %>
   </body>
 </html>
