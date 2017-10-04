@@ -9,11 +9,6 @@
             "height": 400,
             "width": 400
         },
-        "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "-36.584886",
-            "longitude": "145.01364"
-        },
         "sameAs" : []
     };
 
