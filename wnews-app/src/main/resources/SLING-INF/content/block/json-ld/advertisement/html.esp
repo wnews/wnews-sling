@@ -3,6 +3,12 @@
         "@context": "http://schema.org",
         "@type": "LocalBusiness",
         "name": currentNode.title,
+        "image": {
+            "@type": "ImageObject",
+            "url": 'http://wnews.org.au/wp/media/' + currentNode.media,
+            "height": 400,
+            "width": 400
+        },
         "geo": {
             "@type": "GeoCoordinates",
             "latitude": "-36.584886",
