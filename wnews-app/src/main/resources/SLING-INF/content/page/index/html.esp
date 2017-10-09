@@ -57,8 +57,8 @@
             <% sling.include("articles/list.summary.html/4"); %>
           </div>
         </div>
-        <div class="col-md-4">
-            <% sling.include("advertisements/list.html/4"); %>
+        <div class="col-md-4" id="sidebar-ads">
+            <%-- sling.include("advertisements/list.html/4"); --%>
         </div>
       </div>
 
@@ -90,5 +90,8 @@
     </div> <!-- /container -->
 
     <% sling.include("footer.html"); %>
+    <script>
+      $("#sidebar-ads").load("advertisements/list.html/4 .wnews-list-ads");
+    </script>
   </body>
 </html>
