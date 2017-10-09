@@ -1,7 +1,7 @@
             <div class="col-md-12">
                 <a name="<%= currentNode.name %>" class="page-section"></a>
                 <% if (currentNode.title) { %>
-                  <h3><%= currentNode.title %></h3>
+                  <h1><%= currentNode.title %></h1>
                 <% } %>
                 <%
                     var pars = currentNode.pars
