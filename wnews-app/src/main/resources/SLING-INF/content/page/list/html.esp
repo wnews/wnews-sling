@@ -83,7 +83,7 @@
 
     <% sling.include("footer.html"); %>
       <script>
-      $("#sidebar-ads").load("<%= resource.resourceResolver.map(request, '/content/wnews/advertisements/list.html/5?nocache=true') %> .wnews-list-ads");
+      $("#sidebar-ads").load("<%= resource.resourceResolver.map(request, '/content/wnews/advertisements/list.html/5') %> .wnews-list-ads");
     </script>
   </body>
 </html>

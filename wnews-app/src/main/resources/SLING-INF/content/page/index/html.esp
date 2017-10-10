@@ -91,7 +91,7 @@
 
     <% sling.include("footer.html"); %>
     <script>
-      $("#sidebar-ads").load("advertisements/list.html/4?nocache=true .wnews-list-ads");
+      $("#sidebar-ads").load("advertisements/list.html/4 .wnews-list-ads");
     </script>
   </body>
 </html>
