@@ -56,8 +56,8 @@
             }
           %>
         </div>
-        <div class="col-md-4">
-          <% sling.include("/content/wnews/advertisements/list.html/5"); %>
+        <div class="col-md-4" id="sidebar-ads">
+          <%-- sling.include("/content/wnews/advertisements/list.html/5"); --%>
         </div>
       </div>
 
@@ -82,5 +82,8 @@
     </div> <!-- /container -->
 
     <% sling.include("footer.html"); %>
+      <script>
+      $("#sidebar-ads").load("<%= resource.resourceResolver.map(request, '/content/wnews/advertisements/list.html/5?nocache=true') %> .wnews-list-ads");
+    </script>
   </body>
 </html>
