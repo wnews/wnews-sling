@@ -8,7 +8,27 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 6,
-      "total": 81
+      "total": 82
+    },
+    "springtime-gardeners": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2017-10-12",
+      "title": "Springtime brings out the gardeners!",
+      "media": "s3./wnews/gallery/2017/10/wnews20171012-000.jpg",
+      "pars": [
+        "The second annual Rushworth Spring Gardens Expo took place on a pleasant, slightly overcast Saturday morning. Garden lovers from near and far strolled under the shady trees of the High Street village green, taking a look at the array of garden related stalls. This year’s expo featured thirty-five stall holders, more than double the number at last year’s event.",
+        "The stalls included fancy breed chickens, fresh produce, seedlings, garden ornaments, Australian native plants, terrariums, olive oil, honey, garden tools, vintage wares and compost, just to name a few!",
+        "Talented singer, Sherri Parry, once again opened the event with her crowd-pleasing tunes. Rushworth Spring Gardens Expo was the first of her three gigs for the day, the second being at the Heathcote Food and Wine Festival, followed by performing as the opening act at the Four Lions album launch at True Brew in Bendigo.",
+        "Sue Barlow from Mud Hut Yoga demonstrated a range of easy-to-do Yoga techniques, perfect for limbering up for an hour or two of working in the garden.",
+        "Guest speakers also proved to be popular with the crowds. Katie and Hugh Finlay from Mt Alexander Fruit Gardens provided tips for organic fruit tree care in spring.",
+        "Local florist, Kylie Wales, demonstrated creative ideas to brighten your home using foliage, plants and vessels from your own home and garden.",
+        "Garden Designer Betsy-Sue Clarke from Dirtscape Dreaming presented a talk about Gardens as Healers - a different way to see the garden we need.",
+        "Guest speakers were presented with a stunning bouquet of flowers, kindly donated by Avonlea Flower Growers in Murchison."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "related": ["wildflowers-all-the-rage", "wildflower-hunters"]
     },
     "wildflowers-all-the-rage": {
       "sling:resourceType":"wnews/page/article",
