@@ -4,6 +4,26 @@
   "jcr:primaryType": "nt:unstructured",
   "list": {
     "sling:resourceType":"wnews/block/article-list",
+    "organic-fruit": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2017-10-12",
+      "title": "Top tips for success with organic fruit",
+      "media": "s3./wnews/gallery/2017/10/wnews20171012-063.jpg",
+      "sidebar": "/home-hints/list.sidebar.html/3",
+      "pars": [
+        "Katie Finlay was one of the guest presenters at the Spring Garden Expo in Rushworth last Saturday and is sharing her hints here for the benefit of all. Hugh and Katie Finlay are organic orchardists from Harcourt who teach the online Grow Great Fruit home study program. They also offer a free weekly newsletter called Weekly Fruit Tips. Go to www.growgreatfruit.com for details.",
+        "At this time of year, the ground is warming up and weeds are well and truly growing.",
+        "To decide how to manage weeds around your fruit trees, you might need to do a cost/ benefit analysis. The ‘cost’ of weeds is that they compete with the tree for water and some nutrients, but the benefits are many!",
+        "Weeds help to increase the amount of carbon in your soil, they provide habitat for the all-important soil microbes, and they provide food for worms and other lovely underground garden helpers that provide free nutrition for your fruit trees, removing the need to add expensive artificial fertilisers. Many weeds are edible (or if you don’t fancy eating weeds you can replace them with herbs or vegies), or have medicinal uses, and they also help to keep the soil cool in summer, which can actually help to conserve water.",
+        "Some weeds are also very good at ‘mining’ the soil for nutrients and making them available to your fruit trees, particularly the ones with a deep tap-root. Flowering weeds also provide important habitat for beneficial insects in the garden (particularly yellow and white flowering plants) which play an important role in keeping pests like aphids under control.",
+        "Can you tell we like weeds? For all but the very youngest fruit trees, we reckon the balance is firmly in favour of having a living mulch under your fruit trees. However, they still need managing, and three good strategies to keep them under control are (1) mow them regularly, (2) plant the things you want to grow there, like legumes to pump nitrogen into your soil (e.g. clover, or peas), herbs, or vegetables, or (3) use animals (geese, sheep, chooks, guinea pigs...) to mow them for you!",
+        "If you decide to mulch instead, be aware that it can be just as effective at stopping water soaking into the soil as preventing evaporation.",
+        "It’s also a great idea to put some compost or worm castings underneath your mulch before you lay it, to help kickstart the biology in your soil. And a couple of words of warning - use straw rather than hay, because straw should be relatively free of seed, and don’t mulch until after any frost risk has passed."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true
+    },
     "2017-spring-gardens-expo": {
       "sling:resourceType":"wnews/page/article",
       "feature": true,

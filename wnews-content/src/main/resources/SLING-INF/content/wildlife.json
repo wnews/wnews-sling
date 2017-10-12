@@ -4,6 +4,25 @@
   "jcr:primaryType": "nt:unstructured",
   "list": {
     "sling:resourceType": "wnews/block/article-list",
+    "tawny-frogmouth": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-10-12",
+      "title": "Which came first, the tawny or the egg?",
+      "media": "s3./wnews/gallery/2017/10/wnews20171012-037.jpg",
+      "sidebar": "adopt-a-nest-box",
+      "pars": [
+        "Some critters get back on their feet quite quickly and these cases are great for us as well as them. Less time in care means less expense and less stress on a critter when they can return to their home almost immediately.",
+        "When this female Tawny frogmouth arrived at Bohollow, she was extremely quiet and after giving her a full examination, I could not find any reason why she couldn’t fly. No fractures, light response was good, no symptoms of anything drastic but she refused to fly at all. When tested for flight, each time she would flutter straight to the ground. I put it down to possible mild concussion from minor head trauma and set her up for the night. I left her hospital box fully open as sometimes ,in cases like these, stimulation is a good thing and can assist a bird in returning to the land of the living.",
+        "Come morning, I was surprised to find her sitting up on a curtain rail and when I approached her, she flew strongly and well, landing perfectly each time she flew. Happy to see a hundred percent improvement on her condition the previous night, I knew she would be ready to get back out there very soon.",
+        "I was even more surprised when I discovered that she had laid a perfect egg in her hospital box before vacating it during the night.",
+        "Laying eggs takes a bit of effort and I have seen aviary-bred birds display behaviour just like this prior to producing an egg. They can become quiet, disinterested in food, sit for 24 to 48 hours, not doing anything at all. I have had pet bird owners, not familiar with egg laying, call me for advice on their ‘sick’ bird. As long as the bird is not egg bound, the bird returns to normal behaviour as soon as they lay an egg, as was the case for this Tawny frogmouth.",
+        "I do not know why she ended up on the ground during this process rather than staying on her nest. It may be that she is a young bird and this was her first egg. I will never know. I do know that she was ready to return to her wild home that night, so I drove her back to Echuca Village where she was found and set her free to keep laying her eggs where she needs to!",
+        "Tawny frogmouths construct a very rudimentary nest. It is basically a few sticks thrown together which usually sits on top of a wide horizontal branch, sometimes in a large fork of the tree. It is not stuck down or woven on to the tree, it really does just sit there, so in a good wind the babes often fall out and maybe this is what happened to this female while she was sitting on her nest in ‘egg-laying mode,’ as we have had some pretty windy weather lately. She was happy to be back in the trees so quickly and I wish her and her future eggs well.",
+        "Incidentally, the only other time this has ever happened in all my years as a wildlife carer, was an injured Kookaburra who came to the shelter and proceeded to lay two eggs!"
+      ],
+      "disqusShortName": "waranganews",
+      "published": true
+    },
     "branchers-on-the-branches": {
       "sling:resourceType":"wnews/page/article",
       "date": "2017-09-28",
