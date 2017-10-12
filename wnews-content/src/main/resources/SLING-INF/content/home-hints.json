@@ -5,6 +5,61 @@
   "list": {
     "sling:resourceType":"wnews/block/tip-list",
     "title": "Handy Hints",
+    "garlic-strength": {
+      "sling:resourceType":"wnews/page/tip",
+      "date": "2017-10-12",
+      "title": "GARLIC STRENGTH",
+      "pars": [
+        "Add garlic immediately to a recipe if you want a subtle taste and towards the end to blast it with flavour."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "comments": "enabled"
+    },
+    "reheating-pizza": {
+      "sling:resourceType":"wnews/page/tip",
+      "date": "2017-10-12",
+      "title": "REHEATING PIZZA",
+      "pars": [
+        "To reheat a pizza so that the base is out-of-theoven crisp, heat your leftover slices in a fry pan on low-medium heat on the stove until warm and wave goodbye to the days of soggy microwave pizza."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "comments": "enabled"
+    },
+    "vacuum-tool": {
+      "sling:resourceType":"wnews/page/tip",
+      "date": "2017-10-12",
+      "title": "QUICK FIX VACUUM TOOL",
+      "pars": [
+        "To suck up hard-to-reach gunk under your fridge or behind a bookshelf, insert an empty paper towel roll into the end of your vacuum cleaner and bend, or flatten it, to squeeze into these difficult spots."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "comments": "enabled"
+    },
+    "bananas": {
+      "sling:resourceType":"wnews/page/tip",
+      "date": "2017-10-12",
+      "title": "BANANAS",
+      "pars": [
+        "Pull bananas apart before displaying them in your fruit bowl. If you leave them connected at the stem, they’ll ripen faster and go brown quicker. Who knew?"
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "comments": "enabled"
+    },
+    "lipstick-stains": {
+      "sling:resourceType":"wnews/page/tip",
+      "date": "2017-10-12",
+      "title": "LIPSTICK STAINS",
+      "pars": [
+        "Oops - got lipstick on your clothes? WD40 will remove the stain with a quick squirt."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "comments": "enabled"
+    },
     "zippers-1": {
       "sling:resourceType":"wnews/page/tip",
       "date": "2017-09-14",

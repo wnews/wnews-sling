@@ -4,6 +4,41 @@
   "jcr:primaryType": "nt:unstructured",
   "list": {
     "sling:resourceType":"wnews/block/recipe-list",
+    "apricot-peanut-butter-slice": {
+      "sling:resourceType": "wnews/page/recipe",
+      "date": "2017-10-12",
+      "title": "Apricot, Peanut Butter and Oat Slice",
+      "media": "s3./wnews/gallery/2017/10/wnews20171012-062.jpg",
+      "pars": [
+        "It is with some trepidation that I join the Cooks’ Column crew for the Waranga News.",
+        "Fingers crossed that my cooking choices, musings, and recipe choices prove a success as each turn comes about.",
+        "Being new to the district, and therefore new to reading the fortnightly rendition of the Waranga News Cooks’ Column, I have noticed many of the recipe choices have proven to be more of the cake-y type, or sweeter variety.",
+        "I decided to take a slightly different approach with my first piece and instead elected for a slice. It is however not so ‘sweet’, yet still quite fruity. I’d not attempted it previously but, liking the sound of the recipe, decided to give it a whirl for this venture of writing for the paper. I must admit I’m pleased with the final results and will make it again… YUM!",
+        "Next time I think I’ll make a double batch, AND will break some and use it as a breakfast crumble to enjoy over fruit yoghurt."
+      ],
+      "ingredients": [
+        "100 grams dried apricots",
+        "1 cup rolled oats",
+        "1/4 cup pepitas pumpkin seeds",
+        "1/4 cup honey",
+        "1 tsp vanilla extract",
+        "2 tsp coconut oil melted",
+        "1/4 cup peanut butter (crunchy or smooth to suit own tastes)"
+      ],
+      "method": [
+        "Preheat oven to 165ºC and line a 20cm x 20cm tray with baking paper.",
+        "Blitz apricots until slightly broken down (into small pieces not to form a paste).",
+        "In a bowl, combine apricots, oats and pepitas and set aside.",
+        "On the stovetop, heat honey, vanilla, coconut oil and peanut butter until it starts to bubble then remove from heat.",
+        "Add both mixtures together and mix until well combined.",
+        "Press into prepared tray with back of a wet spoon. Pop in the oven for twenty minutes or until golden.",
+        "Allow to cool COMPLETELY in the tray then slice into twelve pieces.",
+        "Can be stored in the pantry, fridge or freezer."
+      ],
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
     "asian-style-fish-soup": {
       "sling:resourceType": "wnews/page/recipe",
       "date": "2017-09-28",
