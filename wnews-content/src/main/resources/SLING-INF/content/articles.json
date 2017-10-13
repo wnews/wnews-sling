@@ -8,7 +8,7 @@
     "paging": {
       "sling:resourceType":"wp/block/paging",
       "pageSize": 6,
-      "total": 82
+      "total": 84
     },
     "springtime-gardeners": {
       "sling:resourceType":"wnews/page/article",
@@ -29,6 +29,47 @@
       "disqusShortName": "waranganews",
       "published": true,
       "related": ["wildflowers-all-the-rage", "wildflower-hunters"]
+    },
+    "modem-recycling": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-10-12",
+      "title": "Community bands together to recycle old modems",
+      "pars": [
+        "Campaspe Shire Council has teamed up with Neighbourhood and Community Houses for a shire-wide modem recycling program to coincide with the rollout of the National Broadband Network (NBN).",
+        "Mayor, Cr Adrian Weston said to support the NBN rollout across the shire, residents and businesses are encouraged to drop off their old modems and connecting cables for free.",
+        "“Council’s modem recycling initiative is a great way to easily dispose of electronic parts that are no longer required,” Cr Weston said.",
+        "Obsolete modems are classified as electronic waste (eWaste) and are recyclable. Over 95% of the components of a computer modem are recyclable. This is achieved through a manual dismantling process which sorts the components for recycling, including plastic and metal.",
+        "Modems can be dropped off at any of the following participating outlets:",
+        "<ul><li>Kyabram Community and Learning Centre, 21-25 Lake Road, Kyabram</li><li>Rochester Community House, 43-45 MacKay Street, Rochester</li><li>Echuca Neighbourhood House, 261 High Street,Echuca</li><li>Crossenvale Community House, Boothman Street,Echuca</li><li>Tongala Community Activities Centre, 94 Mangan Street, Tongala</li><li>Girgarre Community Cottage, 27 Olympic Street, Girgarre</li><li>Rushworth Community House, 67 High Street, Rushworth</li><li>Lockington Neighbourhood House, 9-11 Lockington Road, Lockington</li></ul>",
+        "“Residents can also deliver their modems to their nearest Campaspe Shire transfer station, free of charge,” Cr Weston added.",
+        "Electronic items must not be placed in the kerbside yellow-lid recycle bin as they cannot be processed with other co-mingled recycling due to their size, complex composition and hazardous materials.",
+        "Council currently has an eWaste recycling service which accepts electronic waste for free at Echuca Environment Centre and Mt Scobie (Kyabram) Transfer Station, and for a small fee at all other transfer stations for transportation and processing. Items include televisions, computers, monitors, printers, computer parts and accessories."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "euroa-show-and-shine": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-10-12",
+      "title": "Euroa Show & Shine – Best yet!",
+      "media": "s3./wnews/gallery/2017/10/wnews20171012-115.jpg",
+      "pars": [
+        "An excited crowd of over 8,000 motoring enthusiasts and their families descended on Euroa on Sunday 1 October to witness what has been described by many as the best Australian National Show and Shine ever.",
+        "Event Director Ross Holt said that attendance for the day was up on last year, with final gate figures still to be determined at the time of writing. A large number of family groups attended, with children taking advantage of free mini-railway rides, jumping castles and petting zoo.",
+        "Mr Holt said that he was very pleased with the overall event, and thanked the many groups and volunteers who had combined to make the day an outstanding success. In particular, Mr Holt thanked the Committee and the Shire of Strathbogie for their efforts in having the show area and town in pristine condition for the event. He also expressed his appreciation to all exhibitors and stall holders who attended.",
+        "In excess of 650 cars were on display, with over 460 motor cycles. Motor cycle Manager Glenn MacDonald said that this year’s milder weather had resulted in a greater attendance, in particular large groups travelling from Melbourne.",
+        "Shannons Insurance Best Car in Show was won by Andrew Barrows with his 1971 Valiant Charger VH7.",
+        "For motor cycles, the Shannons Insurance Best in Show went to a 2003 “Boss Hoss” 502ci V8 Chev powered machine, owned by Geoff Terry.",
+        "The stand-out attraction for the bikes was John Gee’s jet turbine powered Y2K superbike, which John fired up to the delight of spectators.",
+        "In the older cycle category, Euroa’s Straun Clarke was excited to take out two prizes – one each for his two Ariel cycles on display.",
+        "Display cars travelled long distances to attend what many believe to be one of the best Show and Shine events in Australia. Historic Speedway display co-organiser Chris Mann said that one of their cars, an immaculate LJ Torana, had travelled for two days all the way from Wollongong for the show.",
+        "Many spectators came from Melbourne, Bendigo and Albury-Wodonga areas, as well as numerous locals from Euroa, Shepparton, and the Goulburn Valley.",
+        "A top crowd-grabber was the appearance of two TESLA electric cars, including the Model S P100D, which accelerates from 0 to 100kph in just 2.7 seconds. A great variety of classic and vintage cars were on display in both Seven Creeks Park and the streets of Euroa. Exhibitions by the CFA, Ambulance, and the presence of the Police “Guardian 2” Mercedes E34 AMG attracted a lot of attention.",
+        "There is no doubt that the Australian National Show and Shine event has benefits which flow on long after the show is finished. Many people attending may have seen Euroa and the North East area for perhaps the first time, and with glowing reports of the show, experience has shown that they are likely to come back to visit the town and North Eastern Victorian areas again.",
+        "<em>Ray Read</em>"
+      ],
+      "disqusShortName": "waranganews",
+      "published": true
     },
     "wildflowers-all-the-rage": {
       "sling:resourceType":"wnews/page/article",
