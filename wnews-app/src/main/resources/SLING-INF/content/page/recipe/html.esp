@@ -8,7 +8,7 @@
     <meta name="description" content="<%= currentNode.pars[0] %>">
     <meta name="author" content="Waranga News Inc.">
     <link rel="icon" href="/apps/wnews/favicon.ico">
-    <title>Waranga News | <%= currentNode.title %></title>
+    <title><%= currentNode.title %> | Waranga News</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/libs/wp-bootstrap/bower_components/bootstrap-css/bootstrap.min.css" rel="stylesheet">
@@ -30,7 +30,7 @@
     <![endif]-->
 
     <!-- Sling -->
-    <script src="/system/sling.js"></script>
+    <!--<script src="/system/sling.js"></script>-->
   </head>
 
   <body>

@@ -35,7 +35,7 @@
     <![endif]-->
 
     <!-- Sling -->
-    <script src="/system/sling.js"></script>
+    <!--<script src="/system/sling.js"></script>-->
     
     <meta name="google-site-verification" content="0KyoGaEg8FoAK7HtzKQmmqItsZlMTfRKRAf_eulikik" />
   </head>

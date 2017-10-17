@@ -8,7 +8,7 @@
     <meta name="description" content="<%= currentNode.pars[0] %>">
     <meta name="author" content="Waranga News Inc.">
     <link rel="icon" href="/apps/wnews/favicon.ico">
-    <title>Waranga News | <%= currentNode.title %></title>
+    <title><%= currentNode.title %> | Waranga News</title>
 
     <% if (currentNode.media) { %>
     <meta property="og:image" content="http://wnews.org.au/wp/media/<%= currentNode.media %>" />
@@ -34,7 +34,7 @@
     <![endif]-->
 
     <!-- Sling -->
-    <script src="/system/sling.js"></script>
+    <!--<script src="/system/sling.js"></script>-->
 </head>
 
 <body>

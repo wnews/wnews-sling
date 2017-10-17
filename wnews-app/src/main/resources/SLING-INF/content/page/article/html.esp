@@ -34,7 +34,7 @@
     <![endif]-->
 
     <!-- Sling -->
-    <script src="/system/sling.js"></script>
+    <!--<script src="/system/sling.js"></script>-->
   </head>
 
   <body>
