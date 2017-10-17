@@ -8,6 +8,7 @@
       "sling:resourceType": "wnews/page/advertisement",
       "title": "3B Small Engines",
       "media": "s3./wnews/advertisements/3b Small Engines.jpg",
+      "telephone": "03 5824 2339",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
@@ -16,6 +17,8 @@
       "sling:resourceType": "wnews/page/advertisement",
       "title": "Alan Howard Real Estate",
       "media": "s3./wnews/advertisements/Allan Howard Real Estate.jpg",
+      "website": "http://www.sheppartonrealestate.com.au",
+      "telephone": "03 5856 1510",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
@@ -32,6 +35,8 @@
       "sling:resourceType": "wnews/page/advertisement",
       "title": "Bayly Solar",
       "media": "s3./wnews/advertisements/Bayly Solar.jpg",
+      "website": "http://www.baylysolar.com.au",
+      "telephone": "0433 871 579",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
@@ -48,6 +53,7 @@
       "sling:resourceType": "wnews/page/advertisement",
       "title": "BJ Repairs",
       "media": "s3./wnews/advertisements/BJ Repairs.jpg",
+      "telephone": "0412 762 497",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
@@ -64,6 +70,7 @@
       "sling:resourceType": "wnews/page/advertisement",
       "title": "Clive Coventry",
       "media": "s3./wnews/advertisements/Clive Coventry.jpg",
+      "telephone": "03 5852 1619",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
@@ -80,6 +87,7 @@
       "sling:resourceType": "wnews/page/advertisement",
       "title": "Coghlans IGA",
       "media": "s3./wnews/advertisements/Coghlans.jpg",
+      "telephone": "03 5856 1441",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
@@ -96,6 +104,7 @@
       "sling:resourceType": "wnews/page/advertisement",
       "title": "The Cottage Ice Cream Shoppe",
       "media": "s3./wnews/advertisements/Cottage Ice Cream Shoppe.jpg",
+      "telephone": "03 5856 1905",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
@@ -104,6 +113,7 @@
       "sling:resourceType": "wnews/page/advertisement",
       "title": "The Criterion Hotel",
       "media": "s3./wnews/advertisements/Criterion Hotel.jpg",
+      "telephone": "03 5856 1100",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
@@ -112,6 +122,7 @@
       "sling:resourceType": "wnews/page/advertisement",
       "title": "Dawes &amp; Vary Riordan",
       "media": "s3./wnews/advertisements/Dawes &amp; Vary Riordan.jpg",
+      "website": "http://www.dvrlawyers.com.au",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
@@ -120,6 +131,7 @@
       "sling:resourceType": "wnews/page/advertisement",
       "title": "EW Pumps",
       "media": "s3./wnews/advertisements/EW Pumps.jpg",
+      "telephone": "03 5484 1710",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
@@ -128,6 +140,8 @@
       "sling:resourceType": "wnews/page/advertisement",
       "title": "Farriervet",
       "media": "s3./wnews/advertisements/Farriervet.jpg",
+      "website": "http://farriervet.com",
+      "telephone": "03 5822 2000",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
@@ -147,6 +161,7 @@
       "sling:resourceType": "wnews/page/advertisement",
       "title": "GV Level &amp; Lift",
       "media": "s3./wnews/advertisements/GV Level &amp; Lift.jpg",
+      "telephone": "0400 217 201",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
@@ -155,6 +170,7 @@
       "sling:resourceType": "wnews/page/advertisement",
       "title": "Hairzone",
       "media": "s3./wnews/advertisements/Hairzone.jpg",
+      "telephone": "03 5857 2264",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
@@ -179,6 +195,7 @@
       "sling:resourceType": "wnews/page/advertisement",
       "title": "King Billy Retreat",
       "media": "s3./wnews/advertisements/King Billy Retreat.jpg",
+      "telephone": "0437 153 203",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
@@ -195,6 +212,7 @@
       "sling:resourceType": "wnews/page/advertisement",
       "title": "Lake Waranga Caravan Park",
       "media": "s3./wnews/advertisements/Lake Waranga CPark.jpg",
+      "telephone": "03 5856 1243",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
@@ -211,6 +229,7 @@
       "sling:resourceType": "wnews/page/advertisement",
       "title": "MJ Glew",
       "media": "s3./wnews/advertisements/MJ Glew.jpg",
+      "telephone": "0419 556 239",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
@@ -219,6 +238,7 @@
       "sling:resourceType": "wnews/page/advertisement",
       "title": "Morgans Fuel",
       "media": "s3./wnews/advertisements/Morgans Fuel.jpg",
+      "telephone": "0417 571 967",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
@@ -227,6 +247,7 @@
       "sling:resourceType": "wnews/page/advertisement",
       "title": "Motofinish Cafe",
       "media": "s3./wnews/advertisements/Motofinish.jpg",
+      "telephone": "0438 018 192",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
@@ -235,6 +256,8 @@
       "sling:resourceType": "wnews/page/advertisement",
       "title": "Mud Hut Yoga",
       "media": "s3./wnews/advertisements/Mud Hut Yoga.jpg",
+      "website": "http://www.mudhutyoga.com.au",
+      "telephone": "0438 523 415",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
@@ -251,6 +274,8 @@
       "sling:resourceType": "wnews/page/advertisement",
       "title": "Natrad",
       "media": "s3./wnews/advertisements/Natrad.jpg",
+      "website": "http://natrad.com.au",
+      "telephone": "03 5821 8500",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
@@ -259,6 +284,8 @@
       "sling:resourceType": "wnews/page/advertisement",
       "title": "The Old Imperial Hotel",
       "media": "s3./wnews/advertisements/Imperial Hotel.jpg",
+      "website": "http://www.imperialhotelrushworth.com.au",
+      "telephone": "03 5856 1411",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
@@ -291,6 +318,7 @@
       "sling:resourceType": "wnews/page/advertisement",
       "title": "Rushworth Bakery",
       "media": "s3./wnews/advertisements/RW Bakery.jpg",
+      "telephone": "03 5856 1828",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
@@ -307,6 +335,7 @@
       "sling:resourceType": "wnews/page/advertisement",
       "title": "Rushworth Gift &amp; Variety",
       "media": "s3./wnews/advertisements/RW Gift &amp; Variety.jpg",
+      "telephone": "0427 561 216",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
@@ -323,6 +352,7 @@
       "sling:resourceType": "wnews/page/advertisement",
       "title": "Rushworth Hardware Electrical",
       "media": "s3./wnews/advertisements/RW Hardware Electrical.jpg",
+      "telephone": "03 5856 1368",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
@@ -331,6 +361,7 @@
       "sling:resourceType": "wnews/page/advertisement",
       "title": "Rushworth Pharmacy",
       "media": "s3./wnews/advertisements/Rushworth Pharmacy Mediconsul.jpg",
+      "telephone": "03 5856 1402",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
@@ -347,6 +378,7 @@
       "sling:resourceType": "wnews/page/advertisement",
       "title": "Spin Doctor",
       "media": "s3./wnews/advertisements/Spin Doctor.jpg",
+      "telephone": "0429 354 189",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
@@ -387,6 +419,8 @@
       "sling:resourceType": "wnews/page/advertisement",
       "title": "Steph Ryan",
       "media": "s3./wnews/advertisements/Steph Ryan.jpg",
+      "website": "http://www.stephryan.com.au",
+      "telephone": "03 5762 2100",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
@@ -403,6 +437,7 @@
       "sling:resourceType": "wnews/page/advertisement",
       "title": "Truffles",
       "media": "s3./wnews/advertisements/Truffles.jpg",
+      "telephone": "0413 998 871",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
@@ -411,6 +446,7 @@
       "sling:resourceType": "wnews/page/advertisement",
       "title": "Valley Funerals",
       "media": "s3./wnews/advertisements/Valley Funerals.jpg",
+      "telephone": "03 5824 1180",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
@@ -419,6 +455,7 @@
       "sling:resourceType": "wnews/page/advertisement",
       "title": "Workmate",
       "media": "s3./wnews/advertisements/Workmate.jpg",
+      "telephone": "0409 001 239",
       "testimonials": "enabled",
       "disqusShortName": "waranganews",
       "published": true
