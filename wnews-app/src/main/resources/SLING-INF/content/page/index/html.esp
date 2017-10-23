@@ -53,8 +53,8 @@
               <hr class="separator"/>
             </div>
 
-            <% sling.include("articles/list.feature.html/1"); %>
-            <% sling.include("articles/list.summary.html/4"); %>
+            <% sling.include("articles/list.feature.html/1-1"); %>
+            <% sling.include("articles/list.summary.html/1-4"); %>
           </div>
         </div>
         <div class="col-md-4" id="sidebar-ads">
