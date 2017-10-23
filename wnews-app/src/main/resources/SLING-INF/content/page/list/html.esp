@@ -9,7 +9,12 @@
     <meta name="author" content="Waranga News Inc.">
     <link rel="icon" href="/apps/wnews/favicon.ico">
 
-    <title><%= currentNode.title %></title>
+    <title>
+      <%
+        var pageNumSuffix = request.requestPathInfo.suffix ? request.requestPathInfo.suffix : "";
+        sling.include(currentNode.path + '.html' + pageNumSuffix, "wp-paging/block/title");
+      %>
+    </title>
 
     <!-- Bootstrap core CSS -->
     <link href="/libs/wp-bootstrap/bower_components/bootstrap-css/css/bootstrap.css" rel="stylesheet">
