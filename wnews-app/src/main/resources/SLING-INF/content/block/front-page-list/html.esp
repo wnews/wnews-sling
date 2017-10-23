@@ -1,31 +1,23 @@
 <div class="block-list">
     <div class="row">
         <%
-            var offset = 0;
-            var limit = Number.MAX_SAFE_INTEGER;
+        load('/libs/wp-paging/js/paging.js');
+        var data = JSON.parse(JSON.stringify(currentNode.paging));
+        calculateOffset(request.requestPathInfo.suffix, data);
+        var offset = data.offset;
+        var count = 0;
 
-            if (request.requestPathInfo.suffix) {
-                var suffix = request.requestPathInfo.suffix.substring(1).split("-")
-                if (suffix.length > 1) {
-                    offset = parseInt(suffix[0]);
-                    limit = parseInt(suffix[1]);
-                } else {
-                    limit = parseInt(suffix[0]);
-                }
+        for(var i in currentNode) {
+            if (currentNode[i]['sling:resourceType'] == "wnews/page/front-page"
+                && currentNode[i].published == true && --offset < 0) {
+
+                out.print('<div class="col-xs-6 col-md-4">');
+                sling.include(currentNode[i].path + ".preview.html", "wnews/block/front-page");
+                out.print("</div>");
+
+                if (++count >= Math.min(data.pageSize, data.limit)) break;
             }
-            
-            var count = offset;
-            for(var i in currentNode) {
-                if (currentNode[i]['sling:resourceType'] == "wnews/page/front-page"
-                    && currentNode[i].published == true && --offset < 0) {
-
-                    out.print('<div class="col-xs-6 col-md-4">');
-                    sling.include(currentNode[i].path + ".preview.html", "wnews/block/front-page");
-                    out.print("</div>");
-
-                    if (++count >= limit) break;
-                }
-            }
+        }
         %>
     </div>
 </div>

@@ -15,7 +15,7 @@
                 if (++count % 2 == 0) out.write("<div class=\"clearfix visible-md visible-lg\"></div>");
 
                 /* TODO: handle limit is undefined/NaN) */
-                if (count >= data.pageSize) break;
+                if (count >= Math.min(data.pageSize, data.limit)) break;
             }
         }
     %>
