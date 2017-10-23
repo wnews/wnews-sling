@@ -12,7 +12,7 @@
     <title><%= currentNode.title %></title>
 
     <!-- Bootstrap core CSS -->
-    <link href="/libs/wp-bootstrap/bower_components/bootstrap-css/bootstrap.min.css" rel="stylesheet">
+    <link href="/libs/wp-bootstrap/bower_components/bootstrap-css/css/bootstrap.css" rel="stylesheet">
 
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <link href="/libs/wp-bootstrap/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
@@ -47,11 +47,14 @@
 
           <%
             if (currentNode.list) {
-              var suffix = request.requestPathInfo.suffix ? request.requestPathInfo.suffix : "";
-              sling.include(currentNode + "/list.html" + suffix);
+              var currentPage = request.requestPathInfo.suffix ? request.requestPathInfo.suffix : "";
+              sling.include(currentNode + "/list.html" + currentPage);
               if (currentNode.list.paging) {
-                var currentPage = request.getRequestParameter("p");
-                sling.include(currentNode + "/list/paging." + currentPage + ".html" + currentNode);
+                if (!currentPage || 0 === currentPage.length) {
+                  sling.include(currentNode + "/list/paging.html" + currentNode);
+                } else {
+                  sling.include(currentNode + "/list/paging." + currentPage.substring(1) + ".html" + currentNode);
+                }
               }
             }
           %>
