@@ -6,7 +6,7 @@
     "sling:resourceType":"wnews/block/article-list",
     "opengraph_type": "article",
     "paging": {
-      "sling:resourceType":"wp/block/paging",
+      "sling:resourceType":"wp-paging/block/paging",
       "pageSize": 6,
       "total": 84
     },
