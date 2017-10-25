@@ -4,6 +4,40 @@
   "jcr:primaryType": "nt:unstructured",
   "list": {
     "sling:resourceType":"wnews/block/recipe-list",
+    "salmon-stir-fry": {
+      "sling:resourceType": "wnews/page/recipe",
+      "date": "2017-10-26",
+      "title": "Salmon Stir-fry",
+      "media": "s3./wnews/gallery/2017/10/wnews20171026-121.jpg",
+      "pars": [
+        "I’ve taken to buying packets of frozen salmon fillets at a certain supermarket (which I won’t promote here, of course). They’re individually wrapped - so it’s so easy to just take a couple out of the freezer for a quick meal.",
+        "Apparently we could all do with more fish in our diets - salmon being one of those that are usually recommended - as long as it’s sustainably produced.",
+        "We felt like a light meal, so I just made a sort of stir-fry, as follows:"
+      ],
+      "ingredients": [
+        "2 salmon fillets",
+        "1 lemon",
+        "small bunch of buk choi (or other Chinese cabbage) sliced",
+        "half a red capsicum sliced",
+        "small bunch fresh asparagus sliced",
+        "half a small fennel sliced",
+        "half a dozen cherry tomatoes, halved",
+        "half a packet of shelf-life noodles",
+        "1 lge tbspn Thai Chili Soy Paste",
+        "1 tbspn peanut oil for stir-frying",
+        "2 spring onions chopped finely to serve"
+      ],
+      "method": [
+        "Place salmon fillets on a plate, squeeze lemon juice over and cover with Gladwrap. Microwave for a few minutes until just cooked through. Cut into smaller chunks.",
+        "Pour boiling water over the noodles and allow to stand a few minutes, separating the noodles with a fork.",
+        "Stir fry vegetables in the oil, adding the noodles after a few minutes. Season with chili paste and adjust seasoning using salt or fish sauce. When the vegetables are cooked, add the salmon and gently stir to mix it all together.",
+        "Turn onto a warmed platter or large bowl and scatter with spring onions; it’s a serve-yourself meal.",
+        "You can, of course, use any combination of vegetables, broccoli, spinach, zucchini, sugar peas etc."
+      ],
+      "testimonials": "enabled",
+      "disqusShortName": "waranganews",
+      "published": true
+    },
     "apricot-peanut-butter-slice": {
       "sling:resourceType": "wnews/page/recipe",
       "date": "2017-10-12",
