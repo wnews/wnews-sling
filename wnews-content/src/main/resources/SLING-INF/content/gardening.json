@@ -4,6 +4,38 @@
   "jcr:primaryType": "nt:unstructured",
   "list": {
     "sling:resourceType":"wnews/block/article-list",
+    "paging": {
+      "sling:resourceType":"wp-paging/block/paging",
+      "pageSize": 6,
+      "total": 5
+    },
+    "planting-from-pots": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2017-10-26",
+      "title": "Planting from pots",
+      "sidebar": "/home-hints/list.sidebar.html/3",
+      "pars": [
+        "Many gardeners have experienced the frustration of spending good money on a plant only to have it die after being planted out. Newly planted plants don’t just die for no reason; in many cases they are killed through the ignorance of the gardener. Here is a simple guide to prevent those expensive post-planting fatalities:",
+        "Make sure the plant you have chosen is suitable for the location. In the Rushworth district plants need to be drought tolerant, yet still be able to withstand frosts. Some plants like shade, others full sun. Is the soil the correct pH for the plant? Some plants thrive in poor soils while others need rich soil. Don’t think you can just dig a hole and introduce suitable soil. This just doesn’t work. Above all remember, just because you like a plant, it doesn’t mean you will be able grow it in your garden.",
+        "Be wary if buying discounted plants at nurseries. There will be a reason for them being discounted. If there are roots growing out of the drainage holes of the pot it means that the plant is root-bound. This is a minor problem with non-natives as you can tease out the roots when planting. You can’t do this with natives; they don’t like having their roots disturbed. The only option is to plant them as is, however the roots will often continue to grow around and around instead of growing out from the plant. Without a decent root system, the plant cannot thrive. Check discounted plants for other damage. After the heavy frost of last winter some nurseries sold off plants with frost damaged tips. Without tips for new growth these plants may not be able to grow effectively. Nurseries will often discount plants that have finished flowering. These will offer good savings for the gardener, but make sure the plant is perennial.",
+        "If the nursery has kept the plant in a hothouse it is better to leave the plant outside in its pot for a few weeks so it can acclimatise to the outside world. Make sure it doesn’t dry out.",
+        "Do not plant out during an extreme heatwave or frosty weather. It is not good for either the plant or the gardener.",
+        "The hole for the plant needs to be twice the diameter of the pot and a little deeper. In hard, compacted soils use a pick to ‘shatter’ the soil around the hole to help drainage and root penetration.",
+        "A pour a generous amount of diluted seaweed liquid into the hole and let it soak in. This will provide a ‘tonic’ for your plant and encourage the roots to grow. It also improves clay soils.",
+        "Water the plant before trying to remove it from the pot. Tap the sides of the pot to loosen the plant and remove gently. If the plant is stuck, check for roots growing out of the drainage hole. These will need to be trimmed before you try again. If the plant is still stuck, just cut down the side of the pot in three places and peel the sides back to free the plant; why risk a plant worth good money for a pot worth a few cents?",
+        "Use the soil removed from the holes as back fill. Do not use potting mix or compost. Potting mix will only encourage top growth before the plant spreads its roots and to grow a circular root system within the potting mix. The potting mix will also create a sump that will retain water and may drown your plant.",
+        "Plant the plant to the same level as it was in the pot. Avoid planting it deeper as it may cause collar rot. Avoid planting the plant in a ‘saucer’ as this may cause waterlogging in wet seasons. If you wish to make a ‘saucer’ to help watering, make sure it is above the ground level.",
+        "Don’t tamp in the plant.",
+        "Give the plant a good watering-in with seaweed solution and stake if necessary.",
+        "Sprinkle a little appropriate slow release fertiliser around the plant after two weeks or so; any sooner the fertiliser may burn the roots. Mulch if necessary.",
+        "Keep an eye on the plant and make sure it doesn’t dry-out. A little mulch may help but don’t have it up against the stem of the pant as this may cause collar rot.",
+        "If you follow these steps you will have a greater success with your plants and will stop you wasting money on buying plants only to have them die.",
+        "<em>Happy gardening!</em>"
+      ],
+      "disqusShortName": "waranganews",
+      "published": true
+    },
     "organic-fruit": {
       "sling:resourceType":"wnews/page/article",
       "feature": true,

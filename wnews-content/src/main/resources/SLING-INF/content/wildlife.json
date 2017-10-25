@@ -4,6 +4,28 @@
   "jcr:primaryType": "nt:unstructured",
   "list": {
     "sling:resourceType": "wnews/block/article-list",
+    "paging": {
+      "sling:resourceType":"wp-paging/block/paging",
+      "pageSize": 6,
+      "total": 8
+    },
+    "look-before-you-lop": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-10-26",
+      "title": "Look before you lop",
+      "media": "s3./wnews/gallery/2017/10/wnews20171026-028.jpg",
+      "pars": [
+        "Spring is a time of year people love to get out in their garden and clean things up before the Summer months. Unfortunately, it also clashes with the busiest time of the nesting season for our native birds. As a consequence at this time each year, Bohollow receives calls for many baby birds who have either had their nests destroyed or brought down through trimming, pruning or lopping.",
+        "These tiny superb fairy wrens were accidentally dislodged from their hiding place amongst long grass and a shrub at one of our Bunbartha shelter neighbours. The owners were distressed that the babes had ended up on the ground, nest and all. After observing and assessing the situation, it was decided that the babes were to come to the shelter to be raised as we could not return the nest due to the site being too sparse from the clearing of grass. These little birds love to build their nests deep within dense cover which makes it almost impossible for predators to get to them and now this perfect cover was completely gone.",
+        "Making these decisions can sometimes be difficult and we tossed up various options before deciding on the final outcome. Each situation is different and there are many factors to take into account such as species, habitat, chances of survival and how advanced the chicks are.",
+        "All seem to being doing well in care at the moment, although with teeny chicks like this, you can never count your chicks before they are fledged!",
+        "If you are considering pruning heavily, lopping or undertaking any other garden activity which may disturb nests and their young, please take the time to have a good look around before doing so. If you notice nesting birds, please consider putting off any plans which may cause their demise.",
+        "Birds grow extremely quickly and these little wrens only take 12 to 13 days from hatching to fledging and the incubation time for the eggs in the nest is only 13 to 15 days! So you shouldn’t have to postpone your gardening plans for too long if you discover your resident birds have decided to nest in an inconvenient place. They sure will appreciate you waiting for them to raise their little family and you get the added joy of watching the babes grow and leave the nest.",
+        "It is also a myth that once you touch a baby bird the parents will not have anything to do with it. Most birds have a pretty rudimentary sense of smell and their instinct to return to care for their young is strong. Different bird species also tolerate different levels of disturbance around nests and young. Never assume that a young bird or nest cannot be put back with the parents. Each case is different so always call for advice if you find a nest or young bird in a place it should not be and always check before you prune, slash or burn."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true
+    },
     "tawny-frogmouth": {
       "sling:resourceType":"wnews/page/article",
       "date": "2017-10-12",

@@ -8,7 +8,88 @@
     "paging": {
       "sling:resourceType":"wp-paging/block/paging",
       "pageSize": 6,
-      "total": 84
+      "total": 86
+    },
+    "colourful-times": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2017-10-26",
+      "title": "Colourful times for Rushworth schools",
+      "media": "s3./wnews/gallery/2017/10/wnews20171026-001.jpg",
+      "pars": [
+        "Spring is a time for colour, and students from Rushworth P-12 and St Mary’s School have all been adding to the array of hues on offer. The sunny weather has set the scene for some colourful outdoor activities over the past couple of weeks, all in the cause of fostering good mental and physical health and wellbeing.",
+        "P-12 students enjoyed taking part in their very messy colour run in support of Mental Health Week and ‘R U Ok’ day, while St Mary’s students turned out with brightly decorated shoes, bikes or scooters for ‘Walk to School’ day, which was followed by a healthy breakfast on arrival."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "related": ["towards-reconciliation", "welcome-preps-2017"]
+    },
+    "colbinabbin-primary-celebrates": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-10-26",
+      "title": "Colbinabbin Primary celebrates 100 years of quality education",
+      "media": "s3./wnews/gallery/2017/10/wnews20171026-004.jpg",
+      "sidebar": "colbo-primary-new-classroom-67",
+      "pars": [
+        "This weekend, 28 and 29 October, Colbinabbin Primary will celebrate 100 years of education.",
+        "The Centenary year was officially launched in February with a morning tea, unveiling of a plaque and the burying of a time capsule.",
+        "This weekend the celebrations come to a head with a display of artefacts and memorabilia spanning the ten decade history of the school. The school will be open from 10:30-5pm on Saturday and 10:30-4pm on Sunday for all to enjoy.",
+        "On Saturday night, over a hundred people will gather for a meal and many an old story will be exchanged. This will continue on Sunday when the school will offer a BBQ lunch complemented by an ice cream van. Refreshments will also be available.",
+        "The school’s amazing Centenary Celebration book will be available for purchase. The book has been created through the efforts of School Council President, Iain Downie and principal, Robyn MacLean. There will be other memorabilia on sale over the weekend.",
+        "There has been a hardworking planning group behind the weekend who are pulling out all stops to ensure this once-in-one hundred-years celebration is memorable.",
+        "All community members are welcome - we would love to see you there!"
+      ],
+      "disqusShortName": "waranganews",
+      "published": true,
+      "related": ["colbo-primary-celebrates", "herb-is-the-one"]
+    },
+    "colbo-primary-new-classroom-67": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-10-26",
+      "title": "New classroom opened",
+      "pars": [
+        "<em>Excerpt from Rushworth Chronicle 21/8/67</em>",
+        "“Before a large crowd of parents and visitors, Mr Peter Ross-Edwards, MLA, officially opened the recently completed classroom at Colbinabbin State School. The occasion also marked the school’s 50th year.",
+        "During his remarks Mr Ross-Edwards pointed out the difference between the old and the new buildings, comparing big changes that have occurred in the education field over the 50 years.",
+        "Introducing the speakers, the president of the School Committee, Mr. F. S. Rathjen mentioned Mr. R.S.L. McDonald MLA, the Education Department, the Shire, teachers, Mothers’ Club and the committee for the part they all had taken to bring the school and its surroundings to the present standard.",
+        "He also made mention of the presence of Mr. J. H. Gamble, who was among the first pupils to attend the original school.",
+        "Other speakers were Cr. C. B. Hill for the Waranga Shire, and Mr. M. Collins, the District Inspector.",
+        "To commemorate the opening, Mr Ross-Edwards unveiled a plaque and planted a golden ash tree.",
+        "Prior to and following the ceremony, those present were able to inspect the work and activities of the children.”"
+      ],
+      "disqusShortName": "waranganews",
+      "published": false,
+      "related": ["colbinabbin-primary-celebrates"]
+    },
+    "fire-in-the-belly": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-10-26",
+      "title": "‘Fire in the Belly’ ready for viewing",
+      "media": "s3./wnews/gallery/2017/10/wnews20171026-007.jpg",
+      "sidebar": "fire-in-the-belly-booking",
+      "pars": [
+        "After three years of development the time has finally arrived to screen Rushworth based and produced film ‘Fire in the Belly’!",
+        "Community members, friends and families are invited to the free screenings on 11 November at the Rushworth Shire Hall at 11.30am and 3.30pm.",
+        "Although tickets are free, booking is essential for catering and seating purposes.",
+        "Hijack’d Catering will provide yummy food to purchase from their food van and Longleat Winery will have a selection of wines to help celebrate the event.",
+        "The community short film-making project Fire in the Belly tells a fictional story inspired by the discovery of scraps of an old newspaper article in the local Museum. These hinted at a secret, untold and a vastly unknown historical story in our town – a social uprising in the small community of Rushworth in the dark years prior to the end of World War 1.",
+        "Fire in the Belly tells a story of what may have happened in the darkness of discontent on Christmas Eve 1917 during the turbulent war years.",
+        "So book your FREE tickets to ensure that you don’t miss out on this screening. This free-to-the-community screening has been made possible by the Shire of Campaspe who have funded the cost of tickets for the Rushworth community to view the outcome of this exciting community project."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true
+    },
+    "fire-in-the-belly-booking": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-10-26",
+      "title": "Fire in the Belly - How to book",
+      "pars": [
+        "Bookings can be made by logging into Eventbrite to book online <a href=https://www.eventbrite.com.au/e/fire-in-the-belly-community-screening-2-tickets-39154913400>https://www.eventbrite.com.au/e/fire-in-the-belly-community-screening-2-tickets-39154913400</a>",
+        "OR In person at Rushworth Community House 67 High St, Rushworth, Victoria 3612 Ph: (03) 5856 1295 Email: admin@rushcomhouse.org.au Mon, Tues, Thur 9am - 3pm Wed & Fri 9am - 1pm"
+      ],
+      "disqusShortName": "waranganews",
+      "published": false,
+      "related": ["fire-in-the-belly"]
     },
     "springtime-gardeners": {
       "sling:resourceType":"wnews/page/article",
