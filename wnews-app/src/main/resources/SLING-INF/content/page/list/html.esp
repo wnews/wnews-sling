@@ -54,7 +54,7 @@
             if (currentNode.list) {
               var currentPage = request.requestPathInfo.suffix ? request.requestPathInfo.suffix : "";
               sling.include(currentNode + "/list.html" + currentPage);
-              if (currentNode.list.paging) {
+              if (currentNode.list.paging && currentNode.list.paging.total > currentNode.list.paging.pageSize) {
                 if (!currentPage || 0 === currentPage.length) {
                   sling.include(currentNode + "/list/paging.html" + currentNode);
                 } else {
