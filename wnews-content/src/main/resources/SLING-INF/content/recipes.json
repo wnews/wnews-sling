@@ -35,7 +35,6 @@
         "You can, of course, use any combination of vegetables, broccoli, spinach, zucchini, sugar peas etc."
       ],
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "apricot-peanut-butter-slice": {
@@ -70,7 +69,6 @@
         "Can be stored in the pantry, fridge or freezer."
       ],
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "asian-style-fish-soup": {
@@ -99,7 +97,6 @@
       ],
       "sidebar": "asian-style-fish-soup-extra-ingredients",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "asian-style-fish-soup-extra-ingredients": {
@@ -113,7 +110,6 @@
         "1 tspn sesame oil",
         "Fresh chopped coriander to serve"
       ],
-      "disqusShortName": "waranganews",
       "published": false
     },
     "lemon-sour-muffins": {
@@ -144,7 +140,6 @@
         "The cake was always served as muffins in Williamstown when I happened upon them - still piping hot from the oven. Oh deliciousness! With a cup of cappucino . . ."
       ],
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "apple-cake": {
@@ -169,7 +164,6 @@
         "While hot, spread with butter and sprinkle with cinnamon and sugar. Serve hot with cream or custard for a dessert, or cold as a slice."
       ],
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "chocolate-special-occasion-cake": {
@@ -201,7 +195,6 @@
       ],
       "sidebar": "chocolate-special-occasion-cake-frosting",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "chocolate-special-occasion-cake-frosting": {
@@ -216,7 +209,6 @@
       "method": [
         "Melt chocolate over hot water, cool lightly and stir in salt and sour cream."
       ],
-      "disqusShortName": "waranganews",
       "published": false
     }
   }

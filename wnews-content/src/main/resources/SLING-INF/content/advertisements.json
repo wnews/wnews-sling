@@ -10,7 +10,6 @@
       "media": "s3./wnews/advertisements/3b Small Engines.jpg",
       "telephone": "03 5824 2339",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "alan-howard": {
@@ -20,7 +19,6 @@
       "website": "http://www.sheppartonrealestate.com.au",
       "telephone": "03 5856 1510",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "anton-damen": {
@@ -28,7 +26,6 @@
       "title": "Anton Damen",
       "media": "s3./wnews/advertisements/Anton Damen.jpg",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "bayly-solar": {
@@ -38,7 +35,6 @@
       "website": "http://www.baylysolar.com.au",
       "telephone": "0433 871 579",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "beau-jangles": {
@@ -46,7 +42,6 @@
       "title": "Beau Jangles",
       "media": "s3./wnews/advertisements/Beau Jangles.jpg",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "bj-repairs": {
@@ -55,7 +50,6 @@
       "media": "s3./wnews/advertisements/BJ Repairs.jpg",
       "telephone": "0412 762 497",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "campbell-smith": {
@@ -63,7 +57,6 @@
       "title": "Campbell Smith",
       "media": "s3./wnews/advertisements/Campbell Smith.jpg",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "clive-coventry": {
@@ -72,7 +65,6 @@
       "media": "s3./wnews/advertisements/Clive Coventry.jpg",
       "telephone": "03 5852 1619",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "clinical-massage": {
@@ -80,7 +72,6 @@
       "title": "Clinical Massage",
       "media": "s3./wnews/advertisements/Clinical-Massage.png",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": false
     },
     "coghlans-iga": {
@@ -89,7 +80,6 @@
       "media": "s3./wnews/advertisements/Coghlans.jpg",
       "telephone": "03 5856 1441",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "colbinabbin-hotel": {
@@ -97,7 +87,6 @@
       "title": "Colbinabbin Hotel",
       "media": "s3./wnews/advertisements/Colbinabbin Hotel.jpg",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "cottage-ice-cream-shoppe": {
@@ -106,7 +95,6 @@
       "media": "s3./wnews/advertisements/Cottage Ice Cream Shoppe.jpg",
       "telephone": "03 5856 1905",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "criterion-hotel": {
@@ -115,7 +103,6 @@
       "media": "s3./wnews/advertisements/Criterion Hotel.jpg",
       "telephone": "03 5856 1100",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "dawes-vary-riordan": {
@@ -124,7 +111,6 @@
       "media": "s3./wnews/advertisements/Dawes &amp; Vary Riordan.jpg",
       "website": "http://www.dvrlawyers.com.au",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "ew-pumps": {
@@ -133,7 +119,6 @@
       "media": "s3./wnews/advertisements/EW Pumps.jpg",
       "telephone": "03 5484 1710",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "farriervet": {
@@ -143,7 +128,6 @@
       "website": "http://farriervet.com",
       "telephone": "03 5822 2000",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "generations-church": {
@@ -154,7 +138,6 @@
       "telephone": "03 5824 3240",
       "openingHours": "Su 09:00-18:00",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "gv-level-lift": {
@@ -163,7 +146,6 @@
       "media": "s3./wnews/advertisements/GV Level &amp; Lift.jpg",
       "telephone": "0400 217 201",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "hairzone": {
@@ -172,7 +154,6 @@
       "media": "s3./wnews/advertisements/Hairzone.jpg",
       "telephone": "03 5857 2264",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "hotwire": {
@@ -180,7 +161,6 @@
       "title": "Hotwire",
       "media": "s3./wnews/advertisements/Hotwire.jpg",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "jones-geisler-bros": {
@@ -188,7 +168,6 @@
       "title": "Jones-Geisler Bros",
       "media": "s3./wnews/advertisements/Jones-Geisler Bros.jpg",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "king-billy-retreat": {
@@ -197,7 +176,6 @@
       "media": "s3./wnews/advertisements/King Billy Retreat.jpg",
       "telephone": "0437 153 203",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "kyabram-funeral-directors": {
@@ -205,7 +183,6 @@
       "title": "Kyabram Funeral Directors",
       "media": "s3./wnews/advertisements/Kyabram &amp; Dist Funeral.jpg",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "lake-waranga-caravan-park": {
@@ -214,7 +191,6 @@
       "media": "s3./wnews/advertisements/Lake Waranga CPark.jpg",
       "telephone": "03 5856 1243",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "mawsons": {
@@ -222,7 +198,6 @@
       "title": "Mawsons",
       "media": "s3./wnews/advertisements/Mawsons.jpg",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "mj-glew": {
@@ -231,7 +206,6 @@
       "media": "s3./wnews/advertisements/MJ Glew.jpg",
       "telephone": "0419 556 239",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "morgans-fuel": {
@@ -240,7 +214,6 @@
       "media": "s3./wnews/advertisements/Morgans Fuel.jpg",
       "telephone": "0417 571 967",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "motofinish-cafe": {
@@ -249,7 +222,6 @@
       "media": "s3./wnews/advertisements/Motofinish.jpg",
       "telephone": "0438 018 192",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "mud-hut-joga": {
@@ -259,7 +231,6 @@
       "website": "http://www.mudhutyoga.com.au",
       "telephone": "0438 523 415",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "murchison-service-station": {
@@ -267,7 +238,6 @@
       "title": "Murchison Service Station",
       "media": "s3./wnews/advertisements/Murch Service Station.jpg",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "natrad": {
@@ -277,7 +247,6 @@
       "website": "http://natrad.com.au",
       "telephone": "03 5821 8500",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "old-imperial-hotel": {
@@ -287,7 +256,6 @@
       "website": "http://www.imperialhotelrushworth.com.au",
       "telephone": "03 5856 1411",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "over-vb-sand-gravel": {
@@ -295,7 +263,6 @@
       "title": "Over VB Sand &amp; Gravel",
       "media": "s3./wnews/advertisements/Over VB Sand &amp; Gravel.jpg",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "peter-knobel": {
@@ -303,7 +270,6 @@
       "title": "Peter Knobel",
       "media": "s3./wnews/advertisements/Peter Knobel.jpg",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "red-plumbing": {
@@ -311,7 +277,6 @@
       "title": "Red Plumbing",
       "media": "s3./wnews/advertisements/Red Plumbing.jpg",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "rushworth-bakery": {
@@ -320,7 +285,6 @@
       "media": "s3./wnews/advertisements/RW Bakery.jpg",
       "telephone": "03 5856 1828",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "rushworth-community-house": {
@@ -328,7 +292,6 @@
       "title": "Rushworth Community House",
       "media": "s3./wnews/advertisements/RCH Services.jpg",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "rushworth-gift-variety": {
@@ -337,7 +300,6 @@
       "media": "s3./wnews/advertisements/RW Gift &amp; Variety.jpg",
       "telephone": "0427 561 216",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "rushworth-hardware": {
@@ -345,7 +307,6 @@
       "title": "Rushworth Hardware",
       "media": "s3./wnews/advertisements/RW Hardware.jpg",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "rushworth-hardware-electrical": {
@@ -354,7 +315,6 @@
       "media": "s3./wnews/advertisements/RW Hardware Electrical.jpg",
       "telephone": "03 5856 1368",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "rushworth-pharmacy": {
@@ -363,7 +323,6 @@
       "media": "s3./wnews/advertisements/Rushworth Pharmacy Mediconsul.jpg",
       "telephone": "03 5856 1402",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "rushworth-tv-antenna": {
@@ -371,7 +330,6 @@
       "title": "Rushworth TV Antenna",
       "media": "s3./wnews/advertisements/Rushworth TV Antenna.jpg",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "spin-doctor": {
@@ -380,7 +338,6 @@
       "media": "s3./wnews/advertisements/Spin Doctor.jpg",
       "telephone": "0429 354 189",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "stanhope-appliances": {
@@ -388,7 +345,6 @@
       "title": "Stanhope Appliances",
       "media": "s3./wnews/advertisements/Stanhope Appliances.jpg",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "stanhope-monster-garage-sale": {
@@ -396,7 +352,6 @@
       "title": "Stanhope Monster Garage Sale",
       "media": "s3./wnews/advertisements/Stanhope Monster Garage Sale.jpg",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "stanhope-motors": {
@@ -404,7 +359,6 @@
       "title": "Stanhope Motors",
       "media": "s3./wnews/advertisements/Stanhope Motors.jpg",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "stanhope-plumbing": {
@@ -412,7 +366,6 @@
       "title": "Stanhope Plumbing",
       "media": "s3./wnews/advertisements/Stanhope Plumbing.jpg",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "steph-ryan": {
@@ -422,7 +375,6 @@
       "website": "http://www.stephryan.com.au",
       "telephone": "03 5762 2100",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "the-agitator": {
@@ -430,7 +382,6 @@
       "title": "The Agitator",
       "media": "s3./wnews/advertisements/The Agitator.jpg",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "truffles": {
@@ -439,7 +390,6 @@
       "media": "s3./wnews/advertisements/Truffles.jpg",
       "telephone": "0413 998 871",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "valley-funerals": {
@@ -448,7 +398,6 @@
       "media": "s3./wnews/advertisements/Valley Funerals.jpg",
       "telephone": "03 5824 1180",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "workmate": {
@@ -457,7 +406,6 @@
       "media": "s3./wnews/advertisements/Workmate.jpg",
       "telephone": "0409 001 239",
       "testimonials": "enabled",
-      "disqusShortName": "waranganews",
       "published": true
     },
     "lorem-ipsum-2": {

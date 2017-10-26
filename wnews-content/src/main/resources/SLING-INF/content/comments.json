@@ -1,5 +1,6 @@
 {
   "title":" - Waranga News",
   "sling:resourceType":"/libs/wp-comments",
+  "disqusShortName": "waranganews",
   "jcr:primaryType":"nt:unstructured"
 }

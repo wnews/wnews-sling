@@ -4,6 +4,5 @@
   "jcr:primaryType":"nt:unstructured",
   "media": "s3./wnews/past-issues/2017/10/wnews20171026_tourism.jpeg",
   "published": true,
-  "testimonials": "enabled",
-  "disqusShortName": "waranganews"
+  "testimonials": "enabled"
 }
