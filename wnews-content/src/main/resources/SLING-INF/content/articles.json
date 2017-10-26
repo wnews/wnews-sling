@@ -8,7 +8,7 @@
     "paging": {
       "sling:resourceType":"wp-paging/block/paging",
       "pageSize": 6,
-      "total": 86
+      "total": 87
     },
     "colourful-times": {
       "sling:resourceType":"wnews/page/article",
@@ -90,6 +90,17 @@
       "disqusShortName": "waranganews",
       "published": false,
       "related": ["fire-in-the-belly"]
+    },
+    "wnews-cnav-finalist": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-10-26",
+      "title": "CNAV Community Content finalists",
+      "media": "s3./wnews/gallery/2017/10/wnews20171026-071.jpg",
+      "pars": [
+        "At the recent Community Newspapers Association Victoria (CNAV) conference the Waranga News was a finalist in the category Community Content. Receiving their award were Editor, Mary Jo Fortuna, President, Gillian Schoenborn and Office Manager, Vicki Arnel at Traralgon."
+      ],
+      "disqusShortName": "waranganews",
+      "published": true
     },
     "springtime-gardeners": {
       "sling:resourceType":"wnews/page/article",
