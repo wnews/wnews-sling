@@ -61,5 +61,6 @@ task buildDocker(type: Docker) {
     subprojects.each {
         addFile it.jar.archivePath, "/opt/sling/sling/startup/${project.property('bundleStartLevel')}/"
     }
+    addFile 'sling.properties', '/opt/sling/'
     subprojects.each { dependsOn("${it.name}:jar") }
 }
