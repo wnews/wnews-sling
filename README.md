@@ -14,9 +14,7 @@ This project uses gradle to build and bundles. The following tasks are the most 
 
 The following project properties may also be overridden:
 
-    sling_host # the host environment name
-    
-    sling_port # the host environment port
+    sling_url # the host environment url
     
     sling_username # the host environment user
     
