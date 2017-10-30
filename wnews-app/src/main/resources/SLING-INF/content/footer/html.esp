@@ -9,10 +9,10 @@
     <hr style="text-align: center; width: 70%">
 
     <footer>
-      <p>&copy; <%= currentNode.copyright %></p>
+      <p>Created with <a href="http://whistlepost.org" target="_blank">Whistlepost</a> | &copy; <%= currentNode.copyright %></p>
     </footer>
 
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="/apps/wp/js/whistlepost.bundle.js"></script>
+    <script src="/apps/wnews/js/wnews.bundle.js"></script>
     <script src="/libs/wp-rss/js/tooltip.js"></script>
     <% sling.include("analytics.google.html"); %>

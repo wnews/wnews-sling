@@ -1,4 +1,5 @@
 const path = require('path');
+const webpack = require('webpack');
 var ExtractTextPlugin = require("extract-text-webpack-plugin");
 const GoogleFontsPlugin = require("google-fonts-webpack-plugin")
 
@@ -42,6 +43,19 @@ module.exports = {
 			}
           }
         ]
+      },
+	  {
+        test: require.resolve('jquery'),
+        use: [
+        	{
+			  loader: 'expose-loader',
+			  options: 'jQuery'
+		    },
+		    {
+				loader: 'expose-loader',
+				options: '$'
+			}
+		]
       }
     ]
   },

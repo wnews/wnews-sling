@@ -15,8 +15,6 @@
 
     <title><%= currentNode.title %></title>
 
-    <link href="/apps/wp/css/whistlepost.bundle.css" rel="stylesheet">
-
     <!-- Custom styles for this template -->
     <link href="/apps/wnews/css/wnews.bundle.css" rel="stylesheet">
     <link href="/apps/wnews/css/fonts.css" rel="stylesheet">
