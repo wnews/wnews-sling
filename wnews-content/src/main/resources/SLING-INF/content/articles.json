@@ -8,7 +8,27 @@
     "paging": {
       "sling:resourceType":"wp-paging/block/paging",
       "pageSize": 6,
-      "total": 87
+      "total": 88
+    },
+    "centenary-celebrations": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2017-11-09",
+      "title": "Centenary celebrations at Colbo PS",
+      "media": "s3./wnews/gallery/2017/11/wnews20171109-000.jpg",
+      "pars": [
+        "The ‘Back to Colbinabbin Primary School’ on the weekend of 28-29 October was a popular and jam-packed event, attracting many past students, their parents, teachers, principals and school community members to gather at the school to enjoy the wonderful displays and share their memories of their time at Colbinabbin Primary.",
+        "The displays showing many artefacts, documents and photos were enjoyed and included student work, report cards, School Committee and Parent and Friends Committee minutes and of course, many photos from each decade.",
+        "A range of commemorative souvenirs were on sale, including a commemorative book created to mark the auspicious occasion.",
+        "The celebrations continued on Saturday night with a delicious roast dinner catered for by the hardworking organising committee, staff and Parents and Friends of the school.",
+        "About 120 people enjoyed the meal and each other’s company in the picturesque grounds of the school on the Cornella Creek.",
+        "The grounds were looking stunning thanks to the hard work of School Councillors and parents. School Council President, Iain Downie, and principal, Robyn MacLean delivered short speeches to welcome back all in attendance and thank those who had worked so hard to put on such a fabulous event.",
+        "Mrs MacLean made particular mention of the five other past principals that were in attendance: Mr Barrie Winzar; Mr Keith Ring, Mrs Margaret Hoelter, Mr Marty Morris and Mr Kelvyn Miller. Together, the principals have lead the school for a total of 36 years.",
+        "Sunday saw the school once again filled to the brim with people eager to enjoy the displays and reminisce about times gone by. About 150 people enjoyed a barbeque lunch in the glorious sunshine.",
+        "The children enjoyed ice creams, games and the school’s wonderful playground, which brought beaming smiles to many faces."
+      ],
+      "published": true,
+      "related": ["colbinabbin-primary-celebrates", "colbo-primary-celebrates"]
     },
     "colourful-times": {
       "sling:resourceType":"wnews/page/article",
