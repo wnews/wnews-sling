@@ -63,7 +63,7 @@ module.exports = {
     new ExtractTextPlugin("resources/main/SLING-INF/content/css/wnews.bundle.css"),
     new GoogleFontsPlugin({
 		fonts: [
-			{ family: "Droid Serif" }
+			{ family: "Noto Serif" }
 		],
 		path: 'resources/main/SLING-INF/content/fonts/',
 		filename: 'resources/main/SLING-INF/content/css/fonts.css'
