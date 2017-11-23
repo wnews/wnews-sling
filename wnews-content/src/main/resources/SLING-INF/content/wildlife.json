@@ -7,7 +7,42 @@
     "paging": {
       "sling:resourceType":"wp-paging/block/paging",
       "pageSize": 6,
-      "total": 8
+      "total": 9
+    },
+    "barn-owl-rescue": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-11-23",
+      "title": "Barn owl rescue from work shed",
+      "media": "s3./wnews/gallery/2017/11/wnews20171123-034.jpg",
+      "sidebar": "/wildlife/list/bohollow-calendar-2018",
+      "pars": [
+        "I get called to remove many birds from buildings, most of them raptors like this beautiful Barn Owl.",
+        "I was called to rescue one this on a very busy day for rescues so my friend Tanya went and checked it out while I was attending a rescue elsewhere. The owl could not be found so it was assumed it had made its own way out. I didn’t give it another thought until the following morning when I received a call to say that it must have been hiding as it was definitely still in the building.",
+        "It was another extremely busy day and after doing a couple of pick-ups elsewhere and removing and relocating a duck family from a garden shed, I finally arrived at the premises to catch the owl.",
+        "Tanya met me at the location to give me a hand as in large areas such as this one, it is much easier with two people to keep the bird moving; making it easier to eventually net.",
+        "I never know how long these rescues are going to take but the shed was very open; not too cluttered for access and not as high as some of the ones I get called to, so it was looking good.",
+        "As luck would have it, we managed the capture within about five minutes!",
+        "The poor owl wasn’t flying quite as quickly as they usually do and upon inspection of his eyes, one lid was slightly drooped which is an indication that he was possibly concussed.",
+        "This work shed is adjacent to the busy main road which goes right through Shepparton. It is a likely scenario that he was clipped by a vehicle at night and feeling pretty ordinary, didn’t get back to his usual daytime roost. The shed was a good place to evade the magpies, ravens and other birds which attack an owl when caught out in the open during daylight hours. Other bird species often attack owls and other raptors purely because they know they are predators and pose a threat to them, so naturally wish to move them on. Usually, when an owl flies into a premises such as this, the rescue description I receive is that they flew into the shed with magpies in hot pursuit. This was the case for this fellow.",
+        "He is a bit underweight so a week or two at Bohollow with rest and good tucker should see this Barn Owl being able to get back out, flying free where he belongs.",
+        "Thank you to the people at the business for being so quick to call for help, (both days) and a huge thank you to my trusty rescue partner, Tanya, for being there to help out."
+      ],
+      "published": true
+    },
+    "bohollow-calendar-2018": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-11-23",
+      "title": "Bohollow calendar 2018",
+      "pars": [
+        "The 2018 Bohollow calendar is set to be available this week and is an excellent Christmas gift for that hard-to-buy-for person, who cares about local wildlife.",
+        "Photographs from 2017 have been chosen for each month from a variety of rescue animals and birds throughout the year, many of which have featured in stories and articles.",
+        "The calendars will be available at most of the veterinary clinics in our surrounding area as well as the Kyabram Fauna Park, Numurkah Learning Centre and the Ethnic Council Shepparton or you can secure a copy by contacting us with your order and address so we can mail out to you.",
+        "Price is $20 per calendar plus postage.",
+        "ALL proceeds go directly back into Bohollow to help cover the costs of caring for the critters at both of our shelters and the costs of our 24/7 rescue service.",
+        "This is our third calendar and the feedback was brilliant the previous two years so we hope our native wildlife helps brighten your year in 2018.",
+        "All photographs are taken by Kirsty Ramadan. For orders please contact Kirsty on 0447 636 953"
+      ],
+      "published": false
     },
     "look-before-you-lop": {
       "sling:resourceType":"wnews/page/article",
