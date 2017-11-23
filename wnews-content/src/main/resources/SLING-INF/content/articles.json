@@ -8,7 +8,22 @@
     "paging": {
       "sling:resourceType":"wp-paging/block/paging",
       "pageSize": 6,
-      "total": 88
+      "total": 89
+    },
+    "fire-season-starts": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2017-11-23",
+      "title": "Fire Season starts - new tanker arrives",
+      "media": "s3./wnews/gallery/2017/11/wnews20171123-000.jpg",
+      "pars": [
+        "Rushworth’s new Heavy Tanker recently rolled into town and has since been put through it paces by enthusiastic members of the local Fire Brigade. The new tanker carries 4000 litres (four tonnes) of water, of which 3500 litres are available for fire fighting. By law, the remaining 500 litres are kept in reserve to protect fire-fighters in case the vehicle is trapped in a sea of flame. If a burn-over does occur, a highly-reliable quenching system is activated, dousing the huge vehicle in a protective envelope of water. Testing by the Brigade has demonstrated the power, manoeuvrability and flexibility of the new tanker, just in time for the Fire Danger Period.",
+        "A number of grass and scrub fires broke out across the region in late October and early November. It was therefore no real surprise that when the regional Grassland Curing Percentage hit 80%, Fire Restrictions were quickly introduced across the Shire of Campaspe (see diagram below).",
+        "Recent rains may have reduced the immediate fire danger level, but summer promises to bring with it a higher than average fire risk, requiring strict compliance with fire restrictions and great care to be taken whether having a barbeque at home or operating a large piece of agricultural equipment.",
+        "The arrival of the new tanker at Rushworth is but one element in the war on fire in and around the Waranga district. The most important partners in this vital safety endeavour are you - our readers - and the care you take with fire over the coming months.",
+        ""
+      ],
+      "published": true
     },
     "centenary-celebrations": {
       "sling:resourceType":"wnews/page/article",
