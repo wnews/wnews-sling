@@ -9,6 +9,13 @@
       "pageSize": 12,
       "total": 90
     },
+    "2017-11-23": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "November 23, 2017",
+      "media": "s3./wnews/past-issues/2017/11/wnews20171123.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
     "2017-11-09": {
       "sling:resourceType": "wnews/page/front-page",
       "title": "November 9, 2017",
