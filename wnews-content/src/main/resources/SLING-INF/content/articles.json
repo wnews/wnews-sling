@@ -8,7 +8,21 @@
     "paging": {
       "sling:resourceType":"wp-paging/block/paging",
       "pageSize": 6,
-      "total": 89
+      "total": 90
+    },
+    "the-big-wet": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2017-12-07",
+      "title": "The Big Wet",
+      "media": "s3./wnews/gallery/2017/12/wnews20171207-000.jpg",
+      "pars": [
+        "After two weeks of record breaking November heat, we may well have thought the tropics had moved south on the weekend, with rain, rain and more rain leading to flash flooding and closed roads.",
+        "Residents were certainly well-prepared with warnings from the weather forecasters to be on standby for a deluge that would see a whole summer’s worth of rain dumped on the region over the weekend.",
+        "While most roads into Rushworth were closed at various times over the weekend, Stanhope’s Johnson Road was one of the worst hit of our local roads and is still closed at the time of going to press. It was touch and go for some residents, as neighbours helped stem the flow with sandbags as the water rose.",
+        "Much of the water has drained away as quickly as it arrived, but for many farmers in the district it has put a dampener on harvest time. Hopefully there will be no more follow up in the next couple of weeks and they will be able to get those headers back in the paddocks."
+      ],
+      "published": true
     },
     "fire-season-starts": {
       "sling:resourceType":"wnews/page/article",
