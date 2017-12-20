@@ -7,7 +7,14 @@
     "paging": {
       "sling:resourceType":"wp-paging/block/paging",
       "pageSize": 12,
-      "total": 90
+      "total": 91
+    },
+    "2017-12-21": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "December 21, 2017",
+      "media": "s3./wnews/past-issues/2017/12/wnews20171221.jpeg",
+      "comments": "enabled",
+      "published": true
     },
     "2017-12-07": {
       "sling:resourceType": "wnews/page/front-page",
