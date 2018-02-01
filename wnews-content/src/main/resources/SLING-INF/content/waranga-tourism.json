@@ -2,7 +2,7 @@
   "title": "Waranga News | Waranga Tourism",
   "sling:resourceType":"wnews/page/advertisement",
   "jcr:primaryType":"nt:unstructured",
-  "media": "s3./wnews/past-issues/2017/12/wnews20171221_tourism.jpeg",
+  "media": "s3./wnews/past-issues/2018/02/wnews20180201_tourism.jpeg",
   "published": true,
   "testimonials": "enabled"
 }

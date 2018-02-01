@@ -8,7 +8,21 @@
     "paging": {
       "sling:resourceType":"wp-paging/block/paging",
       "pageSize": 6,
-      "total": 91
+      "total": 92
+    },
+    "tropical-paradise": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2018-02-01",
+      "title": "Tropical paradise on the Basin",
+      "media": "s3./wnews/gallery/2018/02/wnews20180201-000.jpg",
+      "pars": [
+        "Congratulations to Bree Colger, winner of our Summer Photo Competition, with this dramatic view over the Waranga Basin.",
+        "There was a great response to this season’s Waranga News photo competition and, as usual, it was so hard to choose a winner. Unfortunately some very worthy entries were too small in resolution to be reproduced in the paper. Please remember when sending in your entries to send them full size. They must be at least 1 MB to be considered for printing.",
+        "We will be announcing the next competition round in coming editions.",
+        "Our lucky winner Bree receives a year’s Online Subscription to the Waranga News in full colour and a poster of the front page with her winning photograph."
+      ],
+      "published": true
     },
     "its-christmas": {
       "sling:resourceType":"wnews/page/article",
