@@ -11,7 +11,7 @@
     },
     "2018-02-01": {
       "sling:resourceType": "wnews/page/front-page",
-      "title": "February 1, 2017",
+      "title": "February 1, 2018",
       "media": "s3./wnews/past-issues/2018/02/wnews20180201.jpeg",
       "comments": "enabled",
       "published": true
