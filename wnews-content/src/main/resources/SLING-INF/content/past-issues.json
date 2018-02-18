@@ -7,7 +7,14 @@
     "paging": {
       "sling:resourceType":"wp-paging/block/paging",
       "pageSize": 12,
-      "total": 92
+      "total": 93
+    },
+    "2018-02-15": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "February 15, 2018",
+      "media": "s3./wnews/past-issues/2018/02/wnews20180215.jpeg",
+      "comments": "enabled",
+      "published": true
     },
     "2018-02-01": {
       "sling:resourceType": "wnews/page/front-page",

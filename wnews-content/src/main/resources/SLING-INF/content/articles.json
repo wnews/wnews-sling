@@ -8,7 +8,18 @@
     "paging": {
       "sling:resourceType":"wp-paging/block/paging",
       "pageSize": 6,
-      "total": 92
+      "total": 93
+    },
+    "schools-in": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2018-02-15",
+      "title": "School’s in for 2018",
+      "media": "s3./wnews/gallery/2018/02/wnews20180215-000.jpg",
+      "pars": [
+        "It's that time again when our schools are enjoying their new intake of enthusiastic little ‘preppies’ - (yes, we know they’re really Foundation students but old habits die hard!). These smiling faces leave us in no doubt they are all set for their new adventure into the world of learning, new friends and lots of fun along the way."
+      ],
+      "published": true
     },
     "tropical-paradise": {
       "sling:resourceType":"wnews/page/article",
