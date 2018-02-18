@@ -2,7 +2,7 @@
   "title":"Waranga News",
   "sling:resourceType":"wnews/footer",
   "jcr:primaryType":"nt:unstructured",
-  "copyright": "2017 Waranga News, Inc.",
+  "copyright": "2018 Waranga News, Inc.",
   "banner": {
     "sling:resourceType":"wnews/block/banner",
     "jcr:primaryType":"nt:unstructured",
