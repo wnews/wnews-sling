@@ -8,7 +8,7 @@
     "paging": {
       "sling:resourceType":"wp-paging/block/paging",
       "pageSize": 6,
-      "total": 93
+      "total": 97
     },
     "schools-in": {
       "sling:resourceType":"wnews/page/article",
@@ -18,6 +18,75 @@
       "media": "s3./wnews/gallery/2018/02/wnews20180215-000.jpg",
       "pars": [
         "It's that time again when our schools are enjoying their new intake of enthusiastic little ‘preppies’ - (yes, we know they’re really Foundation students but old habits die hard!). These smiling faces leave us in no doubt they are all set for their new adventure into the world of learning, new friends and lots of fun along the way."
+      ],
+      "published": true
+    },
+    "new-owners-for-colbo-hotel": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2018-02-15",
+      "title": "New owners for the Colbinabbin Hotel",
+      "media": "s3./wnews/gallery/2018/02/wnews20180215-006.jpg",
+      "pars": [
+        "The Colbinabbin Hotel which sits in the hub of the town has been sold!",
+        "Mary Ann Morgan, Principal of Morgan Legal together with husband Dr. Barry Dawson have purchased the hotel. The business will be a Joint Venture with Julie Price also as Manageress.",
+        "Mary Ann and Julie both grew up in Colbinabbin and are the daughters of the late Michael (Mick) and Norm and Maureen Wright. Judy Phelan (Mary Ann’s Mother), still resides in the Community.",
+        "Mick and Norm were club stalwarts, Life members and local identities of the current Football Club and other organisations.",
+        "These ladies have incredibly strong networks and connections within the Colbinabbin district, Regional and Metropolitan areas and feel very passionate in ensuring the Colbinabbin community will continue to have a Pub where locals can gather, socialise, wine and dine.",
+        "Plans will be underway during the year for renovations, extension and events along with local engagements and partnerships with local business, farming, vineyards and sporting communities.",
+        "It will be a great investment for the long future and sustainability of our town and community."
+      ],
+      "published": true
+    },
+    "hostel-on-site-action": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2018-02-15",
+      "title": "Plenty of action at the site of the new hospital/hostel",
+      "media": "s3./wnews/gallery/2018/02/wnews20180215-007.jpg",
+      "pars": [
+        "The building is now ready for the roof to go on with the framing completed on the new Waranga Hospital and Hostel in High Street Rushworth.",
+        "Hydraulic plumbing roughing-in is continuing, with the installaton of windows the next part of the build, with masonry and cladding to follow.",
+        "Asbestos removal has been necessary which is often the case in older buildings.",
+        "There is still more of this to be done in the next few weeks which is being carried out by an authorised asbestos removal contractor and hygeniest.",
+        "The building contractors are pleased with the progress of the redevelopment and have said they expect the project to be completed in the predicted time frame."
+      ],
+      "published": true
+    },
+    "funds-allocated": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2018-02-15",
+      "title": "Funds allocated as Community Planning Program is finalised",
+      "pars": [
+        "Planning Program is finalised Rushworth has been allocated $35,812.50 to be used as leverage funding to assist in progressing the Waranga Trail project. The allocation is from the Community Planning Implementation Fund (CPIF), which is to be expended as the twelve year old Community Planning Group program is wound up.",
+        "Council has approved the allocation of Community Plan Implementation Funds to support six community projects, identified by each community:",
+        "Corop, $5,487.99 – Creation of storage at the Corop Kitchen and a play space near the Traveller’s Rest area.",
+        "Stanhope: $23,533.70 – Improvements to key community open space areas, including the toilet/art space area.",
+        "Toolleen: $7,745.84 – Refurbishment of the wayside stop including painting, replacing the BBQ, tables and seats.",
+        "Torrumbarry: $4,789.09 – Repainting the Torrumbarry Hall.",
+        "Wyuna: $9,291.64– Installing airconditioning at the Wyuna Hall.",
+        "Rushworth: $35,812.50 – Allocated to a funding reserve to support applications for the fulfilment of the Waranga Trail project.",
+        "To support the finalisation of the program, all of the communities have been encouraged to expend their allocated funds. Up until three years ago each community within the shire received a per capita allocation and a $75,000 allocation was made to the pool reserve. All of the above mentioned communities have been involved in the Community Planning process in the last twelve years. All have money left in their Community Planning Reserves.",
+        "The CPIF pool reserve was established three years ago to replace allocations to individual communities. The residual funds were available to all communities once their individual allocation was expended. Council’s change in direction away from the community planning program requires the pool of funds to be disbursed to allow its finalisation. The Community Planning Officer has worked with local communities to determine their priorities for the funding.",
+        "The Waranga Trail project has been flagged for the last ten years and is one of five trails that the State Government has nominated as high priorities.",
+        "As a result of these allocations each of these communities will have expended their Community Plan Implementation Funds Reserves in the next twelve months with the pool reserve going towards the Waranga Trail."
+      ],
+      "published": true
+    },
+    "tip-voucher-review": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2018-02-15",
+      "title": "Campaspe Shire reviewing tip voucher use",
+      "pars": [
+        "Campaspe Shire Council is conducting a community survey to discover how waste vouchers provided with rate notices are used.",
+        "Mayor, Cr Adrian Weston said a review of the waste vouchers is underway and the first step is to understand how the vouchers are used, by whom, and to dispose of what type of material. To capture comments, an online survey has been developed which will feed into the review.",
+        "Waste vouchers are provided to landowners with the annual rate notice to cover the cost of disposing of one cubic metre of waste.",
+        "The vouchers can be used to pay for materials that attract a charge, such as general waste, garden waste, and other material including tyres, refrigerators, mattresses and e-waste.",
+        "The online survey is designed to capture whether residents sort their load before going to a transfer station as well as asking residents if they are aware that the material taken to a transfer station attracts a charge back to council.",
+        "“There is no such thing as free waste. Council pays to dispose of, manage or recycle most material taken to a transfer station,” Cr Weston said.",
+        "“This cost is added to annual waste charges.”",
+        "Data shows about 60 per cent of ratepayers do not use the vouchers.",
+        "“For the 40 per cent who do use the vouchers, we are trying to understand how and why,” Cr Weston said.",
+        "The survey is now open and can be accessed via council’s website. Additional copies of the survey are available from customer service centres.",
+        "The survey closes on Wednesday, 28 February."
       ],
       "published": true
     },
