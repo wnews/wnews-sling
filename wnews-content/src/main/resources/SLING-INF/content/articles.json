@@ -49,7 +49,8 @@
         "There is still more of this to be done in the next few weeks which is being carried out by an authorised asbestos removal contractor and hygeniest.",
         "The building contractors are pleased with the progress of the redevelopment and have said they expect the project to be completed in the predicted time frame."
       ],
-      "published": true
+      "published": true,
+      "related": ["hostel-redevelopment-announced"]
     },
     "funds-allocated": {
       "sling:resourceType":"wnews/page/article",
@@ -69,7 +70,8 @@
         "The Waranga Trail project has been flagged for the last ten years and is one of five trails that the State Government has nominated as high priorities.",
         "As a result of these allocations each of these communities will have expended their Community Plan Implementation Funds Reserves in the next twelve months with the pool reserve going towards the Waranga Trail."
       ],
-      "published": true
+      "published": true,
+      "related": ["grants-for-grass-roots", "rushworth-okeefe-rail-trail"]
     },
     "tip-voucher-review": {
       "sling:resourceType":"wnews/page/article",
