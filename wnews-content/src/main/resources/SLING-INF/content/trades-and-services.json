@@ -2,7 +2,7 @@
   "title": "Waranga News | Trades and Services",
   "sling:resourceType":"wnews/page/advertisement",
   "jcr:primaryType":"nt:unstructured",
-  "media": "s3./wnews/past-issues/2018/02/wnews20180215_trade_services.jpeg",
+  "media": "s3./wnews/past-issues/2018/03/wnews20180301_trade_services.jpeg",
   "published": true,
   "testimonials": "enabled"
 }
