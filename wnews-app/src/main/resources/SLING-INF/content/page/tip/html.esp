@@ -11,7 +11,7 @@
     <title><%= currentNode.title %> | Waranga News</title>
 
     <% if (currentNode.media) { %>
-    <meta property="og:image" content="http://wnews.org.au/wp/media/<%= currentNode.media %>" />
+    <meta property="og:image" content="http://wnews.org.au/content/wp/media/<%= currentNode.media %>" />
     <% } %>
 
     <!-- Custom styles for this template -->
