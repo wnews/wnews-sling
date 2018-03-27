@@ -8,7 +8,21 @@
     "paging": {
       "sling:resourceType":"wp-paging/block/paging",
       "pageSize": 6,
-      "total": 98
+      "total": 99
+    },
+    "future-of-cricket": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2018-03-15",
+      "title": "The future of cricket in Colbinabbin!",
+      "media": "s3./wnews/gallery/2018/03/wnews20180315-000.jpg",
+      "pars": [
+        "Junior cricket is BIG in Colbinabbin largely due to the enthusiasm of coach Bill West.",
+        "Bill has generously donated his time each Monday over several months to teach the local kids about one of his passions, and that is cricket and the skills of hitting and catching a cricket ball . . . never too late to improve, hey Bill!",
+        "Bill did a brilliant job, keeping the kids engaged and enthused at each clinic. Both the children and parents were very grateful for the time and energy Bill volunteered to this clinic. They thank Bill “for making this great town a little bit greater!”",
+        "Bill was really caught off-guard at the Cricket Club’s Presentation night when he was awarded a Life Membership for over twenty-four years of service to the Club - a well-deserved honour."
+      ],
+      "published": true
     },
     "change-of-guard": {
       "sling:resourceType":"wnews/page/article",
