@@ -1,6 +1,6 @@
 <%
     if (currentSession.userID != 'anonymous') {
-      sling.include("/content/wp/admin/navbar.html");
+      sling.include("/content/wnews/admin/navbar.html");
 %>
 <style>
 body { padding-top: 50px };
