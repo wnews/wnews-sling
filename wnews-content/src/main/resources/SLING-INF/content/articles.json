@@ -8,7 +8,23 @@
     "paging": {
       "sling:resourceType":"wp-paging/block/paging",
       "pageSize": 6,
-      "total": 97
+      "total": 98
+    },
+    "change-of-guard": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2018-03-01",
+      "title": "Change of guard at Criterion",
+      "media": "s3./wnews/gallery/2018/03/wnews20180301-000.jpg",
+      "pars": [
+        "Rushworth’s Criterion Hotel has long been famous as one of the town’s historic landmarks. But for locals, the Top Pub, as it is commonly known, represents much more. Over the grand old building’s long life it has at various times been a favourite watering hole, a venue for fine dining, a community meeting point - even, for a brief time, the paste-up venue for Waranga News production! New owner Danny Horne and his partner Michelle Beecroft have plans to help the Criterion relive some of its glory days.",
+        "The Criterion Hotel will be a new and exciting business venture and future investment for new owner and operator, Danny and partner Michelle.",
+        "Purchase of both building (freehold) and the leasehold (licence) means a promising time is ahead for the Rushworth community, as the magnificent historic building is gently brought back to life and the new business venture begins.",
+        "Danny has admired the local building for many years and for all the right reasons. He has a passion for ‘building’ and loves the idea of restoring. Handover will take place on 5 March, 2018.",
+        "Danny is a born and bred Rushworth local, the son of Alec and Pam Horne, while Michelle, daughter of Bill and Yvonne Beecroft, moved from Kyabram where she has lived for many years, to Rushworth after falling in love with the town….and the man! Coincidentally they met inside this very building for which they both have the same passion. They are both looking forward to the challenges awaiting them when Danny comes home to stay. His work has taken him around Australia and overseas, so he is looking forward to settling back in Rushworth.",
+        "“I would like to give back to this community by breathing new life into this beautiful old Hotel with emphasis on the preservation of its historic past,” says Danny. However, this vast investment and commitment to the challenge comes at a cost. He hopes all will embrace his new business and ideas going forward."
+      ],
+      "published": true
     },
     "schools-in": {
       "sling:resourceType":"wnews/page/article",
