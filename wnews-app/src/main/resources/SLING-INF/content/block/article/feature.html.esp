@@ -2,7 +2,7 @@
                 <h1><%= currentNode.title %></h1>
                 <p class="date-published"><%= currentNode.date %></p>
                 <% if (currentNode.media) { %>
-                <img src="/content/wp/media/<%= currentNode.media %>" alt="<%= currentNode.title %> image"/>
+                <img src="/content/wnews/media/<%= currentNode.media %>" alt="<%= currentNode.title %> image"/>
                 <% } %>
                 <%
                     var firstPar = currentNode.pars[0].split(' ')
