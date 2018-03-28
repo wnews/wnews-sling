@@ -7,6 +7,6 @@
     "jcr:primaryType":"nt:unstructured",
     "title": "Trades and Services",
     "href": "/content/wnews/trades-and-services.html",
-    "blockHtml": "<img src=\"/content/wp/media/s3./wnews/trades-and-services.png\" alt=\"Trades and Services image\"/>"
+    "blockHtml": "<img src=\"/content/wnews/media/s3./wnews/trades-and-services.png\" alt=\"Trades and Services image\"/>"
   }
 }
