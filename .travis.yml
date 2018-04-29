@@ -1,9 +1,15 @@
+cache:
+  directories:
+    - $HOME/.gradle/wrapper/
+sudo: required
+services:
+  - docker
+dist: trusty
 language: java
 jdk:
   - oraclejdk8
-sudo: false
 deploy:
   provider: script
-  script: scripts/install.sh
+  script: scripts/publish-docker-image.sh
   on:
     branch: master
