@@ -57,7 +57,7 @@ docker {
 }
 
 task buildDocker(type: Docker) {
-    applicationName = project.property('projectId')
+    applicationName = 'wnews/wnews-sling'
     tagVersion = 'latest'
     push 'true' == project.property('docker_push')
     apiUsername = project.property('docker_apiUsername')
