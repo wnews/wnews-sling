@@ -8,7 +8,39 @@
     "paging": {
       "sling:resourceType":"wp-paging/block/paging",
       "pageSize": 6,
-      "total": 99
+      "total": 100
+    },
+    "eileen-barlow-celebrates": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2018-05-24",
+      "title": "Eileen Barlow celebrates 100th birthday",
+      "media": "s3./wnews/gallery/2018/05/wnews20180524-000.jpg",
+      "sidebar": "eileen-barlow-biography",
+      "pars": [
+        "On the afternoon of Friday 11 May 2018, the Waranga Aged Care Hostel celebrated Eileen Barlow’s 100th birthday with a special ‘Happy Birthday’ afternoon tea. She has been a Hostel resident for the past six years.",
+        "As well as Hostel residents, staff and volunteers, Eileen’s daughters Pam Barlow, Fran O’Sullivan and Joy Donegan were in attendance, along with her grandson Joe Donegan and great grand-daughter Karla Donegan.",
+        "Proceedings began with the Hostel Lifestyle and Leisure Co-ordinator Leah Huggard welcoming everyone and commenting, ‘We’d like to congratulate Eileen on reaching this milestone. Happy birthday, Eileen.’",
+        "Speaking on behalf of the family, her daughter Pam Barlow said, ‘We’d like to thank you, the Hostel, for your love and tender care. She’s thoroughly enjoyed working in the garden. Thanks for making the Hostel her home. It’s meant a lot to all of us.’",
+        "Eileen Barlow responded by thanking everyone and by saying, in part, ‘I’ve been very happy here and I’ve made some wonderful friends.’",
+        "Then Eileen cut her 100th birthday cake, which was joyously shared among the many people present as part of the afternoon tea."
+      ],
+      "published": true
+    },
+    "eileen-barlow-biography": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2018-05-24",
+      "title": "Eileen Barlow - A brief biography",
+      "pars": [
+        "Eileen Barlow was born as the fourth of six children to Francis Henry and Elsie Hilda Edmonds at Horsham on 11 May 1918 and was named Eileen Ruth.",
+        "The Edmonds family lived on a farm at Green Lakes where Francis was a share-farmer.",
+        "The family bought a farm at Antwerp (between Jeparit and Dimboola) and moved there in March 1929 and later went to Beulah.",
+        "She married James (generally known as Jim) Barlow from Rushworth on 5 March 1942 at St Mary’s Cathedral, St Kilda, and became a very well known and highly respected Rushworth resident.",
+        "James and Eileen had five children – Pam, Kerry, Joy, Fran and Anthony (deceased). Eileen now has thirteen grandchildren and twenty-five great grandchildren.",
+        "<em>Happy Birthday to a great lady!</em>"
+      ],
+      "published": false,
+      "related": ["eileen-barlow-celebrates"]
     },
     "future-of-cricket": {
       "sling:resourceType":"wnews/page/article",
