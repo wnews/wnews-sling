@@ -52,7 +52,7 @@ subprojects {
 }
 
 docker {
-    baseImage "micronode/whistlepost:1.1.1"
+    baseImage "micronode/whistlepost:1.1.3"
     maintainer project.property('organization')
 }
 
