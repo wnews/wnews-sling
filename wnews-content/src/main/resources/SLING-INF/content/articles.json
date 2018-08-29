@@ -10,6 +10,24 @@
       "pageSize": 6,
       "total": 101
     },
+    "wildflowers": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2018-08-30",
+      "title": "Wildflowers play second fiddle to historic sites",
+      "media": "s3./wnews/gallery/2018/08/wnews20180830-000.jpg",
+      "pars": [
+        "The dry winter had worked against the wildflowers, but 130 people who registered for the fourth annual Wildflower Walk in the forest near Whroo on Sunday, enjoyed a marvellous pre-spring morning.",
+        "Following a circuit which included the once-busy streets and roads of Whroo, the walkers, armed with maps, photo-sheets of local blooms and history snapshots to study at numbered points, completed the walk in the bright sunshine.",
+        "With local orchids and native blooms in low numbers, and even the wattle well down on recent years, the interest turned to the Balaclava mine, the sites of old water wells, the puddling machines, the cyanide vats, the cemetery, and the Aboriginal water-hole.",
+        "Organiser Nick Buzza said, “It was pleasing to get 130 registrations, and the positive responses from locals, former locals and visitors to the district.”",
+        "Nick was appreciative of support roles played by Eloise, Steve Arnold, Liz and Greg Buzza, Heather Wellington and Whroo residents Damian and Helen Grigg, who enabled walkers to enjoy a cup of tea or coffee.",
+        "Whroo began as the Wet Diggings in 1853, and was very briefly home to close to 10,000 people who rushed to the gold-fi nd, while others tried the Dry Diggings at what became Rushworth. With so little water available and gold only gathered by the fortunate, the unsuccessful soon rushed off to fossick elsewhere, while some joined with others to sink deep shafts in search of the elusive metal.",
+        "Owners of hotels dug wells and created underground tanks lined with bricks and, in some cases, local stones. Several were visited as part of the walk. As a Rochester visitor said, “If these wells were built in the 1850s, you have to admire those skills, over 160 years later.”",
+        "It will take early spring rain to entice a few more wildflowers this year, but they will be back in 2019."
+      ],
+      "published": true
+    },
     "shearing-for-kids-doubles-tally": {
       "sling:resourceType":"wnews/page/article",
       "feature": true,
@@ -19,7 +37,7 @@
       "pars": [
         "Now in its fourth year, the popular Shearing for Kids with Cancer event held at Bill and Val Barlow’s property, Corydon, exceeded all expectations, raising almost double last year’s total of $27,000. The packed day of shearing, auctions and raffles is held to raise money for clinical research, medical equipment and support for families of those experiencing childhood cancer.",
         "Organiser of the event, Katrina Ogden, said the day went better than anyone could have hoped and they were pleased that the rain didn’t hold people back.",
-        "There were twelve shearers including an 82 years young gentleman in an eight stand shed. More than thirty helpers worked in and around the shed, from picking up fl eece, sweeping the board, cooking and writing raffle tickets.",
+        "There were twelve shearers including an 82 years young gentleman in an eight stand shed. More than thirty helpers worked in and around the shed, from picking up fleece, sweeping the board, cooking and writing raffle tickets.",
         "After a fabulous lunch, some lovely ladies from the Royal Children’s Hospital, Merridy and Bev, spoke to everyone about their roles at the wonderful hospital. The boys then went back to shearing for an hour before the start of the auction and raffle winners were drawn.",
         "There were plenty of auction items and raffle prizes supplied by local businesses and companies who were especially generous with their donations.",
         "Then there was the shear that everyone was waiting for. An addition to the conventional shearing this year saw the clippers come out for the Ogden family, with all five members losing their locks to raise money for children’s cancer charity, My Room!",

@@ -7,7 +7,14 @@
     "paging": {
       "sling:resourceType":"wp-paging/block/paging",
       "pageSize": 12,
-      "total": 106
+      "total": 107
+    },
+    "2018-08-30": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "August 30, 2018",
+      "media": "s3./wnews/past-issues/2018/08/wnews20180830.jpeg",
+      "comments": "enabled",
+      "published": true
     },
     "2018-08-16": {
       "sling:resourceType": "wnews/page/front-page",
