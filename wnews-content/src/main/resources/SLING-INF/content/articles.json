@@ -8,7 +8,37 @@
     "paging": {
       "sling:resourceType":"wp-paging/block/paging",
       "pageSize": 6,
-      "total": 101
+      "total": 102
+    },
+    "green-and-gold": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2018-09-27",
+      "title": "Colbinabbin’s green and gold",
+      "media": "s3./wnews/gallery/2018/09/wnews20180927-000.jpg",
+      "sidebar": "canola",
+      "pars": [
+        "<strong>What a show! But it’s decision time for growers.</strong>",
+        "It just won’t rain . . . and whether these acres of gold and green will make any or enough seed for a harvest is front and centre in district farmers’ minds.",
+        "Cropping country to the north and west has been mown for hay and silage over the last month and local farmers are already well into mowing their canola this week.",
+        "Cereal and legume crops are all in big trouble and unless they have an irrigated address, they probably won’t make grain either.",
+        "What a shame! . . .The crops have looked so good, despite little moisture all year . . . and one decent rain this month would have made a harvest.",
+        "Winter rains are in decline across southern Australia, and while it is too early to say beyond doubt it is due to climate change, scientists say it is not just about climate variability. This winter was particularly dry given there was no El Nino event. El Nino often brings dry conditions to Australia, but this year it is in neutral.",
+        "According to the Bureau of Meteorology, May to July rainfall has reduced by about 19 per cent since 1970 in the south-west of Australia.",
+        "There has been a decline of about 11 per cent since the mid-1990s, in the April–October growing season rainfall in the continental south-east."
+      ],
+      "published": true
+    },
+    "canola": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2018-09-27",
+      "title": "Canola Facts",
+      "pars": [
+        "<ul><li>Canola is a variant of the ancient crop rapeseed, a word derived from the Latin rapum meaning turnip. Fodder rape is a related plant sown in southern Victoria for grazing by sheep.</li>",
+        "<li>Canola is grown for its seed which is crushed for the oil used in margarine, cooking oils, salad oils and edible oil blends. The properties of the oil fits with the current view that human health is better served by increasing the intake of mono and poly unsaturated fats in place of saturated fats.</li></ul>"
+      ],
+      "published": false
     },
     "wildflowers": {
       "sling:resourceType":"wnews/page/article",
