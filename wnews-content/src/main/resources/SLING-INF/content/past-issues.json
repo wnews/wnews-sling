@@ -9,6 +9,13 @@
       "pageSize": 12,
       "total": 109
     },
+    "2018-10-11": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "October 11, 2018",
+      "media": "s3./wnews/past-issues/2018/10/wnews20181011.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
     "2018-09-27": {
       "sling:resourceType": "wnews/page/front-page",
       "title": "September 27, 2018",

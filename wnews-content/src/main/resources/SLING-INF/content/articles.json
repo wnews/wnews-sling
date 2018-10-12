@@ -8,7 +8,27 @@
     "paging": {
       "sling:resourceType":"wp-paging/block/paging",
       "pageSize": 6,
-      "total": 102
+      "total": 105
+    },
+    "new-life-for-henrietta": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2018-10-11",
+      "title": "New life for Henrietta",
+      "media": "s3./wnews/gallery/2018/10/wnews20181011-000.jpg",
+      "pars": [
+        "As the Heathcote wine region has become famous, especially for producing quality shiraz, a number of our local farming familes have expanded their repertoire, extending from grains to grapes.",
+        "In the case of the Kennedy family, famous for their quality tomatoes, the name has become as familiar on the wine bottle as their photo is on tins of chopped tomatoes!",
+        "One particular Kennedy wine being featured at the Colbinabbin Country Pub’s OcTolbo (see page 11 for an explanation) is the delightful Henrietta.",
+        "<strong>So who’s Henrietta?</strong>",
+        "While you might expect this wine has a nostalgic connection to some beloved Kennedy grandmother or great-aunt, the truth is this delightful drop is named after - a truck!",
+        "Henrietta is the 1971 Leyland tray truck purchased for the Kennedy farm in 1981. She has reliably carried produce from grain to grapes.",
+        "In 2015, Kennedy Wines produced a new easy drinking shiraz to stand alongside their Kennedy brand - but what to call it? Gerard Kennedy (who has studied winemaking and with his wife Lucy is planting their own vineyard) came up with ‘Henrietta’.",
+        "The wine has gone from strength to strength, winning a gold medal at the recent Heathcote Wine Show and a score of 91 in the latest James Halliday Wine Companion.",
+        "Colbinabbin Hotel manager, Julie Price contacted John and Pat Kennedy and they ,agreed to loan them Henrietta for OcTolbo!",
+        "Thanks to the mechanic, Ivan, the truck has undergone some basic maintenance in readiness for this event. And, as she comes out of retirement, this might just kick-start a new stage in Henrietta’s career!"
+      ],
+      "published": true
     },
     "green-and-gold": {
       "sling:resourceType":"wnews/page/article",
