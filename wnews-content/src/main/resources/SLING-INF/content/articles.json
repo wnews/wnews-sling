@@ -8,7 +8,23 @@
     "paging": {
       "sling:resourceType":"wp-paging/block/paging",
       "pageSize": 6,
-      "total": 105
+      "total": 106
+    },
+    "local-spring-gardens": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2018-10-25",
+      "title": "Showcasing local spring gardens",
+      "media": "s3./wnews/gallery/2018/10/wnews20181025-000.jpg",
+      "pars": [
+        "Rushworth’s 2018 Spring Garden Festival Open Garden Day was a great success with over 140 visitors to the gardens open last Saturday. The Festival showcased fi ve individual gardens which were all different in their own ways.",
+        "Highlights of the day were the amazing line-up of local musicians who performed at ‘Lisadurne’ garden throughout the day, and Rushworth’s Artistries holding a ‘plein air’ painting day with artists being challenged by the weather in the morning but rewarded for their perserverence in the afternoon with sunny skies.",
+        "An exhibition of their completed works will open in the Motofi nish Cafe at 6 pm this Friday 26 October and everyone is welcome. There is a $5 entry fee with refreshments served and the exhibition will continue until Sunday 4 November. Full details can be found on Page 11.",
+        "Keen gardeners and interested onlookers came out from all around the region despite the wild start to the day to enjoy walking around the gardens, purchasing plants and garden ornaments, viewing mosaics and sculptures and also sampling some fi ne fare and coffee at ‘Lisadurne’.",
+        "Participating gardens in Rushworth belong to Glenys Miles in Murchison Road, Rod and Vicki Young in Parker Street and Carol and Norm McMillan in Pound Road. ‘Lisadurne’ on Heily Road and ‘Bonshaw’ at Stanhope completed the circuit.",
+        "The positive comments and feedback already from the day has encouraged all participants going to this Saturday’s Spring Garden Expo being held on the Village Green from 9 am to 1 pm."
+      ],
+      "published": true
     },
     "new-life-for-henrietta": {
       "sling:resourceType":"wnews/page/article",
