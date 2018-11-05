@@ -8,7 +8,7 @@
     "paging": {
       "sling:resourceType":"wp-paging/block/paging",
       "pageSize": 6,
-      "total": 106
+      "total": 107
     },
     "local-spring-gardens": {
       "sling:resourceType":"wnews/page/article",
@@ -23,6 +23,21 @@
         "Keen gardeners and interested onlookers came out from all around the region despite the wild start to the day to enjoy walking around the gardens, purchasing plants and garden ornaments, viewing mosaics and sculptures and also sampling some fi ne fare and coffee at ‘Lisadurne’.",
         "Participating gardens in Rushworth belong to Glenys Miles in Murchison Road, Rod and Vicki Young in Parker Street and Carol and Norm McMillan in Pound Road. ‘Lisadurne’ on Heily Road and ‘Bonshaw’ at Stanhope completed the circuit.",
         "The positive comments and feedback already from the day has encouraged all participants going to this Saturday’s Spring Garden Expo being held on the Village Green from 9 am to 1 pm."
+      ],
+      "published": true
+    },
+    "waranga-new-celebrates": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2018-10-25",
+      "title": "The Waranga News celebrates its 40th Birthday",
+      "media": "s3./wnews/gallery/2018/10/40th anniversary INVITATION.jpeg",
+      "pars": [
+        "The Waranga News celebrates its 40th Birthday on Sunday 18 November 2018",
+        "To mark this special milestone the Committee of Management requests the pleasure of your company to our Open House 10am - 4pm",
+        "Catch up with some old friends and see our progress since 1978",
+        "Lunch by Truffles Catering available from 12 noon.",
+        "Cost: $20 per head Volunteers (past & present): $10",
+        "BYO drinks; RSVP by 10 November"
       ],
       "published": true
     },
