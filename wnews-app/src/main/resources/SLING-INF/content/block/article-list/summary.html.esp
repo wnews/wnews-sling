@@ -7,7 +7,7 @@
 
         for(var i in currentNode) {
             if (currentNode[i]['sling:resourceType'] == "wnews/page/article"
-                && !currentNode[i].feature && currentNode[i].published == true && --offset < 0) {
+                && !currentNode[i].feature == true && currentNode[i].published == true && --offset < 0) {
                 sling.include(currentNode[i].path + ".summary.html", "wnews/block/article");
 
                 if (++count % 2 == 0) out.write("<div class=\"clearfix visible-md visible-lg\"></div>");
