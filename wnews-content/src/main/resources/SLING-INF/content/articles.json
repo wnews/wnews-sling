@@ -10,6 +10,32 @@
       "pageSize": 6,
       "total": 107
     },
+    "anyone-for-coffee": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2018-11-08",
+      "title": "Anyone for coffee?",
+      "media": "s3./wnews/gallery/2018/11/wnews20181108-000.jpg",
+      "sidebar": "we-are-celebrating",
+      "pars": [
+        "<em>JR Coffee Please</em> can be found everywhere you look this spring festi val season. Local entrepreneur Joel Raglus off ered a good coff ee with a friendly smile at the Spring Garden Expo in Rushworth."
+      ],
+      "published": true
+    },
+    "we-are-celebrating": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2018-11-08",
+      "title": "We are celebrating - and you are invited !",
+      "pars": [
+        "In a recent edition of the Waranga News we wrote about our quest in this 40th anniversary year to come up with an answer to the question “Where to now?” We reflected on the changes in our communities over those forty years, and whether the current model of our community newspaper will remain relevant and viable in the future.",
+        "While we might not have greatly progressed our insight into the future, one thing we do know is that the answers should come from you - our readers. The Waranga News is a ‘community owned’ paper and so everyone has the chance to contribute, to have a say and, hopefully, to come up with good ideas on how we can best keep the show on the road with happy, informed and entertained readers!",
+        "This is just one reason why we are inviting you to our Open House on 18 November, so that you can see how the Waranga News is put together, see a ‘rogues gallery’ of faces of volunteers over the forty years, peruse displays and old copies of the paper and see how it has changed over time. For many of you it will offer a dose of nostalgia as you recall events of the past. There will also be the chance to meet up with some old friends who have volunteered in the past but moved away. For more recent arrivals it offers a chance to learn more about your new home.",
+        "The other reason we are inviting everyone? Well everyone likes an excuse to party!",
+        "<br/><strong>The Program<br/>Open House 11 am - 4 pm<br/>Lunch 12 noon (RSVP essential)<br/>Formalities 2.00 pm</strong>"
+      ],
+      "published": false
+    },
     "local-spring-gardens": {
       "sling:resourceType":"wnews/page/article",
       "feature": true,
