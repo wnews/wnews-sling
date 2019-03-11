@@ -1,0 +1,81 @@
+{
+  "title": "Waranga News | Kids Corner",
+  "sling:resourceType": "wnews/page/list",
+  "jcr:primaryType": "nt:unstructured",
+  "list": {
+    "sling:resourceType":"wnews/block/article-list",
+    "paging": {
+      "sling:resourceType":"wp-paging/block/paging",
+      "pageSize": 6,
+      "total": 1
+    },
+    "spring-season": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2018-09-27",
+      "title": "Hey readers – in this edition we are taking a look at the Spring Season!",
+      "media": "s3./wnews/gallery/2018/09/wnews20180927-002.jpg",
+      "sidebar": "/kids/list/spring-cleaning",
+      "pars": [
+        "The Vernal Equinox occurs in spring. In Australia, the Vernal Equinox occurs on September 22 or 23 each year.",
+        "Vernal is Latin for Spring.",
+        "Equinox is Latin for equal days.",
+        "During the Vernal Equinox the sunrise and sunset are about 12 hours apart, everywhere on the earth and the hours of daylight and night are almost equal.",
+        "Daylight is a little longer.",
+        "The Vernal Equinox occurs when the tilt of the earth’s axis is not facing towards or away from the sun. During spring the earth’s axis starts to tilt towards the sun.",
+        "<strong>The days get longer and warmer</strong>",
+        "The Spring season is often associated with rebirth, renewal and regrowth.",
+        "Many animals start to have babies in spring. (Watch out for those swooping magpies protecting their nest!)",
+        "These animals and birds need to have their young when there is lots of food available and when the longer days mean that they have longer to find food for their young.",
+        "Animals and reptiles that hibernate, such as echidnas and snakes, start to wake up and become active.",
+        "Springtime is a peak season for seeing the numerous baby marsupials as they leave the pouch or dens to become more independent. Baby Kangaroos, wallabies, Common Brushtail and Ringtail Possums make their first appearance in spring. In spring you will find that mangos, avocados and all sorts of melons are ready to eat.",
+        "<strong>Like most places in the world Australia has four seasons in a year: summer, autumn, winter and spring.</strong>",
+        "However, in the tropical far north of Australia there are just two seasons, the wet season and the dry. The wet season, also called the monsoon season, lasts for about six months, usually between December and March. The weather is hot, with temperatures between 30’c and 50’c. Humidity is high during the wet, caused by large amounts of water in the air. During the wet a lot of rain falls and often causes flooding. The dry season lasts about six months, usually between May and October. Temperatures are lower and there is only a little rain."
+      ],
+      "published": true
+    },
+    "word-search-1": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2018-09-27",
+      "title": "Word Search #1",
+      "media": "s3./wnews/gallery/2018/09/wnews20180927-001.png",
+      "pars": [
+        "<strong>WORD SEARCH</strong>",
+        "<ul><li>ANIMALS</li>",
+        "<li>BABIES</li>",
+        "<li>BIRTH</li>",
+        "<li>BLOSSOM</li>",
+        "<li>CALF</li>",
+        "<li>DAYTIME</li>",
+        "<li>EQUINOX</li>",
+        "<li>FARMING</li>",
+        "<li>FLOWERS</li>",
+        "<li>FOOD</li>",
+        "<li>GRASS</li>",
+        "<li>LAMBS</li>",
+        "<li>LONGER</li>",
+        "<li>MAGPIES</li>",
+        "<li>NATURE</li>",
+        "<li>NIGHT</li>",
+        "<li>NOVEMBER</li>",
+        "<li>OCTOBER</li>",
+        "<li>SEPTEMBER</li>",
+        "<li>SPRINGCLEAN</li>",
+        "<li>SPRINGTIME</li>",
+        "<li>SUNSHINE</li>",
+        "<li>VERNAL</li>",
+        "<li>WARMTH</li></ul>"
+      ],
+      "published": true
+    },
+    "spring-cleaning": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2018-09-27",
+      "title": "The earliest known use of the term ‘spring cleaning’ was in 1857.",
+      "pars": [
+        "During the 1800’s, according to the Washington Post, the biggest annual housecleaning took place in the spring because winter left homes coated with “a layer of soot and grime in every room.” Lamps of the time were lit with whale oil or kerosene, which had to be heated with coal or wood, so you can just imagine that mess! Proper cleaning required opening windows to let the soot out, which, of course, could only be done during warmer weather."
+      ],
+      "published": false
+    }
+  }
+}

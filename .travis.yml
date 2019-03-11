@@ -10,6 +10,6 @@ jdk:
   - oraclejdk8
 deploy:
   provider: script
-  script: scripts/publish-docker-image.sh
+  script: scripts/install.sh
   on:
     branch: master

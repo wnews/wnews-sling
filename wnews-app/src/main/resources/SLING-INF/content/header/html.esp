@@ -29,6 +29,7 @@ body { padding-top: 50px };
                 <li><a href="/content/wnews/wildlife.html">All about wildlife</a></li>
                 <li><a href="/content/wnews/recipes.html">Cooks Column</a></li>
                 <li><a href="/content/wnews/gardening.html">Garden Hints &amp; Tips</a></li>
+                <li><a href="/content/wnews/kids.html">Kids Corner</a></li>
               </ul>
             </li>
             <li class="<%= request.requestPathInfo.suffix == '/about' ? 'active' : '' %>"><a href="/content/wnews/about.html">About</a></li>

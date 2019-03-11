@@ -7,7 +7,91 @@
     "paging": {
       "sling:resourceType":"wp-paging/block/paging",
       "pageSize": 12,
-      "total": 100
+      "total": 111
+    },
+    "2018-11-08": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "November 8, 2018",
+      "media": "s3./wnews/past-issues/2018/11/wnews20181108.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2018-10-25": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "October 25, 2018",
+      "media": "s3./wnews/past-issues/2018/10/wnews20181025.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2018-10-11": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "October 11, 2018",
+      "media": "s3./wnews/past-issues/2018/10/wnews20181011.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2018-09-27": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "September 27, 2018",
+      "media": "s3./wnews/past-issues/2018/09/wnews20180927.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2018-09-13": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "September 13, 2018",
+      "media": "s3./wnews/past-issues/2018/09/wnews20180913a.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2018-08-30": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "August 30, 2018",
+      "media": "s3./wnews/past-issues/2018/08/wnews20180830.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2018-08-16": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "August 16, 2018",
+      "media": "s3./wnews/past-issues/2018/08/wnews20180816.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2018-08-02": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "August 2, 2018",
+      "media": "s3./wnews/past-issues/2018/08/wnews20180802.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2018-07-19": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "July 19, 2018",
+      "media": "s3./wnews/past-issues/2018/07/wnews20180719.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2018-07-05": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "July 5, 2018",
+      "media": "s3./wnews/past-issues/2018/07/wnews20180705.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2018-06-21": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "June 21, 2018",
+      "media": "s3./wnews/past-issues/2018/06/wnews20180621.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2018-06-07": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "June 7, 2018",
+      "media": "s3./wnews/past-issues/2018/06/wnews20180607.jpeg",
+      "comments": "enabled",
+      "published": true
     },
     "2018-05-24": {
       "sling:resourceType": "wnews/page/front-page",
