@@ -4,10 +4,10 @@ var ExtractTextPlugin = require("extract-text-webpack-plugin");
 const GoogleFontsPlugin = require("google-fonts-webpack-plugin")
 
 module.exports = {
-  entry: './src/main/resources/SLING-INF/content/js/wnews.js',
+  entry: './src/app/js/wnews.js',
   output: {
-    filename: 'resources/main/SLING-INF/content/js/wnews.bundle.js',
-    path: path.resolve(__dirname, 'build')
+    filename: 'js/wnews.bundle.js',
+    path: path.resolve(__dirname, 'src/app')
   },
   module: {
     rules: [
@@ -24,7 +24,7 @@ module.exports = {
 		  {
             loader: 'file-loader',
             options: {
-            	'outputPath': 'resources/main/SLING-INF/content/images/',
+            	'outputPath': 'images/',
             	'useRelativePath': true,
             	publicPath: '/apps/wnews/images/'
 			}
@@ -37,7 +37,7 @@ module.exports = {
 		  {
             loader: 'file-loader',
             options: {
-            	'outputPath': 'resources/main/SLING-INF/content/fonts/',
+            	'outputPath': 'fonts/',
             	'useRelativePath': true,
 				publicPath: '/apps/wnews/fonts/'
 			}
@@ -60,13 +60,13 @@ module.exports = {
     ]
   },
   plugins: [
-    new ExtractTextPlugin("resources/main/SLING-INF/content/css/wnews.bundle.css"),
+    new ExtractTextPlugin("css/wnews.bundle.css"),
     new GoogleFontsPlugin({
 		fonts: [
 			{ family: "Noto Serif" }
 		],
-		path: 'resources/main/SLING-INF/content/fonts/',
-		filename: 'resources/main/SLING-INF/content/css/fonts.css'
+		path: 'fonts/',
+		filename: 'css/fonts.css'
 	})
   ]
 };

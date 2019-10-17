@@ -1,0 +1,3 @@
+Sling-Initial-Content: SLING-INF/content;path:=/apps/wnews;overwrite:=true
+Bundle-Name: wnews-app
+Bundle-SymbolicName: org.wnews.wnews-app

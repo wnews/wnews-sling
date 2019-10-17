@@ -1,71 +1,89 @@
 import org.apache.tools.ant.filters.ReplaceTokens
+import aQute.bnd.gradle.Bundle
 
 buildscript {
     repositories {
         mavenCentral()
-        maven {
-            url 'https://oss.sonatype.org/content/repositories/snapshots'
-        }
-        maven {
-            url 'https://plugins.gradle.org/m2/'
-        }
     }
     dependencies {
-        classpath 'org.figurate:gradle-bundle-plugin:1.0.1-SNAPSHOT'
         classpath 'se.transmode.gradle:gradle-docker:1.2'
     }
 }
 
+plugins {
+    id "com.moowork.node" version "1.3.1"
+    id "biz.aQute.bnd.builder" version "4.2.0"
+}
+
+apply plugin: 'java'
 apply plugin: 'docker'
 
-subprojects {
-    apply plugin: 'bundle'
+processResources {
+    filter ReplaceTokens, tokens: [
+        "projectName": projectName,
+        "projectId": projectId,
+        "projectUrl": projectUrl,
+        "projectDomain": (projectUrl =~ /(?:https?:\/\/)(.*)/)[0][1],
+        "organization": organization,
+        "gaTrackingId": gaTrackingId,
+        "disqusShortName": disqusShortName,
+        "currentYear": Calendar.instance.get(Calendar.YEAR) as String
+    ]
+}
 
-    repositories {
-        mavenCentral()
-    }
+jar.enabled = false
 
-    task mkClassesDir doLast {
-        new File("$buildDir/classes/main").mkdirs()
-        new File("$buildDir/osgi-classes").mkdirs()
-    }
-    tasks.processResources.dependsOn mkClassesDir
+node {
+    download = true
+}
 
-    processResources {
-        filter ReplaceTokens, tokens: [
-            "projectName": project.property('projectName'),
-            "projectId": project.property('projectId'),
-            "projectUrl": project.property('projectUrl'),
-            "projectDomain": (project.property('projectUrl') =~ /(?:https?:\/\/)(.*)/)[0][1],
-            "organization": project.property('organization'),
-            "gaTrackingId": project.property('gaTrackingId'),
-            "disqusShortName": project.property('disqusShortName'),
-            "currentYear": Calendar.instance.get(Calendar.YEAR) as String
-        ]
-    }
+task buildWebpack(type: NpmTask) {
+    args = ['run', 'buildWebpack']
+}
 
-    bundleInstall {
-        uri = "$sling_url/system/console/bundles"
-        username = sling_username
-        password = sling_password
-    }
+task bundleApp(type: Bundle) {
+    archiveBaseName = "$projectId-app"
+    bndfile = 'app.bnd'
+    from('src/app') { into 'SLING-INF/content' }
+}
+
+task bundleConfig(type: Bundle) {
+    archiveBaseName = "$projectId-config"
+    bndfile = 'config.bnd'
+    from('src/config') { into 'SLING-INF/content' }
+}
+
+task bundleContent(type: Bundle) {
+    archiveBaseName = "$projectId-content"
+    bndfile = 'content.bnd'
+    from('src/content') { into 'SLING-INF/content' }
+}
+
+bundleApp.dependsOn buildWebpack
+buildWebpack.dependsOn yarn
+clean.dependsOn yarn_cache_clean
+
+artifacts {
+    archives bundleApp
+    archives bundleConfig
+    archives bundleContent
 }
 
 docker {
-    baseImage "micronode/whistlepost:1.1.3"
-    maintainer project.property('organization')
+    baseImage "micronode/whistlepost:${whistlepost_version}"
+    maintainer organization
 }
 
 task buildDocker(type: Docker) {
     applicationName = 'wnews/wnews-sling'
     tagVersion = 'latest'
-    push 'true' == project.property('docker_push')
-    apiUsername = project.property('docker_apiUsername')
-    apiPassword = project.property('docker_apiPassword')
-    apiEmail = project.property('docker_apiEmail')
-    subprojects.each {
-        addFile it.jar.archivePath, "/opt/sling/sling/startup/${project.property('bundleStartLevel')}/"
+    push 'true' == docker_push
+    apiUsername = docker_apiUsername
+    apiPassword = docker_apiPassword
+    apiEmail = docker_apiEmail
+    configurations.archives.allArtifacts.findAll({it.file.exists()}).each {
+        addFile it.file, "/opt/sling/sling/startup/${bundleStartLevel}/"
     }
     addFile 'sling.properties', '/opt/sling/'
-    subprojects.each { dependsOn("${it.name}:jar") }
+    dependsOn build
 }

@@ -1,4 +1,0 @@
-include 'wnews-app'
-include 'wnews-content'
-include 'wnews-config'
-//include 'wnews-media'
