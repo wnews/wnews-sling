@@ -45,6 +45,7 @@ task bundleApp(type: Bundle) {
     archiveBaseName = "$projectId-app"
     bndfile = 'app.bnd'
     from('src/app') { into 'SLING-INF/content' }
+    from('src/assets') { into 'assets' }
 }
 
 task bundleConfig(type: Bundle) {

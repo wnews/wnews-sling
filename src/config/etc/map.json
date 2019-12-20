@@ -12,6 +12,9 @@
       "libs": {
         "sling:internalRedirect": "/libs"
       },
+      "assets": {
+        "sling:internalRedirect": "/assets"
+      },
       "system": {
         "sling:internalRedirect": "/system"
       },
