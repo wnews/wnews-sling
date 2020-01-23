@@ -1,0 +1,35 @@
+{
+  "title":"Waranga News | Not A Robot",
+  "sling:resourceType":"wnews/page/article-list",
+  "jcr:primaryType":"nt:unstructured",
+  "list": {
+    "sling:resourceType":"wnews/block/article-list",
+    "i-am-not-a-robot": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2020-01-01",
+      "title": "I Am Not A Robot",
+      "sidebar": "turing-test",
+      "media": "s3./wnews/gallery/2020/01/Reverse-CAPTCHA.png",
+      "pars": [
+        "Have you ever been prompted by a website to identify a list of images that contain street signs? Or maybe to decypher some barely legible text? This is known as a Completely Automated Public Turing test to tell Computers and Humans Apart, or CAPTCHA for short.",
+        "CAPTCHAs are used to block access to 'Bots', computer programs that are designed to automatically interact with websites just like humans. Sometimes these Bots can be malicious, and often attempt to impersonate actual humans, which has led to increased sophistication of CAPTCHAs.",
+        "Early CAPTCHAs were based on simple mathematical equations or identifying a series of obscured letters, but as these became easily defeated by Bots a new approach was needed. <em>reCAPTCHA</em> provided such an innovative approach as it would use images from real books that were unable to be digitally transcribed. These images would then be presented to humans in the form of a CAPTCHA, providing both a difficult test for Bots as well as a way to transcribe the text that computers had failed to.",
+        "<em>reCAPTCHA</em> has since been purchased by Google, and evolved to identifying other objects in images such as street signs and vehicles. You may even find recently that you only need to click a checkbox labelled <em>'I'm not a robot'</em>.",
+        "Whilst it may seem to be quite a trivial test to click a checkbox, there is quite a lot of sophistication behind it. Google is able to capitalise on it's Internet dominance by using browser cookies and your browsing history to determine whether you are really a human. So whilst the <em>'I'm not a robot'</em> checkbox might save us some time we do pay for it with our privacy.",
+        "So next time you are asked to identify street signs you can be assured that at least once Google doesn't know exactly who you are and what you are doing."
+      ],
+      "published": true
+    },
+    "turing-test": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2020-01-01",
+      "title": "Turing Test",
+      "pars": [
+        "In 1950, Alan Turing, a prominent Computer Scientist, devised a test to evaluate the ability of a machine to mimic human behaviour.",
+        "The test would consist of a human evaluator communicating with two other participants via text-based means. One of the two participants would be human, whilst the other is a machine.",
+        "The test is concluded when the evaluator is able to confidently identify the machine participant. If the evaluator is unable to reliably identify the machine participant the machine is said to have passed the Turing Test."
+      ],
+      "published": false
+    }
+  }
+}
