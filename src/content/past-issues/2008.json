@@ -1,0 +1,14 @@
+{
+  "title":"Waranga News | Past Issues 2008",
+  "sling:resourceType":"wnews/page/front-page-list",
+  "jcr:primaryType":"nt:unstructured",
+  "list": {
+    "2008-09-18": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "September 18, 2008",
+      "media": "s3./wnews/past-issues/front-page-20080918.jpg",
+      "comments": "enabled",
+      "published": true
+    }
+  }
+}

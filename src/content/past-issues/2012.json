@@ -1,0 +1,7 @@
+{
+  "title":"Waranga News | Past Issues 2012",
+  "sling:resourceType":"wnews/page/front-page-list",
+  "jcr:primaryType":"nt:unstructured",
+  "list": {
+  }
+}

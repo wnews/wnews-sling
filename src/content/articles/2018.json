@@ -1,0 +1,308 @@
+{
+  "title":"Waranga News | Articles 2018",
+  "sling:resourceType":"wnews/page/article-list",
+  "jcr:primaryType":"nt:unstructured",
+  "list": {
+    "anyone-for-coffee": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2018-11-08",
+      "title": "Anyone for coffee?",
+      "media": "s3./wnews/gallery/2018/11/wnews20181108-000.jpg",
+      "sidebar": "we-are-celebrating",
+      "pars": [
+        "<em>JR Coffee Please</em> can be found everywhere you look this spring festi val season. Local entrepreneur Joel Raglus off ered a good coff ee with a friendly smile at the Spring Garden Expo in Rushworth."
+      ],
+      "published": true
+    },
+    "we-are-celebrating": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2018-11-08",
+      "title": "We are celebrating - and you are invited !",
+      "pars": [
+        "In a recent edition of the Waranga News we wrote about our quest in this 40th anniversary year to come up with an answer to the question “Where to now?” We reflected on the changes in our communities over those forty years, and whether the current model of our community newspaper will remain relevant and viable in the future.",
+        "While we might not have greatly progressed our insight into the future, one thing we do know is that the answers should come from you - our readers. The Waranga News is a ‘community owned’ paper and so everyone has the chance to contribute, to have a say and, hopefully, to come up with good ideas on how we can best keep the show on the road with happy, informed and entertained readers!",
+        "This is just one reason why we are inviting you to our Open House on 18 November, so that you can see how the Waranga News is put together, see a ‘rogues gallery’ of faces of volunteers over the forty years, peruse displays and old copies of the paper and see how it has changed over time. For many of you it will offer a dose of nostalgia as you recall events of the past. There will also be the chance to meet up with some old friends who have volunteered in the past but moved away. For more recent arrivals it offers a chance to learn more about your new home.",
+        "The other reason we are inviting everyone? Well everyone likes an excuse to party!",
+        "<br/><strong>The Program<br/>Open House 11 am - 4 pm<br/>Lunch 12 noon (RSVP essential)<br/>Formalities 2.00 pm</strong>"
+      ],
+      "published": false
+    },
+    "local-spring-gardens": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2018-10-25",
+      "title": "Showcasing local spring gardens",
+      "media": "s3./wnews/gallery/2018/10/wnews20181025-000.jpg",
+      "pars": [
+        "Rushworth’s 2018 Spring Garden Festival Open Garden Day was a great success with over 140 visitors to the gardens open last Saturday. The Festival showcased fi ve individual gardens which were all different in their own ways.",
+        "Highlights of the day were the amazing line-up of local musicians who performed at ‘Lisadurne’ garden throughout the day, and Rushworth’s Artistries holding a ‘plein air’ painting day with artists being challenged by the weather in the morning but rewarded for their perserverence in the afternoon with sunny skies.",
+        "An exhibition of their completed works will open in the Motofi nish Cafe at 6 pm this Friday 26 October and everyone is welcome. There is a $5 entry fee with refreshments served and the exhibition will continue until Sunday 4 November. Full details can be found on Page 11.",
+        "Keen gardeners and interested onlookers came out from all around the region despite the wild start to the day to enjoy walking around the gardens, purchasing plants and garden ornaments, viewing mosaics and sculptures and also sampling some fi ne fare and coffee at ‘Lisadurne’.",
+        "Participating gardens in Rushworth belong to Glenys Miles in Murchison Road, Rod and Vicki Young in Parker Street and Carol and Norm McMillan in Pound Road. ‘Lisadurne’ on Heily Road and ‘Bonshaw’ at Stanhope completed the circuit.",
+        "The positive comments and feedback already from the day has encouraged all participants going to this Saturday’s Spring Garden Expo being held on the Village Green from 9 am to 1 pm."
+      ],
+      "published": true
+    },
+    "waranga-new-celebrates": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2018-10-25",
+      "title": "The Waranga News celebrates its 40th Birthday",
+      "media": "s3./wnews/gallery/2018/10/40th anniversary INVITATION.jpeg",
+      "pars": [
+        "The Waranga News celebrates its 40th Birthday on Sunday 18 November 2018",
+        "To mark this special milestone the Committee of Management requests the pleasure of your company to our Open House 10am - 4pm",
+        "Catch up with some old friends and see our progress since 1978",
+        "Lunch by Truffles Catering available from 12 noon.",
+        "Cost: $20 per head Volunteers (past & present): $10",
+        "BYO drinks; RSVP by 10 November"
+      ],
+      "published": true
+    },
+    "new-life-for-henrietta": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2018-10-11",
+      "title": "New life for Henrietta",
+      "media": "s3./wnews/gallery/2018/10/wnews20181011-000.jpg",
+      "pars": [
+        "As the Heathcote wine region has become famous, especially for producing quality shiraz, a number of our local farming familes have expanded their repertoire, extending from grains to grapes.",
+        "In the case of the Kennedy family, famous for their quality tomatoes, the name has become as familiar on the wine bottle as their photo is on tins of chopped tomatoes!",
+        "One particular Kennedy wine being featured at the Colbinabbin Country Pub’s OcTolbo (see page 11 for an explanation) is the delightful Henrietta.",
+        "<strong>So who’s Henrietta?</strong>",
+        "While you might expect this wine has a nostalgic connection to some beloved Kennedy grandmother or great-aunt, the truth is this delightful drop is named after - a truck!",
+        "Henrietta is the 1971 Leyland tray truck purchased for the Kennedy farm in 1981. She has reliably carried produce from grain to grapes.",
+        "In 2015, Kennedy Wines produced a new easy drinking shiraz to stand alongside their Kennedy brand - but what to call it? Gerard Kennedy (who has studied winemaking and with his wife Lucy is planting their own vineyard) came up with ‘Henrietta’.",
+        "The wine has gone from strength to strength, winning a gold medal at the recent Heathcote Wine Show and a score of 91 in the latest James Halliday Wine Companion.",
+        "Colbinabbin Hotel manager, Julie Price contacted John and Pat Kennedy and they ,agreed to loan them Henrietta for OcTolbo!",
+        "Thanks to the mechanic, Ivan, the truck has undergone some basic maintenance in readiness for this event. And, as she comes out of retirement, this might just kick-start a new stage in Henrietta’s career!"
+      ],
+      "published": true
+    },
+    "green-and-gold": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2018-09-27",
+      "title": "Colbinabbin’s green and gold",
+      "media": "s3./wnews/gallery/2018/09/wnews20180927-000.jpg",
+      "sidebar": "canola",
+      "pars": [
+        "<strong>What a show! But it’s decision time for growers.</strong>",
+        "It just won’t rain . . . and whether these acres of gold and green will make any or enough seed for a harvest is front and centre in district farmers’ minds.",
+        "Cropping country to the north and west has been mown for hay and silage over the last month and local farmers are already well into mowing their canola this week.",
+        "Cereal and legume crops are all in big trouble and unless they have an irrigated address, they probably won’t make grain either.",
+        "What a shame! . . .The crops have looked so good, despite little moisture all year . . . and one decent rain this month would have made a harvest.",
+        "Winter rains are in decline across southern Australia, and while it is too early to say beyond doubt it is due to climate change, scientists say it is not just about climate variability. This winter was particularly dry given there was no El Nino event. El Nino often brings dry conditions to Australia, but this year it is in neutral.",
+        "According to the Bureau of Meteorology, May to July rainfall has reduced by about 19 per cent since 1970 in the south-west of Australia.",
+        "There has been a decline of about 11 per cent since the mid-1990s, in the April–October growing season rainfall in the continental south-east."
+      ],
+      "published": true
+    },
+    "canola": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2018-09-27",
+      "title": "Canola Facts",
+      "pars": [
+        "<ul><li>Canola is a variant of the ancient crop rapeseed, a word derived from the Latin rapum meaning turnip. Fodder rape is a related plant sown in southern Victoria for grazing by sheep.</li>",
+        "<li>Canola is grown for its seed which is crushed for the oil used in margarine, cooking oils, salad oils and edible oil blends. The properties of the oil fits with the current view that human health is better served by increasing the intake of mono and poly unsaturated fats in place of saturated fats.</li></ul>"
+      ],
+      "published": false
+    },
+    "wildflowers": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2018-08-30",
+      "title": "Wildflowers play second fiddle to historic sites",
+      "media": "s3./wnews/gallery/2018/08/wnews20180830-000.jpg",
+      "pars": [
+        "The dry winter had worked against the wildflowers, but 130 people who registered for the fourth annual Wildflower Walk in the forest near Whroo on Sunday, enjoyed a marvellous pre-spring morning.",
+        "Following a circuit which included the once-busy streets and roads of Whroo, the walkers, armed with maps, photo-sheets of local blooms and history snapshots to study at numbered points, completed the walk in the bright sunshine.",
+        "With local orchids and native blooms in low numbers, and even the wattle well down on recent years, the interest turned to the Balaclava mine, the sites of old water wells, the puddling machines, the cyanide vats, the cemetery, and the Aboriginal water-hole.",
+        "Organiser Nick Buzza said, “It was pleasing to get 130 registrations, and the positive responses from locals, former locals and visitors to the district.”",
+        "Nick was appreciative of support roles played by Eloise, Steve Arnold, Liz and Greg Buzza, Heather Wellington and Whroo residents Damian and Helen Grigg, who enabled walkers to enjoy a cup of tea or coffee.",
+        "Whroo began as the Wet Diggings in 1853, and was very briefly home to close to 10,000 people who rushed to the gold-fi nd, while others tried the Dry Diggings at what became Rushworth. With so little water available and gold only gathered by the fortunate, the unsuccessful soon rushed off to fossick elsewhere, while some joined with others to sink deep shafts in search of the elusive metal.",
+        "Owners of hotels dug wells and created underground tanks lined with bricks and, in some cases, local stones. Several were visited as part of the walk. As a Rochester visitor said, “If these wells were built in the 1850s, you have to admire those skills, over 160 years later.”",
+        "It will take early spring rain to entice a few more wildflowers this year, but they will be back in 2019."
+      ],
+      "published": true
+    },
+    "shearing-for-kids-doubles-tally": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2018-08-16",
+      "title": "Shearing for Kids nearly doubles last year’s tally raising $53,620!",
+      "media": "s3./wnews/gallery/2018/08/wnews20180816-001.jpg",
+      "pars": [
+        "Now in its fourth year, the popular Shearing for Kids with Cancer event held at Bill and Val Barlow’s property, Corydon, exceeded all expectations, raising almost double last year’s total of $27,000. The packed day of shearing, auctions and raffles is held to raise money for clinical research, medical equipment and support for families of those experiencing childhood cancer.",
+        "Organiser of the event, Katrina Ogden, said the day went better than anyone could have hoped and they were pleased that the rain didn’t hold people back.",
+        "There were twelve shearers including an 82 years young gentleman in an eight stand shed. More than thirty helpers worked in and around the shed, from picking up fleece, sweeping the board, cooking and writing raffle tickets.",
+        "After a fabulous lunch, some lovely ladies from the Royal Children’s Hospital, Merridy and Bev, spoke to everyone about their roles at the wonderful hospital. The boys then went back to shearing for an hour before the start of the auction and raffle winners were drawn.",
+        "There were plenty of auction items and raffle prizes supplied by local businesses and companies who were especially generous with their donations.",
+        "Then there was the shear that everyone was waiting for. An addition to the conventional shearing this year saw the clippers come out for the Ogden family, with all five members losing their locks to raise money for children’s cancer charity, My Room!",
+        "Katrina stressed they would like to thank everyone who helped on the day, those who donated items and prizes, everyone who donated money to the head shave and those people who bought raffle tickets.",
+        "“If it wasn’t for everyone involved we would not have been able to donate the massive $53,620 to the My Room Children’s Cancer Charity,” she said."
+      ],
+      "published": true
+    },
+    "eileen-barlow-celebrates": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2018-05-24",
+      "title": "Eileen Barlow celebrates 100th birthday",
+      "media": "s3./wnews/gallery/2018/05/wnews20180524-000.jpg",
+      "sidebar": "eileen-barlow-biography",
+      "pars": [
+        "On the afternoon of Friday 11 May 2018, the Waranga Aged Care Hostel celebrated Eileen Barlow’s 100th birthday with a special ‘Happy Birthday’ afternoon tea. She has been a Hostel resident for the past six years.",
+        "As well as Hostel residents, staff and volunteers, Eileen’s daughters Pam Barlow, Fran O’Sullivan and Joy Donegan were in attendance, along with her grandson Joe Donegan and great grand-daughter Karla Donegan.",
+        "Proceedings began with the Hostel Lifestyle and Leisure Co-ordinator Leah Huggard welcoming everyone and commenting, ‘We’d like to congratulate Eileen on reaching this milestone. Happy birthday, Eileen.’",
+        "Speaking on behalf of the family, her daughter Pam Barlow said, ‘We’d like to thank you, the Hostel, for your love and tender care. She’s thoroughly enjoyed working in the garden. Thanks for making the Hostel her home. It’s meant a lot to all of us.’",
+        "Eileen Barlow responded by thanking everyone and by saying, in part, ‘I’ve been very happy here and I’ve made some wonderful friends.’",
+        "Then Eileen cut her 100th birthday cake, which was joyously shared among the many people present as part of the afternoon tea."
+      ],
+      "published": true
+    },
+    "eileen-barlow-biography": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2018-05-24",
+      "title": "Eileen Barlow - A brief biography",
+      "pars": [
+        "Eileen Barlow was born as the fourth of six children to Francis Henry and Elsie Hilda Edmonds at Horsham on 11 May 1918 and was named Eileen Ruth.",
+        "The Edmonds family lived on a farm at Green Lakes where Francis was a share-farmer.",
+        "The family bought a farm at Antwerp (between Jeparit and Dimboola) and moved there in March 1929 and later went to Beulah.",
+        "She married James (generally known as Jim) Barlow from Rushworth on 5 March 1942 at St Mary’s Cathedral, St Kilda, and became a very well known and highly respected Rushworth resident.",
+        "James and Eileen had five children – Pam, Kerry, Joy, Fran and Anthony (deceased). Eileen now has thirteen grandchildren and twenty-five great grandchildren.",
+        "<em>Happy Birthday to a great lady!</em>"
+      ],
+      "published": false,
+      "related": ["eileen-barlow-celebrates"]
+    },
+    "future-of-cricket": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2018-03-15",
+      "title": "The future of cricket in Colbinabbin!",
+      "media": "s3./wnews/gallery/2018/03/wnews20180315-000.jpg",
+      "pars": [
+        "Junior cricket is BIG in Colbinabbin largely due to the enthusiasm of coach Bill West.",
+        "Bill has generously donated his time each Monday over several months to teach the local kids about one of his passions, and that is cricket and the skills of hitting and catching a cricket ball . . . never too late to improve, hey Bill!",
+        "Bill did a brilliant job, keeping the kids engaged and enthused at each clinic. Both the children and parents were very grateful for the time and energy Bill volunteered to this clinic. They thank Bill “for making this great town a little bit greater!”",
+        "Bill was really caught off-guard at the Cricket Club’s Presentation night when he was awarded a Life Membership for over twenty-four years of service to the Club - a well-deserved honour."
+      ],
+      "published": true
+    },
+    "change-of-guard": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2018-03-01",
+      "title": "Change of guard at Criterion",
+      "media": "s3./wnews/gallery/2018/03/wnews20180301-000.jpg",
+      "pars": [
+        "Rushworth’s Criterion Hotel has long been famous as one of the town’s historic landmarks. But for locals, the Top Pub, as it is commonly known, represents much more. Over the grand old building’s long life it has at various times been a favourite watering hole, a venue for fine dining, a community meeting point - even, for a brief time, the paste-up venue for Waranga News production! New owner Danny Horne and his partner Michelle Beecroft have plans to help the Criterion relive some of its glory days.",
+        "The Criterion Hotel will be a new and exciting business venture and future investment for new owner and operator, Danny and partner Michelle.",
+        "Purchase of both building (freehold) and the leasehold (licence) means a promising time is ahead for the Rushworth community, as the magnificent historic building is gently brought back to life and the new business venture begins.",
+        "Danny has admired the local building for many years and for all the right reasons. He has a passion for ‘building’ and loves the idea of restoring. Handover will take place on 5 March, 2018.",
+        "Danny is a born and bred Rushworth local, the son of Alec and Pam Horne, while Michelle, daughter of Bill and Yvonne Beecroft, moved from Kyabram where she has lived for many years, to Rushworth after falling in love with the town….and the man! Coincidentally they met inside this very building for which they both have the same passion. They are both looking forward to the challenges awaiting them when Danny comes home to stay. His work has taken him around Australia and overseas, so he is looking forward to settling back in Rushworth.",
+        "“I would like to give back to this community by breathing new life into this beautiful old Hotel with emphasis on the preservation of its historic past,” says Danny. However, this vast investment and commitment to the challenge comes at a cost. He hopes all will embrace his new business and ideas going forward."
+      ],
+      "published": true
+    },
+    "schools-in": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2018-02-15",
+      "title": "School’s in for 2018",
+      "media": "s3./wnews/gallery/2018/02/wnews20180215-000.jpg",
+      "pars": [
+        "It's that time again when our schools are enjoying their new intake of enthusiastic little ‘preppies’ - (yes, we know they’re really Foundation students but old habits die hard!). These smiling faces leave us in no doubt they are all set for their new adventure into the world of learning, new friends and lots of fun along the way."
+      ],
+      "published": true
+    },
+    "new-owners-for-colbo-hotel": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2018-02-15",
+      "title": "New owners for the Colbinabbin Hotel",
+      "media": "s3./wnews/gallery/2018/02/wnews20180215-006.jpg",
+      "pars": [
+        "The Colbinabbin Hotel which sits in the hub of the town has been sold!",
+        "Mary Ann Morgan, Principal of Morgan Legal together with husband Dr. Barry Dawson have purchased the hotel. The business will be a Joint Venture with Julie Price also as Manageress.",
+        "Mary Ann and Julie both grew up in Colbinabbin and are the daughters of the late Michael (Mick) and Norm and Maureen Wright. Judy Phelan (Mary Ann’s Mother), still resides in the Community.",
+        "Mick and Norm were club stalwarts, Life members and local identities of the current Football Club and other organisations.",
+        "These ladies have incredibly strong networks and connections within the Colbinabbin district, Regional and Metropolitan areas and feel very passionate in ensuring the Colbinabbin community will continue to have a Pub where locals can gather, socialise, wine and dine.",
+        "Plans will be underway during the year for renovations, extension and events along with local engagements and partnerships with local business, farming, vineyards and sporting communities.",
+        "It will be a great investment for the long future and sustainability of our town and community."
+      ],
+      "published": true
+    },
+    "hostel-on-site-action": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2018-02-15",
+      "title": "Plenty of action at the site of the new hospital/hostel",
+      "media": "s3./wnews/gallery/2018/02/wnews20180215-007.jpg",
+      "pars": [
+        "The building is now ready for the roof to go on with the framing completed on the new Waranga Hospital and Hostel in High Street Rushworth.",
+        "Hydraulic plumbing roughing-in is continuing, with the installaton of windows the next part of the build, with masonry and cladding to follow.",
+        "Asbestos removal has been necessary which is often the case in older buildings.",
+        "There is still more of this to be done in the next few weeks which is being carried out by an authorised asbestos removal contractor and hygeniest.",
+        "The building contractors are pleased with the progress of the redevelopment and have said they expect the project to be completed in the predicted time frame."
+      ],
+      "published": true,
+      "related": ["/content/wnews/articles/2017/list/hostel-redevelopment-announced"]
+    },
+    "funds-allocated": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2018-02-15",
+      "title": "Funds allocated as Community Planning Program is finalised",
+      "pars": [
+        "Planning Program is finalised Rushworth has been allocated $35,812.50 to be used as leverage funding to assist in progressing the Waranga Trail project. The allocation is from the Community Planning Implementation Fund (CPIF), which is to be expended as the twelve year old Community Planning Group program is wound up.",
+        "Council has approved the allocation of Community Plan Implementation Funds to support six community projects, identified by each community:",
+        "Corop, $5,487.99 – Creation of storage at the Corop Kitchen and a play space near the Traveller’s Rest area.",
+        "Stanhope: $23,533.70 – Improvements to key community open space areas, including the toilet/art space area.",
+        "Toolleen: $7,745.84 – Refurbishment of the wayside stop including painting, replacing the BBQ, tables and seats.",
+        "Torrumbarry: $4,789.09 – Repainting the Torrumbarry Hall.",
+        "Wyuna: $9,291.64– Installing airconditioning at the Wyuna Hall.",
+        "Rushworth: $35,812.50 – Allocated to a funding reserve to support applications for the fulfilment of the Waranga Trail project.",
+        "To support the finalisation of the program, all of the communities have been encouraged to expend their allocated funds. Up until three years ago each community within the shire received a per capita allocation and a $75,000 allocation was made to the pool reserve. All of the above mentioned communities have been involved in the Community Planning process in the last twelve years. All have money left in their Community Planning Reserves.",
+        "The CPIF pool reserve was established three years ago to replace allocations to individual communities. The residual funds were available to all communities once their individual allocation was expended. Council’s change in direction away from the community planning program requires the pool of funds to be disbursed to allow its finalisation. The Community Planning Officer has worked with local communities to determine their priorities for the funding.",
+        "The Waranga Trail project has been flagged for the last ten years and is one of five trails that the State Government has nominated as high priorities.",
+        "As a result of these allocations each of these communities will have expended their Community Plan Implementation Funds Reserves in the next twelve months with the pool reserve going towards the Waranga Trail."
+      ],
+      "published": true,
+      "related": ["/content/wnews/articles/2017/list/grants-for-grass-roots", "/content/wnews/articles/2017/list/rushworth-okeefe-rail-trail"]
+    },
+    "tip-voucher-review": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2018-02-15",
+      "title": "Campaspe Shire reviewing tip voucher use",
+      "pars": [
+        "Campaspe Shire Council is conducting a community survey to discover how waste vouchers provided with rate notices are used.",
+        "Mayor, Cr Adrian Weston said a review of the waste vouchers is underway and the first step is to understand how the vouchers are used, by whom, and to dispose of what type of material. To capture comments, an online survey has been developed which will feed into the review.",
+        "Waste vouchers are provided to landowners with the annual rate notice to cover the cost of disposing of one cubic metre of waste.",
+        "The vouchers can be used to pay for materials that attract a charge, such as general waste, garden waste, and other material including tyres, refrigerators, mattresses and e-waste.",
+        "The online survey is designed to capture whether residents sort their load before going to a transfer station as well as asking residents if they are aware that the material taken to a transfer station attracts a charge back to council.",
+        "“There is no such thing as free waste. Council pays to dispose of, manage or recycle most material taken to a transfer station,” Cr Weston said.",
+        "“This cost is added to annual waste charges.”",
+        "Data shows about 60 per cent of ratepayers do not use the vouchers.",
+        "“For the 40 per cent who do use the vouchers, we are trying to understand how and why,” Cr Weston said.",
+        "The survey is now open and can be accessed via council’s website. Additional copies of the survey are available from customer service centres.",
+        "The survey closes on Wednesday, 28 February."
+      ],
+      "published": true
+    },
+    "tropical-paradise": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2018-02-01",
+      "title": "Tropical paradise on the Basin",
+      "media": "s3./wnews/gallery/2018/02/wnews20180201-000.jpg",
+      "pars": [
+        "Congratulations to Bree Colger, winner of our Summer Photo Competition, with this dramatic view over the Waranga Basin.",
+        "There was a great response to this season’s Waranga News photo competition and, as usual, it was so hard to choose a winner. Unfortunately some very worthy entries were too small in resolution to be reproduced in the paper. Please remember when sending in your entries to send them full size. They must be at least 1 MB to be considered for printing.",
+        "We will be announcing the next competition round in coming editions.",
+        "Our lucky winner Bree receives a year’s Online Subscription to the Waranga News in full colour and a poster of the front page with her winning photograph."
+      ],
+      "published": true
+    }
+  }
+}

@@ -1,20 +1,15 @@
 {
-  "title": "Waranga News | All about wildlife",
-  "sling:resourceType": "wnews/page/list",
-  "jcr:primaryType": "nt:unstructured",
+  "title":"Waranga News | All About Wildlife 2017",
+  "sling:resourceType":"wnews/page/article-list",
+  "jcr:primaryType":"nt:unstructured",
+  "pageSize": 6,
   "list": {
-    "sling:resourceType": "wnews/block/article-list",
-    "paging": {
-      "sling:resourceType":"wp-paging/block/paging",
-      "pageSize": 6,
-      "total": 9
-    },
     "barn-owl-rescue": {
       "sling:resourceType":"wnews/page/article",
       "date": "2017-11-23",
       "title": "Barn owl rescue from work shed",
       "media": "s3./wnews/gallery/2017/11/wnews20171123-034.jpg",
-      "sidebar": "/wildlife/list/bohollow-calendar-2018",
+      "sidebar": "/content/wnews/wildlife/2017/list/bohollow-calendar-2018",
       "pars": [
         "I get called to remove many birds from buildings, most of them raptors like this beautiful Barn Owl.",
         "I was called to rescue one this on a very busy day for rescues so my friend Tanya went and checked it out while I was attending a rescue elsewhere. The owl could not be found so it was assumed it had made its own way out. I didn’t give it another thought until the following morning when I received a call to say that it must have been hiding as it was definitely still in the building.",
@@ -65,7 +60,7 @@
       "date": "2017-10-12",
       "title": "Which came first, the tawny or the egg?",
       "media": "s3./wnews/gallery/2017/10/wnews20171012-037.jpg",
-      "sidebar": "adopt-a-nest-box",
+      "sidebar": "/content/wnews/articles/2017/list/adopt-a-nest-box",
       "pars": [
         "Some critters get back on their feet quite quickly and these cases are great for us as well as them. Less time in care means less expense and less stress on a critter when they can return to their home almost immediately.",
         "When this female Tawny frogmouth arrived at Bohollow, she was extremely quiet and after giving her a full examination, I could not find any reason why she couldn’t fly. No fractures, light response was good, no symptoms of anything drastic but she refused to fly at all. When tested for flight, each time she would flutter straight to the ground. I put it down to possible mild concussion from minor head trauma and set her up for the night. I left her hospital box fully open as sometimes ,in cases like these, stimulation is a good thing and can assist a bird in returning to the land of the living.",
@@ -83,7 +78,7 @@
       "date": "2017-09-28",
       "title": "Branchers on the branches",
       "media": "s3./wnews/gallery/2017/09/wnews20170928-025.jpg",
-      "sidebar": "adopt-a-nest-box",
+      "sidebar": "/content/wnews/articles/2017/list/adopt-a-nest-box",
       "pars": [
         "Babes have been coming in at a great rate to Bohollow and this red wattlebird chick was one of the first to arrive. He was found on the ground injured and was taken to one of our local veterinary clinics who immediately called us for help.",
         "These large honeyeaters generally have two or three young and both parents share in the duties of their care. They make a fairly rough nest which can be difficult to spot, usually amongst the outer foliage of a dense tree or bush. These birds leave the nest just before they are able to fly properly, therefore are perfect examples of what we call ‘branchers’.",
@@ -102,7 +97,7 @@
       "date": "2017-09-14",
       "title": "It’s official...baby bird season has arrived at BoHollow",
       "media": "s3./wnews/gallery/2017/09/wnews20170914-031.jpg",
-      "sidebar": "adopt-a-nest-box",
+      "sidebar": "/content/wnews/articles/2017/list/adopt-a-nest-box",
       "pars": [
         "This little Australian wood duckling was found all alone in Echuca and taken to Rose’s Veterinary Clinic. Rose rang me straight away and I collected him immediately, knowing how important it is to get these guys into a nice, warm environment and one which they feel comfortable in.",
         "You can see in the photo that this little fellow still has his egg tooth, the white pimple-looking thing at the tip of his little bill. This means that he is not long hatched, as the egg tooth usually drops off in a few days after hatching. The egg tooth is what enables the duckling to break out of the shell and it is amazing to think that this tooth is the tool which enables the hatch to happen. Breaking egg shell is hard and exhausting work for a tiny chick or duckling.",

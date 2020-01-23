@@ -6,16 +6,16 @@
     "uris": [
         "/index.html",
         "/accommodation.html",
-        "/past-issues.html",
+        "/past-issues/current.html",
         "/gallery.html",
         "/contact.html",
         "/trades-and-services.html",
-        "/articles.html",
-        "/recipes.html",
-        "/gardening.html",
+        "/articles/current.html",
+        "/recipes/current.html",
+        "/gardening/current.html",
         "/home-hints.html",
-        "/wildlife.html",
-        "/kids.html",
+        "/wildlife/current.html",
+        "/kids/current.html",
         "/advertisements.html",
         "/about.html"
     ]

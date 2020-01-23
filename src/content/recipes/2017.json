@@ -1,9 +1,9 @@
 {
-  "title": "Waranga News | Cooks Column",
-  "sling:resourceType": "wnews/page/list",
-  "jcr:primaryType": "nt:unstructured",
+  "title":"Waranga News | Cooks Column 2017",
+  "sling:resourceType":"wnews/page/article-list",
+  "jcr:primaryType":"nt:unstructured",
+  "pageSize": 6,
   "list": {
-    "sling:resourceType":"wnews/block/recipe-list",
     "salmon-stir-fry": {
       "sling:resourceType": "wnews/page/recipe",
       "date": "2017-10-26",

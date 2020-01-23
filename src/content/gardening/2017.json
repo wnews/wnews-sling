@@ -1,20 +1,15 @@
 {
-  "title": "Waranga News | Garden Hints &amp; Tips",
-  "sling:resourceType": "wnews/page/list",
-  "jcr:primaryType": "nt:unstructured",
+  "title":"Waranga News | Garden Hints &amp; Tips 2017",
+  "sling:resourceType":"wnews/page/article-list",
+  "jcr:primaryType":"nt:unstructured",
+  "pageSize": 6,
   "list": {
-    "sling:resourceType":"wnews/block/article-list",
-    "paging": {
-      "sling:resourceType":"wp-paging/block/paging",
-      "pageSize": 6,
-      "total": 5
-    },
     "planting-from-pots": {
       "sling:resourceType":"wnews/page/article",
       "feature": true,
       "date": "2017-10-26",
       "title": "Planting from pots",
-      "sidebar": "/home-hints/list.sidebar.html/3",
+      "sidebar": "/content/wnews/home-hints/list.sidebar.html/3",
       "pars": [
         "Many gardeners have experienced the frustration of spending good money on a plant only to have it die after being planted out. Newly planted plants don’t just die for no reason; in many cases they are killed through the ignorance of the gardener. Here is a simple guide to prevent those expensive post-planting fatalities:",
         "Make sure the plant you have chosen is suitable for the location. In the Rushworth district plants need to be drought tolerant, yet still be able to withstand frosts. Some plants like shade, others full sun. Is the soil the correct pH for the plant? Some plants thrive in poor soils while others need rich soil. Don’t think you can just dig a hole and introduce suitable soil. This just doesn’t work. Above all remember, just because you like a plant, it doesn’t mean you will be able grow it in your garden.",

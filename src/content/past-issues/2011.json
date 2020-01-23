@@ -1,0 +1,70 @@
+{
+  "title":"Waranga News | Past Issues 2011",
+  "sling:resourceType":"wnews/page/front-page-list",
+  "jcr:primaryType":"nt:unstructured",
+  "list": {
+    "2011-06-30": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "June 30, 2011",
+      "media": "s3./wnews/past-issues/frontpage-20110630.png",
+      "comments": "enabled",
+      "published": true
+    },
+    "2011-06-16": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "June 16, 2011",
+      "media": "s3./wnews/past-issues/frontpage-20110616.png",
+      "comments": "enabled",
+      "published": true
+    },
+    "2011-06-02": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "June 2, 2011",
+      "media": "s3./wnews/past-issues/frontpage-20110602.png",
+      "comments": "enabled",
+      "published": true
+    },
+    "2011-05-19": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "May 19, 2011",
+      "media": "s3./wnews/past-issues/frontpage-20110519.png",
+      "comments": "enabled",
+      "published": true
+    },
+    "2011-05-05": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "May 5, 2011",
+      "media": "s3./wnews/past-issues/frontpage-20110505.png",
+      "comments": "enabled",
+      "published": true
+    },
+    "2011-04-21": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "April 21, 2011",
+      "media": "s3./wnews/past-issues/frontpage-20110421.png",
+      "comments": "enabled",
+      "published": true
+    },
+    "2011-04-07": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "April 7, 2011",
+      "media": "s3./wnews/past-issues/frontpage-20110407.png",
+      "comments": "enabled",
+      "published": true
+    },
+    "2011-03-24": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "March 24, 2011",
+      "media": "s3./wnews/past-issues/frontpage-20110324.png",
+      "comments": "enabled",
+      "published": true
+    },
+    "2011-03-10": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "March 10, 2011",
+      "media": "s3./wnews/past-issues/frontpage-20110310.png",
+      "comments": "enabled",
+      "published": true
+    }
+  }
+}

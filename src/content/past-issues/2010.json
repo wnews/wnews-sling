@@ -1,0 +1,35 @@
+{
+  "title":"Waranga News | Past Issues 2010",
+  "sling:resourceType":"wnews/page/front-page-list",
+  "jcr:primaryType":"nt:unstructured",
+  "list": {
+    "2010-07-22": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "July 22, 2010",
+      "media": "s3./wnews/past-issues/July-22-2010.jpg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2010-07-08": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "July 8, 2010",
+      "media": "s3./wnews/past-issues/8-July-2010.jpg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2010-06-24": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "June 24, 2010",
+      "media": "s3./wnews/past-issues/24-June-2010.jpg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2010-06-10": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "June 10, 2010",
+      "media": "s3./wnews/past-issues/10-June-2010.jpg",
+      "comments": "enabled",
+      "published": true
+    }
+  }
+}

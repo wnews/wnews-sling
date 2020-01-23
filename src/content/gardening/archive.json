@@ -1,0 +1,6 @@
+{
+  "title":"Waranga News | Garden Hints &amp; Tips Archive",
+  "sling:resourceType":"wnews/page/archive-list",
+  "jcr:primaryType":"nt:unstructured",
+  "list": ["2017"]
+}

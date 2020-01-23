@@ -1,0 +1,126 @@
+{
+  "title":"Waranga News | Past Issues 2016",
+  "sling:resourceType":"wnews/page/front-page-list",
+  "jcr:primaryType":"nt:unstructured",
+  "list": {
+    "2016-11-03": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "November 3, 2016",
+      "media": "s3./wnews/past-issues/2016/11/wnews20161103P01.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2016-10-20": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "October 20, 2016",
+      "media": "s3./wnews/past-issues/2016/10/wnews20161020P01.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2016-09-22": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "September 22, 2016",
+      "media": "s3./wnews/past-issues/2016/09/wnews20160922P01.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2016-09-08": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "September 8, 2016",
+      "media": "s3./wnews/past-issues/wnews20160908P01.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2016-08-25": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "August 25, 2016",
+      "media": "s3./wnews/past-issues/wnews20160825P01.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2016-08-11": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "August 11, 2016",
+      "media": "s3./wnews/past-issues/wnews20160811P01.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2016-07-14": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "July 14, 2016",
+      "media": "s3./wnews/past-issues/wnews20160714P01.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2016-06-30": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "June 30, 2016",
+      "media": "s3./wnews/past-issues/2016/07/wnews20160630P01.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2016-06-16": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "June 16, 2016",
+      "media": "s3./wnews/past-issues/wnews20160616P01.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2016-06-02": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "June 2, 2016",
+      "media": "s3./wnews/past-issues/wnews20160602P01.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2016-05-19": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "May 19, 2016",
+      "media": "s3./wnews/past-issues/wnews20160519P01.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2016-04-07": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "April 7, 2016",
+      "media": "s3./wnews/past-issues/wnews20160407P01.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2016-03-24": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "March 24, 2016",
+      "media": "s3./wnews/past-issues/wnews20160324P01.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2016-02-25": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "February 25, 2016",
+      "media": "s3./wnews/past-issues/wnews20160225P01.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2016-02-24": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "February 24, 2016",
+      "media": "s3./wnews/past-issues/wnews20160224P01.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2016-02-11": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "February 11, 2016",
+      "media": "s3./wnews/past-issues/2016/02/wnews20160211P01.jpeg",
+      "comments": "enabled",
+      "published": true
+    },
+    "2016-01-28": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "January 28, 2016",
+      "media": "s3./wnews/past-issues/2016/02/wnews20160128P01.jpeg",
+      "comments": "enabled",
+      "published": true
+    }
+  }
+}
