@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" data-th-with="page=${request.adaptTo(@org.mnode.whistlepost.model.Page@class)}">
+
+<head data-th-replace="/apps/wnews/page/fragments/head.html::default">
+</head>
+
+<body>
+
+<div class="container-holygrail">
+  <header data-th-replace="/apps/wnews/page/fragments/masthead.html::default">
+  </header>
+
+  <nav data-th-replace="/apps/wnews/page/fragments/navigation.html::navbar">
+  </nav>
+
+  <main>
+    <section data-th-replace="/apps/wnews/page/fragments/article.html::latest(${resource.valueMap['feature']})">
+    </section>
+
+    <nav>
+      <a href="/content/wnews/articles/archive.html" style="font-size: 1.4em;">More articles..</a>
+    </nav>
+  </main>
+
+  <aside data-th-replace="/apps/wnews/page/fragments/advertisement.html::sidebar-panel">
+  </aside>
+
+  <footer data-th-replace="/apps/wnews/page/fragments/footer.html::footer-panel">
+  </footer>
+</div>
+</body>
+
+</html>
