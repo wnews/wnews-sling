@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+
+<section data-th-fragment="list(businesses)">
+    <div class="container-dynamic">
+        <ul>
+            <li data-th-each="business : ${businesses}">
+                <div data-th-replace="/apps/wnews/page/fragments/business.html::link(${business})">
+                </div>
+            </li>
+        </ul>
+    </div>
+</section>
+
+<article data-th-fragment="link(business)">
+    <a data-th-href="|${business.path}.html|"><span data-th-utext="${business.title}">[BUSINESS]</span></a>
+</article>
+
+</body>
+</html>

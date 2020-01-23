@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+
+<section data-th-fragment="list(recipes)">
+    <div class="container-dynamic">
+        <th:block data-th-each="recipe : ${recipes}">
+            <div data-th-replace="/apps/wnews/page/fragments/recipe.html::thumbnail(${recipe})">
+            </div>
+        </th:block>
+    </div>
+
+    <nav data-th-replace="/apps/wnews/page/fragments/pagination.html::pagination-nav">
+    </nav>
+</section>
+
+<article data-th-fragment="thumbnail(recipe)">
+    <a data-th-href="|${recipe.path}.html|">
+        <img class="img-thumbnail img-fluid" style="margin: 50px" data-th-src="|/content/wnews/media/${recipe.media}|" data-th-alt="|${recipe.title} image|"/>
+    </a>
+</article>
+
+<article data-th-fragment="full(recipe)" class="wnews-article">
+    <h1 data-th-text="${recipe.title}">[TITLE]</h1>
+    <p>
+        <a data-th-href="|${recipe.path}.html|">
+            <img class="shadow" data-th-src="|/content/wnews/media/${recipe.media}|" data-th-alt="|${recipe.title} image|"/>
+        </a>
+    </p>
+
+    <th:block data-th-if="${recipe.sidebar}">
+        <div data-th-replace="/apps/wnews/page/fragments/recipe.html::sidebar(${recipe.sidebar})">
+        </div>
+    </th:block>
+
+    <th:block data-th-each="par : ${recipe.pars}">
+        <p data-th-utext="${par}">[BODY]</p>
+    </th:block>
+
+    <th:block data-th-if="${recipe.ingredients}">
+        <a name="ingredients" class="page-section"></a>
+        <h4>Ingredients:</h4>
+        <ul>
+            <li data-th-each="ingredient : ${recipe.ingredients}">
+                <span data-th-text="${ingredient}">[INGREDIENT]</span>
+            </li>
+        </ul>
+    </th:block>
+
+    <th:block data-th-if="${recipe.method}">
+        <a name="method" class="page-section"></a>
+        <h4>Method:</h4>
+        <ul>
+            <li data-th-each="method : ${recipe.method}">
+                <span data-th-text="${method}">[METHOD]</span>
+            </li>
+        </ul>
+    </th:block>
+</article>
+
+<article data-th-fragment="sidebar(recipe)" class="wnews-article sidebar">
+    <h4 data-th-text="${recipe.title}">[TITLE]</h4>
+
+    <th:block data-th-if="${recipe.ingredients}">
+        <a name="ingredients" class="page-section"></a>
+        <h4>Ingredients:</h4>
+        <ul>
+            <li data-th-each="ingredient : ${recipe.ingredients}">
+                <span data-th-text="${ingredient}">[INGREDIENT]</span>
+            </li>
+        </ul>
+    </th:block>
+
+    <th:block data-th-if="${recipe.method}">
+        <a name="method" class="page-section"></a>
+        <h4>Method:</h4>
+        <ul>
+            <li data-th-each="method : ${recipe.method}">
+                <span data-th-text="${method}">[METHOD]</span>
+            </li>
+        </ul>
+    </th:block>
+</article>
+
+</body>
+</html>
