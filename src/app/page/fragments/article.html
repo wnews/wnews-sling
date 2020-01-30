@@ -13,6 +13,10 @@
             </th:block>
         </th:block>
     </div>
+
+    <div data-th-replace="/apps/wnews/page/fragments/advertisement.html::placeholder">
+    </div>
+
     <div class="container-dynamic">
         <th:block data-th-each="article : ${latest.articles}">
             <th:block data-th-if="${article.name} != ${feature}">
