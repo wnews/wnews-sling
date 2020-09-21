@@ -19,5 +19,5 @@ build:
   preview_output_directory: build/libs
   preview_docker_image: micronode/whistlepost
   mount_path: "/opt/sling/bundles/install/50"
-  working_dir: "/srv"
+  working_dir: "/opt/sling"
   instant_preview_command: "./gradlew build"
