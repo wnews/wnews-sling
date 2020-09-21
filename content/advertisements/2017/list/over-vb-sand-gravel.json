@@ -1,7 +1,7 @@
 {
   "sling:resourceType": "wnews/page/advertisement",
   "title": "Over VB Sand &amp; Gravel",
-  "media": "s3./wnews/advertisements/Over VB Sand &amp; Gravel.jpg",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/advertisements/Over VB Sand &amp; Gravel.jpg",
   "testimonials": "enabled",
   "published": true
 }

@@ -1,7 +1,7 @@
 {
   "sling:resourceType": "wnews/page/advertisement",
   "title": "Workmate",
-  "media": "s3./wnews/advertisements/Workmate.jpg",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/advertisements/Workmate.jpg",
   "telephone": "0409 001 239",
   "testimonials": "enabled",
   "published": true

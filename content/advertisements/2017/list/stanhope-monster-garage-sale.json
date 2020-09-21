@@ -1,7 +1,7 @@
 {
   "sling:resourceType": "wnews/page/advertisement",
   "title": "Stanhope Monster Garage Sale",
-  "media": "s3./wnews/advertisements/Stanhope Monster Garage Sale.jpg",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/advertisements/Stanhope Monster Garage Sale.jpg",
   "testimonials": "enabled",
   "published": true
 }

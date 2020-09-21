@@ -1,7 +1,7 @@
 {
   "sling:resourceType": "wnews/page/advertisement",
   "title": "Natrad",
-  "media": "s3./wnews/advertisements/Natrad.jpg",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/advertisements/Natrad.jpg",
   "website": "http://natrad.com.au",
   "telephone": "03 5821 8500",
   "testimonials": "enabled",

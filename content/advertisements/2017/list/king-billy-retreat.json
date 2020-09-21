@@ -1,7 +1,7 @@
 {
   "sling:resourceType": "wnews/page/advertisement",
   "title": "King Billy Retreat",
-  "media": "s3./wnews/advertisements/King Billy Retreat.jpg",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/advertisements/King Billy Retreat.jpg",
   "telephone": "0437 153 203",
   "testimonials": "enabled",
   "published": true

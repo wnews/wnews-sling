@@ -1,7 +1,7 @@
 {
   "sling:resourceType": "wnews/page/advertisement",
   "title": "Red Plumbing",
-  "media": "s3./wnews/advertisements/Red Plumbing.jpg",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/advertisements/Red Plumbing.jpg",
   "testimonials": "enabled",
   "published": true
 }

@@ -1,7 +1,7 @@
 {
   "sling:resourceType": "wnews/page/advertisement",
   "title": "Generations Church",
-  "media": "s3./wnews/advertisements/Generations.jpg",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/advertisements/Generations.jpg",
   "website": "http://generations.org.au",
   "telephone": "03 5824 3240",
   "openingHours": "Su 09:00-18:00",

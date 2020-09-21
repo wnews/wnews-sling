@@ -1,7 +1,7 @@
 {
   "sling:resourceType": "wnews/page/advertisement",
   "title": "MJ Glew",
-  "media": "s3./wnews/advertisements/MJ Glew.jpg",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/advertisements/MJ Glew.jpg",
   "telephone": "0419 556 239",
   "testimonials": "enabled",
   "published": true

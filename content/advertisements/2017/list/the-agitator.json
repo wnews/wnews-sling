@@ -1,7 +1,7 @@
 {
   "sling:resourceType": "wnews/page/advertisement",
   "title": "The Agitator",
-  "media": "s3./wnews/advertisements/The Agitator.jpg",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/advertisements/The Agitator.jpg",
   "testimonials": "enabled",
   "published": true
 }

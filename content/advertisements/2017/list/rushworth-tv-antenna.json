@@ -1,7 +1,7 @@
 {
   "sling:resourceType": "wnews/page/advertisement",
   "title": "Rushworth TV Antenna",
-  "media": "s3./wnews/advertisements/Rushworth TV Antenna.jpg",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/advertisements/Rushworth TV Antenna.jpg",
   "testimonials": "enabled",
   "published": true
 }

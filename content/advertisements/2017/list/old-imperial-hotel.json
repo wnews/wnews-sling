@@ -1,7 +1,7 @@
 {
   "sling:resourceType": "wnews/page/advertisement",
   "title": "The Old Imperial Hotel",
-  "media": "s3./wnews/advertisements/Imperial Hotel.jpg",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/advertisements/Imperial Hotel.jpg",
   "website": "http://www.imperialhotelrushworth.com.au",
   "telephone": "03 5856 1411",
   "testimonials": "enabled",

@@ -1,7 +1,7 @@
 {
   "sling:resourceType": "wnews/page/advertisement",
   "title": "Jones-Geisler Bros",
-  "media": "s3./wnews/advertisements/Jones-Geisler Bros.jpg",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/advertisements/Jones-Geisler Bros.jpg",
   "testimonials": "enabled",
   "published": true
 }
