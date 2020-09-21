@@ -1,0 +1,25 @@
+---
+label: Advertisement
+hide_body: true
+fields:
+- type: text
+  name: sling:resourceType
+  label: sling:resourceType
+- type: text
+  name: title
+  label: title
+- type: file
+  name: media
+  label: media
+- type: text
+  name: website
+  label: website
+- type: text
+  name: telephone
+  label: telephone
+- type: text
+  name: testimonials
+  label: testimonials
+- type: boolean
+  name: published
+  label: published
