@@ -2,48 +2,5 @@
   "title":"Articles (2015)",
   "sling:resourceType":"wnews/page/article-list",
   "jcr:primaryType":"nt:unstructured",
-  "pageSize": 7,
-  "list": {
-    "save-the-trees": {
-      "sling:resourceType":"wnews/page/article",
-      "title": "Community rallies to save trees",
-      "date": "2015-05-28",
-      "media": "s3./wnews/gallery/wnews20150528P01-188x188.jpg",
-      "abstract": "",
-      "body": {
-        "pars": [
-          "Rushworth residents have come out in force to express their alarm at VicRoads plans to remove more than 120 mature indigenous trees along the Tatura-Rushworth Road leading into the town.",
-          "As contractors arrived to commence work, word quickly spread and at the eleventh hour a group of local residents gathered and succeeded in temporarily halting the scheduled road works.",
-          "On extremely short notice, the group, instigated by Louise Costa, Les Pelle and Sharon Carey, rallied other concerned locals to the site at the truck parking bay on the Tatura- Rushworth Road two kilometres out of Rushworth.",
-          "The group was able to convince VicRoads project managers to postpone the extensive roadside ‘remodelling’ which would see 123 indigenous trees removed from the landscape.",
-          "<strong>Need to consult</strong>",
-          "Local outrage focussed on the loss of such a large number of trees without community consultation.",
-          "While contractors waited in the background it was pointed out to managers that VicRoads plans to undertake such a project without informing or consulting the local community was not on.",
-          "Eventually it was agreed that the project should be postponed and the community issues resolved before continuing work. It was admitted there had been no intention to inform local residents and conceded that it was appropriate to do so.",
-          "The contractors were sent home and VicRoads has agreed to hold a public meeting to explain the extent of the project and answer questions.",
-          "Scheduled to start as soon as possible, the project would see roadworks continue for two months. It also includes widening the road and constructing four kilometres of wire guard rails.",
-          "VicRoads has suggested that the reason for the road change is traffic safety based on recent accident reports for the road, however there is no intention to reduce the speed limit."
-        ]
-      },
-      "published": true
-    },
-    "centenary-anzac-day": {
-      "sling:resourceType":"wnews/page/article",
-      "title": "Record crowds mark Centenary ANZAC Day",
-      "date": "2015-04-30",
-      "media": "s3./wnews/gallery/wnews20150430P01-188x188.jpg",
-      "abstract": "",
-      "body": {
-        "pars": [
-          "ANZAC Day was observed around the district with particular fervour and record attendances in this year commemorating the landing at Gallipoli 100 years ago. Included in the day were special ceremonies - the opening of a War Memorial in Corop and the unveiling of a plaque to honour Vietnam Veterans in Rushworth.",
-          "Poppies marked each of the names on the old Shire of Waranga Honour Roll boards at the Memorial, a labour of love by Mary Beck and Mavis Raglus. More  oral tributes were added throughout the day, as a succession of wreaths were laid by people representing many generations of our community.",
-          "Rushworth’s 2015 Anzac Day Dawn Service began with powerful words from local RSL President, Bill Barlow. “Welcome to you all on this most signi cant occasion, arguably the most important anniversary and the most important centenary in our nation’s history.",
-          "“(Anzac Day) is our day when we as a nation remember all those who have fought and died for their country in time of con ict, but especially this morning. “We remember and honour not only those original Anzacs who landed at Gallipoli 100 years ago today, but all Australians and our brother New Zealanders who fought and died for the cause of freedom in that most horrendous and tragic period in our nation’s history”.",
-          "As more than three hundred people gathered around Rushworth’s High Street War Memorial, the ritual was played out with great solemnity and respect.",
-          "Those assembled heard the poignant words of a letter written to local loved ones on 24 April by Charlie Bale, a man who was to die the very next day. The Ode about not growing old was followed by the Last Post, a minute’s silence and the Reveille, the familiar sequence that is at once haunting and uplifting."
-        ]
-      },
-      "published": true
-    }
-  }
+  "pageSize": 6
 }
