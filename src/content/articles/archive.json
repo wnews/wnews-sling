@@ -1,6 +1,0 @@
-{
-  "title":"Waranga News | Articles Archive",
-  "sling:resourceType":"wnews/page/archive-list",
-  "jcr:primaryType":"nt:unstructured",
-  "list": ["2018", "2017", "2016", "2015", "2014"]
-}

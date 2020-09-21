@@ -1,0 +1,25 @@
+{
+    "sling:resourceType":"wp/sitemap",
+    "jcr:primaryType":"nt:unstructured",
+    "change-frequency": "weekly",
+    "url-base": "http://www.wnews.org.au",
+    "uris": [
+        "/index.html",
+        "/past-issues.html",
+        "/subscribe.html",
+        "/events.html",
+        "/directory.html",
+        "/classifieds.html",
+        "/about.html",
+        "/advertising.html",
+        "/articles.html",
+        "/wildlife.html",
+        "/recipes.html",
+        "/gardening.html",
+        "/technology.html",
+        "/kids.html",
+        "/firstpeoples.html",
+        "/advertisements.html",
+        "/contact.html"
+    ]
+}

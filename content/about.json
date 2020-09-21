@@ -1,0 +1,64 @@
+{
+  "title":"About Us",
+  "sling:resourceType":"wnews/page/default",
+  "jcr:primaryType":"nt:unstructured",
+  "sections": {
+    "sling:resourceType":"wnews/block/section-list",
+    "preface": {
+      "sling:resourceType":"wnews/block/section",
+      "jcr:primaryType":"nt:unstructured",
+      "title": "",
+      "pars": ["The Waranga News is a volunteer community newspaper serving the Waranga region of northern Victoria."]
+    },
+    "history": {
+      "sling:resourceType":"wnews/block/section",
+      "jcr:primaryType":"nt:unstructured",
+      "title": "History",
+      "pars": [
+        "Way back in September 1978, an enthusiastic group of community-minded people who mourned the passing of the <em>Rushworth Chronicle</em> finally got their 'baby' on the road.",
+        "These days the <em>Waranga News</em> has a print run of 1100 each fortnight, including some 250 subscribers."
+      ]},
+    "staff": {
+      "sling:resourceType":"wnews/block/section",
+      "jcr:primaryType":"nt:unstructured",
+      "title": "Staff & Volunteers",
+      "pars": [
+        "<strong>Editor:</strong> Mary Jo Fortuna",
+        "<strong>Office &amp; Accounts Manager:</strong> Vicki Arnel",
+        "<strong>Committee:</strong> Gillian Schoenborn (President), Natalie Ryan (Vice President), Sue\nGregory (Secretary). Tony Ford (Treasurer), Steve Gregory, Cate Fraser, Cass\nAlexander, Neil Short, Maureen McCarthy.",
+        "<strong>Reporters:</strong> Glenys Avard, Denise Corbin, Cass Alexander, Neil Laurie, Neil Short,\nSue Gregory.",
+        "<strong>Photographers:</strong> Cass Alexander, Denise Corbin, Neil Short,",
+        "<strong>Layout and Publishing:</strong> Mary Jo Fortuna, Gillian Schoenborn, Glenys Avard,\nDenise Corbin",
+        "<strong>Proofreaders:</strong> Helen McRostie, Rosemary Hawking, Maureen McCarthy, Neil\nLaurie, Neil Short, Leonie Lewington, Cate Furphy.",
+        "<strong>Wrappers:</strong> Sue Gregory, Sue Schmitke, Gail Dunn, Cheryl Baldwin, Dianne\nKennedy",
+        "<strong>Distribution:</strong> Ian Rogerson, Sue &amp; Steve Gregory, Mary Jo Fortuna, Vicki Arnel,\nDenise Corbin.",
+        "<strong>Web admin:</strong> Ben Fortuna"
+      ]
+    },
+    "contributors": {
+      "sling:resourceType":"wnews/block/section",
+      "jcr:primaryType":"nt:unstructured",
+      "title": "Regular Contributors",
+      "pars": [
+        "<strong>Colbo Tit Bits:</strong> Glenys Avard, Michelle Rathjen, Natalie Ryan",
+        "<strong>Stanhope Correspondents:</strong> Bob Holschier, Floss Holschier",
+        "<strong>50 Years Ago:</strong> Alan McLean",
+        "<strong>Historical:</strong> Tony Ford",
+        "<strong>Garden Column:</strong> Carol McMillian, Mary Jo Fortuna, Neil Laurie, Natalie Ryan, Julie\nWikman",
+        "<strong>Cooks Column:</strong> Glen Avard, Claire Lewington, Pauline Wilson.",
+        "<strong>Rogies Ramblings:</strong> Ian Rogerson",
+        "<strong>Kids Corner:</strong> Natalie Ryan",
+        "<strong>BoHollow:</strong> Kirsty Ramadan"
+      ]
+    },
+    "get_involved": {
+      "sling:resourceType":"wnews/block/section",
+      "jcr:primaryType":"nt:unstructured",
+      "title": "Get Involved",
+      "pars": [
+        "The Waranga News is always looking for new ideas and contributions from the community.",
+        "So if you have any ideas of your own that you would like to see featured in the pages of the Waranga News, just email us at <a title=\"wnews@iinet.net.au\" href=\"&#x6D;&#x61;&#x69;&#x6C;&#x74;&#x6F;&#x3A;&#x77;&#x6E;&#x65;&#x77;&#x73;&#x40;&#x69;&#x69;&#x6E;&#x65;&#x74;&#x2E;&#x6E;&#x65;&#x74;&#x2E;&#x61;&#x75;\">wnews@iinet.net.au</a> or call in at the office, 33 Moora Road."
+      ]
+    }
+  }
+}

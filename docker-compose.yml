@@ -1,13 +1,15 @@
 version: "3"
 services:
   whistlepost:
-    image: "micronode/whistlepost:1.1.5-develop-SNAPSHOT"
+    image: "micronode/whistlepost:1.2.3-develop-SNAPSHOT"
     ports:
       - "8080:8080"
+    environment:
+      - JAVA_OPTS=-Dsling.run.modes=dev
     volumes:
-      - ./src/app:/wp/apps/wnews:ro
-      - ./src/assets:/wp/assets/wnews:ro
-      - ./src/content:/wp/content/wnews:ro
+      - ./theme/app:/wp/apps/wnews:ro
+      - ./assets:/wp/assets/wnews:ro
+      - ./content:/wp/content/wnews:ro
 
   autoheal:
     restart: always

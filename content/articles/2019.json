@@ -1,0 +1,107 @@
+{
+  "title":"Articles (2019)",
+  "sling:resourceType":"wnews/page/article-list",
+  "jcr:primaryType":"nt:unstructured",
+  "pageSize": 7,
+  "list": {
+    "waranga-health-campus-opening": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2019-12-12",
+      "title": "Waranga Health campus officially opened",
+      "media": "s3./wnews/gallery/2019/12/wnews20191212-009.jpg",
+      "abstract": "",
+      "body": {
+        "pars": [
+          "Goulburn Valley Health’s Waranga Campus in Rushworth was officially opened on Tuesday by Member for Northern Victoria Mark Gepp. The $10 million redevelopment brings together all of Rushworth’s acute, primary and community health, and aged care services under one roof.",
+          "The complex houses new office, administration, reception, storage, consulting and activity areas, as well as a new dining room and laundry facilities and an outdoor area with BBQ. A new front entrance also makes access easier for patients, staff and visitors.",
+          "Previously, the Waranga Health campus was split over two sites at the Waranga Aged Care Hostel, and the Waranga Memorial Hospital and Nursing Home.",
+          "Prior to the official opening, the audience was addressed by GV Heath CEO Matt Sharp, Chair of GV Health Board Rebecca Woolstonecroft and Chair of the Reference Group Clem Furphy, who noted that Mr Gepp had turned the first sod of the planned project in 2017.",
+          "<strong>Supporters acknowledged</strong>",
+          "Clem thanked the GV Health Board for ongoing support and also acknowledged local community input over many years. The fundraising efforts of the Hospital Auxiliary and Friends of the Hostel as well as donations from the Rushworth and District Community Bank and the Rushworth Lions Club have all contributed to the end result.",
+          "Clem thanked members of the reference group, especially acknowledging Elizabeth Perry for her passionate support of health services in Rushworth.",
+          "Finally, Clem congratulated the staff, noting that even as old infrastructure declined, the quality of care never did, with patients’ wellbeing continuing to be foremost even through the challenges of the relocation.",
+          "As a footnote Clem had a message for the politicians present. He brought their attention to a local need for emergency care, noting that it could take up to an hour for an ambulance to attend. While we have a state of the art hospital facility in the main street, we still need to have basic emergency first aid care available."
+        ]
+      },
+      "published": true,
+      "related": ["/content/wnews/articles/2018/list/hostel-on-site-action", "/content/wnews/articles/2017/list/hostel-redevelopment-announced"]
+    },
+    "councils-role-in-an-emergency": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2019-12-12",
+      "title": "Council’s role in an emergency",
+      "abstract": "",
+      "body": {
+        "pars": [
+          "With the recent outbreak of so many devastating early season bushfires around the country, fire risk is uppermost in the minds of many local residents. Campaspe Shire Council has outlined its role in emergency management, not only applying to the Code Red Day, but all emergency situations, whether flood, fire or other.",
+          "Mayor, Cr Adrian Weston said Council’s role in an emergency situation is to provide resources as requested through the Incident Control Centre and, if required, identify a suitable location for a relief centre, open it and staff it, again as directed by the control centre.",
+          "Prior to the emergency however, Council’s main role is in emergency planning. Council works with lead agencies in developing the Municipal Emergency Management Plan and the many sub-plans, capturing flood emergency, fire emergency, influenza pandemic, heatwave and more.",
+          "“Each emergency situation is led by a lead agency; for fire this is the CFA, for flood the SES,” the Mayor said.",
+          "On the recent Code Red Day the Incident Control Centre was set up in Bendigo. Led by the CFA and joined by representatives from all local councils and authorities, the situation across the region was monitored and managed.",
+          "At a local level, staff at Campaspe Shire kept in constant contact with the control centre. The control centre requested resources, with two water tankers sent to Strathallan. No relief centre was requested to be set up.",
+          "<strong>Fire risk in Rushworth</strong>",
+          "Rushworth is in the unusual situation of being surrounded by forests and in 2017, led by the local CFA and supported by Council, a 16 page information guide for residents around preparing for fire was completed. The booklet covers a range of topics including:",
+          "<ul><li>Understanding your risk</li><li>Reducing your risk</li><li>Leaving early</li><li>Bushfire survival options</li><li>Understanding warnings</li><li>Who to contact</li></ul>",
+          "The booklet was distributed across the township and encourages residents to develop a Bushfire Survival Plan.",
+          "“With a hot summer predicted ahead of us, I encourage residents to have another read of the booklet, develop their plan, and practice it,” the Mayor added.",
+          "“The CFA website also has a lot of resources about being fire ready.”",
+          "The only time a decision will be made on behalf of residents is if a decision is made by the lead agency to evacuate the town.",
+          "“This has only been done once, at Halls Gap a number of years ago, in a fire situation,” Cr Weston said.",
+          "Whilst Council has identified a number of areas suitable as a relief centre, these are only opened when and as directed by the control centre. In each emergency situation, consideration is given as to which relief centre may be suitable.",
+          "“We don’t publicise these in advance as we don’t want the community going to what they consider a relief centre, to find out it could be in the middle of the emergency,” Cr Weston said.",
+          "Campaspe Shire has one nominated Neighbourhood Safer Place, the Echuca South Recreation Reserve.",
+          "“This is considered a place of last resort and has been assessed by the CFA based on radiant heat outputs and many other stringent criteria,” Cr Weston said.",
+          "The best advice to Rushworth residents is to have a plan and if they feel uncomfortable during an extreme heat event at home, to consider staying with family or friends. The decision to leave should be done early.",
+          "The Rushworth Community Information Guide is available through the CFA’s website."
+        ]
+      },
+      "published": true
+    },
+    "community-bank-reports-positive-year": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2019-12-12",
+      "title": "Community Bank reports positive year",
+      "media": "s3./wnews/gallery/2019/12/wnews20191212-033.jpg",
+      "abstract": "",
+      "body": {
+        "pars": [
+          "Rushworth & District Community Bank hosted its seventeenth AGM on 20 November with Chair Christine Borger announcing a strong, profitable 2019 and a 6 cent fully franked dividend to shareholders.",
+          "There was a positive and upbeat atmosphere as the achievements of the community and the Community Bank over the previous 12 months, were celebrated.",
+          "The audience heard from Sadie Vale as she walked them through the Colbinabbin Silo Art project, from idea inception to project completion, and celebrated over $60,000 invested into the district for the 2019 financial year.",
+          "The board awarded its first Community Spirit Award to Maz Thomas, recognising her incredible volunteerism within the Rushworth community over many years, notably her management of the Easter Festival Parade, the Draught Horse Muster, the work at the Moora Reserve and everything in between.",
+          "The board would like to thank all community volunteers who work so tirelessly in our community to ensure we keep our towns sustainable and vibrant – our volunteers running our sporting clubs and community groups work hard to keep our towns places we want to be.",
+          "The board also wishes to thank all shareholders and customers for their ongoing support of the Community Bank; the Rushworth & District Community Bank could not operate without this support that enables it to invest into our community."
+        ]
+      },
+      "published": true
+    },
+    "stanhope-has-big-plans": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2019-12-12",
+      "title": "Stanhope has big plans for the future",
+      "media": "s3./wnews/gallery/2019/12/wnews20191212-028.jpg",
+      "abstract": "",
+      "body": {
+        "pars": [
+          "Campaspe Shire Council has endorsed a plan for Stanhope that will guide future community projects and activities.",
+          "Mayor, Cr Adrian Weston, said the plan has been developed in partnership with the community through surveys, pop up sessions, presentations and workshops.",
+          "“Some of the groups that assisted with the plan include the Stanhope Development Group, local retailers, Recreation Reserve Committee of Management, Stanhope Primary School, police, Stanhope Health, Fonterra, Stanhope Men’s Shed and the CFA,” Cr Weston said.",
+          "Council worked with the community to capture its aspirations to develop a vision for the town and develop priorities and future opportunities to meet modern challenges.",
+          "As part of the planning process, the vision of ‘Stanhope is a thriving and innovative rural community ready to embrace the future’, was developed and will be the base for the entire plan.”",
+          "The plan outlines four key principles:",
+          "<ul><li>Strong community connections</li><li>Recreation and lifestyles</li><li>Modern rural identity</li><li>Investment and industry.</li></ul>",
+          "The principles will help form the basis to develop and prioritise projects, along with how to measure their success.",
+          "The plan has identified 15 projects made up of short term (completed within six months), medium term (six months to three years) and long term (three to ten years).",
+          "Some of the projects in the plan include the beautification of the town, continued development of the Community Recreation Precinct Masterplan, festivals and events, development of the open art space, the relocation of the kindergarten and a wetlands passive recreation area.",
+          "This will be Council’s second place based plan, following on from Rochester’s finalised plan in May 2018.",
+          "The plan can be downloaded on Council’s website."
+        ]
+      },
+      "published": true
+    }
+  }
+}

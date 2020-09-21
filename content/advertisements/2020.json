@@ -1,0 +1,165 @@
+{
+  "title":"Advertisements (2020)",
+  "sling:resourceType":"wnews/page/advertisement-list",
+  "sling:alias":"current",
+  "sling:vanityPath":"/content/wnews/advertisements",
+  "jcr:primaryType":"nt:unstructured",
+  "pageSize": 7,
+  "list": {
+    "sling:resourceType":"wnews/block/advertisement-list",
+    "campbell-smith": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Campbell Smith Accountant",
+      "media": "s3./wnews/advertisements/2020/campbell-smith-accountant.png",
+      "testimonials": "enabled",
+      "published": true
+    },
+    "coughlans-iga": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Coughlan's IGA",
+      "media": "s3./wnews/advertisements/2020/coghlans-iga.png",
+      "testimonials": "enabled",
+      "published": true
+    },
+    "cottage-ice-cream-shoppe": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "The Cottage Ice-cream Shoppe",
+      "media": "s3./wnews/advertisements/2020/cottage-ice-cream-shoppe.png",
+      "testimonials": "enabled",
+      "published": true
+    },
+    "coventry-funerals": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Coventry Funerals",
+      "media": "s3./wnews/advertisements/2020/coventry-funerals.png",
+      "testimonials": "enabled",
+      "published": true
+    },
+    "hardware-emporium": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Rushworth Hardware Emporium",
+      "media": "s3./wnews/advertisements/2020/hardware-emporium.png",
+      "testimonials": "enabled",
+      "published": true
+    },
+    "helen-truran": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Helen Truran Marriage Celebrant",
+      "media": "s3./wnews/advertisements/2020/helen-truran.png",
+      "testimonials": "enabled",
+      "published": true
+    },
+    "kyabram-funeral-services": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Kyabram Funeral Services",
+      "media": "s3./wnews/advertisements/2020/kyabram-funeral-services.png",
+      "testimonials": "enabled",
+      "published": true
+    },
+    "lipshut-law": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Lipshut Law",
+      "media": "s3./wnews/advertisements/2020/lipshut-law.png",
+      "testimonials": "enabled",
+      "published": true
+    },
+    "meander": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Meander Designs",
+      "media": "s3./wnews/advertisements/2020/meander.png",
+      "testimonials": "enabled",
+      "published": true
+    },
+    "mediconsul-pharmacy": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Mediconsul Pharmacy",
+      "media": "s3./wnews/advertisements/2020/mediconsul-pharmacy.png",
+      "testimonials": "enabled",
+      "published": true
+    },
+    "motofinish-cafe": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Motofinish Cafe",
+      "media": "s3./wnews/advertisements/2020/motofinish-cafe.png",
+      "testimonials": "enabled",
+      "published": true
+    },
+    "mud-hut-yoga": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Mud Hut Yoga",
+      "media": "s3./wnews/advertisements/2020/mud-hut-yoga.png",
+      "testimonials": "enabled",
+      "published": true
+    },
+    "murchison-service-station": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Murchison Service Station",
+      "media": "s3./wnews/advertisements/2020/murchison-service-station.png",
+      "testimonials": "enabled",
+      "published": true
+    },
+    "natrad-radiators": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Natrad Radiators",
+      "media": "s3./wnews/advertisements/2020/natrad-radiators.png",
+      "testimonials": "enabled",
+      "published": true
+    },
+    "perrys-butchery": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Perry's Butchery",
+      "media": "s3./wnews/advertisements/2020/perrys-butchery.png",
+      "testimonials": "enabled",
+      "published": true
+    },
+    "rexterminate": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "ReXterminate Pest Control",
+      "media": "s3./wnews/advertisements/2020/rexterminate.png",
+      "testimonials": "enabled",
+      "published": true
+    },
+    "riordan-lawyers": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Riordan Lawyers",
+      "media": "s3./wnews/advertisements/2020/riordan-lawyers.png",
+      "testimonials": "enabled",
+      "published": true
+    },
+    "rj-excavations": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "R & J Excavations",
+      "media": "s3./wnews/advertisements/2020/rj-excavations.png",
+      "testimonials": "enabled",
+      "published": true
+    },
+    "steph-ryan": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Steph Ryan",
+      "media": "s3./wnews/advertisements/2020/steph-ryan.png",
+      "testimonials": "enabled",
+      "published": true
+    },
+    "the-spin-doctor": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "The Spin Doctor",
+      "media": "s3./wnews/advertisements/2020/the-spin-doctor.png",
+      "testimonials": "enabled",
+      "published": true
+    },
+    "truffle-catering": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Truffles Catering",
+      "media": "s3./wnews/advertisements/2020/truffles-catering.png",
+      "testimonials": "enabled",
+      "published": true
+    },
+    "valley-funerals": {
+      "sling:resourceType": "wnews/page/advertisement",
+      "title": "Valley Funerals",
+      "media": "s3./wnews/advertisements/2020/valley-funerals.png",
+      "testimonials": "enabled",
+      "published": true
+    }
+  }
+}

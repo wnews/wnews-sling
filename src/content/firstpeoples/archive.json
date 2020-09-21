@@ -1,6 +1,0 @@
-{
-  "title":"Waranga News | Waranga Dreaming Archive",
-  "sling:resourceType":"wnews/page/archive-list",
-  "jcr:primaryType":"nt:unstructured",
-  "list": []
-}

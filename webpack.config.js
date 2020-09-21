@@ -4,10 +4,10 @@ var ExtractTextPlugin = require("extract-text-webpack-plugin");
 const GoogleFontsPlugin = require("google-fonts-webpack-plugin")
 
 module.exports = {
-  entry: './src/assets/js/wnews.js',
+  entry: './assets/js/wnews.js',
   output: {
     filename: 'js/wnews.bundle.js',
-    path: path.resolve(__dirname, 'src/assets')
+    path: path.resolve(__dirname, 'assets')
   },
   module: {
     rules: [

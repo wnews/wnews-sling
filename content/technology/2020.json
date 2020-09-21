@@ -1,0 +1,114 @@
+{
+  "title":"Not A Robot (2020)",
+  "sling:resourceType":"wnews/page/article-list",
+  "jcr:primaryType":"nt:unstructured",
+  "sling:alias":"current",
+  "sling:vanityPath":"/content/wnews/technology",
+  "pageSize": 6,
+  "list": {
+    "sling:resourceType":"wnews/block/article-list",
+    "netiquette": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2020-07-02",
+      "title": "Netiquette: How to behave yourself online",
+      "media": "s3./wnews/gallery/2020/07/512px-Twemoji_1f607.svg.png",
+      "abstract": "Netiquette is a term that was coined in the infancy of the Internet, even before the World Wide Web was born. Early Internet pioneers could see the need to establish guidelines for online behaviour in the same way they could see how easy it was for text-based communication to lead to `flame wars` due to the lack of emotional cues (hence the birth of emoticons, or emojis).",
+      "body": {
+        "pars": [
+          "Human behaviour has come a long way from the days of indiscriminate fighting and violence that plagues our ancient (and not so ancient) history.",
+          "Modern society is built on a mutual respect of the other and a recognition that diplomacy is usually the best way to resolve conflicts.",
+          "Unfortunately for all of our technological wizardry and marvels we've been able to conjure in cyberspace, that principle of mutual respect appears to have been lost on many individuals.",
+          "Perhaps it is the assumption that the Internet isn't a real, tangible construct, so whatever happens there doesn't matter. Or maybe it provides the opportunity for some to role-play as a villain or some other fantasy they could never experience in the `real` world.",
+          "Whatever the motives, there must be at some point a realisation that the Internet is made up of many individuals, just like you and me, and the things we say and do online do actually have an impact, for better or worse.",
+          "For this reason, we need to remind ourselves frequently of the principles of good online behaviour, and at the very least avoid those bad habits and behaviours that can have a detrimental effect on others.",
+          "<strong>Netiquette</strong>",
+          "Netiquette is a term that was coined in the infancy of the Internet, even before the World Wide Web was born. Early Internet pioneers could see the need to establish guidelines for online behaviour in the same way they could see how easy it was for text-based communication to lead to `flame wars` due to the lack of emotional cues (hence the birth of emoticons, or emojis).",
+          "Over time we have forgotten about Netiquette, just as we have forgotten what life was like before digital communication became such a central part of our lives. But we can refresh our memory with a simple online search for `Netiquette`.",
+          "There are many great resources available from both local and international sources, we just need to take the time to explore and educate ourselves about how we can be better `Netizens` and remind ourselves that the people we see on the Internet are just as real as those we walk past in the street every day."
+        ]
+      },
+      "published": true,
+      "sidebar": "/content/wnews/technology/2020/list/rules-of-netiquette"
+    },
+    "rules-of-netiquette": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2020-07-02",
+      "title": "Core Rules of Netiquette",
+      "abstract": "",
+      "body": {
+        "pars": [
+          "Here are some example <a href='https://coursedesign.colostate.edu/obj/corerulesnet.html'>rules</a> to remind ourselves of good online behaviour.",
+          "<ol><li>Remember the Human</li><li>Adhere to the same standards of behavior online that you follow in real life</li><li>Know where you are in cyberspace</li><li>Respect other people's time and bandwidth</li><li>Make yourself look good online</li><li>Share expert knowledge</li><li>Help keep flame wars under control</li><li>Respect other people's privacy</li><li>Don't abuse your power</li><li>Be forgiving of other people's mistakes</li></ol>"
+        ]
+      },
+      "published": false
+    },
+    "beware-of-share": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2020-02-27",
+      "title": "Beware of Share",
+      "abstract": "Social media is indeed a wondrous thing. News events,\nproducts to sell, fund-raising efforts and family moments can\nbe instantly disseminated, long-lost school-friends and distant\ncousins can be rediscovered, and you can be entertained by heartwarming\nvideo clips of kittens and puppies being cute - if that’s\nyour thing.",
+      "body": {
+        "pars": [
+          "Social media is indeed a wondrous thing. News events,\nproducts to sell, fund-raising efforts and family moments can\nbe instantly disseminated, long-lost school-friends and distant\ncousins can be rediscovered, and you can be entertained by heartwarming\nvideo clips of kittens and puppies being cute - if that’s\nyour thing.",
+          "And then there’s the ‘news’. When it all started way back\nthere in the early nineties, one of the main positives cited by the\nenthusiasts was the democratisation of the media. It was the age\nof citizen journalism when news was raw and unfiltered - not\npresented through the eyes of the big, powerful media barons or\ninfluenced by some conspiracy driven government agenda.",
+          "The ordinary people were certainly given the power to tell\nit how it was. But here’s the rub. Now anyone can say anything\nand claim it as the truth. And, much worse than the mainstream\nmedia, they can do it anonymously and so bear no responsibility.",
+          "So as much as we might complain about some elements of\nthe media being loose with the truth and driven by their own\nagendas, at least we can identify who has written and potentially\nhold them to account.",
+          "But there’s an even greater problem. Misinformation,\ndistorted opinion based on non-facts, defamation and blatant\nlies are not just posted, but they spread like the wildfire we are\nnow so familiar with, creating a whole new ‘weather’ situation\n(or reality) of its own. And what fans the flames? That SHARE\nbutton so many are willing to click without a thought!",
+          "So when you get the urge to share something that, at first\nglance, might even align with your own opinion, please check\nthe facts, consider who it is coming from (if you know) and the\neffect of spreading this message onto others. And remember -\njust because you agree with it doesn’t make it true!"
+        ]
+      },
+      "published": true
+    },
+    "cookies-can-be-bad-for-you": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2020-01-30",
+      "title": "Too many Cookies can be bad for you",
+      "media": "s3./wnews/gallery/2020/02/Oxygen480-apps-preferences-web-browser-cookies.svg",
+      "abstract": "Have you noticed that when you search for something in Google that quite often you will start to see ads on every site related to that search? Or even if you were to visit a flight booking website or retailer, that suddenly all the ads you see on Facebook will be for the same or similar products? This is because of browser Cookies.",
+      "body": {
+        "pars": [
+          "Have you noticed that when you search for something in Google that quite often you will start to see ads on every site related to that search? Or even if you were to visit a flight booking website or retailer, that suddenly all the ads you see on Facebook will be for the same or similar products? This is because of browser Cookies.",
+          "When you load a website in your browser sometimes they leave behind small files called Cookies. These Cookies are used by websites to remember useful information like the last time you visited the site, what pages you have visited on the site and account information if you have previously logged in.",
+          "Advertising companies, like Google and Facebook, also use Cookies extensively to identify which ads they should show you, so they can <em>personalise</em> your advertising experince. Every time an ad is loaded on a website they have the option of saving an advertising cookie (commonly known as <em>Third-party</em> Cookies) so they can track both the ads that have been shown to you and also the sites you have visited in their network.",
+          "As their advertising network grows, these companies are able to build a profile around your browsing habits and more accurately target the advertising shown to you. So even if you never explicitly agreed to a relatioship with the advertiser they are still able to track you via browser Cookies.",
+          "Fortunately many browsers now provide an option to disable Third-party Cookies, such that this tracking can be restricted. Unfortunately by disabling Third-party Cookies it may also inadvertently limit other functionality on a website. However this is becoming less of an issue due to the increasing pressure to eliminate Third-party Cookies entirely."
+        ]
+      },
+      "published": true
+    },
+    "i-am-not-a-robot": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2020-01-01",
+      "title": "I Am Not A Robot",
+      "sidebar": "/content/wnews/technology/2020/list/turing-test",
+      "media": "s3./wnews/gallery/2020/01/Reverse-CAPTCHA.png",
+      "abstract": "Have you ever been prompted by a website to identify a list of images that contain street signs? Or maybe to decypher some barely legible text? This is known as a Completely Automated Public Turing test to tell Computers and Humans Apart, or CAPTCHA for short.",
+      "body": {
+        "pars": [
+          "Have you ever been prompted by a website to identify a list of images that contain street signs? Or maybe to decypher some barely legible text? This is known as a Completely Automated Public Turing test to tell Computers and Humans Apart, or CAPTCHA for short.",
+          "CAPTCHAs are used to block access to 'Bots', computer programs that are designed to automatically interact with websites just like humans. Sometimes these Bots can be malicious, and often attempt to impersonate actual humans, which has led to increased sophistication of CAPTCHAs.",
+          "Early CAPTCHAs were based on simple mathematical equations or identifying a series of obscured letters, but as these became easily defeated by Bots a new approach was needed. <em>reCAPTCHA</em> provided such an innovative approach as it would use images from real books that were unable to be digitally transcribed. These images would then be presented to humans in the form of a CAPTCHA, providing both a difficult test for Bots as well as a way to transcribe the text that computers had failed to.",
+          "<em>reCAPTCHA</em> has since been purchased by Google, and evolved to identifying other objects in images such as street signs and vehicles. You may even find recently that you only need to click a checkbox labelled <em>'I'm not a robot'</em>.",
+          "Whilst it may seem to be quite a trivial test to click a checkbox, there is quite a lot of sophistication behind it. Google is able to capitalise on it's Internet dominance by using browser cookies and your browsing history to determine whether you are really a human. So whilst the <em>'I'm not a robot'</em> checkbox might save us some time we do pay for it with our privacy.",
+          "So next time you are asked to identify street signs you can be assured that at least once Google doesn't know exactly who you are and what you are doing."
+        ]
+      },
+      "published": true
+    },
+    "turing-test": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2020-01-01",
+      "title": "Turing Test",
+      "abstract": "In 1950, Alan Turing, a prominent Computer Scientist, devised a test to evaluate the ability of a machine to mimic human behaviour.",
+      "body": {
+        "pars": [
+          "In 1950, Alan Turing, a prominent Computer Scientist, devised a test to evaluate the ability of a machine to mimic human behaviour.",
+          "The test would consist of a human evaluator communicating with two other participants via text-based means. One of the two participants would be human, whilst the other is a machine.",
+          "The test is concluded when the evaluator is able to confidently identify the machine participant. If the evaluator is unable to reliably identify the machine participant the machine is said to have passed the Turing Test."
+        ]
+      },
+      "published": false
+    }
+  }
+}

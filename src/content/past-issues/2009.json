@@ -1,7 +1,0 @@
-{
-  "title":"Waranga News | Past Issues 2009",
-  "sling:resourceType":"wnews/page/front-page-list",
-  "jcr:primaryType":"nt:unstructured",
-  "list": {
-  }
-}

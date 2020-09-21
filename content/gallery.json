@@ -1,0 +1,14 @@
+{
+  "title":"Gallery",
+  "sling:resourceType":"wnews/page/album-list",
+  "jcr:primaryType":"nt:unstructured",
+  "list": {
+    "sling:resourceType":"wnews/block/flickr/album-list",
+    "click-go-the-shears": {
+      "sling:resourceType": "wnews/block/flickr/album",
+      "title": "Click go the Shears",
+      "id": "72157685074084603",
+      "published": true
+    }
+  }
+}

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+
+<section data-th-fragment="list(frontpages)">
+    <div class="wp-layout dynamic">
+        <th:block data-th-each="frontpage : ${frontpages}">
+            <div data-th-replace="/apps/wnews/page/fragments/frontpage.html::thumbnail(${frontpage})">
+            </div>
+        </th:block>
+    </div>
+
+    <nav data-th-replace="/apps/wnews/page/fragments/pagination.html::pagination-nav">
+    </nav>
+
+</section>
+
+<article data-th-fragment="thumbnail(frontpage)">
+    <a data-th-href="|${frontpage.resource.path}.html|">
+        <img class="img-thumbnail img-fluid" data-th-src="|/content/wnews/media/${frontpage.metadata.image}|" data-th-alt="|${frontpage.metadata.title} image|"/>
+    </a>
+</article>
+
+<article data-th-fragment="full(frontpage)">
+    <h1 data-th-text="${frontpage.metadata.title}">[TITLE]</h1>
+    <p>
+        <a data-th-href="|${frontpage.resource.path}.html|" class="full-page">
+            <img data-th-src="|/content/wnews/media/${frontpage.metadata.image}|" data-th-alt="|${frontpage.metadata.title} image|"/>
+        </a>
+    </p>
+</article>
+
+</body>
+</html>

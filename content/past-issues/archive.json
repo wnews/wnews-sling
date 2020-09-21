@@ -1,0 +1,6 @@
+{
+  "title":"Past Issues Archive",
+  "sling:resourceType":"wnews/page/archive-list",
+  "jcr:primaryType":"nt:unstructured",
+  "list": ["2020", "2019", "2018", "2017", "2016", "2015", "2014", "2011", "2010", "2008"]
+}

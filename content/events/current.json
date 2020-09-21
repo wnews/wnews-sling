@@ -1,0 +1,37 @@
+{
+  "title": "Community Events",
+  "sling:resourceType": "wnews/page/default",
+  "jcr:primaryType": "nt:unstructured",
+  "sections": {
+    "sling:resourceType": "wnews/block/section-list",
+    "council-notices": {
+      "sling:resourceType": "wnews/block/section",
+      "title": "Council Notices",
+      "sections": {
+        "sling:resourceType": "wnews/block/section-list",
+        "20200527": {
+          "sling:resourceType": "wnews/block/section",
+          "title": "Wednesday, 27 May",
+          "pars": [
+            "Flu Vaccinations, Gunbower Rec Reserve\nGunbower Island Road, Gunbower - 10am – 12noon (by appointment only)"
+          ]
+        },
+        "20200525": {
+          "sling:resourceType": "wnews/block/section",
+          "title": "Monday, 25 May",
+          "pars": [
+            "Flu Vaccinations (by appointment only)",
+            "<ul><li>Tongala Shire Hall\nMangan Street, Tongala - 9am – 11am</li><li>Lockington Community Centre\nBarton Street, Lockington - 2.30pm – 3.30pm</li></ul>"
+          ]
+        },
+        "20200521": {
+          "sling:resourceType": "wnews/block/section",
+          "title": "Thursday, 21 May",
+          "pars": [
+            "Flu Vaccinations, Echuca Stadium\nHigh Street, Echuca - 4pm – 6.30pm (by appointment only)"
+          ]
+        }
+      }
+    }
+  }
+}

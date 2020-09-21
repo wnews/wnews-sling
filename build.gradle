@@ -12,7 +12,7 @@ buildscript {
 
 plugins {
     id "com.moowork.node" version "1.3.1"
-    id "biz.aQute.bnd.builder" version "4.2.0"
+    id "biz.aQute.bnd.builder" version "5.0.0"
 }
 
 apply plugin: 'java'
@@ -44,20 +44,21 @@ task buildWebpack(type: NpmTask) {
 task bundleApp(type: Bundle) {
     archiveBaseName = "$projectId-app"
     bndfile = 'app.bnd'
-    from('src/app') { into 'SLING-INF/content' }
-    from('src/assets') { into 'assets' }
+    from('theme/app') { into 'SLING-INF/content' }
+    from('assets') { into 'assets' }
 }
 
 task bundleConfig(type: Bundle) {
     archiveBaseName = "$projectId-config"
     bndfile = 'config.bnd'
-    from('src/config') { into 'SLING-INF/content' }
+    from('config') { into 'SLING-INF/content' }
 }
 
 task bundleContent(type: Bundle) {
     archiveBaseName = "$projectId-content"
     bndfile = 'content.bnd'
-    from('src/content') { into 'SLING-INF/content' }
+    from('content') { into 'SLING-INF/content' }
+    exclude('**/current.json')
 }
 
 bundleApp.dependsOn buildWebpack

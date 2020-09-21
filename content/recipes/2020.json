@@ -1,0 +1,529 @@
+{
+  "title":"Cooks Column (2020)",
+  "sling:resourceType":"wnews/page/article-list",
+  "jcr:primaryType":"nt:unstructured",
+  "sling:alias":"current",
+  "sling:vanityPath":"/content/wnews/recipes",
+  "pageSize": 6,
+  "bannerUrl": "/recipes/current.html",
+  "bannerImage": "/assets/wnews/images/cooks-column.png",
+  "list": {
+    "turkish-menemen": {
+      "sling:resourceType": "wnews/page/recipe",
+      "date": "2020-07-16",
+      "title": "Turkish Menemen",
+      "media": "s3./wnews/gallery/2020/07/wnews20200716-045.jpg",
+      "abstract": "Multiculturalism in Australia contributes\nso much to our way of life in so many ways,\nbut probably the stand-out for many of us\nis . . . interesting and delicious food!",
+      "body": {
+        "pars": [
+          "Multiculturalism in Australia contributes\nso much to our way of life in so many ways,\nbut probably the stand-out for many of us\nis . . . interesting and delicious food! And\nbecause we have so much diversity n offer,\nwe can also take and adapt and even mix\nthe dishes up a bit – a true cultural melting\npot!",
+          "This is my take on Turkish Menemen - an\neasy one-pan breakfast dish (or lunch if\nyou like)."
+        ]
+      },
+      "ingredients": [
+        "2 Tbsp olive oil",
+        "1 onion sliced",
+        "2 cloves garlic",
+        "1 red or green capsicum sliced",
+        "1 red chilli deseeded & chopped or chilli\nflakes to taste (optional)",
+        "1 zucchini sliced",
+        "1 eggplant sliced",
+        "400 g can chopped tomatoes",
+        "2-4 eggs (depending on how many people)",
+        "Parsley roughly chopped for garnish",
+        "Natural yoghurt for serving"
+      ],
+      "method": [
+        "Heat the oil in a heavy-based frying\npan. Saute onions, garlic, capsicum, zucchini\nand eggplant* (a little chilli if that’s your\nfancy). Cook until they begin to soften. Add\nthe tomatoes, mixing well. Cook until the\nliquid has reduced, season.",
+        "Using a wooden spoon, create\npockets in the tomato mixture and crack the\neggs into them. Cover the pan and cook the\neggs over a low heat until just set. (If you\nwish you can break the eggs up a bit so that it\nflows into the vegetable mixture.)",
+        "Season to taste and sprinkle the with\nparsley. Serve straight from the pan with a\ndollop of natural yoghurt.",
+        "If you’re not partial to eggplant you\ncan leave it out with little effect on the dish.\nIn fact the real Menemen is made with just\npeppers and tomatoes as the base.",
+        "In the interests of further cultural\ndiversity, or if you would rather get your\nprotein from somewhere other than eggs,\nmy latest discovery is some diced haloumi\n(especially the chilli infused one) is also\ndelicious. ......MJ"
+      ],
+      "testimonials": "enabled",
+      "published": true
+    },
+    "megans-chocolate-cake": {
+      "sling:resourceType": "wnews/page/recipe",
+      "date": "2020-07-02",
+      "title": "Megan’s Gorgeous Calorierich\nChocolate Cake",
+      "media": "s3./wnews/gallery/2020/07/img-0256.jpg",
+      "abstract": "At least one of our daughters has turned\nthe lockdown to good use and is obviously\naiming to take the ‘Kitchen Goddess of the\nYear’ award in her category.",
+      "body": {
+        "pars": [
+          "At least one of our daughters has turned\nthe lockdown to good use and is obviously\naiming to take the ‘Kitchen Goddess of the\nYear’ award in her category.",
+          "I must admit I’ve been passing on to her,\nsnapshots of inspirational dishes that keep\nappearing when I log into Facebook and she’s\nobviously been inspired and is producing\nsome great, delicious and healthy meals.",
+          "Which has nothing to do with this edition’s\nCooks Column, because although it’s great\nand delicious, it can’t really fit into the\n‘healthy’ category - except that my Kitchen\nGoddess aspirant - gave me the recipe."
+        ]
+      },
+      "ingredients": [
+        "200g chopped butter",
+        "300g good dark chocolate",
+        "1/4 cup cocoa",
+        "1/4 cup water",
+        "1tsp vanilla",
+        "1 cup caster sugar",
+        "3 eggs lightly beaten",
+        "3/4 cup SR flour"
+      ],
+      "method": [
+        "Preheat oven to 160ºC. Grease and line a\n20cm round tin x 6cm deep (*). Put butter, 200g\nchocolate and 1/4 cup water into microwave\non medium for 1 minute at a time, stirring\nwith metal spoon until melted.",
+        "Add sifted cocoa, stir until smooth. Stir in\nvanilla, sugar and egg. Sift flour and gently\ncombine.",
+        "Pour half mixture into baking tin. Sprinkle\n50g chopped chocolate on top. Cover with\nremaining mixture. Sprinkle remaining\nchopped chocolate on top.",
+        "Bake for 55-60 minutes. Skewer should\ncome out with moist crumbs. Cool in tin.",
+        "Serve with fresh cream and strawberries\n(if you don’t think you have enough calories\nin the cake itself!).",
+        "It stores in the fridge for a good week.",
+        "* As is usual when I make a cake, I baked\nmy mixture in a slice tin. This way it doesn’t\nhave to rise and look like a cake should.\nBesides it sort of ends up looking like a\n‘Brownie’ and is easier to cut and serve either\nas just something to nibble on with a cuppa\nor served as a dessert with fresh cream and\nberries.",
+        "Glen."
+      ],
+      "testimonials": "enabled",
+      "published": true,
+      "related": []
+    },
+    "julias-banana-bread": {
+      "sling:resourceType": "wnews/page/recipe",
+      "date": "2020-06-18",
+      "title": "Julia’s Banana Bread",
+      "media": "s3./wnews/gallery/2020/06/wnews20200618-479.jpg",
+      "abstract": "Apparently baking Banana Bread is a sure\nsign you’ve been in lockdown for many\nweeks. . . anybody who’s anybody has been\nbaking Banana Bread. So when a few overripe\nbananas appeared in our fruit bowl,\nI thought I’d better have a go at it myself.",
+      "body": {
+        "pars": [
+          "Apparently baking Banana Bread is a sure\nsign you’ve been in lockdown for many\nweeks. . . anybody who’s anybody has been\nbaking Banana Bread. So when a few overripe\nbananas appeared in our fruit bowl,\nI thought I’d better have a go at it myself.",
+          "Just this past week, a recipe by Julia\nBusuttil Nishimura was published in the\n‘Age’."
+        ]
+      },
+      "ingredients": [
+        "2 eggs",
+        "150g raw sugar",
+        "100ml extra virgin olive oil",
+        "2.5 tbspn full-cream milk",
+        "2 very ripe bananas",
+        "1 cup SR flour",
+        "1/2 tspn cinnamon",
+        "Optional extras:",
+        "1 1/2 tbsp Dutch cocoa",
+        "100g dark chocolate chopped",
+        "50g chopped walnuts",
+        "1 extra banana sliced lengthwise"
+      ],
+      "method": [
+        "Preheat oven to 180ºC. Grease and line a\nloaf tin with baking paper.",
+        "Whisk eggs and sugar together until pale.",
+        "Pour in the olive oil and milk and whisk to\ncombine.",
+        "Mash bananas in a separate bowl then mix\ninto the batter.",
+        "Stir sifted flour and cinnamon gently into\nmixture (do not overwork).",
+        "At this stage you can add the extra cocoa,\nchocolate and walnuts.",
+        "Pour the mixture into prepared loaf tin\nand (if you’re going with the extra option)\nslice the banana lengthwise down the middle\nand place the two slices on the top of the loaf\nin the tin.",
+        "Bake for about 45-50 minutes until a\nskewer inserted in the mixture comes out\nclean.",
+        "PS. Before anyone asks, yes, there is only\none slice of banana on my Banana Loaf,\nthat’s because I made a double batch and only\nhad one optional extra banana. You really are\nbeing pedantic!",
+        "I used cocoa, but not the dark chocolate\nand not the walnuts as I’d have had to shell\nthem. I was a bit over my little baking spree\nby then.",
+        "Glen"
+      ],
+      "testimonials": "enabled",
+      "published": true,
+      "related": []
+    },
+    "mushroom-risotto": {
+      "sling:resourceType": "wnews/page/recipe",
+      "date": "2020-06-06",
+      "title": "Mushroom Risotto",
+      "media": "s3./wnews/gallery/2020/06/wnews20200604-054.jpg",
+      "abstract": "While shopping the other week I had a\nwant for mushrooms, with no plans in mind\nof just how I would put them to use…. It got\nto 3 days post-shopping and the mushrooms\nwere beginning to wither and wilt in the\nfridge. There was no way I was letting my\nimpulse buy of deliciousness go to waste!",
+      "body": {
+        "pars": [
+          "While shopping the other week I had a\nwant for mushrooms, with no plans in mind\nof just how I would put them to use…. It got\nto 3 days post-shopping and the mushrooms\nwere beginning to wither and wilt in the\nfridge. There was no way I was letting my\nimpulse buy of deliciousness go to waste!",
+          "ET VOILA… an easy to make, minimal\nstir, Mushroom Risotto!"
+        ]
+      },
+      "ingredients": [
+        "1 brown onion, diced",
+        "6 cups of stock (I used 3 each of veg and\nchicken)",
+        "1 tbsp. olive oil",
+        "300-500g sliced mushrooms (depending how\n‘mushroom-y’ you like it)",
+        "1.5 cups (300g) arborio rice",
+        "2 tbsp. butter",
+        "½ cup grated cheese (parmesan or cheddar",
+        "depending your preference)",
+        "1 cup of frozen peas",
+        "salt and pepper to taste"
+      ],
+      "method": [
+        "Prepare the 6 cups of stock and set aside.",
+        "Add the olive oil to a pot, add the onion and sauté on medium high for a couple of\nminutes.",
+        "Add in the sliced mushrooms, cover the\npot and cook for a couple of minutes until\nthe mushrooms have released some of their\nwater.",
+        "Remove the lid and add the rice and sauté\nit with the onions and mushrooms.",
+        "Add 3 cups of stock, stir well, then cover\nand simmer for around 20 minutes until the\nstock is mostly absorbed.",
+        "Add 1.5 cups stock, stir well again. Cover\nand simmer for around 10 minutes until the\nstock is mostly absorbed.",
+        "Add the last 1.5 cups of stock and the frozen\npeas, stir well again. Cover and simmer for a\nfinal 5-10 minutes.",
+        "It’s ready when all the stock is mostly\nabsorbed by the rice. Turn off the heat and\nstir in the 2 tbsp of butter and ½ cup of grated\ncheese. Add sea salt and black pepper to taste.",
+        "Serve with chopped parsley or a parsley sprig\ngarnish."
+      ],
+      "testimonials": "enabled",
+      "published": true,
+      "related": []
+    },
+    "impossible-cake": {
+      "sling:resourceType": "wnews/page/recipe",
+      "date": "2020-05-21",
+      "title": "Impossible Cake",
+      "media": "s3./wnews/gallery/2020/05/wnews20200521-056.jpg",
+      "abstract": "‘Have you tried ‘Impossible Cake’, my\ndaughter asked. Hmmm . . I remember\nsomething about ‘Impossible Pie’ which I\nthink was something like a baked custard\ntart - no pie crust.",
+      "body": {
+        "pars": [
+          "‘Have you tried ‘Impossible Cake’, my\ndaughter asked. Hmmm . . I remember\nsomething about ‘Impossible Pie’ which I\nthink was something like a baked custard\ntart - no pie crust.",
+          "It’s called ‘Impossible’ because it’s\nimpossible to muck it up - so my daughter\nsays."
+        ]
+      },
+      "ingredients": [
+        "4 eggs",
+        "1/2 cup melted butter",
+        "1/2 cup plain flour",
+        "1 cup coconut",
+        "2 cups milk",
+        "2 tspn vanilla essence",
+        "3/4 cup sugar",
+        "Juice and zest of a lemon/orange."
+      ],
+      "method": [
+        "Just beat it all up together and pour into a\ngreased dish over some stewed fruit and bake\nit till it’s golden on top. And lo and behold:\nyou have a very quick and easy hot dessert.\nServe with cream, ice-cream or custard - or\njust as is.",
+        "Confession Time: I forgot to add any\norange or lemon juice and zest . . but it was\nstill delicious. I cooked it over some lightly\nMW fresh peach slices. And dusted it with\nicing sugar to make it look ‘more interesting’\n- didn’t make much difference, to be honest.",
+        "In the interests of no one else but myself,\nI thought I’d Google ‘Impossible Pie’ - and\nwould you believe it? It’s the exact same\nrecipe but not cooked over fruit. You do get\na sort of firmness or ‘crust’ forming on the\nbottom and a nice crunch-layer on top with a\ncustardy-type middle.",
+        "I recall that we (friends of many years\nago around Colbo who shared cups of tea and\nconversations including ‘What Cheeses Me\nOff’ sessions) used to cook it in a round pie\nplate, so it did look more like a custard tart.",
+        "It makes me think of how many of my\nrecipes are titled with somebody’s name:\n‘Judith’s Chocolate Peanut Biscuits’, ‘Anne’s\nBaked Cheese Cake’, ‘Hazel Balls’ (which\nwere really Rum Balls without the rum), and\nTHIS recipe called ‘Brenda’s Impossible Pie’",
+        ". . . I even had a recipe for ‘Pat’s So Easy\nChocolate Cake that even Aunty Glad Can\nMake It’. I admit to being the Aunty Glad\nmentioned in the title. I am no cake cook. Glen"
+      ],
+      "testimonials": "enabled",
+      "published": true,
+      "related": ["/content/wnews/recipes/2017/list/chocolate-special-occasion-cake"]
+    },
+    "cauliflower-fritters": {
+      "sling:resourceType": "wnews/page/recipe",
+      "date": "2020-04-23",
+      "title": "Cauliflower Fritters",
+      "media": "s3./wnews/gallery/2020/04/wnews20200423-062.jpg",
+      "abstract": "We had a head of cauli in the fridge and it\nneeded using, I decided that perhaps making\nfritters would be a more palatable way to\nconsume it and ensure the cauli wasn’t\nwasted. I did an internet search for a recipe\nthat appealed, and I’ve since made it twice\nwith some tweaking of the recipe on the\nsecond attempt, so the following is my own\nversion.",
+      "body": {
+        "pars": [
+          "We had a head of cauli in the fridge and it\nneeded using, I decided that perhaps making\nfritters would be a more palatable way to\nconsume it and ensure the cauli wasn’t\nwasted. I did an internet search for a recipe\nthat appealed, and I’ve since made it twice\nwith some tweaking of the recipe on the\nsecond attempt, so the following is my own\nversion."
+        ]
+      },
+      "ingredients": [
+        "850g cauliflower, trimmed, cut into florets\n(don’t be too fussy cutting it up)",
+        "1 ¼ cups self-raising flour",
+        "1 garlic clove",
+        "¼ cup flat leaf parsley",
+        "1 cup grated parmesan cheese",
+        "2 eggs, lightly beaten",
+        "olive oil, for shallow frying",
+        "2 sliced spring onions",
+        "some paprika, pepper and salt for extra\nflavours (next time I’ll add some chilli!)",
+        "Added 1 cup of grated cheddar cheese.",
+        "fruit chutney, to serve (I instead used\nnatural Greek yoghurt with finely sliced\nspring onions)"
+      ],
+      "method": [
+        "Preheat oven to 150 degrees Celsius. Bring\na saucepan of salted water to the boil over\nhigh heat. Add cauliflower. Return to the boil\nand cook, uncovered, for 4-6 minutes or until\ntender. Drain. Transfer to a board and roughly\nchop (I just drained with colander and mashed\nit in the saucepan). Set aside to cool.",
+        "Sift the flour over cooled cauli. Add\ngarlic, parsley and parmesan (plus any other\nadditions you’ve decided on). Stir to combine.\nPour over egg and stir until well combined.\nSlowly add ¼ cup of water, stirring until a\nthick batter forms.\nN.B. I found I needed to add dribbles of\nwater to the batter throughout the process as\nit tended to thicken while sitting.",
+        "Add enough oil to a large, non-stick frying\npan to cover base. Heat over medium heat\nuntil oil is hot. Using ¼ cup of mixture per\nfritter, spoon fritters into hot oil. Cook for\n4-5 minutes each side or until golden and\ncooked through. Transfer to a wire rack.\nPlace in oven to keep warm while cooking\nremaining fritters",
+        "Fritters can be served hot or cold\n… Enjoy! Claire"
+      ],
+      "testimonials": "enabled",
+      "published": true
+    },
+    "chicken-soup": {
+      "sling:resourceType": "wnews/page/recipe",
+      "date": "2020-04-09",
+      "title": "Chicken Soup Recipe",
+      "media": "s3./wnews/gallery/2020/04/wnews20200409-041.jpg",
+      "abstract": "My recipe this edition is for slow cooked chicken broth/stock.\nFull of nutrition and goodness. In this time of isolation it’s a\ngreat way to fill a few hours, the house smells wonderful and\ndepending on the mood, the children can be enlisted to help\nwith the preparations.",
+      "body": {
+        "pars": [
+          "My recipe this edition is for slow cooked chicken broth/stock.\nFull of nutrition and goodness. In this time of isolation it’s a\ngreat way to fill a few hours, the house smells wonderful and\ndepending on the mood, the children can be enlisted to help\nwith the preparations.",
+          "I’ve made this or variations of it once a fortnight which is\nabout how long it lasts me. I use Maggie Beer’s “Golden chicken\nstock” recipe as my guide, but I’ll give the full details here. You\ncan decide how to proceed with the goodies you have on hand.",
+          "I use slow cooker. A stockpot or stove top boiler will be\nperfect. This makes about 3.5 litres."
+        ]
+      },
+      "ingredients": [
+        "1x 2.2 chicken cut into pieces. If you are using bones only you’ll\nneed about 3kgs (wings, necks, thigh, legs)",
+        "2 lge brown onions",
+        "1 lge carrot",
+        "Extra virgin olive oil (for cooking)",
+        "100ml verjuice (only when I have it on hand. Wine is good)",
+        "1 lge leek, washed and chopped",
+        "1 stick celery, washed and chopped",
+        "1 bay leaf",
+        "6 sprigs thyme",
+        "6 stalks flat leaf parsley",
+        "1 whole bulb garlic, cut in 1/2 widthways.",
+        "1 also add about 2 cm sliced fresh ginger and fresh tumeric\nchopped.",
+        "The herbs I also chuck in are coriander, basil and anything\nI have growing. For me its about the aroma and flavour of the\nherbs. Powdered tumeric is okay; sprinkle over the chicken\nbefore you add to the pot."
+      ],
+      "method": [
+        "Pre heat oven to 200 deg C.",
+        "Combine chicken carrot and onion to a roasting pan drizzle\nwith the olive oil. Roast for about 20-25mins or until golden\nbrown.",
+        "Transfer chicken and vegetables to the stockpot or slow\ncooker and place roasting pan on the stove over high heat. Add\nthe verjuice or wine to deglaze the pan, scrape up all the bits and\nsimmer for about a minute, then tip juices into stock pot. Add the\nother chopped veg and herbs and 4 litres of water. The chicken\nand veg should be covered. Bring to simmer over high heat then\nreduce the heat to low and cook for about 3 hours. Skim off any\nimpurities during cooking.",
+        "Strain the stock through a fine sieve into a bowl, then cool\nquickly by placing in a sink of cold water. Refrigerate or freeze\nuntil needed. Remove any solidified fat before using.",
+        "I don’t always pre roast my chicken, plus I use some store\nbought chick stock, as well as water, to make up the liquid.",
+        "This recipe is certainly open to variations. Anything can be\nthrown in. I don’t chop my herbs; they go in stalks and all.",
+        "If you want to use the stock for chicken soup, then remove\nsome of the chicken meat from the stock once it’s cooked\nthrough. I also use the stock to poach chicken thighs and my fave\nis to poach an egg in the stock for breakfast. I freeze in small\nportions and often have a mug of soup for a snack or lunch.",
+        "Oh, I slow cook my batches for minium “12 hours”..",
+        "The photo is of the raw ingredients to show how much to use\nand also a stock pot of\nsoup doesn’t make a\npretty picture.",
+        "Bon appetite. Stay\nwell, stay healthy, and\nthis will make you\nstay home for hours\ncooking."
+      ],
+      "testimonials": "enabled",
+      "published": true
+    },
+    "chocolate-peanut-biscuits": {
+      "sling:resourceType": "wnews/page/recipe",
+      "date": "2020-03-26",
+      "title": "Chocolate Peanut Biscuits",
+      "media": "s3./wnews/gallery/2020/03/wnews20200326-056.jpg",
+      "abstract": "We were off to Bright for our annual family long\nweekend, pledging that we’d buy as much as we could in\nthat town to support these communities that rely on tourism\nand who have been so severely hit by the bushfires.",
+      "body": {
+        "pars": [
+          "We were off to Bright for our annual family long\nweekend, pledging that we’d buy as much as we could in\nthat town to support these communities that rely on tourism\nand who have been so severely hit by the bushfires.",
+          "But, we ALWAYS have to take Perry’s snags – that’s\nwritten in concrete. And I like to take some home-made\nbiscuits. This is what I made."
+        ]
+      },
+      "ingredients": [
+        "250g melted butter",
+        "380g SR flour",
+        "2 heaped tbspn cocoa",
+        "1 tspn salt",
+        "2 eggs beaten with",
+        "1½ cups raw sugar",
+        "1 tspn vanilla essence",
+        "2 cups unsalted peanuts"
+      ],
+      "method": [
+        "Add melted butter and beaten eggs and sugar\nto dry ingredients. Mix well and add peanuts."
+      ],
+      "testimonials": "enabled",
+      "published": true,
+      "sidebar": "/content/wnews/recipes/2020/list/margs-nut-biscuits"
+    },
+    "margs-nut-biscuits": {
+      "sling:resourceType": "wnews/page/recipe",
+      "date": "2020-03-26",
+      "title": "Marg’s Nut Biscuits",
+      "abstract": "",
+      "body": {
+        "pars": []
+      },
+      "ingredients": [
+        "250g melted butter",
+        "1½ cups raw sugar",
+        "2 cups rolled oats",
+        "2 eggs",
+        "2 cups SR flour",
+        "2 cups cornflakes",
+        "Big cupful peanuts"
+      ],
+      "method": [
+        "Beat eggs and sugar, add melted butter, dry\ningredients. Mix well and add nuts and flakes last."
+      ],
+      "testimonials": "enabled",
+      "published": false
+    },
+    "satay-chicken": {
+      "sling:resourceType": "wnews/page/recipe",
+      "date": "2020-03-12",
+      "title": "Quick and Easy Satay Chicken",
+      "media": "s3./wnews/gallery/2020/03/wnews20200312-054.jpg",
+      "abstract": "Simple to make, easy to cook, quick to prepare, and a family favourite that has fed many people at short notice, as needed. It’s a winner! Add it to your quick and easy recipe file.",
+      "body": {
+        "pars": [
+          "Simple to make, easy to cook, quick to prepare, and a family favourite that has fed many people at short notice, as needed. It’s a winner! Add it to your quick and easy recipe file."
+        ]
+      },
+      "ingredients": [
+        "4 chicken thigh fillets",
+        "1 medium onion",
+        "1 tbsp oil (I used peanut oil)",
+        "2/3 cup frozen peas",
+        "1 cup of water",
+        "1 tsp curry powder",
+        "4-5 tbsp peanut butter (smooth or crunchy depending on your texture preference)",
+        "3 tbsp Golden Syrup",
+        "a ‘glug’ of soy sauce"
+      ],
+      "method": [
+        "Dice the chicken thighs. Roughly dice the onion.",
+        "Heat oil in deep fry pan on medium heat. Cook onions until softened slightly.",
+        "Add the diced chicken thighs, and brown.",
+        "Once chicken has browned lightly, add the combined cup of water and curry powder.",
+        "Stir in the peanut butter and golden syrup. Keep stirring until mixture thickens slightly.",
+        "Reduce heat and cover. Let mixture simmer for 15 minutes, stirring occasionally. If mixture thickens too much, add small amounts of water until right consistency.",
+        "After 15 minutes simmering, add the frozen peas and glug of soy sauce.",
+        "Cover again and cook on low for a further five minutes until peas have cooked.",
+        "Serve with boiled rice and sprinkled over spring onions to garnish",
+        "DEEEEELICIOUS!"
+      ],
+      "testimonials": "enabled",
+      "published": true
+    },
+    "chicken-with-zucchini": {
+      "sling:resourceType": "wnews/page/recipe",
+      "date": "2020-02-27",
+      "title": "Chicken with Zucchini ‘Zoodles’, Feta and Salsa Verde",
+      "media": "s3./wnews/gallery/2020/02/wnews20200227-074.jpg",
+      "abstract": "This week’s recipe makes use of some of the season’s harvest of zucchini, parsley, basil and I included Vietnamese mint and coriander.",
+      "body": {
+        "pars": [
+          "This week’s recipe makes use of some of the season’s harvest of zucchini, parsley, basil and I included Vietnamese mint and coriander.",
+          "I liked this recipe because it is open to adaptation eg different cuts of chicken, use regular pasta and cows’ milk fetta. You can also vary the herbs you use. You could also serve it hot rather than as a ‘warm’ chicken style salad."
+        ]
+      },
+      "ingredients": [
+        "4 chicken breasts halved horizontally(I used chicken thighs and legs - which I had)",
+        "1 tblspn olive oil",
+        "5 medium zuchinnis (which you have)",
+        "1/3 cup flaked almonds (oops missing from photo)",
+        "100gm goat cheese fetta, crumbled",
+        "1/4 cup flat leaf parsley"
+      ],
+      "method": [
+        "Season chicken. Heat oil in large frypan over med-high heat, cook chicken in batches, about four mins or until cooked through. Transfer to a plate. Put aside, covered loosely.",
+        "Using a vegie spiraliser cut zuchinni into noodles. I had a huge zuchinni so I used a ‘V’ slicer.",
+        "Top ‘zoodles’ with chicken, spoonfuls of salsa verde, almonds, crumbled fetta and parsley.",
+        "Serve with extra salsa verde."
+      ],
+      "testimonials": "enabled",
+      "published": true,
+      "sidebar": "/content/wnews/recipes/2020/list/salsa-verde"
+    },
+    "salsa-verde": {
+      "sling:resourceType": "wnews/page/recipe",
+      "date": "2020-02-27",
+      "title": "Salsa Verde",
+      "ingredients": [
+        "1/2 cup coarsely chopped parsley",
+        "1/4 cup coarsely chopped basil",
+        "1 garlic clove",
+        "2 tsp baby capers",
+        "1 tsp Dijon mustard",
+        "1/4 cup olive oil",
+        "2 tsp red wine vinegar"
+      ],
+      "method": [
+        "Combine parsley, basil, garlic and capers in a small bowl and whisk together mustard, oil and vinegar until thickened.",
+        "Season.",
+        "I used my small herb chopper and added some extra herbs to make up the quantity."
+      ],
+      "testimonials": "enabled",
+      "published": false
+    },
+    "tandoori-chicken-salad": {
+      "sling:resourceType": "wnews/page/recipe",
+      "date": "2020-02-13",
+      "title": "Tandoori Chicken Salad with Mint Dressing",
+      "media": "s3./wnews/gallery/2020/02/wnews20200213-061.jpg",
+      "abstract": "Welcome to a New Year and a fresh start. This was something I admittedly found in the Woolworths ‘Fresh!’ Magazine and it really appealed so I decided to give it a go…",
+      "body": {
+        "pars": [
+          "Welcome to a New Year and a fresh start. This was something I admittedly found in the Woolworths ‘Fresh!’ Magazine and it really appealed so I decided to give it a go…"
+        ]
+      },
+      "ingredients": [
+        "½ BBQ Chicken",
+        "400g can chickpeas",
+        "1 ½ tbsp Tandoori Paste",
+        "¼ cup of olive oil",
+        "2-4 Naan bread (choose any flavour you like… I decided on plain as there was lots of flavour in the salad)",
+        "1 large cucumber",
+        "60g baby spinach leaves",
+        "½ red onion, thinly sliced into rounds",
+        "1 cup Greek-style yoghurt (I used more than the recipe stated as I LOVE Greek yoghurt!)"
+      ],
+      "method": [
+        "Preheat grill on high. Line baking tray with foil. Slice the chicken, discarding skin (I didn’t) and bones, shred the remaining meat.",
+        "Pat dry chickpeas with paper towel (I used a clean tea towel). Mix Tandoori paste with 1 tbsp of oil in a bowl. Add the chickpeas and toss well to coat. Spread over one half of the baking tray. Brush each naan with 1 tbsp oil and place on other side of tray. Cook under grill 3-4 minutes, stirring chickpeas and turning naan halfway, or until naan bread is toasted and golden.",
+        "To make the mint dressing, process mint, lemon juice and oil in a food processor until smooth. Season with salt and pepper. Transfer to a bowl.",
+        "In a large bowl, combine chicken, chickpeas, cucumber, spinach and onion. Drizzle over remaining oil and toss gently to combine.",
+        "Spread yoghurt over base of a large serving platter. Pile salad on top. Drizzle over mint dressing. Scatter over extra mint and serve with naan.",
+        "ENJOY!"
+      ],
+      "testimonials": "enabled",
+      "published": true,
+      "sidebar": "/content/wnews/recipes/2020/list/tandoori-mint-dressing"
+    },
+    "tandoori-mint-dressing": {
+      "sling:resourceType": "wnews/page/recipe",
+      "date": "2020-02-13",
+      "title": "Tandoori Mint Dressing",
+      "ingredients": [
+        "1 cup of firmly packed mint leaves, plus extra to serve",
+        "¼ cup of lemon juice",
+        "1 tbsp oil",
+        "salt and pepper to taste"
+      ],
+      "published": false
+    },
+    "fishy-fridge-bonanza": {
+      "sling:resourceType": "wnews/page/recipe",
+      "date": "2020-01-30",
+      "title": "Fishy Fridge Bonanza",
+      "media": "s3./wnews/gallery/2020/01/wnews20200130-056.jpg",
+      "abstract": "I don’t know if this recipe will inspire anyone to have a bash at it. I just want you to know that I made it – and it was really delicious. Himself and I both agree with that statement.",
+      "body": {
+        "pars": [
+          "I don’t know if this recipe will inspire anyone to have a bash at it. I just want you to know that I made it – and it was really delicious. Himself and I both agree with that statement.",
+          "I was in NEED of some nutritious, fishy, vegetable lunch, so searched in the fridge for inspiration. (I also cleaned out the fridge while I was at it.)"
+        ]
+      },
+      "ingredients": [
+        "2 frozen fish fillets, cut into 2 cm slices",
+        "½ bunch Chinese cabbage sliced (I used one with the dark green leaves, buck choi)",
+        "6 cherry tomatoes cut in half",
+        "1 green cucumber, halved lengthwise, seeds removed and sliced 1cm",
+        "Half a capsicum sliced",
+        "Garlic and ginger (1/2 tspn each)",
+        "1tspn light soya sauce",
+        "1 tbspn mint jelly",
+        "1 dstspn peanut oil",
+        "Finely sliced spring onions to serve"
+      ],
+      "method": [
+        "Slice fish and add ginger and garlic. Using peanut oil, gently stir fry fish for a minute, then add the prepared vegetables and continue to stir gently (some fish fillets break up easily, so you want to keep them looking respectable.) When everything is cooked, only a matter of minutes, add the mint jelly. Do a taste test and adjust, perhaps using fish sauce for extra saltiness.",
+        "Serve on some boiled rice and sprinkle with the chopped spring onions.",
+        "What you end up with is something of the flavours of a fish sweet and sour.",
+        "PS. The mint jelly I used was a home-made variety that my friend Marge usually gives me for Christmas. I’m sure she’ll be happy that I’ve found another way to use it. She makes it using her home-grown mint and lime jelly as a setting agent. Very delicious, of course, with roast lamb."
+      ],
+      "testimonials": "enabled",
+      "published": true
+    },
+    "raspberry-shortbread-cakes": {
+      "sling:resourceType": "wnews/page/recipe",
+      "date": "2019-12-12",
+      "title": "Raspberry Shortbread cakes",
+      "media": "s3./wnews/gallery/2019/12/wnews20191212-086.jpg",
+      "abstract": "The ‘Boss’ said, ‘It’s YOUR turn to do the Cooks Column this edition. Have you anything Christmassy?’",
+      "body": {
+        "pars": [
+          "The ‘Boss’ said, ‘It’s YOUR turn to do the Cooks Column this edition. Have you anything Christmassy?’",
+          "These little shortbread cakes looked good with their red jam - and in red and white polka-dotted patty cake cases - AND served on a Christmas plate!",
+          "That should do it. Bon appetite . . and Happy Holidays.",
+          "<em>Pauline</em>"
+        ]
+      },
+      "ingredients": [
+        "150gm butter",
+        "1 tspn vanilla essence",
+        "1/2 cup icing sugar",
+        "1/2 cup cornflour",
+        "3/4 cup plain flour",
+        "4 tspn raspberry jam",
+        "8 frozen raspberries"
+      ],
+      "method": [
+        "Pre-heat oven 160º. Melt butter in a saucepan large enough to mix all ingredients.",
+        "Remove from heat and mix in vanilla essence",
+        "Sift icing sugar, cornflour and flour mix until combined.",
+        "Grease eight patty pans and fill with mixture. (I was keen to get them all the same size so each of mine weighed 40 gms). Once cooked this filled the patty pans nicely.",
+        "Make a dent in top with your thumb and add 1/2 teaspoon raspberry jam. Top with a frozen raspberry.",
+        "Bake for 45 mins or until cooked. Dust with icing sugar if desired. This makes only eight but the little cakes are rather dense. I think this could also be changed to suit those who are gluten intolerant."
+      ],
+      "testimonials": "enabled",
+      "published": true
+    }
+  }
+}

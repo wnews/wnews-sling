@@ -1,0 +1,8 @@
+{
+  "title": "Trades and Services",
+  "sling:resourceType":"wnews/page/advertisement",
+  "jcr:primaryType":"nt:unstructured",
+  "media": "s3./wnews/past-issues/2018/11/wnews20181108_trade_services.jpeg",
+  "published": true,
+  "testimonials": "enabled"
+}

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+
+<section data-th-fragment="list(businesses)">
+    <div class="wp-layout dynamic">
+        <ul>
+            <li data-th-each="business : ${businesses}">
+                <div data-th-replace="/apps/wnews/page/fragments/business.html::link(${business})">
+                </div>
+            </li>
+        </ul>
+    </div>
+</section>
+
+<section data-th-fragment="media-list(businesses)">
+    <div>
+        <th:block data-th-each="business : ${businesses}">
+            <div data-th-replace="/apps/wnews/page/fragments/business.html::thumbnail(${business})">
+            </div>
+        </th:block>
+    </div>
+
+    <nav data-th-replace="/apps/wnews/page/fragments/pagination.html::pagination-nav">
+    </nav>
+</section>
+
+<article class="wnews-list-media" data-th-fragment="thumbnail(business)">
+    <a data-th-href="|${business.resource.path}.html|">
+        <img class="img-thumbnail img-fluid" data-th-src="|/content/wnews/media/${business.metadata.image}|" data-th-alt="|${business.metadata.title} image|"/>
+    </a>
+</article>
+
+<article data-th-fragment="link(business)">
+    <a data-th-href="|${business.resource.path}.html|"><span data-th-utext="${business.metadata.title}">[BUSINESS]</span></a>
+</article>
+
+</body>
+</html>

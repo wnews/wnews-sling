@@ -1,6 +1,0 @@
-{
-  "title":"Waranga News | Not A Robot Archive",
-  "sling:resourceType":"wnews/page/archive-list",
-  "jcr:primaryType":"nt:unstructured",
-  "list": []
-}

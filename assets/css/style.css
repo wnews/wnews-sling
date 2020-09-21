@@ -1,0 +1,222 @@
+body {
+    /*min-height: 2000px;*/
+    padding: 10px;
+    /*font-family: 'Noto Serif', serif !important;
+    font-size: 1.6em;*/
+}
+
+blockquote {
+    padding-left: 1em;
+    background: aliceblue;
+}
+
+#wnews-top-nav {
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.wnews-navbar-brand {
+    background-image: url("../images/wnews_p5.png");
+    background-size: 46px 48px;
+    background-repeat: no-repeat;
+    margin-left: -10px;
+}
+
+.wnews-navbar-brand {
+    padding-left: 67px;
+}
+
+.wnews-navbar-link-em a {
+    color: crimson !important;
+}
+
+.wnews-columns {
+    clear: right;
+    padding-top: 1px;
+}
+
+.wnews-column-heading a {
+    color: rgba(0,0,0,.5);
+}
+
+.wnews-list-nostyle {
+    list-style: none;
+    padding-left: 0;
+}
+
+.wnews-list-ads {
+    padding-left: 50;
+    padding-right: 100px;
+}
+
+.wnews-list-ads h4 {
+    padding-left: 10;
+}
+
+.wnews-list-ads img {
+    padding: 10;
+}
+
+.wnews-list-media {
+    padding: 20px;
+    float: left;
+}
+
+.wnews-list-media img {
+    max-height: 260px;
+}
+
+.wnews-banner img {
+    max-width:100%;
+    height:auto;
+}
+
+.block-list img {
+    max-width:100%;
+    height:auto;
+}
+
+.full-page img {
+    width:100%;
+    height:auto;
+}
+
+.wnews-article {
+    padding:20px;
+    font-family: 'Noto Serif', serif !important;
+}
+
+.wnews-article img {
+    width: 100%;
+    height: auto;
+    max-width:500px;
+    margin-bottom: 15px;
+}
+
+.wnews-article.feature-article h1 {
+    font-size: 2em;
+}
+
+.wnews-article.feature-article img {
+    /*max-width:600px;*/
+    max-width: 100%;
+    width: 100%;
+}
+
+.wnews-article .sidebar {
+    height: auto;
+    max-width:400px;
+    margin: 20px 0 20px 10px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    border: 1px solid black;
+    background: #d5d5d5;
+    font-size: 0.9em;
+}
+
+@media only screen and (min-width: 768px) {
+
+    body {
+        padding: 20px;
+    }
+
+    .navbar-expand-md .navbar-nav .nav-link {
+        /*padding-left: 0 !important;*/
+        font-size: 1.2em;
+    }
+
+    .wnews-article img {
+        float: right;
+        width: 50%;
+        height: auto;
+        max-width:500px;
+        margin-left: 15px;
+        margin-bottom: 15px;
+    }
+
+    .wnews-article .sidebar {
+        clear: right;
+        float: right;
+        width: 48%;
+    }
+
+    aside#sidebar-ads {
+        max-width: 18vw;
+    }
+}
+
+.article-link {
+    position:relative;
+    height: 100%;
+}
+
+li.nav-item:hover {
+    background-color: #efefef;
+}
+
+.article-link:hover {
+    background-color: #efefef;
+}
+
+.article-link span.link {
+  position:absolute;
+  width:100%;
+  height:100%;
+  top:0;
+  left: 0;
+
+  z-index: 1;
+
+  /* fixes overlap error in IE7/8, 
+     make sure you have an empty gif */
+  /*background-image: url('empty.gif');*/
+}
+
+h1 {
+    font-size: 24px;
+}
+
+.wnews-article h1 {
+    margin-top: 10px;
+}
+
+.feature-article {
+    width: 100%;
+}
+
+.feature-article .first-word {
+    font-family: garamond serif;
+    font-size: 1.5em;
+}
+
+.date-published {
+    font-size: 0.8em;
+    color: silver;
+}
+
+a.page-section {
+    display: block;
+    position: relative;
+    top: -55px;
+    visibility: hidden;
+}
+
+.block-title {
+    font-family: verdana, sans-serif;
+    font-weight: bold;
+}
+
+nav#pagination {
+    margin: 10px;
+}
+
+footer {
+    text-align: center;
+}
+
+hr.separator {
+    border-top: 1px solid black;
+    width: 75%;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}

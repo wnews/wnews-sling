@@ -1,0 +1,233 @@
+{
+  "title":"Cooks Column (2017)",
+  "sling:resourceType":"wnews/page/article-list",
+  "jcr:primaryType":"nt:unstructured",
+  "pageSize": 6,
+  "list": {
+    "salmon-stir-fry": {
+      "sling:resourceType": "wnews/page/recipe",
+      "date": "2017-10-26",
+      "title": "Salmon Stir-fry",
+      "media": "s3./wnews/gallery/2017/10/wnews20171026-121.jpg",
+      "abstract": "Apparently we could all do with more fish in our diets - salmon being one of those that are usually recommended - as long as it’s sustainably produced.",
+      "body": {
+        "pars": [
+          "I’ve taken to buying packets of frozen salmon fillets at a certain supermarket (which I won’t promote here, of course). They’re individually wrapped - so it’s so easy to just take a couple out of the freezer for a quick meal.",
+          "Apparently we could all do with more fish in our diets - salmon being one of those that are usually recommended - as long as it’s sustainably produced.",
+          "We felt like a light meal, so I just made a sort of stir-fry, as follows:"
+        ]
+      },
+      "ingredients": [
+        "2 salmon fillets",
+        "1 lemon",
+        "small bunch of buk choi (or other Chinese cabbage) sliced",
+        "half a red capsicum sliced",
+        "small bunch fresh asparagus sliced",
+        "half a small fennel sliced",
+        "half a dozen cherry tomatoes, halved",
+        "half a packet of shelf-life noodles",
+        "1 lge tbspn Thai Chili Soy Paste",
+        "1 tbspn peanut oil for stir-frying",
+        "2 spring onions chopped finely to serve"
+      ],
+      "method": [
+        "Place salmon fillets on a plate, squeeze lemon juice over and cover with Gladwrap. Microwave for a few minutes until just cooked through. Cut into smaller chunks.",
+        "Pour boiling water over the noodles and allow to stand a few minutes, separating the noodles with a fork.",
+        "Stir fry vegetables in the oil, adding the noodles after a few minutes. Season with chili paste and adjust seasoning using salt or fish sauce. When the vegetables are cooked, add the salmon and gently stir to mix it all together.",
+        "Turn onto a warmed platter or large bowl and scatter with spring onions; it’s a serve-yourself meal.",
+        "You can, of course, use any combination of vegetables, broccoli, spinach, zucchini, sugar peas etc."
+      ],
+      "testimonials": "enabled",
+      "published": true
+    },
+    "apricot-peanut-butter-slice": {
+      "sling:resourceType": "wnews/page/recipe",
+      "date": "2017-10-12",
+      "title": "Apricot, Peanut Butter and Oat Slice",
+      "media": "s3./wnews/gallery/2017/10/wnews20171012-062.jpg",
+      "abstract": "I decided to take a slightly different approach with my first piece and instead elected for a slice. It is however not so ‘sweet’, yet still quite fruity. I’d not attempted it previously but, liking the sound of the recipe, decided to give it a whirl for this venture of writing for the paper. I must admit I’m pleased with the final results and will make it again… YUM!",
+      "body": {
+        "pars": [
+          "It is with some trepidation that I join the Cooks’ Column crew for the Waranga News.",
+          "Fingers crossed that my cooking choices, musings, and recipe choices prove a success as each turn comes about.",
+          "Being new to the district, and therefore new to reading the fortnightly rendition of the Waranga News Cooks’ Column, I have noticed many of the recipe choices have proven to be more of the cake-y type, or sweeter variety.",
+          "I decided to take a slightly different approach with my first piece and instead elected for a slice. It is however not so ‘sweet’, yet still quite fruity. I’d not attempted it previously but, liking the sound of the recipe, decided to give it a whirl for this venture of writing for the paper. I must admit I’m pleased with the final results and will make it again… YUM!",
+          "Next time I think I’ll make a double batch, AND will break some and use it as a breakfast crumble to enjoy over fruit yoghurt."
+        ]
+      },
+      "ingredients": [
+        "100 grams dried apricots",
+        "1 cup rolled oats",
+        "1/4 cup pepitas pumpkin seeds",
+        "1/4 cup honey",
+        "1 tsp vanilla extract",
+        "2 tsp coconut oil melted",
+        "1/4 cup peanut butter (crunchy or smooth to suit own tastes)"
+      ],
+      "method": [
+        "Preheat oven to 165ºC and line a 20cm x 20cm tray with baking paper.",
+        "Blitz apricots until slightly broken down (into small pieces not to form a paste).",
+        "In a bowl, combine apricots, oats and pepitas and set aside.",
+        "On the stovetop, heat honey, vanilla, coconut oil and peanut butter until it starts to bubble then remove from heat.",
+        "Add both mixtures together and mix until well combined.",
+        "Press into prepared tray with back of a wet spoon. Pop in the oven for twenty minutes or until golden.",
+        "Allow to cool COMPLETELY in the tray then slice into twelve pieces.",
+        "Can be stored in the pantry, fridge or freezer."
+      ],
+      "testimonials": "enabled",
+      "published": true
+    },
+    "asian-style-fish-soup": {
+      "sling:resourceType": "wnews/page/recipe",
+      "date": "2017-09-28",
+      "title": "Cheat’s Asian-style Fish Soup",
+      "media": "s3./wnews/gallery/2017/09/wnews20170928-052.jpg",
+      "abstract": "I could tell you how to make a quite authentic Asian-style fish soup . . or I could give you a cheat’s version. Which would you prefer?",
+      "body": {
+        "pars": [
+          "I could tell you how to make a quite authentic Asian-style fish soup . . or I could give you a cheat’s version. Which would you prefer? And it can be gluten-free, too. Oh so many decisions!"
+        ]
+      },
+      "ingredients": [
+        "2 litres good vegetable stock",
+        "1 piece of white fish fillet",
+        "1 slice of root ginger",
+        "2 lightly beaten eggs",
+        "1 bundle sai foon (bean curd noodles - GF)",
+        "finely sliced spring onions to serve"
+      ],
+      "method": [
+        "Soak the bean curd noodles (sometimes called glass noodles) until soft enough to cut into pieces about 8 -10cm long (it just makes it easier to eat!).",
+        "<strong>Cheats:</strong> Bring stock to the boil and add sliced fish pieces together with the ginger. When fish is cooked a matter of maybe five minutes, add the softened noodles and continue simmering another five minutes or so. When you’re happy that all’s cooked, bring to a rapid boil and slowly pour in the beaten egg, stirring all the while so it cooks in shreds. Turn off heat. Serve sprinkled with spring onions.",
+        "<strong>More Authentic:</strong> Simmer together the stock, fish, ginger, Chinese mushrooms, fish sauce, sesame oil and sai foon for about 10 minutes. Add cubes of tofu and simmer gently, then bring soup to a rapid boil and slowly pour in the beaten egg, stirring all the while.",
+        "Serve sprinkled with chopped spring onions and fresh coriander. A drop or two of sesame oil on top of each serving adds a nice touch.",
+        "Note: If you use sai foon noodles, it’s a gluten-free soup. You can, of course, use a rice or wheaten noodles instead.",
+        "You can add some frozen peas, some sweet corn kernels or baby spinach leaves to make it more nutritious. GA"
+      ],
+      "sidebar": "/content/wnews/recipes/2017/list/asian-style-fish-soup-extra-ingredients",
+      "testimonials": "enabled",
+      "published": true
+    },
+    "asian-style-fish-soup-extra-ingredients": {
+      "sling:resourceType": "wnews/page/recipe",
+      "date": "2017-09-28",
+      "title": "Extra ingredients for more authentic version",
+      "ingredients": [
+        "2-3 dried Chinese mushrooms (soaked and sliced)",
+        "1 tspn (or so) Fish Sauce",
+        "1 pkt Firm (I use shelf-life) Tofu cut into small cubes",
+        "1 tspn sesame oil",
+        "Fresh chopped coriander to serve"
+      ],
+      "published": false
+    },
+    "lemon-sour-muffins": {
+      "sling:resourceType": "wnews/page/recipe",
+      "date": "2017-09-14",
+      "title": "Marita’s Lemon Sour Muffins",
+      "media": "s3./wnews/gallery/2017/09/wnews20170914-082.jpg",
+      "abstract": "I don’t know why I’m in a cake making mode at the moment (because I’m not a baker by anyone’s standards), but I had sour cream in the fridge and no plans for it, when I remembered a quite delicious sour cream lemon cake that was served in a cafe in Williamstown some years ago.",
+      "body": {
+        "pars": [
+          "Do make yourself a cuppa and sit down before you continue reading . . . I have some exciting news!",
+          "Well, it’s exciting for ME . . . and quite likely exciting for those who read this column. The Cooks Column has become a Team Effort!",
+          "I’d like to welcome Pauline Wilson and Claire Lewington who will share the compiling of a Cooks Column each edition with me - we even have a roster. How organised is that!",
+          "I don’t know why I’m in a cake making mode at the moment (because I’m not a baker by anyone’s standards), but I had sour cream in the fridge and no plans for it, when I remembered a quite delicious sour cream lemon cake that was served in a cafe in Williamstown some years ago. (I managed to wheedle the recipe from she who baked there)."
+        ]
+      },
+      "ingredients": [
+        "250g butter",
+        "2 cups plain flour",
+        "1/4 cup SR flour",
+        "2 cups caster sugar",
+        "6 eggs",
+        "200g sour cream",
+        "1 tbsp grated lemon rind"
+      ],
+      "method": [
+        "The original recipe specifies ‘by hand’ but, are you surprised, I used my electric beaters?",
+        "Cream butter and sugar until fluffy. Add eggs one at a time, beating after each addition. Sift flours together well and add to mix, alternating flour with sour cream. Add lemon rind.",
+        "Bake in a lined 20-22cm tin or, if making muffins, spray well with oil.",
+        "Dust the cooled cake with icing sugar. If you fancy icing (I, myself, am not an icing fan). It could be even more mouth-wateringly edible with a cream cheese, butter, icing sugar and lemon juice mix.",
+        "The cake was always served as muffins in Williamstown when I happened upon them - still piping hot from the oven. Oh deliciousness! With a cup of cappucino . . ."
+      ],
+      "testimonials": "enabled",
+      "published": true
+    },
+    "apple-cake": {
+      "sling:resourceType": "wnews/page/recipe",
+      "date": "2017-08-31",
+      "title": "Apple Cake",
+      "media": "s3./wnews/gallery/2017/08/wnews20170831-064.jpg",
+      "abstract": "I did a dozen mini muffins and cooked the rest in a loaf tin. I think it worked better as mini muffins.",
+      "body": {
+        "pars": [
+          "Bernadette had used a mini muffin tray and simply tossed them in cinnamon and sugar. Cute and yummy! I did a dozen mini muffins and cooked the rest in a loaf tin. I think it worked better as mini muffins."
+        ]
+      },
+      "ingredients": [
+        "250g SR flour",
+        "125g sugar",
+        "125g butter chopped roughly",
+        "3 or 4 cooking apples peeled, cored and roughly chopped",
+        "1 egg",
+        "enough milk to make into a fairly stiff batter"
+      ],
+      "method": [
+        "Mix all together to form a lumpy mixture.",
+        "Place in a greased roasting pan or lamington pan and bake in a moderate oven about 1 hour - or until cooked when tested.",
+        "While hot, spread with butter and sprinkle with cinnamon and sugar. Serve hot with cream or custard for a dessert, or cold as a slice."
+      ],
+      "testimonials": "enabled",
+      "published": true
+    },
+    "chocolate-special-occasion-cake": {
+      "sling:resourceType": "wnews/page/recipe",
+      "date": "2017-08-03",
+      "title": "Pam’s Chocolate Special Occasion Cake",
+      "media": "s3./wnews/gallery/2017/08/wnews20170803-047.jpg",
+      "abstract": "I didn’t make it, but I ate it, together with the other members of the Colbo Exercise group (CAFÉ) and it really WAS delicious.",
+      "body": {
+        "pars": [
+          "I didn’t make it, but I ate it, together with the other members of the Colbo Exercise group (CAFÉ) and it really WAS delicious."
+        ]
+      },
+      "ingredients": [
+        "3/4 cup hot strong coffee (2tsp of instant coffee)",
+        "1/2 cup cocoa",
+        "1 1/4 cup sugar",
+        "120 gm butter",
+        "3 eggs - separated",
+        "1 tsp salt",
+        "1 tsp vanilla",
+        "1 tsp bicarb soda",
+        "1/2 cup sour cream",
+        "2 cups plain flour",
+        "1/2 cup sugar extra",
+        "Whipped cream to serve"
+      ],
+      "method": [
+        "Stir hot coffee gradually into cocoa. Mix together 1 1/4 cups sugar with butter and egg yolks, salt, vanilla and 1/2 the coffee/cocoa mixture. Beat till light and creamy. Mix bicarb and sour cream together. Add butter and sugar, sour cream mixture and cocoa and coffee, alternately with sifted flour. Beat egg white to stiff, gradually adding 1/2cup sugar to stiff peaks and fold into cake mixture.",
+        "Grease and line deep greased 9-10 inch tin. Bake in a mod oven for 60-70 minutes (Pam says 50 minutes did hers).",
+        "Cool, cut through middle and fill with whipped cream. Spread frosting on top and decorate with walnuts and cherries - or strawberries (as was MY birthday cake). Thank you, Pam!"
+      ],
+      "sidebar": "/content/wnews/recipes/2017/list/chocolate-special-occasion-cake-frosting",
+      "testimonials": "enabled",
+      "published": true
+    },
+    "chocolate-special-occasion-cake-frosting": {
+      "sling:resourceType": "wnews/page/recipe",
+      "date": "2017-08-03",
+      "title": "Pam’s Chocolate Frosting",
+      "ingredients": [
+        "125g dark chocolate",
+        "1/2 cup sour cream",
+        "pinch salt"
+      ],
+      "method": [
+        "Melt chocolate over hot water, cool lightly and stir in salt and sour cream."
+      ],
+      "published": false
+    }
+  }
+}

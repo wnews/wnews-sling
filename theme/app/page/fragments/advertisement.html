@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+
+
+<section data-th-each="advertisement : ${advertisements}" data-th-fragment="list(advertisements)">
+    <div data-th-replace="/apps/wnews/page/fragments/advertisement.html::sidebar(${article})">
+    </div>
+</section>
+
+<article data-th-fragment="sidebar(advertisement)">
+    <a data-th-href="|${advertisement.resource.path}.html|" class="full-page">
+        <img class="img-fluid" data-th-src="|/content/wnews/media/${advertisement.media}|" data-th-alt="|${advertisement.metadata.title} image|"/>
+    </a>
+</article>
+
+<div data-th-fragment="inline(advertisement)">
+    <a data-th-href="|${advertisement.resource.path}.html|" class="full-page">
+        <img class="img-fluid" style="float:none" data-th-src="|/content/wnews/media/${advertisement.media}|" data-th-alt="|${advertisement.title} image|"/>
+    </a>
+</div>
+
+<aside data-th-fragment="sidebar-panel" id="sidebar-ads" data-th-with="list=${resolver.resolve('/content/wnews/advertisements/current').adaptTo(@org.mnode.whistlepost.page.ShuffledAdvertisements@class)}">
+    <th:block data-th-each="advertisement : ${list.shuffledPage}">
+        <div data-th-replace="/apps/wnews/page/fragments/advertisement.html::sidebar(${advertisement})">
+        </div>
+    </th:block>
+<!--    <script>-->
+<!--      $("#sidebar-ads").load("advertisements/list.html/4 .wnews-list-ads");-->
+<!--    </script>-->
+</aside>
+
+<div data-th-fragment="banner" class="container">
+    <a href="<%= currentNode.href %>" title="<%= currentNode.title %>">
+            <span class="wnews-banner">
+                <img src="/content/wnews/media/s3./wnews/trades-and-services.png" alt="Trades and Services image"/>
+            </span>
+    </a>
+</div>
+
+<section data-th-fragment="placeholder" style="text-align:center; padding: 5px;">
+    <a href="/content/wnews/advertising.html" title="Advertising in the Waranga News supports your business AND your community">
+        <img class="img-fluid" style="max-width:100%; padding:5px" src="/assets/wnews/images/advertise2.png" alt="Advertise with us">
+    </a>
+</section>
+
+</body>
+</html>

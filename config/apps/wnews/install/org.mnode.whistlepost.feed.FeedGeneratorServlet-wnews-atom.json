@@ -1,0 +1,4 @@
+{
+  "jcr:primaryType": "sling:OsgiConfig",
+  "sling.servlet.resourceTypes": ["wnews/feed/articles"]
+}

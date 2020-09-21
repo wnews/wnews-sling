@@ -1,0 +1,8 @@
+{
+  "title":"Past Issues (2013)",
+  "sling:resourceType":"wnews/page/front-page-list",
+  "jcr:primaryType":"nt:unstructured",
+  "pageSize": 6,
+  "list": {
+  }
+}

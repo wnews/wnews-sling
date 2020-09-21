@@ -1,0 +1,8 @@
+{
+  "title": "Accommodation",
+  "sling:resourceType":"wnews/page/advertisement",
+  "jcr:primaryType":"nt:unstructured",
+  "media": "s3./wnews/Accommodation.jpg",
+  "published": true,
+  "testimonials": "enabled"
+}
