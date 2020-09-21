@@ -5,12 +5,14 @@ fields:
 - type: text
   name: sling:resourceType
   label: sling:resourceType
+  default: wnews/page/article
 - type: text
   name: title
   label: title
 - type: datetime
   name: date
   label: date
+  default: now
 - type: file
   name: media
   label: media
@@ -29,5 +31,6 @@ fields:
   label: published
 pages:
 - content/articles/2014/list/community-life.json
+- content/articles/2014/list/lorem-ipsum.json
 - content/articles/2015/list/centenary-anzac-day.json
 - content/articles/2015/list/save-the-trees.json
