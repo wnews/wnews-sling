@@ -8,7 +8,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2016-11-03",
       "title": "A fresh approach",
-      "media": "s3./wnews/gallery/2016/11/20161103-1.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2016/11/20161103-1.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -46,7 +46,7 @@
       "feature": true,
       "date": "2016-10-20",
       "title": "Huge Stanhope weekend",
-      "media": "s3./wnews/gallery/2016/10/20161020-1.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2016/10/20161020-1.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -66,7 +66,7 @@
       "feature": true,
       "date": "2016-09-22",
       "title": "P12 Mini Market another great success… YEP it was!",
-      "media": "s3./wnews/gallery/2016/09/20160922-1.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2016/09/20160922-1.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -87,7 +87,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2016-09-08",
       "title": "Fire destroys Rushworth homestead",
-      "media": "s3./wnews/gallery/2016/09/wnews20160908P01-002.png",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2016/09/wnews20160908P01-002.png",
       "abstract": "",
       "body": {
         "pars": [
@@ -103,7 +103,7 @@
       "feature": true,
       "date": "2016-08-25",
       "title": "Wildflower hunt this weekend",
-      "media": "s3./wnews/gallery/2016/08/wnews20160825P01-000.png",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2016/08/wnews20160825P01-000.png",
       "abstract": "",
       "body": {
         "pars": [
@@ -120,7 +120,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2016-08-11",
       "title": "New Committee steps up for Easter Festival",
-      "media": "s3./wnews/gallery/2016/08/wnews20160811P01-001.png",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2016/08/wnews20160811P01-001.png",
       "abstract": "",
       "body": {
         "pars": [
@@ -137,7 +137,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2016-07-14",
       "title": "State of the forest raises concern",
-      "media": "s3./wnews/gallery/2016/07/wnews20160714P01-001.png",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2016/07/wnews20160714P01-001.png",
       "abstract": "",
       "body": {
         "pars": [
@@ -167,7 +167,7 @@
       "feature": true,
       "date": "2016-06-16",
       "title": "Waranga News Editor awarded Order of Australia Medal",
-      "media": "s3./wnews/gallery/wnews20160616P01-188x188.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/wnews20160616P01-188x188.jpeg",
       "abstract": "",
       "body": {
         "pars": [
@@ -212,7 +212,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2016-06-02",
       "title": "Mavis celebrating 102 years",
-      "media": "s3./wnews/gallery/wnews20160602P01-188x188.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/wnews20160602P01-188x188.jpeg",
       "abstract": "",
       "body": {
         "pars": [
@@ -225,7 +225,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2016-05-19",
       "title": "Freak storm strikes Rushworth area",
-      "media": "s3./wnews/gallery/wnews20160519P01-188x188.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/wnews20160519P01-188x188.jpeg",
       "abstract": "",
       "body": {
         "pars": [
@@ -272,7 +272,7 @@
       "sling:resourceType":"wnews/page/article",
       "title": "A Legendairy Australia Day winner",
       "date": "2016-01-28",
-      "media": "s3./wnews/gallery/wnews20160128P01-188x188.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/wnews20160128P01-188x188.jpeg",
       "abstract": "",
       "body": {
         "pars": [

@@ -9,7 +9,7 @@
       "title": "December 21, 2017",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2017/12/wnews20171221.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2017/12/wnews20171221.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -18,7 +18,7 @@
       "title": "December 7, 2017",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2017/12/wnews20171207.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2017/12/wnews20171207.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -27,7 +27,7 @@
       "title": "November 23, 2017",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2017/11/wnews20171123.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2017/11/wnews20171123.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -36,7 +36,7 @@
       "title": "November 9, 2017",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2017/11/wnews20171109.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2017/11/wnews20171109.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -45,7 +45,7 @@
       "title": "October 26, 2017",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2017/10/wnews20171026.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2017/10/wnews20171026.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -54,7 +54,7 @@
       "title": "October 12, 2017",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2017/10/wnews20171012.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2017/10/wnews20171012.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -63,7 +63,7 @@
       "title": "September 28, 2017",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2017/09/wnews20170928.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2017/09/wnews20170928.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -72,7 +72,7 @@
       "title": "September 14, 2017",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2017/09/wnews20170914.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2017/09/wnews20170914.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -81,7 +81,7 @@
       "title": "August 31, 2017",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2017/08/wnews20170831.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2017/08/wnews20170831.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -90,7 +90,7 @@
       "title": "August 17, 2017",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2017/08/wnews20170817.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2017/08/wnews20170817.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -99,7 +99,7 @@
       "title": "August 3, 2017",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2017/08/wnews20170803.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2017/08/wnews20170803.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -108,7 +108,7 @@
       "title": "July 20, 2017",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2017/07/wnews20170720.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2017/07/wnews20170720.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -117,7 +117,7 @@
       "title": "July 6, 2017",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2017/07/wnews20170706.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2017/07/wnews20170706.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -126,7 +126,7 @@
       "title": "June 22, 2017",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2017/06/wnews20170622.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2017/06/wnews20170622.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -135,7 +135,7 @@
       "title": "June 8, 2017",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2017/06/wnews20170608.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2017/06/wnews20170608.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -144,7 +144,7 @@
       "title": "May 25, 2017",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2017/05/wnews20170525.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2017/05/wnews20170525.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -153,7 +153,7 @@
       "title": "May 11, 2017",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2017/05/wnews20170511.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2017/05/wnews20170511.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -162,7 +162,7 @@
       "title": "April 27, 2017",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2017/04/wnews20170427.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2017/04/wnews20170427.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -171,7 +171,7 @@
       "title": "April 13, 2017",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2017/04/wnews20170413.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2017/04/wnews20170413.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -180,7 +180,7 @@
       "title": "March 30, 2017",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2017/03/wnews20170330.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2017/03/wnews20170330.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -189,7 +189,7 @@
       "title": "March 16, 2017",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2017/03/wnews20170316.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2017/03/wnews20170316.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -198,7 +198,7 @@
       "title": "March 2, 2017",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2017/03/wnews20170302.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2017/03/wnews20170302.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -207,7 +207,7 @@
       "title": "February 16, 2017",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2017/02/wnews20170216P01.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2017/02/wnews20170216P01.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -216,7 +216,7 @@
       "title": "February 2, 2017",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2017/02/wnews20170202P01.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2017/02/wnews20170202P01.jpeg",
       "comments": "enabled",
       "published": true
     }

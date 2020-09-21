@@ -8,7 +8,7 @@
       "sling:resourceType": "wnews/page/front-page",
       "title": "November 8, 2018",
       "abstract": "",
-      "media": "s3./wnews/past-issues/2018/11/wnews20181108.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2018/11/wnews20181108.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -16,7 +16,7 @@
       "sling:resourceType": "wnews/page/front-page",
       "title": "October 25, 2018",
       "abstract": "",
-      "media": "s3./wnews/past-issues/2018/10/wnews20181025.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2018/10/wnews20181025.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -24,7 +24,7 @@
       "sling:resourceType": "wnews/page/front-page",
       "title": "October 11, 2018",
       "abstract": "",
-      "media": "s3./wnews/past-issues/2018/10/wnews20181011.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2018/10/wnews20181011.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -32,7 +32,7 @@
       "sling:resourceType": "wnews/page/front-page",
       "title": "September 27, 2018",
       "abstract": "",
-      "media": "s3./wnews/past-issues/2018/09/wnews20180927.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2018/09/wnews20180927.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -40,7 +40,7 @@
       "sling:resourceType": "wnews/page/front-page",
       "title": "September 13, 2018",
       "abstract": "",
-      "media": "s3./wnews/past-issues/2018/09/wnews20180913a.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2018/09/wnews20180913a.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -48,7 +48,7 @@
       "sling:resourceType": "wnews/page/front-page",
       "title": "August 30, 2018",
       "abstract": "",
-      "media": "s3./wnews/past-issues/2018/08/wnews20180830.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2018/08/wnews20180830.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -56,7 +56,7 @@
       "sling:resourceType": "wnews/page/front-page",
       "title": "August 16, 2018",
       "abstract": "",
-      "media": "s3./wnews/past-issues/2018/08/wnews20180816.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2018/08/wnews20180816.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -64,7 +64,7 @@
       "sling:resourceType": "wnews/page/front-page",
       "title": "August 2, 2018",
       "abstract": "",
-      "media": "s3./wnews/past-issues/2018/08/wnews20180802.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2018/08/wnews20180802.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -72,7 +72,7 @@
       "sling:resourceType": "wnews/page/front-page",
       "title": "July 19, 2018",
       "abstract": "",
-      "media": "s3./wnews/past-issues/2018/07/wnews20180719.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2018/07/wnews20180719.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -81,7 +81,7 @@
       "title": "July 5, 2018",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2018/07/wnews20180705.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2018/07/wnews20180705.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -90,7 +90,7 @@
       "title": "June 21, 2018",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2018/06/wnews20180621.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2018/06/wnews20180621.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -99,7 +99,7 @@
       "title": "June 7, 2018",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2018/06/wnews20180607.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2018/06/wnews20180607.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -108,7 +108,7 @@
       "title": "May 24, 2018",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2018/05/wnews20180524.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2018/05/wnews20180524.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -117,7 +117,7 @@
       "title": "May 10, 2018",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2018/05/wnews20180510.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2018/05/wnews20180510.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -126,7 +126,7 @@
       "title": "April 26, 2018",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2018/04/wnews20180426.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2018/04/wnews20180426.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -135,7 +135,7 @@
       "title": "April 12, 2018",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2018/04/wnews20180412.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2018/04/wnews20180412.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -144,7 +144,7 @@
       "title": "March 29, 2018",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2018/03/wnews20180329.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2018/03/wnews20180329.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -153,7 +153,7 @@
       "title": "March 15, 2018",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2018/03/wnews20180315.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2018/03/wnews20180315.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -162,7 +162,7 @@
       "title": "March 1, 2018",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2018/03/wnews20180301.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2018/03/wnews20180301.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -171,7 +171,7 @@
       "title": "February 15, 2018",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2018/02/wnews20180215.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2018/02/wnews20180215.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -180,7 +180,7 @@
       "title": "February 1, 2018",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2018/02/wnews20180201.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2018/02/wnews20180201.jpeg",
       "comments": "enabled",
       "published": true
     }

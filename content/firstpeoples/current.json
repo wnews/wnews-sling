@@ -94,7 +94,7 @@
       "feature": true,
       "date": "2020-06-04",
       "title": "“QUEEN MARY”",
-      "media": "s3./wnews/gallery/2020/06/wnews20200604-010.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/06/wnews20200604-010.jpg",
       "abstract": "When Tattambo died on 1.1.1868, it was\nreckoned that he was at least 70. If this was\naccurate, then he was born prior to 1800.\nThis was well before any first contact with\nEuropeans on Ngurai-illum Wurrung country\nin northern Victoria.",
       "body": {
         "pars": [

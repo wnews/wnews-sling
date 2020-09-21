@@ -12,7 +12,7 @@
       "sling:resourceType": "wnews/page/recipe",
       "date": "2020-07-16",
       "title": "Turkish Menemen",
-      "media": "s3./wnews/gallery/2020/07/wnews20200716-045.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/07/wnews20200716-045.jpg",
       "abstract": "Multiculturalism in Australia contributes\nso much to our way of life in so many ways,\nbut probably the stand-out for many of us\nis . . . interesting and delicious food!",
       "body": {
         "pars": [
@@ -47,7 +47,7 @@
       "sling:resourceType": "wnews/page/recipe",
       "date": "2020-07-02",
       "title": "Megan’s Gorgeous Calorierich\nChocolate Cake",
-      "media": "s3./wnews/gallery/2020/07/img-0256.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/07/img-0256.jpg",
       "abstract": "At least one of our daughters has turned\nthe lockdown to good use and is obviously\naiming to take the ‘Kitchen Goddess of the\nYear’ award in her category.",
       "body": {
         "pars": [
@@ -84,7 +84,7 @@
       "sling:resourceType": "wnews/page/recipe",
       "date": "2020-06-18",
       "title": "Julia’s Banana Bread",
-      "media": "s3./wnews/gallery/2020/06/wnews20200618-479.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/06/wnews20200618-479.jpg",
       "abstract": "Apparently baking Banana Bread is a sure\nsign you’ve been in lockdown for many\nweeks. . . anybody who’s anybody has been\nbaking Banana Bread. So when a few overripe\nbananas appeared in our fruit bowl,\nI thought I’d better have a go at it myself.",
       "body": {
         "pars": [
@@ -127,7 +127,7 @@
       "sling:resourceType": "wnews/page/recipe",
       "date": "2020-06-06",
       "title": "Mushroom Risotto",
-      "media": "s3./wnews/gallery/2020/06/wnews20200604-054.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/06/wnews20200604-054.jpg",
       "abstract": "While shopping the other week I had a\nwant for mushrooms, with no plans in mind\nof just how I would put them to use…. It got\nto 3 days post-shopping and the mushrooms\nwere beginning to wither and wilt in the\nfridge. There was no way I was letting my\nimpulse buy of deliciousness go to waste!",
       "body": {
         "pars": [
@@ -166,7 +166,7 @@
       "sling:resourceType": "wnews/page/recipe",
       "date": "2020-05-21",
       "title": "Impossible Cake",
-      "media": "s3./wnews/gallery/2020/05/wnews20200521-056.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/05/wnews20200521-056.jpg",
       "abstract": "‘Have you tried ‘Impossible Cake’, my\ndaughter asked. Hmmm . . I remember\nsomething about ‘Impossible Pie’ which I\nthink was something like a baked custard\ntart - no pie crust.",
       "body": {
         "pars": [
@@ -200,7 +200,7 @@
       "sling:resourceType": "wnews/page/recipe",
       "date": "2020-04-23",
       "title": "Cauliflower Fritters",
-      "media": "s3./wnews/gallery/2020/04/wnews20200423-062.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/04/wnews20200423-062.jpg",
       "abstract": "We had a head of cauli in the fridge and it\nneeded using, I decided that perhaps making\nfritters would be a more palatable way to\nconsume it and ensure the cauli wasn’t\nwasted. I did an internet search for a recipe\nthat appealed, and I’ve since made it twice\nwith some tweaking of the recipe on the\nsecond attempt, so the following is my own\nversion.",
       "body": {
         "pars": [
@@ -233,7 +233,7 @@
       "sling:resourceType": "wnews/page/recipe",
       "date": "2020-04-09",
       "title": "Chicken Soup Recipe",
-      "media": "s3./wnews/gallery/2020/04/wnews20200409-041.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/04/wnews20200409-041.jpg",
       "abstract": "My recipe this edition is for slow cooked chicken broth/stock.\nFull of nutrition and goodness. In this time of isolation it’s a\ngreat way to fill a few hours, the house smells wonderful and\ndepending on the mood, the children can be enlisted to help\nwith the preparations.",
       "body": {
         "pars": [
@@ -276,7 +276,7 @@
       "sling:resourceType": "wnews/page/recipe",
       "date": "2020-03-26",
       "title": "Chocolate Peanut Biscuits",
-      "media": "s3./wnews/gallery/2020/03/wnews20200326-056.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/03/wnews20200326-056.jpg",
       "abstract": "We were off to Bright for our annual family long\nweekend, pledging that we’d buy as much as we could in\nthat town to support these communities that rely on tourism\nand who have been so severely hit by the bushfires.",
       "body": {
         "pars": [
@@ -328,7 +328,7 @@
       "sling:resourceType": "wnews/page/recipe",
       "date": "2020-03-12",
       "title": "Quick and Easy Satay Chicken",
-      "media": "s3./wnews/gallery/2020/03/wnews20200312-054.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/03/wnews20200312-054.jpg",
       "abstract": "Simple to make, easy to cook, quick to prepare, and a family favourite that has fed many people at short notice, as needed. It’s a winner! Add it to your quick and easy recipe file.",
       "body": {
         "pars": [
@@ -365,7 +365,7 @@
       "sling:resourceType": "wnews/page/recipe",
       "date": "2020-02-27",
       "title": "Chicken with Zucchini ‘Zoodles’, Feta and Salsa Verde",
-      "media": "s3./wnews/gallery/2020/02/wnews20200227-074.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/02/wnews20200227-074.jpg",
       "abstract": "This week’s recipe makes use of some of the season’s harvest of zucchini, parsley, basil and I included Vietnamese mint and coriander.",
       "body": {
         "pars": [
@@ -416,7 +416,7 @@
       "sling:resourceType": "wnews/page/recipe",
       "date": "2020-02-13",
       "title": "Tandoori Chicken Salad with Mint Dressing",
-      "media": "s3./wnews/gallery/2020/02/wnews20200213-061.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/02/wnews20200213-061.jpg",
       "abstract": "Welcome to a New Year and a fresh start. This was something I admittedly found in the Woolworths ‘Fresh!’ Magazine and it really appealed so I decided to give it a go…",
       "body": {
         "pars": [
@@ -462,7 +462,7 @@
       "sling:resourceType": "wnews/page/recipe",
       "date": "2020-01-30",
       "title": "Fishy Fridge Bonanza",
-      "media": "s3./wnews/gallery/2020/01/wnews20200130-056.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/01/wnews20200130-056.jpg",
       "abstract": "I don’t know if this recipe will inspire anyone to have a bash at it. I just want you to know that I made it – and it was really delicious. Himself and I both agree with that statement.",
       "body": {
         "pars": [
@@ -495,7 +495,7 @@
       "sling:resourceType": "wnews/page/recipe",
       "date": "2019-12-12",
       "title": "Raspberry Shortbread cakes",
-      "media": "s3./wnews/gallery/2019/12/wnews20191212-086.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2019/12/wnews20191212-086.jpg",
       "abstract": "The ‘Boss’ said, ‘It’s YOUR turn to do the Cooks Column this edition. Have you anything Christmassy?’",
       "body": {
         "pars": [

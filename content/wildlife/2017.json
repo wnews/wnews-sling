@@ -8,7 +8,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-11-23",
       "title": "Barn owl rescue from work shed",
-      "media": "s3./wnews/gallery/2017/11/wnews20171123-034.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/11/wnews20171123-034.jpg",
       "sidebar": "/content/wnews/wildlife/2017/list/bohollow-calendar-2018",
       "abstract": "I get called to remove many birds from buildings, most of them raptors like this beautiful Barn Owl.",
       "body": {
@@ -49,7 +49,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-10-26",
       "title": "Look before you lop",
-      "media": "s3./wnews/gallery/2017/10/wnews20171026-028.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/10/wnews20171026-028.jpg",
       "abstract": "Spring is a time of year people love to get out in their garden and clean things up before the Summer months. Unfortunately, it also clashes with the busiest time of the nesting season for our native birds. As a consequence at this time each year, Bohollow receives calls for many baby birds who have either had their nests destroyed or brought down through trimming, pruning or lopping.",
       "body": {
         "pars": [
@@ -68,7 +68,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-10-12",
       "title": "Which came first, the tawny or the egg?",
-      "media": "s3./wnews/gallery/2017/10/wnews20171012-037.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/10/wnews20171012-037.jpg",
       "sidebar": "/content/wnews/articles/2017/list/adopt-a-nest-box",
       "abstract": "Some critters get back on their feet quite quickly and these cases are great for us as well as them. Less time in care means less expense and less stress on a critter when they can return to their home almost immediately.",
       "body": {
@@ -89,7 +89,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-09-28",
       "title": "Branchers on the branches",
-      "media": "s3./wnews/gallery/2017/09/wnews20170928-025.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/09/wnews20170928-025.jpg",
       "sidebar": "/content/wnews/articles/2017/list/adopt-a-nest-box",
       "abstract": "Babes have been coming in at a great rate to Bohollow and this red wattlebird chick was one of the first to arrive. He was found on the ground injured and was taken to one of our local veterinary clinics who immediately called us for help.",
       "body": {
@@ -111,7 +111,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-09-14",
       "title": "It’s official...baby bird season has arrived at BoHollow",
-      "media": "s3./wnews/gallery/2017/09/wnews20170914-031.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/09/wnews20170914-031.jpg",
       "sidebar": "/content/wnews/articles/2017/list/adopt-a-nest-box",
       "abstract": "This little Australian wood duckling was found all alone in Echuca and taken to Rose’s Veterinary Clinic. Rose rang me straight away and I collected him immediately, knowing how important it is to get these guys into a nice, warm environment and one which they feel comfortable in.",
       "body": {
@@ -133,7 +133,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-08-17",
       "title": "Plovers in the drainpipe",
-      "media": "s3./wnews/gallery/2017/08/wnews20170817-084.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/08/wnews20170817-084.jpg",
       "abstract": "For those of you who follow our stories, you may remember I recently rescued and relocated four tiny spur-winged plover chicks from a day-care centre in Echuca. I have been called to this same plover family for three consecutive years as the parents have taken to nesting on the roof of the day-care centre. When the eggs hatch, the young fall off the roof into the courtyard where they cannot get out without assistance and I relocate them next door where there is some open grassland where they were always known to nest in previous years. The last time I was called to this family was exactly two months ago and the relocation went pretty smoothly.",
       "body": {
         "pars": [
@@ -152,7 +152,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-08-03",
       "title": "Swamp Wallaby rescue",
-      "media": "s3./wnews/gallery/2017/08/wnews20170803-024.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/08/wnews20170803-024.jpg",
       "abstract": "On Sunday night I received a call-out for a kangaroo joey at Dookie. I was told it was pink and very small. The people who found it kindly agreed to meet me in Shepparton to cut down my travel time and I set off, calling Deb before I left to give her the heads up that we had an incoming joey arriving.",
       "body": {
         "pars": [
@@ -178,7 +178,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-07-20",
       "title": "Ibis entanglements",
-      "media": "s3./wnews/gallery/2017/07/wnews20170720-031.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/07/wnews20170720-031.jpg",
       "abstract": "Two ibis were released at Bohollow on Friday. Both were local birds found in Shepparton and both were entanglement cases.",
       "body": {
         "pars": [
@@ -199,7 +199,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-05-25",
       "title": "Meet Earl",
-      "media": "s3./wnews/gallery/2017/05/wnews20170525-026.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/05/wnews20170525-026.jpg",
       "abstract": "Earl was found on the ground at a farmland property at Earlston. There was no mother koala in sight, but in a nearby tree an adult male was spotted.",
       "body": {
         "pars": [

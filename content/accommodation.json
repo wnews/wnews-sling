@@ -2,7 +2,7 @@
   "title": "Accommodation",
   "sling:resourceType":"wnews/page/advertisement",
   "jcr:primaryType":"nt:unstructured",
-  "media": "s3./wnews/Accommodation.jpg",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/Accommodation.jpg",
   "published": true,
   "testimonials": "enabled"
 }

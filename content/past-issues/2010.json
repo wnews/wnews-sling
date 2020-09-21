@@ -9,7 +9,7 @@
       "title": "July 22, 2010",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/July-22-2010.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/July-22-2010.jpg",
       "comments": "enabled",
       "published": true
     },
@@ -18,7 +18,7 @@
       "title": "July 8, 2010",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/8-July-2010.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/8-July-2010.jpg",
       "comments": "enabled",
       "published": true
     },
@@ -27,7 +27,7 @@
       "title": "June 24, 2010",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/24-June-2010.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/24-June-2010.jpg",
       "comments": "enabled",
       "published": true
     },
@@ -36,7 +36,7 @@
       "title": "June 10, 2010",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/10-June-2010.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/10-June-2010.jpg",
       "comments": "enabled",
       "published": true
     }

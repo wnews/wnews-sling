@@ -9,7 +9,7 @@
       "feature": true,
       "date": "2017-12-21",
       "title": "It’s Christmas!",
-      "media": "s3./wnews/gallery/2017/12/wnews20171221-000.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/12/wnews20171221-000.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -28,7 +28,7 @@
       "feature": true,
       "date": "2017-12-07",
       "title": "The Big Wet",
-      "media": "s3./wnews/gallery/2017/12/wnews20171207-000.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/12/wnews20171207-000.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -45,7 +45,7 @@
       "feature": true,
       "date": "2017-11-23",
       "title": "Fire Season starts - new tanker arrives",
-      "media": "s3./wnews/gallery/2017/11/wnews20171123-000.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/11/wnews20171123-000.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -62,7 +62,7 @@
       "feature": true,
       "date": "2017-11-09",
       "title": "Centenary celebrations at Colbo PS",
-      "media": "s3./wnews/gallery/2017/11/wnews20171109-000.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/11/wnews20171109-000.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -85,7 +85,7 @@
       "feature": true,
       "date": "2017-10-26",
       "title": "Colourful times for Rushworth schools",
-      "media": "s3./wnews/gallery/2017/10/wnews20171026-001.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/10/wnews20171026-001.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -100,7 +100,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-10-26",
       "title": "Colbinabbin Primary celebrates 100 years of quality education",
-      "media": "s3./wnews/gallery/2017/10/wnews20171026-004.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/10/wnews20171026-004.jpg",
       "sidebar": "/content/wnews/articles/2017/list/colbo-primary-new-classroom-67",
       "abstract": "",
       "body": {
@@ -141,7 +141,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-10-26",
       "title": "‘Fire in the Belly’ ready for viewing",
-      "media": "s3./wnews/gallery/2017/10/wnews20171026-007.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/10/wnews20171026-007.jpg",
       "sidebar": "/content/wnews/articles/2017/list/fire-in-the-belly-booking",
       "abstract": "",
       "body": {
@@ -175,7 +175,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-10-26",
       "title": "CNAV Community Content finalists",
-      "media": "s3./wnews/gallery/2017/10/wnews20171026-071.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/10/wnews20171026-071.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -189,7 +189,7 @@
       "feature": true,
       "date": "2017-10-12",
       "title": "Springtime brings out the gardeners!",
-      "media": "s3./wnews/gallery/2017/10/wnews20171012-000.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/10/wnews20171012-000.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -230,7 +230,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-10-12",
       "title": "Euroa Show & Shine – Best yet!",
-      "media": "s3./wnews/gallery/2017/10/wnews20171012-115.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/10/wnews20171012-115.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -256,7 +256,7 @@
       "feature": true,
       "date": "2017-09-28",
       "title": "Wildflowers all the RAGE",
-      "media": "s3./wnews/gallery/2017/09/wnews20170928-000.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/09/wnews20170928-000.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -271,7 +271,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-09-28",
       "title": "House fire leaves woman airlifted to Melbourne",
-      "media": "s3./wnews/gallery/2017/09/wnews20170928-013.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/09/wnews20170928-013.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -290,7 +290,7 @@
       "feature": true,
       "date": "2017-09-14",
       "title": "Builder announced for hostel - hospital redevelopment",
-      "media": "s3./wnews/gallery/2017/09/wnews20170914-000.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/09/wnews20170914-000.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -316,7 +316,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-09-14",
       "title": "Farewell to Chief - end of an era",
-      "media": "s3./wnews/gallery/2017/09/wnews20170914-003.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/09/wnews20170914-003.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -330,7 +330,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-09-14",
       "title": "Expanded use of Rushworth Shire Hall",
-      "media": "s3./wnews/gallery/2017/09/wnews20170914-045.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/09/wnews20170914-045.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -350,7 +350,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-09-14",
       "title": "Adopt-A-Nest Box!",
-      "media": "s3./wnews/gallery/2017/09/wnews20170914-034.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/09/wnews20170914-034.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -366,7 +366,7 @@
       "feature": true,
       "date": "2017-08-31",
       "title": "Wildflower hunters brave the chill",
-      "media": "s3./wnews/gallery/2017/08/wnews20170831-000.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/08/wnews20170831-000.jpg",
       "sidebar": "/content/wnews/articles/2017/list/wildflower-planting",
       "abstract": "",
       "body": {
@@ -406,7 +406,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-08-31",
       "title": "New $140 million cheese plant sends Stanhope cheese to the world",
-      "media": "s3./wnews/gallery/2017/08/wnews20170831-006.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/08/wnews20170831-006.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -439,7 +439,7 @@
       "feature": true,
       "date": "2017-08-17",
       "title": "Celebrating Winter in Waranga",
-      "media": "s3./wnews/gallery/2017/08/wnews20170817-000.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/08/wnews20170817-000.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -455,7 +455,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-08-17",
       "title": "Rushworth Band driven out by termites",
-      "media": "s3./wnews/gallery/2017/08/wnews20170817-021.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/08/wnews20170817-021.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -500,7 +500,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-08-17",
       "title": "Plovers in the drainpipe",
-      "media": "s3./wnews/gallery/2017/08/wnews20170817-084.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/08/wnews20170817-084.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -521,7 +521,7 @@
       "feature": true,
       "date": "2017-08-03",
       "title": "Click go the Shears - and $27,000 raised for kids’ cancer support",
-      "media": "s3./wnews/gallery/2017/08/wnews20170803-000.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/08/wnews20170803-000.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -536,7 +536,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-08-03",
       "title": "Fonterra Stanhope will open its doors to the community",
-      "media": "s3./wnews/gallery/2017/08/wnews20170803-006.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/08/wnews20170803-006.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -557,7 +557,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-08-03",
       "title": "Swamp Wallaby rescue",
-      "media": "s3./wnews/gallery/2017/08/wnews20170803-024.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/08/wnews20170803-024.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -585,7 +585,7 @@
       "feature": true,
       "date": "2017-07-20",
       "title": "Colbo girls enjoy glam night out at CFNC Ball",
-      "media": "s3./wnews/gallery/2017/07/wnews20170720-000.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/07/wnews20170720-000.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -598,7 +598,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-07-20",
       "title": "Grants Program benefits grass roots groups",
-      "media": "s3./wnews/gallery/2017/07/wnews20170720-002.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/07/wnews20170720-002.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -654,7 +654,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-07-20",
       "title": "Wildflower Hunt on again in 2017",
-      "media": "s3./wnews/gallery/2017/07/wnews20170720-006.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/07/wnews20170720-006.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -674,7 +674,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-07-20",
       "title": "Local timber used for didge",
-      "media": "s3./wnews/gallery/2017/07/wnews20170720-027.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/07/wnews20170720-027.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -691,7 +691,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-07-20",
       "title": "Ibis entanglements",
-      "media": "s3./wnews/gallery/2017/07/wnews20170720-031.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/07/wnews20170720-031.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -713,7 +713,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-07-20",
       "title": "Whroo Goldfields nest box monitoring",
-      "media": "s3./wnews/gallery/2017/07/wnews20170720-030.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/07/wnews20170720-030.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -739,7 +739,7 @@
       "feature": true,
       "date": "2017-07-06",
       "title": "Winter Films with ‘Gold Class’ service",
-      "media": "s3./wnews/gallery/2017/07/wnews20170706-000.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/07/wnews20170706-000.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -755,7 +755,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-07-06",
       "title": "Community grant for environment project",
-      "media": "s3./wnews/gallery/2017/07/wnews20170706-006.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/07/wnews20170706-006.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -781,7 +781,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-07-06",
       "title": "First milk flows at new Stanhope cheese plant",
-      "media": "s3./wnews/gallery/2017/07/wnews20170706-012.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/07/wnews20170706-012.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -805,7 +805,7 @@
       "feature": true,
       "date": "2017-06-22",
       "title": "Indian delights in Rushworth",
-      "media": "s3./wnews/gallery/2017/06/wnews20170622-000.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/06/wnews20170622-000.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -822,7 +822,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-06-22",
       "title": "Annual charity shearing day",
-      "media": "s3./wnews/gallery/2017/06/wnews20170622-005.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/06/wnews20170622-005.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -848,7 +848,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-06-22",
       "title": "Callum Gleeson releases a new album",
-      "media": "s3./wnews/gallery/2017/06/wnews20170622-008.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/06/wnews20170622-008.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -873,7 +873,7 @@
       "feature": true,
       "date": "2017-06-08",
       "title": "Walking the path to Reconciliation",
-      "media": "s3./wnews/gallery/2017/06/wnews20170608-000.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/06/wnews20170608-000.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -886,7 +886,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-06-08",
       "title": "Farmer Michelle and her Bottle Feed Babies visit Rushworth Kinder",
-      "media": "s3./wnews/gallery/2017/06/wnews20170608-003.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/06/wnews20170608-003.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -903,7 +903,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-06-08",
       "title": "Practical Living explored at Transition Town seminar",
-      "media": "s3./wnews/gallery/2017/06/wnews20170608-010.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/06/wnews20170608-010.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -921,7 +921,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-06-08",
       "title": "Exciting changes for Community Bank",
-      "media": "s3./wnews/gallery/2017/06/wnews20170608-013.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/06/wnews20170608-013.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -938,7 +938,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-06-08",
       "title": "Meteorite Park rejuvenation for Murchison",
-      "media": "s3./wnews/gallery/2017/06/wnews20170608-023.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/06/wnews20170608-023.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -956,7 +956,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-06-08",
       "title": "Come and enjoy the meal and the fun!",
-      "media": "s3./wnews/gallery/2017/06/wnews20170608-032.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/06/wnews20170608-032.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -978,7 +978,7 @@
       "feature": true,
       "date": "2017-05-25",
       "title": "Spectacular sunrises around Rushworth",
-      "media": "s3./wnews/gallery/2017/05/wnews20170525-000.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/05/wnews20170525-000.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -996,7 +996,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-05-25",
       "title": "Introducing the Waranga News photo competition",
-      "media": "s3./wnews/gallery/2017/05/wnews20170525-008.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/05/wnews20170525-008.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -1015,7 +1015,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-05-25",
       "title": "Linking Rushworth to the O’Keefe Rail Trail",
-      "media": "s3./wnews/gallery/2017/05/wnews20170525-009.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/05/wnews20170525-009.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -1039,7 +1039,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-05-25",
       "title": "Meet Earl",
-      "media": "s3./wnews/gallery/2017/05/wnews20170525-026.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/05/wnews20170525-026.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -1060,7 +1060,7 @@
       "feature": true,
       "date": "2017-05-11",
       "title": "AVARD ADVENTURE LAND",
-      "media": "s3./wnews/gallery/2017/05/wnews20170511-000.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/05/wnews20170511-000.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -1074,7 +1074,7 @@
       "feature": true,
       "date": "2017-04-27",
       "title": "Clowning around at the Festival",
-      "media": "s3./wnews/gallery/2017/04/wnews20170427-000.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/04/wnews20170427-000.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -1088,7 +1088,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-04-27",
       "title": "ANZAC Day remembered in district towns",
-      "media": "s3./wnews/gallery/2017/04/wnews20170427-012.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/04/wnews20170427-012.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -1106,7 +1106,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-04-27",
       "title": "Bottom Pub raises thousands for Kids",
-      "media": "s3./wnews/gallery/2017/04/wnews20170427-025.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/04/wnews20170427-025.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -1123,7 +1123,7 @@
       "feature": true,
       "date": "2017-04-13",
       "title": "Rushworth at Easter - the place to be",
-      "media": "s3./wnews/gallery/2017/04/wnews20170413-000.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/04/wnews20170413-000.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -1150,7 +1150,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-04-13",
       "title": "New book on Rushworth’s historic Court House",
-      "media": "s3./wnews/gallery/2017/04/wnews20170413-008.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/04/wnews20170413-008.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -1176,7 +1176,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-04-13",
       "title": "P-12 College thanked for memorial help",
-      "media": "s3./wnews/gallery/2017/04/wnews20170413-010.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/04/wnews20170413-010.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -1194,7 +1194,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-04-13",
       "title": "Travellers experience India’s magic",
-      "media": "s3./wnews/gallery/2017/04/wnews20170413-019.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/04/wnews20170413-019.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -1215,7 +1215,7 @@
       "feature": true,
       "date": "2017-03-30",
       "title": "Rushworth’s heroes remembered",
-      "media": "s3./wnews/gallery/2017/03/wnews20170330-000.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/03/wnews20170330-000.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -1232,7 +1232,7 @@
       "feature": true,
       "date": "2017-03-16",
       "title": "Colbinabbin Lap-A-Thon exceeds target!",
-      "media": "s3./wnews/gallery/2017/03/wnews20170316-001.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/03/wnews20170316-001.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -1249,7 +1249,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-03-16",
       "title": "Valé Doris Barlow",
-      "media": "s3./wnews/gallery/2017/03/wnews20170316-012.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/03/wnews20170316-012.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -1289,7 +1289,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-03-16",
       "title": "Working draught horses galore at moora for Easter",
-      "media": "s3./wnews/gallery/2017/03/wnews20170316-029.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/03/wnews20170316-029.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -1317,7 +1317,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-03-16",
       "title": "Freemasons Cycling Club members ride for youth mental health",
-      "media": "s3./wnews/gallery/2017/03/wnews20170316-051.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/03/wnews20170316-051.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -1343,7 +1343,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-03-16",
       "title": "Reaction to track closure leads to positive partnerships",
-      "media": "s3./wnews/gallery/2017/03/wnews20170316-068.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/03/wnews20170316-068.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -1366,7 +1366,7 @@
       "feature": true,
       "date": "2017-03-02",
       "title": "Waranga Hostel - Twenty years gone by",
-      "media": "s3./wnews/gallery/2017/03/wnews20170302-000.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/03/wnews20170302-000.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -1389,7 +1389,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-03-02",
       "title": "Farewell to Doris from the Waranga News",
-      "media": "s3./wnews/gallery/2017/03/wnews20170302-010.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/03/wnews20170302-010.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -1429,7 +1429,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-03-02",
       "title": "Colbinabbin Primary celebrates 100 years of quality education",
-      "media": "s3./wnews/gallery/2017/03/wnews20170302-012.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/03/wnews20170302-012.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -1448,7 +1448,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-03-02",
       "title": "Rushworth’s bush tracks in parliamentary debate",
-      "media": "s3./wnews/gallery/2017/03/wnews20170302-028.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/03/wnews20170302-028.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -1469,7 +1469,7 @@
       "feature": true,
       "date": "2017-02-16",
       "title": "Welcome to Prep/Foundation students for 2017",
-      "media": "s3./wnews/gallery/2017/02/20170216-1.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/02/20170216-1.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -1520,7 +1520,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-02-16",
       "title": "Start Of Works On Echuca Moama Second Bridge Imminent",
-      "media": "s3./wnews/gallery/2017/02/20170216-4.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/02/20170216-4.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -1540,7 +1540,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-02-16",
       "title": "Carnage in Rushworth State Forest",
-      "media": "s3./wnews/gallery/2017/02/20170216-6.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/02/20170216-6.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -1561,7 +1561,7 @@
       "feature": true,
       "date": "2017-02-02",
       "title": "Herb is the One!",
-      "media": "s3./wnews/gallery/2017/02/20170202-1.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/02/20170202-1.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -1574,7 +1574,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2017-02-02",
       "title": "Australia Day celebrated",
-      "media": "s3./wnews/gallery/2017/02/20170202-2.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/02/20170202-2.jpg",
       "abstract": "",
       "body": {
         "pars": [

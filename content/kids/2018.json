@@ -9,7 +9,7 @@
       "feature": true,
       "date": "2018-09-27",
       "title": "Hey readers – in this edition we are taking a look at the Spring Season!",
-      "media": "s3./wnews/gallery/2018/09/wnews20180927-002.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2018/09/wnews20180927-002.jpg",
       "sidebar": "/content/wnews/kids/2018/list/spring-cleaning",
       "abstract": "The Vernal Equinox occurs in spring. In Australia, the Vernal Equinox occurs on September 22 or 23 each year.",
       "body": {
@@ -36,7 +36,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2018-09-27",
       "title": "Word Search #1",
-      "media": "s3./wnews/gallery/2018/09/wnews20180927-001.png",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2018/09/wnews20180927-001.png",
       "abstract": "",
       "body": {
         "pars": [

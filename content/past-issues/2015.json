@@ -9,7 +9,7 @@
       "title": "November 12, 2015",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2015/11/wnews20151112P01.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2015/11/wnews20151112P01.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -18,7 +18,7 @@
       "title": "October 29, 2015",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2015/11/wnews20151029P01.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2015/11/wnews20151029P01.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -27,7 +27,7 @@
       "title": "October 15, 2015",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2015/10/wnews20151015P01.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2015/10/wnews20151015P01.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -36,7 +36,7 @@
       "title": "October 1, 2015",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2015/10/wnews20151001P01.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2015/10/wnews20151001P01.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -45,7 +45,7 @@
       "title": "August 20, 2015",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2015/10/wnews20150820P01.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2015/10/wnews20150820P01.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -54,7 +54,7 @@
       "title": "August 6, 2015",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2015/10/wnews20150806P01.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2015/10/wnews20150806P01.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -63,7 +63,7 @@
       "title": "July 9, 2015",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2015/10/wnews20150709P01.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2015/10/wnews20150709P01.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -72,7 +72,7 @@
       "title": "June 25, 2015",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2015/10/wnews20150625P01.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2015/10/wnews20150625P01.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -81,7 +81,7 @@
       "title": "June 11, 2015",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2015/10/wnews20150611P01.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2015/10/wnews20150611P01.jpeg",
       "comments": "enabled",
       "published": true
     },
@@ -90,7 +90,7 @@
       "title": "May 28, 2015",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/wnews20150528P01.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/wnews20150528P01.jpg",
       "comments": "enabled",
       "published": true
     },
@@ -99,7 +99,7 @@
       "title": "May 14, 2015",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/wnews20150514P01.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/wnews20150514P01.jpg",
       "comments": "enabled",
       "published": true
     },
@@ -108,7 +108,7 @@
       "title": "April 30, 2015",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/wnews20150430P01.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/wnews20150430P01.jpg",
       "comments": "enabled",
       "published": true
     },
@@ -117,7 +117,7 @@
       "title": "April 16, 2015",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/wnews20150416P01.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/wnews20150416P01.jpg",
       "comments": "enabled",
       "published": true
     },
@@ -126,7 +126,7 @@
       "title": "April 2, 2015",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/wnews20150402P01.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/wnews20150402P01.jpg",
       "comments": "enabled",
       "published": true
     },
@@ -135,7 +135,7 @@
       "title": "March 19, 2015",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2015/03/wnews20150319P01.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2015/03/wnews20150319P01.jpg",
       "comments": "enabled",
       "published": true
     },
@@ -144,7 +144,7 @@
       "title": "March 5, 2015",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2015/03/wnews20150305P01.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2015/03/wnews20150305P01.jpg",
       "comments": "enabled",
       "published": true
     },
@@ -153,7 +153,7 @@
       "title": "February 19, 2015",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/2015/03/wnews20150219p01.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2015/03/wnews20150219p01.jpg",
       "comments": "enabled",
       "published": true
     },
@@ -162,7 +162,7 @@
       "title": "February 5, 2015",
       "abstract": "",
       "body": {},
-      "media": "s3./wnews/past-issues/wnews20150205P01.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/wnews20150205P01.jpg",
       "comments": "enabled",
       "published": true
     }

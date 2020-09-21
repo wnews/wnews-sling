@@ -2,7 +2,7 @@
   "title": "Waranga Tourism",
   "sling:resourceType":"wnews/page/advertisement",
   "jcr:primaryType":"nt:unstructured",
-  "media": "s3./wnews/past-issues/2018/11/wnews20181108_tourism.jpeg",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2018/11/wnews20181108_tourism.jpeg",
   "published": true,
   "testimonials": "enabled"
 }

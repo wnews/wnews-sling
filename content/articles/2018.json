@@ -9,7 +9,7 @@
       "feature": true,
       "date": "2018-11-08",
       "title": "Anyone for coffee?",
-      "media": "s3./wnews/gallery/2018/11/wnews20181108-000.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2018/11/wnews20181108-000.jpg",
       "sidebar": "/content/wnews/articles/2018/list/we-are-celebrating",
       "abstract": "",
       "body": {
@@ -41,7 +41,7 @@
       "feature": true,
       "date": "2018-10-25",
       "title": "Showcasing local spring gardens",
-      "media": "s3./wnews/gallery/2018/10/wnews20181025-000.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2018/10/wnews20181025-000.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -59,7 +59,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2018-10-25",
       "title": "The Waranga News celebrates its 40th Birthday",
-      "media": "s3./wnews/gallery/2018/10/40th anniversary INVITATION.jpeg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2018/10/40th anniversary INVITATION.jpeg",
       "abstract": "",
       "body": {
         "pars": [
@@ -78,7 +78,7 @@
       "feature": true,
       "date": "2018-10-11",
       "title": "New life for Henrietta",
-      "media": "s3./wnews/gallery/2018/10/wnews20181011-000.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2018/10/wnews20181011-000.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -101,7 +101,7 @@
       "feature": true,
       "date": "2018-09-27",
       "title": "Colbinabbin’s green and gold",
-      "media": "s3./wnews/gallery/2018/09/wnews20180927-000.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2018/09/wnews20180927-000.jpg",
       "sidebar": "/content/wnews/articles/2018/list/canola",
       "abstract": "",
       "body": {
@@ -137,7 +137,7 @@
       "feature": true,
       "date": "2018-08-30",
       "title": "Wildflowers play second fiddle to historic sites",
-      "media": "s3./wnews/gallery/2018/08/wnews20180830-000.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2018/08/wnews20180830-000.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -158,7 +158,7 @@
       "feature": true,
       "date": "2018-08-16",
       "title": "Shearing for Kids nearly doubles last year’s tally raising $53,620!",
-      "media": "s3./wnews/gallery/2018/08/wnews20180816-001.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2018/08/wnews20180816-001.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -179,7 +179,7 @@
       "feature": true,
       "date": "2018-05-24",
       "title": "Eileen Barlow celebrates 100th birthday",
-      "media": "s3./wnews/gallery/2018/05/wnews20180524-000.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2018/05/wnews20180524-000.jpg",
       "sidebar": "/content/wnews/articles/2018/list/eileen-barlow-biography",
       "abstract": "",
       "body": {
@@ -217,7 +217,7 @@
       "feature": true,
       "date": "2018-03-15",
       "title": "The future of cricket in Colbinabbin!",
-      "media": "s3./wnews/gallery/2018/03/wnews20180315-000.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2018/03/wnews20180315-000.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -234,7 +234,7 @@
       "feature": true,
       "date": "2018-03-01",
       "title": "Change of guard at Criterion",
-      "media": "s3./wnews/gallery/2018/03/wnews20180301-000.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2018/03/wnews20180301-000.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -253,7 +253,7 @@
       "feature": true,
       "date": "2018-02-15",
       "title": "School’s in for 2018",
-      "media": "s3./wnews/gallery/2018/02/wnews20180215-000.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2018/02/wnews20180215-000.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -266,7 +266,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2018-02-15",
       "title": "New owners for the Colbinabbin Hotel",
-      "media": "s3./wnews/gallery/2018/02/wnews20180215-006.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2018/02/wnews20180215-006.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -285,7 +285,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2018-02-15",
       "title": "Plenty of action at the site of the new hospital/hostel",
-      "media": "s3./wnews/gallery/2018/02/wnews20180215-007.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2018/02/wnews20180215-007.jpg",
       "abstract": "",
       "body": {
         "pars": [
@@ -350,7 +350,7 @@
       "feature": true,
       "date": "2018-02-01",
       "title": "Tropical paradise on the Basin",
-      "media": "s3./wnews/gallery/2018/02/wnews20180201-000.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2018/02/wnews20180201-000.jpg",
       "abstract": "",
       "body": {
         "pars": [

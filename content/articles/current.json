@@ -8,7 +8,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2020-07-30",
       "title": "A sign of the times in Rushy",
-      "media": "s3./wnews/gallery/2020/07/img-0773.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/07/img-0773.jpg",
       "abstract": "Redevelopment of the old Council Depot in Horne Street recently passed another milestone with the erection of this spectacular\nsign at the Rushworth Art Depot.",
       "body": {
         "pars": [
@@ -45,7 +45,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2020-07-16",
       "title": "Lake Cooper interests addressed at meeting",
-      "media": "s3./wnews/gallery/2020/07/wnews20200716-012.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/07/wnews20200716-012.jpg",
       "abstract": "A small COVID-19-compliant\nmeeting took place recently\non the shores of Lake Cooper\nbetween people with local\nwaterways interests.",
       "body": {
         "pars": [
@@ -82,7 +82,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2020-07-16",
       "title": "New opportunities for innovation in Rushy",
-      "media": "s3./wnews/gallery/2020/07/wnews20200716-033.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/07/wnews20200716-033.jpg",
       "abstract": "Following the closure of the old Shire of Campaspe Depot in Horne Street, Rushworth Community House was given “Committee of\nManagement” status over the whole property by DELWP, the Victorian crown lands management authority. The area includes the\nRushworth Men’s Shed and the recently established Rushworth Art Depot, together with a large open space that can be transformed\nby the addition of plants and objects of interest to both locals and visitors alike.",
       "body": {
         "pars": [
@@ -101,7 +101,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2020-07-16",
       "title": "Winter on Wheels - Bike touring in the Waranga area",
-      "media": "s3./wnews/gallery/2020/07/wnews20200716-035.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/07/wnews20200716-035.jpg",
       "abstract": "During the school holidays, some members of the Ford family did a two-week bicycle tour which incorporated travel in\nthe Rushworth area.",
       "body": {
         "pars": [
@@ -127,7 +127,7 @@
       "feature": true,
       "date": "2020-07-02",
       "title": "Wartime crash near Waranga Basin",
-      "media": "s3./wnews/gallery/2020/07/img-0012.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/07/img-0012.jpg",
       "abstract": "The photograph (above) was taken by\nKen McInnis, who operated a radio shop next\ndoor to Norm Mill’s garage, Tatura, where the\nphotograph was taken.",
       "body": {
         "pars": [
@@ -147,7 +147,7 @@
       "feature": true,
       "date": "2020-07-02",
       "title": "Perry’s Butchery - not just a butcher",
-      "media": "s3./wnews/gallery/2020/07/img-0062.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/07/img-0062.jpg",
       "abstract": "Graham Warren, the owner of Perry’s Butchery at Rushworth, places emphasis on quality goods from local and regional suppliers.\nAlready of legendary fame for high quality meat, Perry’s now offers locally grown fresh fruit and vegetables to complement the range.",
       "body": {
         "pars": [
@@ -175,7 +175,7 @@
       "feature": true,
       "date": "2020-07-02",
       "title": "Callum Gleeson performs in ‘Battle\nRound’ of ‘The Voice’",
-      "media": "s3./wnews/gallery/2020/07/img-0082.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/07/img-0082.jpg",
       "abstract": "Former Rushworth resident Callum Gleeson has shown his talent in the final ‘Battle Round’ of ‘The Voice’, the very popular talent\nquest on Channel 9. The program went to air on Monday 29 June.",
       "body": {
         "pars": [
@@ -198,7 +198,7 @@
       "feature": true,
       "date": "2020-06-18",
       "title": "“Made road” wetland in Rushy",
-      "media": "s3./wnews/gallery/2020/06/wnews20200618-000.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/06/wnews20200618-000.jpg",
       "abstract": "This is Pyle Road, Rushworth, normally a winding gravelled road linking the western edge of Rushworth township\nwith many of the grain and grazing properties around Moora. When it rains, however, Pyle Road becomes an\nimpassable quagmire trapping any unwary motorist who chooses to plumb its depths!",
       "body": {
         "pars": [
@@ -216,7 +216,7 @@
       "feature": true,
       "date": "2020-06-18",
       "title": "Callum Gleeson stars\non ‘The Voice’",
-      "media": "s3./wnews/gallery/2020/06/wnews20200618-032.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/06/wnews20200618-032.jpg",
       "abstract": "A very popular talent show is Channel 9’s ‘The Voice’ and on\nMonday 9 June former Rushworth resident Callum Gleeson\nstarred.",
       "body": {
         "pars": [
@@ -250,7 +250,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2020-06-18",
       "title": "Fonterra teams up to support\ncommunity groups in northern Victoria",
-      "media": "s3./wnews/gallery/2020/06/wnews20200618-042.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/06/wnews20200618-042.jpg",
       "abstract": "While we might be in the midst of winter, the local community will be able to make a splash this summer after the Stanhope Community\nPool received funding from Fonterra’s Grass Roots Fund to help keep the pool running.",
       "body": {
         "pars": [
@@ -290,7 +290,7 @@
       "feature": true,
       "date": "2020-06-04",
       "title": "Colbo takes its place on the silo art trail",
-      "media": "s3./wnews/gallery/2020/06/wnews20200604-000.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/06/wnews20200604-000.jpg",
       "abstract": "The Colbinabbin Silo Art Project Artist painting of the mural has now\nbeen finalised. Artist Tim Bowtell departed from town on Monday 25 May\nafter twelve weeks of painting an outstanding art mural of Colbinabbin’s\nHistory on the six Vic Feeds silos.",
       "body": {
         "pars": [
@@ -309,7 +309,7 @@
       "feature": true,
       "date": "2020-06-04",
       "title": "Renewed push for Rail Trail",
-      "media": "s3./wnews/gallery/2020/06/wnews20200604-007.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/06/wnews20200604-007.jpg",
       "abstract": "The much anticipated walking and cycling trail planned between Rushworth Murchison has once again attracted a new burst of\nenthusiasm amongst Rushworth residents and the creation of a ‘Rushworth Rail Trail Friends’ Facebook group.",
       "body": {
         "pars": [
@@ -354,7 +354,7 @@
       "feature": true,
       "date": "2020-06-04",
       "title": "Work goes on for Murchison & District Historical Society!",
-      "media": "s3./wnews/gallery/2020/06/wnews20200604-014.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/06/wnews20200604-014.jpg",
       "abstract": "Murchison & District Historical Society is still active behind the scenes during ‘lockdown’ and closure of the Heritage Centre, with\nvarious projects continuing by members working from home.",
       "body": {
         "pars": [
@@ -374,7 +374,7 @@
       "feature": true,
       "date": "2020-06-04",
       "title": "A New Look Business Centre for Stanhope",
-      "media": "s3./wnews/gallery/2020/06/wnews20200604-021.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/06/wnews20200604-021.jpg",
       "abstract": "During the COVID lockdown the Stanhope Business Centre has received a complete new facelift.",
       "body": {
         "pars": [
@@ -396,7 +396,7 @@
       "feature": true,
       "date": "2020-05-21",
       "title": "A perfect place to exercise",
-      "media": "s3./wnews/gallery/2020/05/wnews20200521-000.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/05/wnews20200521-000.jpg",
       "abstract": "As COVID-19 restrictions are gradually eased, many people are seeking new places to explore while exercising.\nOne such place is literally on Rushworth’s door-step .... its spectacular nine hole sand green Golf Course nestled\nbetween the Old and New Rushworth-Tatura Roads and liberally enhanced with native flora and fauna.",
       "body": {
         "pars": [
@@ -416,7 +416,7 @@
       "feature": true,
       "date": "2020-05-21",
       "title": "Creative Writing course to start on 1 June",
-      "media": "s3./wnews/gallery/2020/05/wnews20200521-031.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/05/wnews20200521-031.jpg",
       "abstract": "In the last edition of the Waranga News, Rushworth Community House advised readers that it was planning to deliver\na Creative Writing course over the coming weeks and several people have already expressed an interest in joining the\nprogram. The course will be going ahead, but with a few changes that should make it even better!",
       "body": {
         "pars": [
@@ -451,7 +451,7 @@
       "feature": true,
       "date": "2020-05-21",
       "title": "Heathcote region producing excellent quality wine this year",
-      "media": "s3./wnews/gallery/2020/05/wnews20200521-029.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/05/wnews20200521-029.jpg",
       "abstract": "As vintage 2020 comes to a close,\nwinemakers and grape growers around\nthe country are taking stock of what was\na particularly challenging vintage. But the\nnews is not all bad for local wine lovers.",
       "body": {
         "pars": [
@@ -494,7 +494,7 @@
       "feature": true,
       "date": "2020-05-07",
       "title": "Time to celebrate our Nurses",
-      "media": "s3./wnews/gallery/2020/05/wnews20200507b-001.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/05/wnews20200507b-001.jpg",
       "abstract": "On 12 May each year International Nurses Day is celebrated globally on the birthday of Florence Nightingale, the founder of modern nursing.",
       "body": {
         "pars": [
@@ -549,7 +549,7 @@
       "feature": true,
       "date": "2020-04-23",
       "title": "2020 Anzac Day commemoration via live streaming and online",
-      "media": "s3./wnews/gallery/2020/04/wnews20200423-006.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/04/wnews20200423-006.jpg",
       "abstract": "This year Anzac Day 2020 will be commemorated in a very different way, as coming together as community becomes both a memory\nand a future aspiration. While the traditional Dawn Service and veterans’ marches will not take place this year, Australians are being\ninvited to mark the day in a number of safe and special ways.",
       "body": {
         "pars": [
@@ -575,7 +575,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2020-04-23",
       "title": "Innovative time for local businesses",
-      "media": "s3./wnews/gallery/2020/04/wnews20200423-009.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/04/wnews20200423-009.jpg",
       "abstract": "While COVID-19 has made these past\nfew weeks a challenging time for local\nbusinesses, especially those in the\nhospitality sector, it has also prompted\nsome new ways of working in a bid to\nkeep the operation afloat.",
       "body": {
         "pars": [
@@ -615,7 +615,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2020-04-23",
       "title": "Quiet achievements at Community House",
-      "media": "s3./wnews/gallery/2020/04/wnews20200423-038.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/04/wnews20200423-038.jpg",
       "abstract": "As the COVID-19 Pandemic rolls on, Rushworth Community House remains closed to members of the public. However, individual\nvolunteers have kept the House “ticking over” for the last few weeks, and look likely to continue doing so for the foreseeable future.\nThis edition of the Waranga News highlights a couple of special activities that will prove valuable when the current restrictions are\neased or lifted.",
       "body": {
         "pars": [
@@ -642,7 +642,7 @@
       "feature": true,
       "date": "2020-04-09",
       "title": "Hard times - but we can still eat ice cream!",
-      "media": "s3./wnews/gallery/2020/04/wnews20200409-000.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/04/wnews20200409-000.jpg",
       "abstract": "The Cottage Ice Cream Shop has become a well-known and popular go-to venue for residents and visitors to Rushworth.\nThis April should be party time as owners Michelle and Stewart celebrate its 10th birthday - but, alas, the celebrations\nmust wait! Still, it’s with some relief that we see the business remains one of the bright spots in our quiet town at the\nmoment.",
       "body": {
         "pars": [
@@ -664,7 +664,7 @@
       "feature": true,
       "date": "2020-03-26",
       "title": "Colbo Colour",
-      "media": "s3./wnews/gallery/2020/03/wnews20200326-000.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/03/wnews20200326-000.jpg",
       "abstract": "Mayor Adrian Weston recently called into the viewing area at the Colbinabbin Silo Art site to check on the progress of the project with Committee members.",
       "body": {
         "pars": [
@@ -743,7 +743,7 @@
       "feature": true,
       "date": "2020-03-26",
       "title": "Hairitage stays on Moora",
-      "media": "s3./wnews/gallery/2020/03/wnews20200326-010.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/03/wnews20200326-010.jpg",
       "abstract": "Over the past few weeks a new acronym, WFH, has become common to describe the work situation for many people. But for Helen Hutchins, owner and operator of Hairitage on High, her new plan to ‘work from home’ was in place long before a virus disrupted our traditional ways of working.",
       "body": {
         "pars": [
@@ -767,7 +767,7 @@
       "feature": true,
       "date": "2020-03-26",
       "title": "Rushworth Hardware & Electrical expansion",
-      "media": "s3./wnews/gallery/2020/03/wnews20200326-008.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/03/wnews20200326-008.jpg",
       "abstract": "Brendan Hawking, owner of Rushworth Hardware & Electrical, opened the extension to his business on Wednesday 11 March.",
       "body": {
         "pars": [
@@ -788,7 +788,7 @@
       "feature": true,
       "date": "2020-03-26",
       "title": "COVID-19 closes Community House",
-      "media": "s3./wnews/gallery/2020/03/wnews20200326-032.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/03/wnews20200326-032.jpg",
       "abstract": "Rushworth Community House has joined thousands of businesses across Australia and closed its doors to members of the general public. The decision was taken at a recent meeting of the House’s Committee of Management, and reflects the potential danger to staff, volunteers and visitors posed by exposure to the COVID-19 virus.",
       "body": {
         "pars": [
@@ -826,7 +826,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2020-03-26",
       "title": "New RCH Manager",
-      "media": "s3./wnews/gallery/2020/03/wnews20200326-033.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/03/wnews20200326-033.jpg",
       "abstract": "Eloise Mitchell retired from the Community House at the end of February after five years as RCH Manager. Among the many highlights of her tenure were securing grants for programs designed to keep the community healthy in mind and body while expanding local artistic creativity.",
       "body": {
         "pars": [
@@ -844,7 +844,7 @@
       "feature": true,
       "date": "2020-03-12",
       "title": "Community Bank Tertiary Scholarship winner announced",
-      "media": "s3./wnews/gallery/2020/03/wnews20200312-003.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/03/wnews20200312-003.jpg",
       "abstract": "Congratulations to Rushworth & District Community Bank 2020 Tertiary Scholarship recipient Euan Suarez!",
       "body": {
         "pars": [
@@ -926,7 +926,7 @@
       "feature": true,
       "date": "2020-02-27",
       "title": "Action at Rushworth service station site",
-      "media": "s3./wnews/gallery/2020/02/wnews20200227-000.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/02/wnews20200227-000.jpg",
       "abstract": "As reported in the last Waranga News, there is excitement in Rushworth that there is ‘some long awaited action at the High Street service station site’.",
       "body": {
         "pars": [
@@ -948,7 +948,7 @@
       "feature": true,
       "date": "2020-02-27",
       "title": "Rushworth solar installation for GVW",
-      "media": "s3./wnews/gallery/2020/02/wnews20200227-002.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/02/wnews20200227-002.jpg",
       "abstract": "Solar panels have recently been installed at the Rushworth Water Treatment Plant as part of a GVW (Goulburn Valley Water) project to reduce greenhouse gas emissions and reduce operating costs.",
       "body": {
         "pars": [
@@ -972,7 +972,7 @@
       "feature": true,
       "date": "2020-02-27",
       "title": "Colbinabbin Community Store Project is born",
-      "media": "s3./wnews/gallery/2020/02/wnews20200227-004.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/02/wnews20200227-004.jpg",
       "abstract": "On Wednesday 19 February over 100 people gathered in the Colbinabbin Hall to hear about the proposed co-op inspired Colbinabbin Community Store Project.",
       "body": {
         "pars": [
@@ -991,7 +991,7 @@
       "feature": true,
       "date": "2020-02-13",
       "title": "Murchison community still holding its breath for nursing home reprieve",
-      "media": "s3./wnews/gallery/2020/02/wnews20200213-005.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/02/wnews20200213-005.jpg",
       "abstract": "The fate of Murchison’s nursing home and associated amenities still seems to hang in the balance, as the community mood swings from ‘never trust a politician’ to hope and belief that their Canberra connections can still come through.",
       "body": {
         "pars": [
@@ -1024,7 +1024,7 @@
       "feature": false,
       "date": "2020-02-13",
       "title": "Save our store! Colbinabbin locals propose community shareholder plan",
-      "media": "s3./wnews/gallery/2020/02/wnews20200213-006.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/02/wnews20200213-006.jpg",
       "abstract": "It all started one day when some clever local women came up with the idea to purchase the Colbinabbin Store, which has been on the market for two years now, using a community-owned shareholder model.",
       "body": {
         "pars": [
@@ -1056,7 +1056,7 @@
       "feature": false,
       "date": "2020-02-13",
       "title": "Colbo Silo Art’s $21,000 boost from Rushworth & District Community Bank Grants Program",
-      "media": "s3./wnews/gallery/2020/02/wnews20200213-008.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/02/wnews20200213-008.jpg",
       "abstract": "The Colbinabbin Silo Art project recently received a grant of $21,000 as part of the Rushworth & District Community Grants Program.",
       "body": {
         "pars": [
@@ -1079,7 +1079,7 @@
       "feature": false,
       "date": "2020-01-30",
       "title": "Australia Day 2020 in Rushworth",
-      "media": "s3./wnews/gallery/2020/01/wnews20200130-013.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/01/wnews20200130-013.jpg",
       "sidebar": "/content/wnews/articles/2020/list/australia-day-awards-2020",
       "abstract": "The Village Green was once again a popular venue for the Australia Day event. It was pleasing to see a good crowd made up of all ages enjoying the lovely summer evening.",
       "body": {
@@ -1125,7 +1125,7 @@
       "feature": true,
       "date": "2020-01-30",
       "title": "Rushworth & District Community Bank supports Waranga News with $10,000 grant",
-      "media": "s3./wnews/gallery/2020/01/wnews20200130-006.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/01/wnews20200130-006.jpg",
       "abstract": "Rushworth & District Community Bank has announced a grant of $10,000 for the Waranga News to support a technology upgrade and ensure our local paper can continue to be produced to its very high standard and quality.",
       "body": {
         "pars": [

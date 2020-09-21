@@ -9,7 +9,7 @@
     "2020-08-27": {
       "sling:resourceType": "wnews/page/front-page",
       "title": "August 27, 2020",
-      "media": "s3./wnews/past-issues/2020/08/wnews20200827-01.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2020/08/wnews20200827-01.jpg",
       "abstract": "",
       "body": {},
       "comments": "enabled",
@@ -18,7 +18,7 @@
     "2020-07-30": {
       "sling:resourceType": "wnews/page/front-page",
       "title": "July 30, 2020",
-      "media": "s3./wnews/past-issues/2020/07/wnews20200730-01.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2020/07/wnews20200730-01.jpg",
       "abstract": "",
       "body": {},
       "comments": "enabled",
@@ -27,7 +27,7 @@
     "2020-07-16": {
       "sling:resourceType": "wnews/page/front-page",
       "title": "July 16, 2020",
-      "media": "s3./wnews/past-issues/2020/07/wnews20200716-01.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2020/07/wnews20200716-01.jpg",
       "abstract": "",
       "body": {},
       "comments": "enabled",
@@ -36,7 +36,7 @@
     "2020-07-02": {
       "sling:resourceType": "wnews/page/front-page",
       "title": "July 2, 2020",
-      "media": "s3./wnews/past-issues/2020/07/wnews20200702-01.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2020/07/wnews20200702-01.jpg",
       "abstract": "",
       "body": {},
       "comments": "enabled",
@@ -45,7 +45,7 @@
     "2020-06-18": {
       "sling:resourceType": "wnews/page/front-page",
       "title": "June 18, 2020",
-      "media": "s3./wnews/past-issues/2020/06/wnews20200618-01.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2020/06/wnews20200618-01.jpg",
       "abstract": "",
       "body": {},
       "comments": "enabled",
@@ -54,7 +54,7 @@
     "2020-06-04": {
       "sling:resourceType": "wnews/page/front-page",
       "title": "June 4, 2020",
-      "media": "s3./wnews/past-issues/2020/06/wnews20200604-01.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2020/06/wnews20200604-01.jpg",
       "abstract": "",
       "body": {},
       "comments": "enabled",
@@ -63,7 +63,7 @@
     "2020-05-21": {
       "sling:resourceType": "wnews/page/front-page",
       "title": "May 21, 2020",
-      "media": "s3./wnews/past-issues/2020/05/wnews20200521-01.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2020/05/wnews20200521-01.jpg",
       "abstract": "",
       "body": {},
       "comments": "enabled",
@@ -72,7 +72,7 @@
     "2020-05-07": {
       "sling:resourceType": "wnews/page/front-page",
       "title": "May 7, 2020",
-      "media": "s3./wnews/past-issues/2020/05/wnews20200507b-01.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2020/05/wnews20200507b-01.jpg",
       "abstract": "",
       "body": {},
       "comments": "enabled",
@@ -81,7 +81,7 @@
     "2020-04-23": {
       "sling:resourceType": "wnews/page/front-page",
       "title": "April 23, 2020",
-      "media": "s3./wnews/past-issues/2020/04/wnews20200423-01.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2020/04/wnews20200423-01.jpg",
       "abstract": "",
       "body": {},
       "comments": "enabled",
@@ -90,7 +90,7 @@
     "2020-04-09": {
       "sling:resourceType": "wnews/page/front-page",
       "title": "April 9, 2020",
-      "media": "s3./wnews/past-issues/2020/04/wnews20200409-01.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2020/04/wnews20200409-01.jpg",
       "abstract": "",
       "body": {},
       "comments": "enabled",
@@ -99,7 +99,7 @@
     "2020-03-26": {
       "sling:resourceType": "wnews/page/front-page",
       "title": "March 26, 2020",
-      "media": "s3./wnews/past-issues/2020/03/wnews20200326-01.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2020/03/wnews20200326-01.jpg",
       "abstract": "",
       "body": {},
       "comments": "enabled",
@@ -108,7 +108,7 @@
     "2020-03-12": {
       "sling:resourceType": "wnews/page/front-page",
       "title": "March 12, 2020",
-      "media": "s3./wnews/past-issues/2020/03/wnews20200312-01.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2020/03/wnews20200312-01.jpg",
       "abstract": "",
       "body": {},
       "comments": "enabled",
@@ -117,7 +117,7 @@
     "2020-02-27": {
       "sling:resourceType": "wnews/page/front-page",
       "title": "February 27, 2020",
-      "media": "s3./wnews/past-issues/2020/02/wnews20200227-01.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2020/02/wnews20200227-01.jpg",
       "abstract": "",
       "body": {},
       "comments": "enabled",
@@ -126,7 +126,7 @@
     "2020-02-13": {
       "sling:resourceType": "wnews/page/front-page",
       "title": "February 13, 2020",
-      "media": "s3./wnews/past-issues/2020/02/wnews20200213-0001.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2020/02/wnews20200213-0001.jpg",
       "abstract": "",
       "body": {},
       "comments": "enabled",
@@ -135,7 +135,7 @@
     "2020-01-30": {
       "sling:resourceType": "wnews/page/front-page",
       "title": "January 30, 2020",
-      "media": "s3./wnews/past-issues/2020/01/wnews20200130-0001.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2020/01/wnews20200130-0001.jpg",
       "abstract": "",
       "body": {},
       "comments": "enabled",

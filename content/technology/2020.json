@@ -11,7 +11,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2020-07-02",
       "title": "Netiquette: How to behave yourself online",
-      "media": "s3./wnews/gallery/2020/07/512px-Twemoji_1f607.svg.png",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/07/512px-Twemoji_1f607.svg.png",
       "abstract": "Netiquette is a term that was coined in the infancy of the Internet, even before the World Wide Web was born. Early Internet pioneers could see the need to establish guidelines for online behaviour in the same way they could see how easy it was for text-based communication to lead to `flame wars` due to the lack of emotional cues (hence the birth of emoticons, or emojis).",
       "body": {
         "pars": [
@@ -64,7 +64,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2020-01-30",
       "title": "Too many Cookies can be bad for you",
-      "media": "s3./wnews/gallery/2020/02/Oxygen480-apps-preferences-web-browser-cookies.svg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/02/Oxygen480-apps-preferences-web-browser-cookies.svg",
       "abstract": "Have you noticed that when you search for something in Google that quite often you will start to see ads on every site related to that search? Or even if you were to visit a flight booking website or retailer, that suddenly all the ads you see on Facebook will be for the same or similar products? This is because of browser Cookies.",
       "body": {
         "pars": [
@@ -82,7 +82,7 @@
       "date": "2020-01-01",
       "title": "I Am Not A Robot",
       "sidebar": "/content/wnews/technology/2020/list/turing-test",
-      "media": "s3./wnews/gallery/2020/01/Reverse-CAPTCHA.png",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/01/Reverse-CAPTCHA.png",
       "abstract": "Have you ever been prompted by a website to identify a list of images that contain street signs? Or maybe to decypher some barely legible text? This is known as a Completely Automated Public Turing test to tell Computers and Humans Apart, or CAPTCHA for short.",
       "body": {
         "pars": [

@@ -8,7 +8,7 @@
       "sling:resourceType": "wnews/page/recipe",
       "date": "2017-10-26",
       "title": "Salmon Stir-fry",
-      "media": "s3./wnews/gallery/2017/10/wnews20171026-121.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/10/wnews20171026-121.jpg",
       "abstract": "Apparently we could all do with more fish in our diets - salmon being one of those that are usually recommended - as long as it’s sustainably produced.",
       "body": {
         "pars": [
@@ -44,7 +44,7 @@
       "sling:resourceType": "wnews/page/recipe",
       "date": "2017-10-12",
       "title": "Apricot, Peanut Butter and Oat Slice",
-      "media": "s3./wnews/gallery/2017/10/wnews20171012-062.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/10/wnews20171012-062.jpg",
       "abstract": "I decided to take a slightly different approach with my first piece and instead elected for a slice. It is however not so ‘sweet’, yet still quite fruity. I’d not attempted it previously but, liking the sound of the recipe, decided to give it a whirl for this venture of writing for the paper. I must admit I’m pleased with the final results and will make it again… YUM!",
       "body": {
         "pars": [
@@ -81,7 +81,7 @@
       "sling:resourceType": "wnews/page/recipe",
       "date": "2017-09-28",
       "title": "Cheat’s Asian-style Fish Soup",
-      "media": "s3./wnews/gallery/2017/09/wnews20170928-052.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/09/wnews20170928-052.jpg",
       "abstract": "I could tell you how to make a quite authentic Asian-style fish soup . . or I could give you a cheat’s version. Which would you prefer?",
       "body": {
         "pars": [
@@ -125,7 +125,7 @@
       "sling:resourceType": "wnews/page/recipe",
       "date": "2017-09-14",
       "title": "Marita’s Lemon Sour Muffins",
-      "media": "s3./wnews/gallery/2017/09/wnews20170914-082.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/09/wnews20170914-082.jpg",
       "abstract": "I don’t know why I’m in a cake making mode at the moment (because I’m not a baker by anyone’s standards), but I had sour cream in the fridge and no plans for it, when I remembered a quite delicious sour cream lemon cake that was served in a cafe in Williamstown some years ago.",
       "body": {
         "pars": [
@@ -158,7 +158,7 @@
       "sling:resourceType": "wnews/page/recipe",
       "date": "2017-08-31",
       "title": "Apple Cake",
-      "media": "s3./wnews/gallery/2017/08/wnews20170831-064.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/08/wnews20170831-064.jpg",
       "abstract": "I did a dozen mini muffins and cooked the rest in a loaf tin. I think it worked better as mini muffins.",
       "body": {
         "pars": [
@@ -185,7 +185,7 @@
       "sling:resourceType": "wnews/page/recipe",
       "date": "2017-08-03",
       "title": "Pam’s Chocolate Special Occasion Cake",
-      "media": "s3./wnews/gallery/2017/08/wnews20170803-047.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/08/wnews20170803-047.jpg",
       "abstract": "I didn’t make it, but I ate it, together with the other members of the Colbo Exercise group (CAFÉ) and it really WAS delicious.",
       "body": {
         "pars": [

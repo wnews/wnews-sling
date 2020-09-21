@@ -12,7 +12,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2020-07-16",
       "title": "Rainbows",
-      "media": "s3./wnews/gallery/2020/07/wnews20200716-053.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/07/wnews20200716-053.jpg",
       "abstract": "In this edition of the\nWaranga News we are learning about\ndifferent types of rainbows, how\nrainbows form, what colours can we\nsee in a rainbow, and much more.",
       "body": {
         "pars": [
@@ -40,7 +40,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2020-07-02",
       "title": "What is chocolate?",
-      "media": "s3./wnews/gallery/2020/07/img-0106.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/07/img-0106.jpg",
       "abstract": "In this edition we are taking a\nlook into the delicious world of\nchocolate!",
       "body": {
         "pars": [
@@ -82,7 +82,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2020-06-18",
       "title": "Fun facts",
-      "media": "s3./wnews/gallery/2020/06/wnews20200618-488.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/06/wnews20200618-488.jpg",
       "abstract": "Here are some fun facts for you!",
       "body": {
         "pars": [
@@ -132,7 +132,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2020-06-04",
       "title": "Collective Nouns",
-      "media": "s3./wnews/gallery/2020/06/wnews20200604-066.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/06/wnews20200604-066.jpg",
       "abstract": "In this edition of the Waranga News\nwe are taking a look at collective\nnouns for animals. We all know which\nanimals move in packs, schools, and\nherds, but what about a wake, a\nbusyness, or a flamboyance?",
       "body": {
         "pars": [
@@ -189,7 +189,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2020-05-21",
       "title": "Australian Frogs",
-      "media": "s3./wnews/gallery/2020/05/wnews20200521-066.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/05/wnews20200521-066.jpg",
       "abstract": "Did you know that a group of\nfrogs is called an ‘army’? (A group of\ntoads is called a ‘knot’.) In this edition\nof the Waranga News we are taking a\nlook at Australian frogs.",
       "body": {
         "pars": [
@@ -216,7 +216,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2020-04-23",
       "title": "The Flanders Poppy",
-      "media": "s3./wnews/gallery/2020/04/wnews20200423-025.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/04/wnews20200423-025.jpg",
       "abstract": "The Flanders poppy has long\nbeen a part of Remembrance Day,\nthe ritual that marks the Armistice\nof 11 November 1918, and is also\nincreasingly being used as part of\nANZAC Day observances. The French\nword ‘Armistice’ means an agreement\nto end fighting, and comes from the\nLatin ‘arma’ meaning ‘arms’ and ‘stitium’\nmeaning “stoppage”.",
       "body": {
         "pars": [
@@ -243,7 +243,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2020-04-09",
       "title": "Steam Trains",
-      "media": "s3./wnews/gallery/2020/04/wnews20200409-055.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/04/wnews20200409-055.jpg",
       "abstract": "In this edition of the Waranga News we are\ntaking a look at steam trains!\nThe train depicted on the Colbinabbin Silo by\nTim Bowtell is an ‘R’ Class.",
       "body": {
         "pars": [
@@ -261,7 +261,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2020-03-26",
       "title": "Kookaburra Facts for Kids",
-      "media": "s3./wnews/gallery/2020/03/wnews20200326-094.png",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/03/wnews20200326-094.png",
       "abstract": "The Kookaburra is a member of the Tree Kingfisher family. It is famous for having a loud call that sounds like human laughter.",
       "body": {
         "pars": [
@@ -306,7 +306,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2020-03-12",
       "title": "The Black Swan Cygnus",
-      "media": "s3./wnews/gallery/2020/03/wnews20200312-002.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/03/wnews20200312-002.jpg",
       "abstract": "The Black Swan Cygnus (swan) atratus (covered in black, as for mourning) is a large waterbird that mostly breeds in the southeast and southwest areas of Australia. It is different from other swans because it is mostly black, though its flight feathers are white.",
       "body": {
         "pars": [
@@ -338,7 +338,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2020-02-27",
       "title": "The Platypus",
-      "media": "s3./wnews/gallery/2020/02/wnews20200227-083.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/02/wnews20200227-083.jpg",
       "abstract": "The platypus is one of the most unusual creatures in the animal kingdom.",
       "body": {
         "pars": [
@@ -370,7 +370,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2020-02-13",
       "title": "That‛s Bats!",
-      "media": "s3./wnews/gallery/2020/02/wnews20200213-072.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/02/wnews20200213-072.jpg",
       "abstract": "Bats are the only mammals capable of long, sustained flight and have evolved to be the most widely distributed mammals on Earth. Most bats are nocturnal animals, meaning they search for prey at night and sleep during the day. As they have poor vision, some bats emit echos to detect and locate their prey in the dark.",
       "body": {
         "pars": [
@@ -397,7 +397,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2020-01-30",
       "title": "Wonderful Wombats",
-      "media": "s3./wnews/gallery/2020/01/wnews20200130-077.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/01/wnews20200130-077.jpg",
       "abstract": "In this edition of the Waranga News we are taking a look at the wonderful wombats that inhabit our continent. There are three species of wombat: Common wombat, Northern hairy-nose wombat and Southern hairy-nose wombat.",
       "body": {
         "pars": [
@@ -421,7 +421,7 @@
       "sling:resourceType":"wnews/page/article",
       "date": "2019-12-12",
       "title": "Hey Kids!",
-      "media": "s3./wnews/gallery/2019/12/wnews20191212-102.jpg",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2019/12/wnews20191212-102.jpg",
       "abstract": "In this bumper edition of the Waranga News we are taking a look at Christmas food traditions from around the world, from the weird to the wonderful.",
       "body": {
         "pars": [
