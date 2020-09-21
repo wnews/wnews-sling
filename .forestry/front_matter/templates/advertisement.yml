@@ -23,3 +23,5 @@ fields:
 - type: boolean
   name: published
   label: published
+pages:
+- content/advertisements/2017/list/3b-small-engines.json
