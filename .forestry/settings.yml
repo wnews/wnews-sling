@@ -5,6 +5,12 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: content/advertisements
+  label: Advertisments
+  create: all
+  match: "**/list/*"
+  new_doc_ext: ".json"
+- type: directory
   path: content/articles
   label: Articles
   create: all
@@ -17,6 +23,7 @@ use_front_matter_path: false
 file_template: ":filename:"
 build:
   preview_output_directory: build/libs
+  install_dependencies_command: npm install
   preview_docker_image: micronode/whistlepost
   mount_path: "/opt/sling/bundles/install/50"
   working_dir: "/opt/sling"
