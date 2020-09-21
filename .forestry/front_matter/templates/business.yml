@@ -24,4 +24,5 @@ fields:
   name: published
   label: published
 pages:
+- content/directory/2020/list/saphire-constructions.json
 - content/directory/2020/list/septic-cleaning.json
