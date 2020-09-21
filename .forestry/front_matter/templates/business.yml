@@ -23,3 +23,5 @@ fields:
 - type: boolean
   name: published
   label: published
+pages:
+- content/directory/2020/list/septic-cleaning.json
