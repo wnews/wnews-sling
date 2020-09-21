@@ -2,7 +2,7 @@
   "sling:resourceType": "wnews/page/article",
   "title": "Community - life is all about that!",
   "date": "2014-09-03T14:00:00Z",
-  "media": "s3./wnews/gallery/2014/09/wnews20140904P01-000.jpg",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2014/09/wnews20140904P01-000.jpg",
   "abstract": "You meet the nicest people in Rushworth’s Community Garden",
   "body": {
     "pars": [
