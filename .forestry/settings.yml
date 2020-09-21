@@ -17,7 +17,7 @@ sections:
   match: "**/*"
   new_doc_ext: json
 upload_dir: wnews
-public_path: https://s3-ap-southeast-2.amazonaws.com/wp-media-lib
+public_path: https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
