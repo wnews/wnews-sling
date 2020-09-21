@@ -27,3 +27,5 @@ fields:
 - type: boolean
   name: published
   label: published
+pages:
+- content/articles/2014/list/community-life.json
