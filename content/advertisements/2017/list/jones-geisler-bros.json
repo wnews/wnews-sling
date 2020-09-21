@@ -1,0 +1,7 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Jones-Geisler Bros",
+  "media": "s3./wnews/advertisements/Jones-Geisler Bros.jpg",
+  "testimonials": "enabled",
+  "published": true
+}

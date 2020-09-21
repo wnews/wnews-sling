@@ -1,0 +1,8 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Motofinish Cafe",
+  "media": "s3./wnews/advertisements/Motofinish.jpg",
+  "telephone": "0438 018 192",
+  "testimonials": "enabled",
+  "published": true
+}

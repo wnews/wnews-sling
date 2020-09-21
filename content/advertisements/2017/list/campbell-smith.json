@@ -1,0 +1,7 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Campbell Smith",
+  "media": "s3./wnews/advertisements/Campbell Smith.jpg",
+  "testimonials": "enabled",
+  "published": true
+}

@@ -1,0 +1,8 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Coghlans IGA",
+  "media": "s3./wnews/advertisements/Coghlans.jpg",
+  "telephone": "03 5856 1441",
+  "testimonials": "enabled",
+  "published": true
+}

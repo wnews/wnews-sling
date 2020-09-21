@@ -1,0 +1,9 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Natrad",
+  "media": "s3./wnews/advertisements/Natrad.jpg",
+  "website": "http://natrad.com.au",
+  "telephone": "03 5821 8500",
+  "testimonials": "enabled",
+  "published": true
+}

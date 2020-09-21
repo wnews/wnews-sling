@@ -1,0 +1,8 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Truffles",
+  "media": "s3./wnews/advertisements/Truffles.jpg",
+  "telephone": "0413 998 871",
+  "testimonials": "enabled",
+  "published": true
+}

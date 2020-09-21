@@ -1,0 +1,8 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Spin Doctor",
+  "media": "s3./wnews/advertisements/Spin Doctor.jpg",
+  "telephone": "0429 354 189",
+  "testimonials": "enabled",
+  "published": true
+}

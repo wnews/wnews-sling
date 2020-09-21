@@ -1,0 +1,8 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Rushworth Bakery",
+  "media": "s3./wnews/advertisements/RW Bakery.jpg",
+  "telephone": "03 5856 1828",
+  "testimonials": "enabled",
+  "published": true
+}

@@ -1,0 +1,7 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Clinical Massage",
+  "media": "s3./wnews/advertisements/Clinical-Massage.png",
+  "testimonials": "enabled",
+  "published": false
+}

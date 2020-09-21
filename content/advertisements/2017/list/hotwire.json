@@ -1,0 +1,7 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Hotwire",
+  "media": "s3./wnews/advertisements/Hotwire.jpg",
+  "testimonials": "enabled",
+  "published": true
+}

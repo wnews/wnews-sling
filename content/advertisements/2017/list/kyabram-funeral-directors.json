@@ -1,0 +1,7 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Kyabram Funeral Directors",
+  "media": "s3./wnews/advertisements/Kyabram &amp; Dist Funeral.jpg",
+  "testimonials": "enabled",
+  "published": true
+}

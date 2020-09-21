@@ -1,0 +1,8 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Clive Coventry",
+  "media": "s3./wnews/advertisements/Clive Coventry.jpg",
+  "telephone": "03 5852 1619",
+  "testimonials": "enabled",
+  "published": true
+}

@@ -1,0 +1,8 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "BJ Repairs",
+  "media": "s3./wnews/advertisements/BJ Repairs.jpg",
+  "telephone": "0412 762 497",
+  "testimonials": "enabled",
+  "published": true
+}

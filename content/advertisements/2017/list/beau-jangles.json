@@ -1,0 +1,7 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Beau Jangles",
+  "media": "s3./wnews/advertisements/Beau Jangles.jpg",
+  "testimonials": "enabled",
+  "published": true
+}

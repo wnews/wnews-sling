@@ -1,0 +1,8 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Rushworth Pharmacy",
+  "media": "s3./wnews/advertisements/Rushworth Pharmacy Mediconsul.jpg",
+  "telephone": "03 5856 1402",
+  "testimonials": "enabled",
+  "published": true
+}

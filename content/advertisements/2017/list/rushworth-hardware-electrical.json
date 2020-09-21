@@ -1,0 +1,8 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Rushworth Hardware Electrical",
+  "media": "s3./wnews/advertisements/RW Hardware Electrical.jpg",
+  "telephone": "03 5856 1368",
+  "testimonials": "enabled",
+  "published": true
+}

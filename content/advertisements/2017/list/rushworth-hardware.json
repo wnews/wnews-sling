@@ -1,0 +1,7 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Rushworth Hardware",
+  "media": "s3./wnews/advertisements/RW Hardware.jpg",
+  "testimonials": "enabled",
+  "published": true
+}

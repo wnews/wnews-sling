@@ -1,0 +1,8 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Rushworth Gift &amp; Variety",
+  "media": "s3./wnews/advertisements/RW Gift &amp; Variety.jpg",
+  "telephone": "0427 561 216",
+  "testimonials": "enabled",
+  "published": true
+}

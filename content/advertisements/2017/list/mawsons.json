@@ -1,0 +1,7 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Mawsons",
+  "media": "s3./wnews/advertisements/Mawsons.jpg",
+  "testimonials": "enabled",
+  "published": true
+}

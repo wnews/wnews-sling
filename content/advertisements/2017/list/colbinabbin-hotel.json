@@ -1,0 +1,7 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Colbinabbin Hotel",
+  "media": "s3./wnews/advertisements/Colbinabbin Hotel.jpg",
+  "testimonials": "enabled",
+  "published": true
+}

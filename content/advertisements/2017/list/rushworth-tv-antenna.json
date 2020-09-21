@@ -1,0 +1,7 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Rushworth TV Antenna",
+  "media": "s3./wnews/advertisements/Rushworth TV Antenna.jpg",
+  "testimonials": "enabled",
+  "published": true
+}

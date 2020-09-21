@@ -1,0 +1,8 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Hairzone",
+  "media": "s3./wnews/advertisements/Hairzone.jpg",
+  "telephone": "03 5857 2264",
+  "testimonials": "enabled",
+  "published": true
+}

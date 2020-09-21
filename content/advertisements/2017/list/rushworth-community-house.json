@@ -1,0 +1,7 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Rushworth Community House",
+  "media": "s3./wnews/advertisements/RCH Services.jpg",
+  "testimonials": "enabled",
+  "published": true
+}

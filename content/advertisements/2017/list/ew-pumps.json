@@ -1,0 +1,8 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "EW Pumps",
+  "media": "s3./wnews/advertisements/EW Pumps.jpg",
+  "telephone": "03 5484 1710",
+  "testimonials": "enabled",
+  "published": true
+}

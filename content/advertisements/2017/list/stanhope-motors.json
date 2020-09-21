@@ -1,0 +1,7 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Stanhope Motors",
+  "media": "s3./wnews/advertisements/Stanhope Motors.jpg",
+  "testimonials": "enabled",
+  "published": true
+}

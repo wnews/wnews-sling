@@ -1,0 +1,7 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Over VB Sand &amp; Gravel",
+  "media": "s3./wnews/advertisements/Over VB Sand &amp; Gravel.jpg",
+  "testimonials": "enabled",
+  "published": true
+}

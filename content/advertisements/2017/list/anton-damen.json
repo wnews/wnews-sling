@@ -1,0 +1,7 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Anton Damen",
+  "media": "s3./wnews/advertisements/Anton Damen.jpg",
+  "testimonials": "enabled",
+  "published": true
+}

@@ -1,0 +1,9 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Farriervet",
+  "media": "s3./wnews/advertisements/Farriervet.jpg",
+  "website": "http://farriervet.com",
+  "telephone": "03 5822 2000",
+  "testimonials": "enabled",
+  "published": true
+}
