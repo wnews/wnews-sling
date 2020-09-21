@@ -1,0 +1,13 @@
+{
+  "sling:resourceType":"wnews/page/article",
+  "title": "Community - life is all about that!",
+  "date": "2014-09-04",
+  "media": "s3./wnews/gallery/2014/09/wnews20140904P01-000.jpg",
+  "abstract": "",
+  "body": {
+    "pars": [
+      "You meet the nicest people in Rushworth’s Community Garden - that’s where Chief Perry and Marcie Martin caught up recently over pizza. Pizza Days in the Garden regularly attract a wide variety of people getting together for great food and first class companionship."
+    ]
+  },
+  "published": true
+}
