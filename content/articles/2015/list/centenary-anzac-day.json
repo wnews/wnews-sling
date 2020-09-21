@@ -1,9 +1,9 @@
 {
-  "sling:resourceType":"wnews/page/article",
+  "sling:resourceType": "wnews/page/article",
   "title": "Record crowds mark Centenary ANZAC Day",
   "date": "2015-04-30",
   "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/wnews20150430P01-188x188.jpg",
-  "abstract": "",
+  "abstract": "ANZAC Day was observed around the district with particular fervour and record attendances in this year commemorating the landing at Gallipoli 100 years ago",
   "body": {
     "pars": [
       "ANZAC Day was observed around the district with particular fervour and record attendances in this year commemorating the landing at Gallipoli 100 years ago. Included in the day were special ceremonies - the opening of a War Memorial in Corop and the unveiling of a plaque to honour Vietnam Veterans in Rushworth.",
