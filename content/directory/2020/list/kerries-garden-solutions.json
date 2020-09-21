@@ -1,0 +1,7 @@
+{
+  "sling:resourceType": "wnews/page/business",
+  "title": "Kerrie's Garden Solutions",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/directory/2020/kerries-garden-solutions.png",
+  "testimonials": "enabled",
+  "published": true
+}
