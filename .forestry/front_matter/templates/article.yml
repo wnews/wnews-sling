@@ -5,12 +5,14 @@ fields:
 - type: text
   name: sling:resourceType
   label: sling:resourceType
+  default: wnews/page/article
 - type: text
   name: title
   label: title
 - type: datetime
   name: date
   label: date
+  default: now
 - type: file
   name: media
   label: media
