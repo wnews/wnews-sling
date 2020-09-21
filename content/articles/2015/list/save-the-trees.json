@@ -1,9 +1,9 @@
 {
-  "sling:resourceType":"wnews/page/article",
+  "sling:resourceType": "wnews/page/article",
   "title": "Community rallies to save trees",
   "date": "2015-05-28",
   "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/wnews20150528P01-188x188.jpg",
-  "abstract": "",
+  "abstract": "Rushworth residents have come out in force to express their alarm at VicRoads plans to remove more than 120 mature indigenous trees along the Tatura-Rushworth Road leading into the town",
   "body": {
     "pars": [
       "Rushworth residents have come out in force to express their alarm at VicRoads plans to remove more than 120 mature indigenous trees along the Tatura-Rushworth Road leading into the town.",
