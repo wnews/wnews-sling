@@ -1,5 +1,5 @@
 {
-  "sling:resourceType":"wnews/page/article",
+  "sling:resourceType": "wnews/page/article",
   "date": "2020-07-02",
   "title": "Netiquette: How to behave yourself online",
   "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/07/512px-Twemoji_1f607.svg.png",
@@ -19,5 +19,8 @@
     ]
   },
   "published": true,
-  "sidebar": "/content/wnews/technology/2020/list/rules-of-netiquette"
+  "sidebar": "/content/wnews/technology/2020/list/rules-of-netiquette",
+  "related": [
+
+  ]
 }
