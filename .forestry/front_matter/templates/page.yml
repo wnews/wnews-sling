@@ -18,29 +18,3 @@ fields:
   - type: text
     name: sling:resourceType
     label: sling:resourceType
-  - type: field_group
-    name: contact-details
-    label: contact-details
-    fields:
-    - type: text
-      name: sling:resourceType
-      label: sling:resourceType
-    - type: text
-      name: title
-      label: title
-    - type: list
-      name: pars
-      label: pars
-  - type: field_group
-    name: submissions
-    label: submissions
-    fields:
-    - type: text
-      name: sling:resourceType
-      label: sling:resourceType
-    - type: text
-      name: title
-      label: title
-    - type: list
-      name: pars
-      label: pars
