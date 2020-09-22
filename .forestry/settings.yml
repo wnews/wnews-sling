@@ -9,7 +9,7 @@ sections:
   label: Past Issues
   create: all
   match: "**/list/*"
-  new_doc_ext: ".json"
+  new_doc_ext: json
 - type: directory
   path: content/articles
   label: Articles
