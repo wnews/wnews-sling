@@ -1,5 +1,5 @@
 {
-  "sling:resourceType":"wnews/page/article",
+  "sling:resourceType": "wnews/page/article",
   "date": "2020-01-30",
   "title": "Too many Cookies can be bad for you",
   "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/02/Oxygen480-apps-preferences-web-browser-cookies.svg",
@@ -13,5 +13,9 @@
       "Fortunately many browsers now provide an option to disable Third-party Cookies, such that this tracking can be restricted. Unfortunately by disabling Third-party Cookies it may also inadvertently limit other functionality on a website. However this is becoming less of an issue due to the increasing pressure to eliminate Third-party Cookies entirely."
     ]
   },
-  "published": true
+  "published": true,
+  "sidebar": "",
+  "related": [
+
+  ]
 }
