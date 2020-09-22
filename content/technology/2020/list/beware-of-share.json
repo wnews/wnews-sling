@@ -1,0 +1,17 @@
+{
+  "sling:resourceType":"wnews/page/article",
+  "date": "2020-02-27",
+  "title": "Beware of Share",
+  "abstract": "Social media is indeed a wondrous thing. News events,\nproducts to sell, fund-raising efforts and family moments can\nbe instantly disseminated, long-lost school-friends and distant\ncousins can be rediscovered, and you can be entertained by heartwarming\nvideo clips of kittens and puppies being cute - if that’s\nyour thing.",
+  "body": {
+    "pars": [
+      "Social media is indeed a wondrous thing. News events,\nproducts to sell, fund-raising efforts and family moments can\nbe instantly disseminated, long-lost school-friends and distant\ncousins can be rediscovered, and you can be entertained by heartwarming\nvideo clips of kittens and puppies being cute - if that’s\nyour thing.",
+      "And then there’s the ‘news’. When it all started way back\nthere in the early nineties, one of the main positives cited by the\nenthusiasts was the democratisation of the media. It was the age\nof citizen journalism when news was raw and unfiltered - not\npresented through the eyes of the big, powerful media barons or\ninfluenced by some conspiracy driven government agenda.",
+      "The ordinary people were certainly given the power to tell\nit how it was. But here’s the rub. Now anyone can say anything\nand claim it as the truth. And, much worse than the mainstream\nmedia, they can do it anonymously and so bear no responsibility.",
+      "So as much as we might complain about some elements of\nthe media being loose with the truth and driven by their own\nagendas, at least we can identify who has written and potentially\nhold them to account.",
+      "But there’s an even greater problem. Misinformation,\ndistorted opinion based on non-facts, defamation and blatant\nlies are not just posted, but they spread like the wildfire we are\nnow so familiar with, creating a whole new ‘weather’ situation\n(or reality) of its own. And what fans the flames? That SHARE\nbutton so many are willing to click without a thought!",
+      "So when you get the urge to share something that, at first\nglance, might even align with your own opinion, please check\nthe facts, consider who it is coming from (if you know) and the\neffect of spreading this message onto others. And remember -\njust because you agree with it doesn’t make it true!"
+    ]
+  },
+  "published": true
+}

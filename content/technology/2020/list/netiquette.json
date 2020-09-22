@@ -1,0 +1,23 @@
+{
+  "sling:resourceType":"wnews/page/article",
+  "date": "2020-07-02",
+  "title": "Netiquette: How to behave yourself online",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/07/512px-Twemoji_1f607.svg.png",
+  "abstract": "Netiquette is a term that was coined in the infancy of the Internet, even before the World Wide Web was born. Early Internet pioneers could see the need to establish guidelines for online behaviour in the same way they could see how easy it was for text-based communication to lead to `flame wars` due to the lack of emotional cues (hence the birth of emoticons, or emojis).",
+  "body": {
+    "pars": [
+      "Human behaviour has come a long way from the days of indiscriminate fighting and violence that plagues our ancient (and not so ancient) history.",
+      "Modern society is built on a mutual respect of the other and a recognition that diplomacy is usually the best way to resolve conflicts.",
+      "Unfortunately for all of our technological wizardry and marvels we've been able to conjure in cyberspace, that principle of mutual respect appears to have been lost on many individuals.",
+      "Perhaps it is the assumption that the Internet isn't a real, tangible construct, so whatever happens there doesn't matter. Or maybe it provides the opportunity for some to role-play as a villain or some other fantasy they could never experience in the `real` world.",
+      "Whatever the motives, there must be at some point a realisation that the Internet is made up of many individuals, just like you and me, and the things we say and do online do actually have an impact, for better or worse.",
+      "For this reason, we need to remind ourselves frequently of the principles of good online behaviour, and at the very least avoid those bad habits and behaviours that can have a detrimental effect on others.",
+      "<strong>Netiquette</strong>",
+      "Netiquette is a term that was coined in the infancy of the Internet, even before the World Wide Web was born. Early Internet pioneers could see the need to establish guidelines for online behaviour in the same way they could see how easy it was for text-based communication to lead to `flame wars` due to the lack of emotional cues (hence the birth of emoticons, or emojis).",
+      "Over time we have forgotten about Netiquette, just as we have forgotten what life was like before digital communication became such a central part of our lives. But we can refresh our memory with a simple online search for `Netiquette`.",
+      "There are many great resources available from both local and international sources, we just need to take the time to explore and educate ourselves about how we can be better `Netizens` and remind ourselves that the people we see on the Internet are just as real as those we walk past in the street every day."
+    ]
+  },
+  "published": true,
+  "sidebar": "/content/wnews/technology/2020/list/rules-of-netiquette"
+}
