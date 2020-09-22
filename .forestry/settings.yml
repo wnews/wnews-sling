@@ -7,15 +7,12 @@ sections:
 - type: document
   path: content/contact.json
   label: Contact Us
-  match: "**/*"
 - type: document
   path: content/subscribe.json
   label: Subscriptions
-  match: "**/*"
 - type: document
   path: content/advertising.json
   label: Advertising
-  match: "**/*"
 - type: document
   path: content/index.json
   label: Home Page
