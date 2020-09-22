@@ -43,8 +43,8 @@
     <h1 data-th-text="${article.metadata.title}">[TITLE]</h1>
     <p class="date-published" data-th-text="${article.metadata.publishedDate}">[DATE]</p>
 
-    <div data-th-if="${article.metadata.image}">
-        <img data-th-src="|/content/wnews/media/${article.metadata.image}|" data-th-alt="|${article.metadata.title} image|"/>
+    <div data-th-if="${not #strings.isEmpty(article.metadata.image)}">
+        <img data-th-src="${article.metadata.image}" data-th-alt="|${article.metadata.title} image|"/>
     </div>
 
 <!--    <div data-th-each="par : ${article.valueMap['pars']}">-->
@@ -57,8 +57,8 @@
 <article class="article-link wnews-article" data-th-fragment="summary(article)">
     <h1 data-th-text="${article.metadata.title}">[TITLE]</h1>
     <p class="date-published" data-th-text="${article.metadata.publishedDate}">[DATE]</p>
-    <div data-th-if="${article.metadata.image}">
-        <img data-th-src="|/content/wnews/media/${article.metadata.image}|" data-th-alt="|${article.metadata.title} image|"/>
+    <div data-th-if="${not #strings.isEmpty(article.metadata.image)}">
+        <img data-th-src="${article.metadata.image}" data-th-alt="|${article.metadata.title} image|"/>
     </div>
     <p data-th-text="${article.abstract}">[ABSTRACT]</p>
     <a data-th-href="|${article.resource.path}.html|"><span class="link"></span></a>
@@ -68,11 +68,11 @@
     <h1 data-th-text="${article.metadata.title}">Full Article</h1>
     <p class="date-published" data-th-text="${article.metadata.publishedDate}">1970-01-01</p>
 
-    <div data-th-if="${article.metadata.image}">
-        <img class="shadow" data-th-src="|/content/wnews/media/${article.metadata.image}|" data-th-alt="|${article.metadata.title} image|"/>
+    <div data-th-if="${not #strings.isEmpty(article.metadata.image)}">
+        <img class="shadow" data-th-src="${article.metadata.image}" data-th-alt="|${article.metadata.title} image|"/>
     </div>
 
-    <th:block data-th-if="${article.sidebar}">
+    <th:block data-th-if="${not #strings.isEmpty(article.sidebar)}">
         <div data-th-replace="/apps/wnews/page/fragments/article.html::sidebar(${article.sidebar})">
         </div>
     </th:block>

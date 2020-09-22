@@ -19,7 +19,7 @@
 
 <article data-th-fragment="thumbnail(frontpage)">
     <a data-th-href="|${frontpage.resource.path}.html|">
-        <img class="img-thumbnail img-fluid" data-th-src="|/content/wnews/media/${frontpage.metadata.image}|" data-th-alt="|${frontpage.metadata.title} image|"/>
+        <img class="img-thumbnail img-fluid" data-th-src="${frontpage.metadata.image}" data-th-alt="|${frontpage.metadata.title} image|"/>
     </a>
 </article>
 
@@ -27,7 +27,7 @@
     <h1 data-th-text="${frontpage.metadata.title}">[TITLE]</h1>
     <p>
         <a data-th-href="|${frontpage.resource.path}.html|" class="full-page">
-            <img data-th-src="|/content/wnews/media/${frontpage.metadata.image}|" data-th-alt="|${frontpage.metadata.title} image|"/>
+            <img data-th-src="${frontpage.metadata.image}" data-th-alt="|${frontpage.metadata.title} image|"/>
         </a>
     </p>
 </article>

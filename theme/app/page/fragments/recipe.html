@@ -18,7 +18,7 @@
 
 <article data-th-fragment="thumbnail(recipe)">
     <a data-th-href="|${recipe.resource.path}.html|">
-        <img class="img-thumbnail img-fluid" style="margin: 50px" data-th-src="|/content/wnews/media/${recipe.metadata.image}|" data-th-alt="|${recipe.metadata.title} image|"/>
+        <img class="img-thumbnail img-fluid" style="margin: 50px" data-th-src="${recipe.metadata.image}" data-th-alt="|${recipe.metadata.title} image|"/>
     </a>
 </article>
 
@@ -26,11 +26,11 @@
     <h1 data-th-text="${recipe.metadata.title}">[TITLE]</h1>
     <p>
         <a data-th-href="|${recipe.resource.path}.html|">
-            <img class="shadow" data-th-src="|/content/wnews/media/${recipe.metadata.image}|" data-th-alt="|${recipe.metadata.title} image|"/>
+            <img class="shadow" data-th-src="${recipe.metadata.image}" data-th-alt="|${recipe.metadata.title} image|"/>
         </a>
     </p>
 
-    <th:block data-th-if="${recipe.sidebar}">
+    <th:block data-th-if="${not #strings.isEmpty(recipe.sidebar)}">
         <div data-th-replace="/apps/wnews/page/fragments/recipe.html::sidebar(${recipe.sidebar})">
         </div>
     </th:block>

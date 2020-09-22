@@ -29,7 +29,7 @@
 
 <article class="wnews-list-media" data-th-fragment="thumbnail(business)">
     <a data-th-href="|${business.resource.path}.html|">
-        <img class="img-thumbnail img-fluid" data-th-src="|/content/wnews/media/${business.metadata.image}|" data-th-alt="|${business.metadata.title} image|"/>
+        <img class="img-thumbnail img-fluid" data-th-src="${business.metadata.image}" data-th-alt="|${business.metadata.title} image|"/>
     </a>
 </article>
 

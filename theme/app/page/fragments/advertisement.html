@@ -12,13 +12,13 @@
 
 <article data-th-fragment="sidebar(advertisement)">
     <a data-th-href="|${advertisement.resource.path}.html|" class="full-page">
-        <img class="img-fluid" data-th-src="|/content/wnews/media/${advertisement.media}|" data-th-alt="|${advertisement.metadata.title} image|"/>
+        <img class="img-fluid" data-th-src="${advertisement.media}" data-th-alt="|${advertisement.metadata.title} image|"/>
     </a>
 </article>
 
 <div data-th-fragment="inline(advertisement)">
     <a data-th-href="|${advertisement.resource.path}.html|" class="full-page">
-        <img class="img-fluid" style="float:none" data-th-src="|/content/wnews/media/${advertisement.media}|" data-th-alt="|${advertisement.title} image|"/>
+        <img class="img-fluid" style="float:none" data-th-src="${advertisement.media}" data-th-alt="|${advertisement.title} image|"/>
     </a>
 </div>
 
