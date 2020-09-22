@@ -11,7 +11,7 @@
         <meta property="og:url" data-th-content="|https://www.wnews.org.au${resolver.map(request, resource.path)}.html|" />
         <meta property="og:title" data-th-content="|Waranga News - ${meta.title}|" />
         <meta property="og:type" content="article" />
-        <th:block data-th-if="${page.media != null}">
+        <th:block data-th-if="${not #strings.isEmpty(page.media)}">
 <!--            <meta property="og:image" data-th-content="|http://www.wnews.org.au/media/${page.media}|"/>-->
             <meta property="og:image:secure_url" data-th-content="|https://www.wnews.org.au/media/${page.media}|"/>
         </th:block>
