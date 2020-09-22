@@ -21,13 +21,18 @@ fields:
   name: published
   label: published
 - name: body
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Body
+  type: field_group
+  config: {}
+  fields:
+  - name: content
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: content
+  label: body
 pages:
 - content/articles/2014/list/lorem-ipsum-2.json
