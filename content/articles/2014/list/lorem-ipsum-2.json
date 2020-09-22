@@ -5,7 +5,9 @@
   "media": "",
   "abstract": "This is a test",
   "published": false,
-  "body": "<h1>Tthis is a test</h1>\n\nTHis is a test\n\n<pre>formatted</pre>"
+  "body": {
+    "content": "<h1>Test 1</h1>\n\nThis is a test.\n\n<pre>formatted</pre>\n"
+  }
 }
 # Test 1
 
