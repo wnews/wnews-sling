@@ -29,8 +29,17 @@ fields:
 - type: boolean
   name: published
   label: published
+- name: sidebar
+  type: text
+  config:
+    required: false
+  label: sidebar
+- name: related
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: related
 pages:
-- content/articles/2014/list/community-life.json
 - content/articles/2014/list/lorem-ipsum.json
-- content/articles/2015/list/centenary-anzac-day.json
-- content/articles/2015/list/save-the-trees.json
