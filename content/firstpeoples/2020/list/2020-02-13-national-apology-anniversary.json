@@ -1,5 +1,5 @@
 {
-  "sling:resourceType":"wnews/page/article",
+  "sling:resourceType": "wnews/page/article",
   "feature": true,
   "date": "2020-02-13",
   "title": "12th anniversary of National Apology",
@@ -15,5 +15,10 @@
       "Crowds of people across Australia watched the Apology on screens in their own cities and towns. Photographic and video records of those witnessing the Apology show sombre and reflective faces as the Prime Minister spoke of the wrongs governments had inflicted on Indigenous peoples across Australia and a huge wave of tears, relief and applause flowed when he finished speaking."
     ]
   },
-  "published": false
+  "published": false,
+  "media": "",
+  "sidebar": "",
+  "related": [
+
+  ]
 }
