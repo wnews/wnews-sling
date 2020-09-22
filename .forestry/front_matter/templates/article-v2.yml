@@ -1,0 +1,29 @@
+---
+label: Article v2
+hide_body: true
+fields:
+- type: text
+  name: sling:resourceType
+  label: sling:resourceType
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: file
+  name: media
+  label: media
+- type: textarea
+  name: abstract
+  label: abstract
+- type: field_group
+  name: body
+  label: body
+  fields:
+  - type: list
+    name: pars
+    label: pars
+- type: boolean
+  name: published
+  label: published
