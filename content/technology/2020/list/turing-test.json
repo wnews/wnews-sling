@@ -1,5 +1,5 @@
 {
-  "sling:resourceType":"wnews/page/article",
+  "sling:resourceType": "wnews/page/article",
   "date": "2020-01-01",
   "title": "Turing Test",
   "abstract": "In 1950, Alan Turing, a prominent Computer Scientist, devised a test to evaluate the ability of a machine to mimic human behaviour.",
@@ -10,5 +10,10 @@
       "The test is concluded when the evaluator is able to confidently identify the machine participant. If the evaluator is unable to reliably identify the machine participant the machine is said to have passed the Turing Test."
     ]
   },
-  "published": false
+  "published": false,
+  "media": "",
+  "sidebar": "",
+  "related": [
+
+  ]
 }

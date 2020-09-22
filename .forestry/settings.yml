@@ -21,7 +21,7 @@ sections:
   label: Not a Robot
   create: all
   match: "**/list/*"
-  new_doc_ext: ".json"
+  new_doc_ext: json
 - type: document
   path: content/index.json
   label: Home Page
