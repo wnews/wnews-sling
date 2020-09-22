@@ -1,5 +1,5 @@
 {
-  "sling:resourceType":"wnews/page/article",
+  "sling:resourceType": "wnews/page/article",
   "date": "2020-02-27",
   "title": "Beware of Share",
   "abstract": "Social media is indeed a wondrous thing. News events,\nproducts to sell, fund-raising efforts and family moments can\nbe instantly disseminated, long-lost school-friends and distant\ncousins can be rediscovered, and you can be entertained by heartwarming\nvideo clips of kittens and puppies being cute - if that’s\nyour thing.",
@@ -13,5 +13,10 @@
       "So when you get the urge to share something that, at first\nglance, might even align with your own opinion, please check\nthe facts, consider who it is coming from (if you know) and the\neffect of spreading this message onto others. And remember -\njust because you agree with it doesn’t make it true!"
     ]
   },
-  "published": true
+  "published": true,
+  "media": "",
+  "sidebar": "",
+  "related": [
+
+  ]
 }
