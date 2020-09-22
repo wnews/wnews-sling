@@ -15,7 +15,7 @@ sections:
   label: Cooks Column
   create: all
   match: "**/list/*"
-  new_doc_ext: ".json"
+  new_doc_ext: json
 - type: directory
   path: content/firstpeoples
   label: Waranga Dreaming
