@@ -7,7 +7,6 @@ sections:
 - type: document
   path: content/index.json
   label: Home Page
-  match: "**/*"
 - type: directory
   path: content/firstpeoples
   label: Waranga Dreaming

@@ -1,0 +1,22 @@
+---
+label: Home Page
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: text
+  name: author
+  label: author
+- type: text
+  name: feature
+  label: feature
+- type: text
+  name: sling:resourceType
+  label: sling:resourceType
+- type: text
+  name: jcr:primaryType
+  label: jcr:primaryType
