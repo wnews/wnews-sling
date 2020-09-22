@@ -1,5 +1,5 @@
 {
-  "sling:resourceType":"wnews/page/article",
+  "sling:resourceType": "wnews/page/article",
   "date": "2020-01-01",
   "title": "I Am Not A Robot",
   "sidebar": "/content/wnews/technology/2020/list/turing-test",
@@ -15,5 +15,8 @@
       "So next time you are asked to identify street signs you can be assured that at least once Google doesn't know exactly who you are and what you are doing."
     ]
   },
-  "published": true
+  "published": true,
+  "related": [
+
+  ]
 }
