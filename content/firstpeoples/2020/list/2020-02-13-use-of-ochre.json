@@ -1,5 +1,5 @@
 {
-  "sling:resourceType":"wnews/page/article",
+  "sling:resourceType": "wnews/page/article",
   "feature": true,
   "date": "2020-02-13",
   "title": "Use of ochre",
@@ -25,6 +25,11 @@
     ]
   },
   "published": true,
-  "related": ["possum-skin-cloaks"],
-  "sidebar": ["/content/wnews/firstpeoples/2020/list/national-apology-anniversary"]
+  "related": [
+    "possum-skin-cloaks"
+  ],
+  "sidebar": [
+    "/content/wnews/firstpeoples/2020/list/national-apology-anniversary"
+  ],
+  "media": ""
 }
