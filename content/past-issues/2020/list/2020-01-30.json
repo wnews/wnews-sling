@@ -1,6 +1,7 @@
 {
   "sling:resourceType": "wnews/page/front-page",
   "title": "January 30, 2020",
+  "date": "2020-01-30",
   "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2020/01/wnews20200130-0001.jpg",
   "abstract": "",
   "body": {},

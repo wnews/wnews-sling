@@ -1,6 +1,7 @@
 {
   "sling:resourceType": "wnews/page/front-page",
   "title": "February 27, 2020",
+  "date": "2020-02-27",
   "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2020/02/wnews20200227-01.jpg",
   "abstract": "",
   "body": {},

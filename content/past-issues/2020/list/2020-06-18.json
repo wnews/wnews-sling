@@ -1,6 +1,7 @@
 {
   "sling:resourceType": "wnews/page/front-page",
   "title": "June 18, 2020",
+  "date": "2020-06-18",
   "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2020/06/wnews20200618-01.jpg",
   "abstract": "",
   "body": {},
