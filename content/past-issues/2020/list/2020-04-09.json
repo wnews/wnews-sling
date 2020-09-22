@@ -1,0 +1,9 @@
+{
+  "sling:resourceType": "wnews/page/front-page",
+  "title": "April 9, 2020",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2020/04/wnews20200409-01.jpg",
+  "abstract": "",
+  "body": {},
+  "comments": "enabled",
+  "published": true
+}

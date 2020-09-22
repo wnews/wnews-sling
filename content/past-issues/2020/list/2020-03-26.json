@@ -1,0 +1,9 @@
+{
+  "sling:resourceType": "wnews/page/front-page",
+  "title": "March 26, 2020",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2020/03/wnews20200326-01.jpg",
+  "abstract": "",
+  "body": {},
+  "comments": "enabled",
+  "published": true
+}
