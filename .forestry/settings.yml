@@ -4,6 +4,27 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: content/articles
+  label: Articles
+  create: all
+  match: "**/list/*"
+  new_doc_ext: json
+- type: directory
+  path: content/firstpeoples
+  label: Waranga Dreaming
+  create: all
+  match: "**/list/*"
+  new_doc_ext: json
+- type: directory
+  path: content/technology
+  label: Not a Robot
+  create: all
+  match: "**/list/*"
+  new_doc_ext: ".json"
+- type: document
+  path: content/index.json
+  label: Home Page
 - type: document
   path: content/contact.json
   label: Contact Us
@@ -13,15 +34,6 @@ sections:
 - type: document
   path: content/advertising.json
   label: Advertising
-- type: document
-  path: content/index.json
-  label: Home Page
-- type: directory
-  path: content/firstpeoples
-  label: Waranga Dreaming
-  create: all
-  match: "**/list/*"
-  new_doc_ext: json
 - type: directory
   path: content/directory
   label: Trades & Services
@@ -31,12 +43,6 @@ sections:
 - type: directory
   path: content/advertisements
   label: Advertisments
-  create: all
-  match: "**/list/*"
-  new_doc_ext: json
-- type: directory
-  path: content/articles
-  label: Articles
   create: all
   match: "**/list/*"
   new_doc_ext: json
