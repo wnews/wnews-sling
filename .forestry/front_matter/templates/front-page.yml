@@ -17,3 +17,5 @@ fields:
 - type: boolean
   name: published
   label: published
+pages:
+- content/past-issues/2020/list/2020-05-07.json
