@@ -4,7 +4,8 @@
   "date": "2020-09-22T00:00:00+10:00",
   "media": "",
   "abstract": "This is a test",
-  "published": false
+  "published": false,
+  "body": "<h1>Tthis is a test</h1>\n\nTHis is a test\n\n<pre>formatted</pre>"
 }
 # Test 1
 
