@@ -1,6 +1,6 @@
 ---
 label: Article v2
-hide_body: false
+hide_body: true
 fields:
 - type: text
   name: sling:resourceType
@@ -20,5 +20,14 @@ fields:
 - type: boolean
   name: published
   label: published
+- name: body
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Body
 pages:
 - content/articles/2014/list/lorem-ipsum-2.json
