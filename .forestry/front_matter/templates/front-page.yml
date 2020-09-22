@@ -14,12 +14,6 @@ fields:
 - type: text
   name: abstract
   label: abstract
-- type: field_group
-  name: body
-  label: body
-- type: text
-  name: comments
-  label: comments
 - type: boolean
   name: published
   label: published
