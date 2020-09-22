@@ -1,0 +1,33 @@
+{
+  "sling:resourceType": "wnews/page/recipe",
+  "date": "2020-04-23",
+  "title": "Cauliflower Fritters",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/04/wnews20200423-062.jpg",
+  "abstract": "We had a head of cauli in the fridge and it\nneeded using, I decided that perhaps making\nfritters would be a more palatable way to\nconsume it and ensure the cauli wasn’t\nwasted. I did an internet search for a recipe\nthat appealed, and I’ve since made it twice\nwith some tweaking of the recipe on the\nsecond attempt, so the following is my own\nversion.",
+  "body": {
+    "pars": [
+      "We had a head of cauli in the fridge and it\nneeded using, I decided that perhaps making\nfritters would be a more palatable way to\nconsume it and ensure the cauli wasn’t\nwasted. I did an internet search for a recipe\nthat appealed, and I’ve since made it twice\nwith some tweaking of the recipe on the\nsecond attempt, so the following is my own\nversion."
+    ]
+  },
+  "ingredients": [
+    "850g cauliflower, trimmed, cut into florets\n(don’t be too fussy cutting it up)",
+    "1 ¼ cups self-raising flour",
+    "1 garlic clove",
+    "¼ cup flat leaf parsley",
+    "1 cup grated parmesan cheese",
+    "2 eggs, lightly beaten",
+    "olive oil, for shallow frying",
+    "2 sliced spring onions",
+    "some paprika, pepper and salt for extra\nflavours (next time I’ll add some chilli!)",
+    "Added 1 cup of grated cheddar cheese.",
+    "fruit chutney, to serve (I instead used\nnatural Greek yoghurt with finely sliced\nspring onions)"
+  ],
+  "method": [
+    "Preheat oven to 150 degrees Celsius. Bring\na saucepan of salted water to the boil over\nhigh heat. Add cauliflower. Return to the boil\nand cook, uncovered, for 4-6 minutes or until\ntender. Drain. Transfer to a board and roughly\nchop (I just drained with colander and mashed\nit in the saucepan). Set aside to cool.",
+    "Sift the flour over cooled cauli. Add\ngarlic, parsley and parmesan (plus any other\nadditions you’ve decided on). Stir to combine.\nPour over egg and stir until well combined.\nSlowly add ¼ cup of water, stirring until a\nthick batter forms.\nN.B. I found I needed to add dribbles of\nwater to the batter throughout the process as\nit tended to thicken while sitting.",
+    "Add enough oil to a large, non-stick frying\npan to cover base. Heat over medium heat\nuntil oil is hot. Using ¼ cup of mixture per\nfritter, spoon fritters into hot oil. Cook for\n4-5 minutes each side or until golden and\ncooked through. Transfer to a wire rack.\nPlace in oven to keep warm while cooking\nremaining fritters",
+    "Fritters can be served hot or cold\n… Enjoy! Claire"
+  ],
+  "testimonials": "enabled",
+  "published": true
+}

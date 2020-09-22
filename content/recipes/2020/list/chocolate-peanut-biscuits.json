@@ -1,0 +1,29 @@
+{
+  "sling:resourceType": "wnews/page/recipe",
+  "date": "2020-03-26",
+  "title": "Chocolate Peanut Biscuits",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/03/wnews20200326-056.jpg",
+  "abstract": "We were off to Bright for our annual family long\nweekend, pledging that we’d buy as much as we could in\nthat town to support these communities that rely on tourism\nand who have been so severely hit by the bushfires.",
+  "body": {
+    "pars": [
+      "We were off to Bright for our annual family long\nweekend, pledging that we’d buy as much as we could in\nthat town to support these communities that rely on tourism\nand who have been so severely hit by the bushfires.",
+      "But, we ALWAYS have to take Perry’s snags – that’s\nwritten in concrete. And I like to take some home-made\nbiscuits. This is what I made."
+    ]
+  },
+  "ingredients": [
+    "250g melted butter",
+    "380g SR flour",
+    "2 heaped tbspn cocoa",
+    "1 tspn salt",
+    "2 eggs beaten with",
+    "1½ cups raw sugar",
+    "1 tspn vanilla essence",
+    "2 cups unsalted peanuts"
+  ],
+  "method": [
+    "Add melted butter and beaten eggs and sugar\nto dry ingredients. Mix well and add peanuts."
+  ],
+  "testimonials": "enabled",
+  "published": true,
+  "sidebar": "/content/wnews/recipes/2020/list/margs-nut-biscuits"
+}

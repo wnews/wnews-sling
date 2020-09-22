@@ -1,0 +1,37 @@
+{
+  "sling:resourceType": "wnews/page/recipe",
+  "date": "2020-03-12",
+  "title": "Quick and Easy Satay Chicken",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/03/wnews20200312-054.jpg",
+  "abstract": "Simple to make, easy to cook, quick to prepare, and a family favourite that has fed many people at short notice, as needed. It’s a winner! Add it to your quick and easy recipe file.",
+  "body": {
+    "pars": [
+      "Simple to make, easy to cook, quick to prepare, and a family favourite that has fed many people at short notice, as needed. It’s a winner! Add it to your quick and easy recipe file."
+    ]
+  },
+  "ingredients": [
+    "4 chicken thigh fillets",
+    "1 medium onion",
+    "1 tbsp oil (I used peanut oil)",
+    "2/3 cup frozen peas",
+    "1 cup of water",
+    "1 tsp curry powder",
+    "4-5 tbsp peanut butter (smooth or crunchy depending on your texture preference)",
+    "3 tbsp Golden Syrup",
+    "a ‘glug’ of soy sauce"
+  ],
+  "method": [
+    "Dice the chicken thighs. Roughly dice the onion.",
+    "Heat oil in deep fry pan on medium heat. Cook onions until softened slightly.",
+    "Add the diced chicken thighs, and brown.",
+    "Once chicken has browned lightly, add the combined cup of water and curry powder.",
+    "Stir in the peanut butter and golden syrup. Keep stirring until mixture thickens slightly.",
+    "Reduce heat and cover. Let mixture simmer for 15 minutes, stirring occasionally. If mixture thickens too much, add small amounts of water until right consistency.",
+    "After 15 minutes simmering, add the frozen peas and glug of soy sauce.",
+    "Cover again and cook on low for a further five minutes until peas have cooked.",
+    "Serve with boiled rice and sprinkled over spring onions to garnish",
+    "DEEEEELICIOUS!"
+  ],
+  "testimonials": "enabled",
+  "published": true
+}

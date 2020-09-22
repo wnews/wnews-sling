@@ -1,0 +1,21 @@
+{
+  "sling:resourceType": "wnews/page/recipe",
+  "date": "2020-02-27",
+  "title": "Salsa Verde",
+  "ingredients": [
+    "1/2 cup coarsely chopped parsley",
+    "1/4 cup coarsely chopped basil",
+    "1 garlic clove",
+    "2 tsp baby capers",
+    "1 tsp Dijon mustard",
+    "1/4 cup olive oil",
+    "2 tsp red wine vinegar"
+  ],
+  "method": [
+    "Combine parsley, basil, garlic and capers in a small bowl and whisk together mustard, oil and vinegar until thickened.",
+    "Season.",
+    "I used my small herb chopper and added some extra herbs to make up the quantity."
+  ],
+  "testimonials": "enabled",
+  "published": false
+}

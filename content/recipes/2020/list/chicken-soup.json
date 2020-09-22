@@ -1,0 +1,43 @@
+{
+  "sling:resourceType": "wnews/page/recipe",
+  "date": "2020-04-09",
+  "title": "Chicken Soup Recipe",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/04/wnews20200409-041.jpg",
+  "abstract": "My recipe this edition is for slow cooked chicken broth/stock.\nFull of nutrition and goodness. In this time of isolation it’s a\ngreat way to fill a few hours, the house smells wonderful and\ndepending on the mood, the children can be enlisted to help\nwith the preparations.",
+  "body": {
+    "pars": [
+      "My recipe this edition is for slow cooked chicken broth/stock.\nFull of nutrition and goodness. In this time of isolation it’s a\ngreat way to fill a few hours, the house smells wonderful and\ndepending on the mood, the children can be enlisted to help\nwith the preparations.",
+      "I’ve made this or variations of it once a fortnight which is\nabout how long it lasts me. I use Maggie Beer’s “Golden chicken\nstock” recipe as my guide, but I’ll give the full details here. You\ncan decide how to proceed with the goodies you have on hand.",
+      "I use slow cooker. A stockpot or stove top boiler will be\nperfect. This makes about 3.5 litres."
+    ]
+  },
+  "ingredients": [
+    "1x 2.2 chicken cut into pieces. If you are using bones only you’ll\nneed about 3kgs (wings, necks, thigh, legs)",
+    "2 lge brown onions",
+    "1 lge carrot",
+    "Extra virgin olive oil (for cooking)",
+    "100ml verjuice (only when I have it on hand. Wine is good)",
+    "1 lge leek, washed and chopped",
+    "1 stick celery, washed and chopped",
+    "1 bay leaf",
+    "6 sprigs thyme",
+    "6 stalks flat leaf parsley",
+    "1 whole bulb garlic, cut in 1/2 widthways.",
+    "1 also add about 2 cm sliced fresh ginger and fresh tumeric\nchopped.",
+    "The herbs I also chuck in are coriander, basil and anything\nI have growing. For me its about the aroma and flavour of the\nherbs. Powdered tumeric is okay; sprinkle over the chicken\nbefore you add to the pot."
+  ],
+  "method": [
+    "Pre heat oven to 200 deg C.",
+    "Combine chicken carrot and onion to a roasting pan drizzle\nwith the olive oil. Roast for about 20-25mins or until golden\nbrown.",
+    "Transfer chicken and vegetables to the stockpot or slow\ncooker and place roasting pan on the stove over high heat. Add\nthe verjuice or wine to deglaze the pan, scrape up all the bits and\nsimmer for about a minute, then tip juices into stock pot. Add the\nother chopped veg and herbs and 4 litres of water. The chicken\nand veg should be covered. Bring to simmer over high heat then\nreduce the heat to low and cook for about 3 hours. Skim off any\nimpurities during cooking.",
+    "Strain the stock through a fine sieve into a bowl, then cool\nquickly by placing in a sink of cold water. Refrigerate or freeze\nuntil needed. Remove any solidified fat before using.",
+    "I don’t always pre roast my chicken, plus I use some store\nbought chick stock, as well as water, to make up the liquid.",
+    "This recipe is certainly open to variations. Anything can be\nthrown in. I don’t chop my herbs; they go in stalks and all.",
+    "If you want to use the stock for chicken soup, then remove\nsome of the chicken meat from the stock once it’s cooked\nthrough. I also use the stock to poach chicken thighs and my fave\nis to poach an egg in the stock for breakfast. I freeze in small\nportions and often have a mug of soup for a snack or lunch.",
+    "Oh, I slow cook my batches for minium “12 hours”..",
+    "The photo is of the raw ingredients to show how much to use\nand also a stock pot of\nsoup doesn’t make a\npretty picture.",
+    "Bon appetite. Stay\nwell, stay healthy, and\nthis will make you\nstay home for hours\ncooking."
+  ],
+  "testimonials": "enabled",
+  "published": true
+}

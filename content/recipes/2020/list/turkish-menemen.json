@@ -1,0 +1,35 @@
+{
+  "sling:resourceType": "wnews/page/recipe",
+  "date": "2020-07-16",
+  "title": "Turkish Menemen",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/07/wnews20200716-045.jpg",
+  "abstract": "Multiculturalism in Australia contributes\nso much to our way of life in so many ways,\nbut probably the stand-out for many of us\nis . . . interesting and delicious food!",
+  "body": {
+    "pars": [
+      "Multiculturalism in Australia contributes\nso much to our way of life in so many ways,\nbut probably the stand-out for many of us\nis . . . interesting and delicious food! And\nbecause we have so much diversity n offer,\nwe can also take and adapt and even mix\nthe dishes up a bit – a true cultural melting\npot!",
+      "This is my take on Turkish Menemen - an\neasy one-pan breakfast dish (or lunch if\nyou like)."
+    ]
+  },
+  "ingredients": [
+    "2 Tbsp olive oil",
+    "1 onion sliced",
+    "2 cloves garlic",
+    "1 red or green capsicum sliced",
+    "1 red chilli deseeded & chopped or chilli\nflakes to taste (optional)",
+    "1 zucchini sliced",
+    "1 eggplant sliced",
+    "400 g can chopped tomatoes",
+    "2-4 eggs (depending on how many people)",
+    "Parsley roughly chopped for garnish",
+    "Natural yoghurt for serving"
+  ],
+  "method": [
+    "Heat the oil in a heavy-based frying\npan. Saute onions, garlic, capsicum, zucchini\nand eggplant* (a little chilli if that’s your\nfancy). Cook until they begin to soften. Add\nthe tomatoes, mixing well. Cook until the\nliquid has reduced, season.",
+    "Using a wooden spoon, create\npockets in the tomato mixture and crack the\neggs into them. Cover the pan and cook the\neggs over a low heat until just set. (If you\nwish you can break the eggs up a bit so that it\nflows into the vegetable mixture.)",
+    "Season to taste and sprinkle the with\nparsley. Serve straight from the pan with a\ndollop of natural yoghurt.",
+    "If you’re not partial to eggplant you\ncan leave it out with little effect on the dish.\nIn fact the real Menemen is made with just\npeppers and tomatoes as the base.",
+    "In the interests of further cultural\ndiversity, or if you would rather get your\nprotein from somewhere other than eggs,\nmy latest discovery is some diced haloumi\n(especially the chilli infused one) is also\ndelicious. ......MJ"
+  ],
+  "testimonials": "enabled",
+  "published": true
+}

@@ -1,0 +1,34 @@
+{
+  "sling:resourceType": "wnews/page/recipe",
+  "date": "2020-02-13",
+  "title": "Tandoori Chicken Salad with Mint Dressing",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/02/wnews20200213-061.jpg",
+  "abstract": "Welcome to a New Year and a fresh start. This was something I admittedly found in the Woolworths ‘Fresh!’ Magazine and it really appealed so I decided to give it a go…",
+  "body": {
+    "pars": [
+      "Welcome to a New Year and a fresh start. This was something I admittedly found in the Woolworths ‘Fresh!’ Magazine and it really appealed so I decided to give it a go…"
+    ]
+  },
+  "ingredients": [
+    "½ BBQ Chicken",
+    "400g can chickpeas",
+    "1 ½ tbsp Tandoori Paste",
+    "¼ cup of olive oil",
+    "2-4 Naan bread (choose any flavour you like… I decided on plain as there was lots of flavour in the salad)",
+    "1 large cucumber",
+    "60g baby spinach leaves",
+    "½ red onion, thinly sliced into rounds",
+    "1 cup Greek-style yoghurt (I used more than the recipe stated as I LOVE Greek yoghurt!)"
+  ],
+  "method": [
+    "Preheat grill on high. Line baking tray with foil. Slice the chicken, discarding skin (I didn’t) and bones, shred the remaining meat.",
+    "Pat dry chickpeas with paper towel (I used a clean tea towel). Mix Tandoori paste with 1 tbsp of oil in a bowl. Add the chickpeas and toss well to coat. Spread over one half of the baking tray. Brush each naan with 1 tbsp oil and place on other side of tray. Cook under grill 3-4 minutes, stirring chickpeas and turning naan halfway, or until naan bread is toasted and golden.",
+    "To make the mint dressing, process mint, lemon juice and oil in a food processor until smooth. Season with salt and pepper. Transfer to a bowl.",
+    "In a large bowl, combine chicken, chickpeas, cucumber, spinach and onion. Drizzle over remaining oil and toss gently to combine.",
+    "Spread yoghurt over base of a large serving platter. Pile salad on top. Drizzle over mint dressing. Scatter over extra mint and serve with naan.",
+    "ENJOY!"
+  ],
+  "testimonials": "enabled",
+  "published": true,
+  "sidebar": "/content/wnews/recipes/2020/list/tandoori-mint-dressing"
+}

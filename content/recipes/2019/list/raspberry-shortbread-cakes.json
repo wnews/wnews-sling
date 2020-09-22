@@ -1,0 +1,34 @@
+{
+  "sling:resourceType": "wnews/page/recipe",
+  "date": "2019-12-12",
+  "title": "Raspberry Shortbread cakes",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2019/12/wnews20191212-086.jpg",
+  "abstract": "The ‘Boss’ said, ‘It’s YOUR turn to do the Cooks Column this edition. Have you anything Christmassy?’",
+  "body": {
+    "pars": [
+      "The ‘Boss’ said, ‘It’s YOUR turn to do the Cooks Column this edition. Have you anything Christmassy?’",
+      "These little shortbread cakes looked good with their red jam - and in red and white polka-dotted patty cake cases - AND served on a Christmas plate!",
+      "That should do it. Bon appetite . . and Happy Holidays.",
+      "<em>Pauline</em>"
+    ]
+  },
+  "ingredients": [
+    "150gm butter",
+    "1 tspn vanilla essence",
+    "1/2 cup icing sugar",
+    "1/2 cup cornflour",
+    "3/4 cup plain flour",
+    "4 tspn raspberry jam",
+    "8 frozen raspberries"
+  ],
+  "method": [
+    "Pre-heat oven 160º. Melt butter in a saucepan large enough to mix all ingredients.",
+    "Remove from heat and mix in vanilla essence",
+    "Sift icing sugar, cornflour and flour mix until combined.",
+    "Grease eight patty pans and fill with mixture. (I was keen to get them all the same size so each of mine weighed 40 gms). Once cooked this filled the patty pans nicely.",
+    "Make a dent in top with your thumb and add 1/2 teaspoon raspberry jam. Top with a frozen raspberry.",
+    "Bake for 45 mins or until cooked. Dust with icing sugar if desired. This makes only eight but the little cakes are rather dense. I think this could also be changed to suit those who are gluten intolerant."
+  ],
+  "testimonials": "enabled",
+  "published": true
+}

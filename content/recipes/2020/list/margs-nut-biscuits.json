@@ -1,0 +1,23 @@
+{
+  "sling:resourceType": "wnews/page/recipe",
+  "date": "2020-03-26",
+  "title": "Marg’s Nut Biscuits",
+  "abstract": "",
+  "body": {
+    "pars": []
+  },
+  "ingredients": [
+    "250g melted butter",
+    "1½ cups raw sugar",
+    "2 cups rolled oats",
+    "2 eggs",
+    "2 cups SR flour",
+    "2 cups cornflakes",
+    "Big cupful peanuts"
+  ],
+  "method": [
+    "Beat eggs and sugar, add melted butter, dry\ningredients. Mix well and add nuts and flakes last."
+  ],
+  "testimonials": "enabled",
+  "published": false
+}
