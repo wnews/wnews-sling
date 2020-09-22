@@ -1,5 +1,5 @@
 {
-  "sling:resourceType":"wnews/page/article",
+  "sling:resourceType": "wnews/page/article",
   "feature": true,
   "date": "2019-12-12",
   "title": "Possum Skin Cloaks",
@@ -22,5 +22,10 @@
       "<em>REFERENCES: Gibbins, Helen, “Possum Skin Cloaks: tradition, continuity and change” in The Latrobe Journal No 85 (May 2010)</em>"
     ]
   },
-  "published": true
+  "published": true,
+  "media": "",
+  "sidebar": "",
+  "related": [
+
+  ]
 }

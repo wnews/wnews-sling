@@ -9,7 +9,7 @@ sections:
   label: Waranga Dreaming
   create: all
   match: "**/list/*"
-  new_doc_ext: ".json"
+  new_doc_ext: json
 - type: directory
   path: content/directory
   label: Trades & Services
