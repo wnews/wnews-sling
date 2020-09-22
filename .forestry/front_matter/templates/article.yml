@@ -16,9 +16,6 @@ fields:
 - type: file
   name: media
   label: media
-- type: text
-  name: abstract
-  label: abstract
 - type: field_group
   name: body
   label: body
@@ -41,6 +38,15 @@ fields:
     min: 
     max: 
   label: related
+- name: abstract
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: abstract
 pages:
 - content/articles/2014/list/lorem-ipsum.json
 - content/firstpeoples/2019/list/2019-12-12-possum-skin-cloaks.json
