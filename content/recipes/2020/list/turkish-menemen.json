@@ -3,7 +3,7 @@
   "date": "2020-07-16",
   "title": "Turkish Menemen",
   "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/07/wnews20200716-045.jpg",
-  "abstract": "Multiculturalism in Australia contributes\nso much to our way of life in so many ways,\nbut probably the stand-out for many of us\nis . . . interesting and delicious food!",
+  "abstract": "Multiculturalism in Australia contributes\nso much to our way of life in so many ways,\nbut probably the stand-out for many of us\nis... interesting and delicious food!",
   "body": {
     "pars": [
       "Multiculturalism in Australia contributes\nso much to our way of life in so many ways,\nbut probably the stand-out for many of us\nis . . . interesting and delicious food! And\nbecause we have so much diversity n offer,\nwe can also take and adapt and even mix\nthe dishes up a bit – a true cultural melting\npot!",
@@ -31,5 +31,6 @@
     "In the interests of further cultural\ndiversity, or if you would rather get your\nprotein from somewhere other than eggs,\nmy latest discovery is some diced haloumi\n(especially the chilli infused one) is also\ndelicious. ......MJ"
   ],
   "testimonials": "enabled",
-  "published": true
+  "published": true,
+  "sidebar": ""
 }
