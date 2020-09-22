@@ -34,5 +34,17 @@ fields:
         format: markdown
     label: content
   label: body
+- name: sidebar
+  type: text
+  config:
+    required: false
+  label: sidebar
+- name: related
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: related
 pages:
 - content/articles/2014/list/lorem-ipsum-2.json
