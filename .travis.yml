@@ -1,19 +1,26 @@
 cache:
   directories:
-    - $HOME/.gradle/wrapper/
+  - "$HOME/.gradle/wrapper/"
 sudo: required
 services:
-  - docker
+- docker
+
 dist: trusty
 language: java
 jdk:
-  - oraclejdk8
-env:
-  - ORG_GRADLE_PROJECT_organization="Waranga News Inc." ORG_GRADLE_PROJECT_projectName="Waranga News" ORG_GRADLE_PROJECT_projectId=wnews ORG_GRADLE_PROJECT_projectUrl="http://wnews.org.au" ORG_GRADLE_PROJECT_gaTrackingId="" ORG_GRADLE_PROJECT_disqusShortName="" ORG_GRADLE_PROJECT_whistlepost_version="1.2.3-develop-SNAPSHOT" ORG_GRADLE_PROJECT_bundleStartLevel=20
+- oraclejdk8
 
+env:
+- ORG_GRADLE_PROJECT_organization="Waranga News Inc." ORG_GRADLE_PROJECT_projectName="Waranga News" ORG_GRADLE_PROJECT_projectId=wnews ORG_GRADLE_PROJECT_projectUrl="http://wnews.org.au" ORG_GRADLE_PROJECT_gaTrackingId="" ORG_GRADLE_PROJECT_disqusShortName="" ORG_GRADLE_PROJECT_bundleStartLevel=20
 
 deploy:
-  provider: script
-  script: scripts/install.sh
+  provider: s3
+  access_key_id: AKIA6GZHUUDORNZDGDEF
+  secret_access_key:
+    secure: sIp8GMNLaBWfJDvKwceogWh108rxPFNBRmjR+BF0MzKEXIK3hwnNY2Xe+wgbA7pMmBJw29U7kI59N+Oi+e2JInEN4yZ0ryaF2qOJNnu9lp4Qv68KH76y+ydLbSX+WxyOOU+l7axoWU3DigVg0NJw1Thupk7mmFOisSWca8MfOS5n2Lv+cGDQuweHQ7XprboZu0GMX+s3tXL1OIHDO5yW4O3+NfvGZMPWNq0K0OUhzXuo7sA2TYeJ1rofwEAord1XvAorfUrDPbRbJQWmx47/IpGe/LL87z36X0RbI198tQq5QVtNv0m7YBGVb/AlkH5gExLNaYkzuMEOS/pvsJ1Xenc4SnbGxnQd1irR/bNRt/UoWx7tvhs0q6BRXo7wJVNo4umNxTUZSGxmNkB+5iWN4Zyb9GcEauZrF1tFHjquYEjDkAfCMfeUtold8aQ7siUsJ21zkW0eZDMoglT6mF1+/j9krJJjERoW78SMundEmiRI6YjQtDMsMvC6x+mZXYBGe8+eSPPh0HbEW35pXJd/BNSZ47TnvMLjwvoGJXVM9ghCh1eUzoQDKbA+Wj/MfXvgOQisAbHrRKCInVfuIIyrtLvkpy0v3sh81eYY8uKde4L8YRlhDG96ODyZEEvslG/bYOPLzq6wZvDczgP8wtl8lPLG9AlhDJzAKXdVDkcNrXI=
+  bucket: 976651329757-wp-uploads
+  local-dir: build/libs
+  upload-dir: wnews
+  acl: bucket_owner_full_control
   on:
-    branch: master
+    branch: develop
