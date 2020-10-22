@@ -1,0 +1,18 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2020-10-23T10:28:42+11:00",
+  "title": "Back to school at last!",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/10/wnews20201022-000.jpg",
+  "body": {
+    "pars": [
+      "Staff and students of Rushworth P-12 College are overjoyed to see each other after their many months of time apart grappling with remote learning.",
+      "Who ever would have thought there would be such excitement - just to be to going to school!"
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "related": [
+
+  ],
+  "abstract": "Who ever would have thought there would be such excitement - just to be to going to school!"
+}

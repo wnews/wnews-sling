@@ -49,6 +49,7 @@ fields:
   label: abstract
 pages:
 - content/articles/2014/list/lorem-ipsum.json
+- content/articles/2020/list/back-to-school-at-last.json
 - content/firstpeoples/2019/list/2019-12-12-possum-skin-cloaks.json
 - content/firstpeoples/2020/list/2020-02-13-national-apology-anniversary.json
 - content/firstpeoples/2020/list/2020-02-13-use-of-ochre.json
