@@ -16,7 +16,6 @@ plugins {
 }
 
 apply plugin: 'java'
-apply plugin: 'docker'
 
 ext {
     projectId = 'wnews'
@@ -73,23 +72,4 @@ artifacts {
     archives bundleApp
     archives bundleConfig
     archives bundleContent
-}
-
-docker {
-    baseImage "micronode/whistlepost:${whistlepost_version}"
-    maintainer organization
-}
-
-task buildDocker(type: Docker) {
-    applicationName = 'wnews/wnews-sling'
-    tagVersion = 'latest'
-    push 'true' == docker_push
-    apiUsername = docker_apiUsername
-    apiPassword = docker_apiPassword
-    apiEmail = docker_apiEmail
-    configurations.archives.allArtifacts.findAll({it.file.exists()}).each {
-        addFile it.file, "/opt/sling/sling/startup/${bundleStartLevel}/"
-    }
-    addFile 'sling.properties', '/opt/sling/'
-    dependsOn build
 }
