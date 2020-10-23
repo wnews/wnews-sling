@@ -20,13 +20,13 @@ apply plugin: 'docker'
 
 processResources {
     filter ReplaceTokens, tokens: [
-        "projectName": projectName,
-        "projectId": projectId,
-        "projectUrl": projectUrl,
-        "projectDomain": (projectUrl =~ /(?:https?:\/\/)(.*)/)[0][1],
-        "organization": organization,
-        "gaTrackingId": gaTrackingId,
-        "disqusShortName": disqusShortName,
+        "projectName": project.findProperty("projectName") ?: "",
+        "projectId": project.findProperty("projectId") ?: "",
+        "projectUrl": project.findProperty("projectUrl") ?: "",
+        "projectDomain": project.hasProperty("projectUrl") ? (projectUrl =~ /(?:https?:\/\/)(.*)/)[0][1] : "",
+        "organization": project.findProperty("organization") ?: "",
+        "gaTrackingId": project.findProperty("gaTrackingId") ?: "",
+        "disqusShortName": project.findProperty("disqusShortName") ?: "",
         "currentYear": Calendar.instance.get(Calendar.YEAR) as String
     ]
 }
