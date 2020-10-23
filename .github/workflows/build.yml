@@ -21,11 +21,21 @@ jobs:
     - name: Build with Gradle
       run: ./gradlew build
 
+     - uses: actions/upload-artifact@master
+       with:
+         name: bundles
+         path: build/libs
+
   deploy:
     needs: build
 
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/download-artifact@master
+        with:
+          name: bundles
+          path: build/libs
+
       - uses: jakejarvis/s3-sync-action@master
         env:
           AWS_S3_BUCKET: ${{ secrets.AWS_S3_BUCKET }}
