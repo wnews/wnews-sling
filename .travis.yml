@@ -1,6 +1,6 @@
-cache:
-  directories:
-  - "$HOME/.gradle/wrapper/"
+#cache:
+#  directories:
+#  - "$HOME/.gradle/wrapper/"
 #sudo: required
 #services:
 #- docker
