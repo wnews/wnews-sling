@@ -18,6 +18,10 @@ plugins {
 apply plugin: 'java'
 apply plugin: 'docker'
 
+ext {
+    projectId = 'wnews'
+}
+
 processResources {
     filter ReplaceTokens, tokens: [
         "projectName": project.findProperty("projectName") ?: "",
