@@ -24,7 +24,7 @@ module.exports = {
 		  {
             loader: 'file-loader',
             options: {
-            	'outputPath': 'images/',
+            	'outputPath': './',
             	'useRelativePath': true,
             	publicPath: '/assets/wnews/images/'
 			}
