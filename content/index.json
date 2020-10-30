@@ -4,6 +4,5 @@
   "author": "Waranga News Inc.",
   "feature": "back-to-school-at-last",
   "sling:resourceType": "wnews/page/index",
-  "jcr:primaryType": "nt:unstructured",
-  "sling:scripting": ["html=Thymeleaf"]
+  "jcr:primaryType": "nt:unstructured"
 }
