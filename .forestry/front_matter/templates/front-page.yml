@@ -29,6 +29,20 @@ fields:
     display_utc: false
     export_format: YYYY-MM-DD
   default: now
+- name: body
+  type: field_group
+  config: {}
+  fields:
+  - name: content
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: content
+  label: body
 pages:
 - content/past-issues/2020/list/2020-05-07.json
 - content/past-issues/2020/list/2020-05-21.json
