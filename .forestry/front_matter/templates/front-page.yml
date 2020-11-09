@@ -18,6 +18,17 @@ fields:
 - type: boolean
   name: published
   label: published
+- name: date
+  type: datetime
+  label: Published Date
+  description: ''
+  config:
+    required: false
+    date_format: ''
+    time_format: 
+    display_utc: false
+    export_format: YYYY-MM-DD
+  default: now
 pages:
 - content/past-issues/2020/list/2020-05-07.json
 - content/past-issues/2020/list/2020-05-21.json
