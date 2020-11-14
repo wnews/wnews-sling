@@ -9,7 +9,7 @@ sections:
   label: All About Wildlife
   create: all
   match: "**/list/*"
-  new_doc_ext: ".json"
+  new_doc_ext: json
 - type: directory
   path: content/kids
   label: Kids Corner
