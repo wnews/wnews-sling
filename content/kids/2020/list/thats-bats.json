@@ -1,0 +1,27 @@
+{
+  "sling:resourceType":"wnews/page/article",
+  "date": "2020-02-13",
+  "title": "That‛s Bats!",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/02/wnews20200213-072.jpg",
+  "abstract": "Bats are the only mammals capable of long, sustained flight and have evolved to be the most widely distributed mammals on Earth. Most bats are nocturnal animals, meaning they search for prey at night and sleep during the day. As they have poor vision, some bats emit echos to detect and locate their prey in the dark.",
+  "body": {
+    "pars": [
+      "Bats are the only mammals capable of long, sustained flight and have evolved to be the most widely distributed mammals on Earth. Most bats are nocturnal animals, meaning they search for prey at night and sleep during the day. As they have poor vision, some bats emit echos to detect and locate their prey in the dark.",
+      "Contrary to popular belief, not all bats live in caves. Bats can be found in trees, mountains, deserts, rock crevices, farm sheds, and rooftops.",
+      "A few species of bats, such as the white-winged and hairy-legged vampire bats, purely feed on animal blood. There are only three species of vampire bat and they only occur in Central and South America. Vampire bats consume blood from large mammals such as cattle; they make a small bite on their prey‛s limbs and lap up the blood as it drips from the cut. Vampire bats have occasionally bitten people (usually someone asleep in a hammock), but when this happens, the vampire bat usually bites the person‛s toe – not their necks as depicted in movies!",
+      "Bats have diverse diets that include more than just blood. They eat nectar, pollen, fruit, birds, insects, frogs, lizards, and much more.",
+      "<strong>Did You Know….</strong>",
+      "<ul><li>Bats are a very important pollinator of native plants and disperse seeds over a wide area.</li><li>There are about 1100 species of bats in the world. Australia has 90 different species of bats.</li><li>The smallest bat in the world is the Bumble Bee Bat which lives in Thailand and weighs only 2 grams.</li><li>The largest bat in the world is the Giant Flying Fox which lives in India and has a wingspan of 1.8 metres.</li><li>Bats cannot stand on their hind legs, they can only hang by their feet and by their thumbs.</li><li>The order name of the bat is called Chiroptera, which means ‘hand wing‛. It‛s called that because their wing structure is almost the same as our hands.</li><li>Some species are threatened with extinction.</li></ul>",
+      "In south-eastern Australia, the most critically endangered species is the Southern Bent-wing Bat (Miniopterus orianae bassanii), a species that occurs only in caves in south-western Victoria and south- eastern South Australia.",
+      "<strong>Microbat or Megabat?</strong>",
+      "Insect eating bats, belong to a group of bats called ‘microbats‛ which find their way through the dark by using ‘echolocation‛, listening to the echoes from their high pitched calls. These calls are usually well above the range of human hearing so we can‛t hear them, but some species like the Whitestriped Freetail Bat can be heard by humans.",
+      "They feed on a range of insects, including many pest species. They can also slow their bodies down and go into torpor (a mild form of hibernation) to save energy when it is cold or when they‛re inactive during the day. They can live a very long time for such small animals, sometimes more than 30 years, but usually 15 to 20 years.",
+      "Microbats eat a LOT! Flying takes considerable energy. As a result they eat lots, up to three-quarters of their own body weight in insects in a night!",
+      "Bats are natural aerial acrobats! While most bats catch insects in their mouths, they can also catch insects in their wing membrane, flick them into the tail membrane, and then grab them with their mouth, all while in flight.",
+      "Megabats, or flying foxes as they are usually called, are a much larger in size with a wingspan of up to one metre. They feed on fruit, blossoms and nectar. They do not use echolocation to navigate at night but have welldeveloped eyes and a strong sense of smell, which helps them locate food. They live in social groups in trees called a “camp” or a “colony”.",
+      "Some larger fruit and nectar eating bats are called ‘flying foxes‛, because their faces look a little like a fox, although they are totally unrelated. Some flying foxes can fly very long distances.",
+      "Flying foxes play an important role in pollination and seed dispersal of fruiting and flowering trees."
+    ]
+  },
+  "published": true
+}
