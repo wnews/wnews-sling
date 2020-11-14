@@ -1,0 +1,35 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2020-11-05T13:54:34+11:00",
+  "title": "Tropical Cyclones",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/11/wnews20201105-034.jpg",
+  "body": {
+    "pars": [
+      "The arrival of warmer weather in Australia results in the formation of tropical cyclones across the northern half of the continent. Have you ever wondered how and why cyclones are named? Lets find out!",
+      "<strong>What is a tropical cyclone?</strong>",
+      "Tropical cyclones (also known as tropical storms, hurricanes and typhoons in other parts of the world) are cyclones that form over warm ocean waters and draw their energy from the evaporation and condensation of that water. They are characterised by a strong area of low pressure at the surface and an area of higher pressure above. Imagine a tall chimney where all the energy comes into the base and gets sucked up to the top.",
+      "Tropical cyclones are associated with strong thunderstorms, high winds, and flooding. They form over the tropical oceans, especially in the Caribbean region and South East Asia, also affecting the northern parts of Australia.",
+      "A cyclonic weather system involves sustained winds of at least 118 km/h. A tropical cyclone of this strength usually develops an eye, an area of calm conditions at the centre of circulation. The eye is often seen from space as a small, round, cloudfree spot. Surrounding the eye is the eye wall, an area in which the strongest thunderstorms and winds spin around the storm’s centre. The fastest sustained wind speed found in tropical cyclones is thought to be 305 km/h.",
+      "Most cyclones occur harmlessly out at sea. However, when they move towards land they can be incredibly dangerous and cause serious damage.",
+      "The storm surge is a massive wall of water, much like a tsunami, that can come out of the cyclone. The damage is caused not just by flooding and strong winds, but also by the actual force of the water moving at very high speeds.",
+      "<strong>How are cyclone names chosen?</strong>",
+      "In the Australian region, the Bureau of Meteorology gives tropical cyclones their name.",
+      "Tropical cyclones are named so the BOM can easily highlight them to the community, and to reduce confusion if more than one cyclone happens at the same time. The practice of naming tropical cyclones (or storms) began years ago to help in the quick identification of storms in warning messages. Humans find names far easier to remember than numbers and technical terms.",
+      "The practice of naming cyclones first started in 1887 when Queensland’s chief weather man Clement Wragge began naming tropical cyclones after the Greek alphabet, fabulous beasts, and politicians who annoyed him.",
+      "After Wragge retired in 1908, the naming of cyclones and storms occurred much less frequently, with only a handful of countries informally naming cyclones. It was almost 60 years later that the BOM formalised the practice, with Western Australia’s Tropical Cyclone Bessie being the first Australian cyclone to be officially named on January 6, 1964.",
+      "Other countries quickly began using female names to identify the storms and cyclones that affected them.",
+      "While the world was giving female names to cyclones and storms, International Women’s Year in 1975 saw Bill Morrison, the then Australian science minister, recognise that both sexes should bear the shame of the devastation caused by cyclones. He ordered cyclones to carry both male and female names, a world first.",
+      "These days the BOM is responsible for naming tropical cyclones in the Australian region, with the names coming from an alphabetical list suggested by the Australian public. These names alternate between male and female. The Bureau of Meteorology receives many requests from the public to name tropical cyclones after themselves, friends, and even pets.",
+      "The Bureau cannot grant all these requests, as they far outnumber the tropical cyclones that occur in the Australian region. Each name on the list must be approved by the World Meteorological Organisation Tropical Cyclone Committee, based in Geneva, Switzerland.",
+      "Cyclone names are reused, but when a tropical cyclone severely impacts the coast, or is deadly, like Debbie in 2017 and Tracy in 1974, the name is permanently retired for reasons of sensitivity.",
+      "If a listed name comes up that matches the name of a well-known person, or someone in the news for a sensitive or controversial reason, the name is skipped to avoid any offence or confusion. (That means we are unlikely to see a Cyclone or Hurricane Donald at any time soon.)",
+      "When a cyclone forms in another region, say near Fiji or in the Indian Ocean, and then travels into the Australian region, the original name given by that region’s weather agency is kept, such as 2019’s Cyclone Oma, which came from Fiji."
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "related": [
+
+  ],
+  "abstract": "The arrival of warmer weather in\nAustralia results in the formation of\ntropical cyclones across the northern\nhalf of the continent. Have you ever\nwondered how and why cyclones are\nnamed? Lets find out!"
+}
