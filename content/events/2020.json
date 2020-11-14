@@ -2,7 +2,7 @@
   "title": "Community Events",
   "sling:resourceType": "wnews/page/default",
   "sling:alias":"current",
-  "sling:vanityPath":"/content/wnews/events",
+  "sling:vanityPath":"/events",
   "jcr:primaryType": "nt:unstructured",
   "sections": {
     "sling:resourceType": "wnews/block/section-list",

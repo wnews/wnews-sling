@@ -2,7 +2,7 @@
   "title": "Local Classifieds",
   "sling:resourceType": "wnews/page/default",
   "sling:alias":"current",
-  "sling:vanityPath":"/content/wnews/classifieds",
+  "sling:vanityPath":"/classifieds",
   "jcr:primaryType": "nt:unstructured",
   "sections": {
     "sling:resourceType": "wnews/block/section-list",

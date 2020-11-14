@@ -3,6 +3,6 @@
   "sling:resourceType":"wnews/page/article-list",
   "jcr:primaryType":"nt:unstructured",
   "sling:alias":"current",
-  "sling:vanityPath":"/content/wnews/technology",
+  "sling:vanityPath":"/technology",
   "pageSize": 6
 }

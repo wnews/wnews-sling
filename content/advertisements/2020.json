@@ -2,7 +2,7 @@
   "title":"Advertisements (2020)",
   "sling:resourceType":"wnews/page/advertisement-list",
   "sling:alias":"current",
-  "sling:vanityPath":"/content/wnews/advertisements",
+  "sling:vanityPath":"/advertisements",
   "jcr:primaryType":"nt:unstructured",
   "pageSize": 7,
   "list": {

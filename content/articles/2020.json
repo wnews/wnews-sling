@@ -2,7 +2,7 @@
   "title":"Articles (2020)",
   "sling:resourceType":"wnews/page/article-list",
   "sling:alias":"current",
-  "sling:vanityPath":"/content/wnews/articles",
+  "sling:vanityPath":"/articles",
   "jcr:primaryType":"nt:unstructured",
   "pageSize": 7,
   "list": {

@@ -2,7 +2,7 @@
   "title":"Trades &amp; Services Directory",
   "sling:resourceType":"wnews/page/business-list",
   "sling:alias":"current",
-  "sling:vanityPath":"/content/wnews/directory",
+  "sling:vanityPath":"/directory",
   "jcr:primaryType":"nt:unstructured",
   "pageSize": 6
 }
