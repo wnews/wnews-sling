@@ -2,7 +2,7 @@
   "title": "A community newspaper staffed by volunteers",
   "description": "Serving the Waranga community for over 30 years",
   "author": "Waranga News Inc.",
-  "feature": "/content/wnews/articles/2020/list/out-and-about-at-last",
+  "feature": "back-to-school-at-last",
   "sling:resourceType": "wnews/page/index",
   "jcr:primaryType": "nt:unstructured"
 }
