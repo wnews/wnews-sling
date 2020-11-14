@@ -1,0 +1,19 @@
+{
+  "sling:resourceType":"wnews/page/article",
+  "feature": true,
+  "date": "2020-01-30",
+  "title": "Crepe Myrtle",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/01/wnews20200130-055.jpg",
+  "abstract": "A small tree perfect for regular sized gardens is crepe myrtle lagerstroemia indica. Believed to have originated on the Indian subcontinent, it is a tree for all seasons. In summer it produces vibrant flowers, which have a crinkly texture like crepe fabric, and last for up to three months, and in autumn it provides great leaf colour in shades of yellow, orange and scarlet. The lagerstroemia indica species of crepe myrtle is probably the most widely available in Australia and flower in a range of colours - white, red, pink and deep mauve.",
+  "body": {
+    "pars": [
+      "A small tree perfect for regular sized gardens is crepe myrtle lagerstroemia indica. Believed to have originated on the Indian subcontinent, it is a tree for all seasons. In summer it produces vibrant flowers, which have a crinkly texture like crepe fabric, and last for up to three months, and in autumn it provides great leaf colour in shades of yellow, orange and scarlet. The lagerstroemia indica species of crepe myrtle is probably the most widely available in Australia and flower in a range of colours - white, red, pink and deep mauve.",
+      "The crepe myrtle tree also has incredible bark, which looks magical in winter when low light hits the bare branches. These trees also get better with age, as the trunk develops a wonderful gnarled appearance, and the bark exfoliates in summer to give a spectacular mottled look with patches of pink, grey and brown.",
+      "Crepe myrtles range from small deciduous shrubs to trees up to about four metres, depending on the variety. Crepe myrtles thrive in a hot, dry climate with long summers and tolerate cold winters while they’re dormant.",
+      "Once established, crepe myrtles are remarkably drought-tolerant.",
+      "It’s a fairly versatile tree, adapting to coastal situations and dry conditions. The only thing it dislikes is wet feet. Crepe myrtles bloom on the current season’s growth so pruning isn’t strictly necessary. But not pruning will result in a mass display of smaller flowers, so encourage larger flowering heads by cutting back the main branches in winter.",
+      "This is one tree that no garden should be without."
+    ]
+  },
+  "published": true
+}
