@@ -1,0 +1,15 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "title": "Zoom Zoom",
+  "date": "2020-11-17T00:00:00+11:00",
+  "media": "",
+  "abstract": "Will COVID-19 change the way we work permanently?",
+  "published": false,
+  "body": {
+    "content": "The lockdowns associated with the COVID-19 pandemic have meant that for many of us we have been working from home for the greater part of 2020. \n\nTypically if your job involves using a computer, chances are you (and most of your family) have been working remotely. Whilst this may be great for the family pets that appreciate the increased attention, it has put a strain on many households.\n\nSome studious bean-counters have even suggested that this new working relationship can significantly reduce costs to the organization, as when everyone works from home there is less of a demand for real estate and other expenses related to hosting a workforce.\n"
+  },
+  "sidebar": "",
+  "related": [
+
+  ]
+}
