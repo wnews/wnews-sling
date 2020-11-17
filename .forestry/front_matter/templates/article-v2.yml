@@ -11,6 +11,8 @@ fields:
 - type: datetime
   name: date
   label: date
+  config:
+    export_format: YYYY-MM-DD
 - type: file
   name: media
   label: media
