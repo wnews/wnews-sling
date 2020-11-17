@@ -13,6 +13,7 @@ fields:
   label: date
   config:
     export_format: YYYY-MM-DD
+    date_format: DD/MM/YYYY
 - type: file
   name: media
   label: media
