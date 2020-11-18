@@ -1,0 +1,11 @@
+{
+  "sling:resourceType": "wnews/page/front-page",
+  "date": "2020-11-19",
+  "title": "Thursday 19 November 2020",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/11/wnews20201119-01.jpg",
+  "abstract": "Local schools celebrate NAIDOC Week",
+  "published": true,
+  "body": {
+    "content": ""
+  }
+}
