@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" data-th-with="page=${request.adaptTo(@org.mnode.whistlepost.page.PublishedArticles@class)}">
+<html lang="en" data-th-with="page=${request.adaptTo(@org.mnode.whistlepost.page.SortedArticles@class)}">
 
 <head data-th-replace="/apps/wnews/page/fragments/head.html::default">
 </head>
@@ -14,7 +14,7 @@
     </nav>
 
     <main>
-        <section data-th-replace="/apps/wnews/page/fragments/recipe.html::list(${page.articles})">
+        <section data-th-replace="/apps/wnews/page/fragments/recipe.html::list(${page.sortedPage})">
         </section>
 
         <nav data-th-replace="/apps/wnews/page/fragments/columns.html::columns-nav">

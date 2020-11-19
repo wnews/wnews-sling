@@ -4,9 +4,9 @@
 </head>
 <body>
 
-<section data-th-fragment="latest(feature)" data-th-with="latest=${resolver.resolve('/content/wnews/articles/current').adaptTo(@org.mnode.whistlepost.page.PublishedArticles@class)}">
+<section data-th-fragment="latest(feature)" data-th-with="latest=${resolver.resolve('/content/wnews/articles/current').adaptTo(@org.mnode.whistlepost.page.SortedArticles@class)}">
     <div class="wp-layout dynamic">
-        <th:block data-th-each="article : ${latest.page}">
+        <th:block data-th-each="article : ${latest.sortedPage}">
             <th:block data-th-if="${article.resource.name} == ${feature}">
                 <div data-th-replace="/apps/wnews/page/fragments/article.html::feature(${article})">
                 </div>
@@ -18,7 +18,7 @@
     </div>
 
     <div class="wp-layout dynamic">
-        <th:block data-th-each="article : ${latest.page}">
+        <th:block data-th-each="article : ${latest.sortedPage}">
             <th:block data-th-if="${article.resource.name} != ${feature}">
                 <div data-th-replace="/apps/wnews/page/fragments/article.html::feature(${article})">
                 </div>
@@ -72,7 +72,7 @@
         <img class="shadow" data-th-src="${article.metadata.image}" data-th-alt="|${article.metadata.title} image|"/>
     </div>
 
-    <th:block data-th-if="${not #strings.isEmpty(article.sidebar)}">
+    <th:block data-th-if="${article.sidebar}">
         <div data-th-replace="/apps/wnews/page/fragments/article.html::sidebar(${article.sidebar})">
         </div>
     </th:block>
