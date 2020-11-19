@@ -1,7 +1,6 @@
 const path = require('path');
-const webpack = require('webpack');
-var ExtractTextPlugin = require("extract-text-webpack-plugin");
-const GoogleFontsPlugin = require("google-fonts-webpack-plugin")
+const MiniCssExtractPlugin = require('mini-css-extract-plugin');
+const GoogleFontsPlugin = require('google-fonts-plugin')
 
 module.exports = {
   entry: './assets/js/wnews.js',
@@ -13,10 +12,7 @@ module.exports = {
     rules: [
       {
         test: /\.css$/,
-        use: ExtractTextPlugin.extract({
-          fallback: "style-loader",
-          use: "css-loader"
-        })
+        use: [MiniCssExtractPlugin.loader, "css-loader"]
       },
 	  {
         test: /\.(png|svg|jpg|gif)$/,
@@ -60,13 +56,14 @@ module.exports = {
     ]
   },
   plugins: [
-    new ExtractTextPlugin("css/wnews.bundle.css"),
     new GoogleFontsPlugin({
 		fonts: [
 			{ family: "Noto Serif" }
 		],
-		path: 'fonts/',
 		filename: 'css/fonts.css'
-	})
+	}),
+    new MiniCssExtractPlugin({
+        filename: "css/wnews.bundle.css"
+    })
   ]
 };
