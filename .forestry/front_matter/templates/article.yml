@@ -58,7 +58,7 @@ fields:
     config:
       min: 
       max: 
-      labelField: 
+      labelField: page
     label: article
   label: related
   description: Related articles
