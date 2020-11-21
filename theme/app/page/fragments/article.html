@@ -108,7 +108,7 @@
         <h4>Related Articles:</h4>
         <ul>
             <li data-th-each="related : ${article.related}">
-                <a data-th-href="|${related.page.resource.path}.html|"><span data-th-utext="${related.page.metadata.title}">[ARTICLE]</span></a>
+                <a data-th-if="${related.page}" data-th-href="|${related.page.resource.path}.html|"><span data-th-utext="${related.page.metadata.title}">[ARTICLE]</span></a>
             </li>
         </ul>
     </th:block>
