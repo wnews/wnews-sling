@@ -47,19 +47,11 @@ fields:
   type: field_group
   config: {}
   fields:
-  - name: article
-    type: field_group_list
-    fields:
-    - name: page
-      type: text
-      config:
-        required: false
-      label: page
+  - name: page
+    type: text
     config:
-      min: 
-      max: 
-      labelField: page
-    label: article
+      required: false
+    label: page
   label: related
   description: Related articles
 pages:
