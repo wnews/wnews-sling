@@ -47,11 +47,16 @@ fields:
   type: field_group
   config: {}
   fields:
-  - name: page
-    type: text
-    config:
-      required: false
-    label: page
+  - name: article
+    type: field_group
+    config: {}
+    fields:
+    - name: page
+      type: text
+      config:
+        required: false
+      label: page
+    label: article
   label: related
   description: Related articles
 pages:
