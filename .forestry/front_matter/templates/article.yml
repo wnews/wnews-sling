@@ -49,6 +49,12 @@ fields:
   fields:
   - name: article
     type: field_group_list
+    fields:
+    - name: page
+      type: text
+      config:
+        required: false
+      label: page
     config:
       min: 
       max: 
