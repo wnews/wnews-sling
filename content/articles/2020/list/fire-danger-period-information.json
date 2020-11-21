@@ -1,0 +1,20 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2020-11-19",
+  "title": "Fire Danger Period information",
+  "media": "",
+  "body": {
+    "pars": [
+      "Lighting a fire in the open without a permit is an offence and can bring a penalty of over $19,000 and/or 12 months imprisonment. Barbeques and fires for cooking and warmth do not require a permit, but must be lit in properly constructed fireplaces (to view complete conditions visit cfa.vic.gov.au/warnings-restrictions/can/)",
+      "The use of an incinerator, chainsaw/ lawn mower, welding/grinding equipment and vehicles that come in contact with vegetation and machinery with an internal combustion/ heat engine are permitted provided conditions are followed.",
+      "Farmers can find legal guidelines and practical advice at cfa.vic.gov.au/planprepare/ farms– this information is important especially for new farmers, bush block owners or hobby farmers.",
+      "A Total Fire Ban declaration means no fires can be lit for the declared district for that day unless there is a specific exemption or special permit issued. This applies irrespective of the Fire Restriction status for a given municipality. Further details at cfa.vic. gov.au/warnings-restrictions/can/"
+    ]
+  },
+  "published": false,
+  "sidebar": "",
+  "related": [
+
+  ],
+  "abstract": ""
+}
