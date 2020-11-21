@@ -17,8 +17,10 @@
   },
   "published": true,
   "sidebar": "/content/articles/2020/list/fire-danger-period-information",
-  "related": [
-    "/content/articles/2020/list/are-you-prepared-for-the-fire-season"
-  ],
+  "related": {
+    "article": {
+      "page": "/content/articles/2020/list/are-you-prepared-for-the-fire-season"
+    }
+  },
   "abstract": "CFA’s Acting Chief Officer, Gary Cook has made the declaration that the Fire Danger Period for the Campaspe Shire will come into\neffect at 1am on Monday 23 November 2020."
 }
