@@ -34,13 +34,6 @@ fields:
   config:
     required: false
   label: sidebar
-- name: related
-  type: list
-  config:
-    use_select: false
-    min: 
-    max: 
-  label: related
 - name: abstract
   type: textarea
   default: ''
@@ -50,6 +43,19 @@ fields:
     schema:
       format: markdown
   label: abstract
+- name: related
+  type: field_group
+  config: {}
+  fields:
+  - name: article
+    type: field_group_list
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: article
+  label: related
+  description: Related articles
 pages:
 - content/articles/2014/list/lorem-ipsum.json
 - content/articles/2020/list/938-000-funding-for-st-mary-s.json
