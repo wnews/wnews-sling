@@ -24,6 +24,13 @@
 
 <article data-th-fragment="full(recipe)" class="wnews-article">
     <h1 data-th-text="${recipe.metadata.title}">[TITLE]</h1>
+    <div data-th-replace="/apps/wnews/page/fragments/social.html::twitter(${recipe})">
+    </div>
+    <div data-th-replace="/apps/wnews/page/fragments/social.html::facebook(${recipe})">
+    </div>
+    <div data-th-replace="/apps/wnews/page/fragments/social.html::email(${recipe})">
+    </div>
+
     <p>
         <a data-th-href="|${recipe.resource.path}.html|">
             <img class="shadow" data-th-src="${recipe.metadata.image}" data-th-alt="|${recipe.metadata.title} image|"/>

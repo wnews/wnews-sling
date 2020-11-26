@@ -3474,6 +3474,11 @@ sha.js@^2.4.0, sha.js@^2.4.8:
     inherits "^2.0.1"
     safe-buffer "^5.0.1"
 
+sharer.js@^0.4.1:
+  version "0.4.1"
+  resolved "https://registry.yarnpkg.com/sharer.js/-/sharer.js-0.4.1.tgz#8842373ab2857eaf9a6e20246e8f6b797f905779"
+  integrity sha512-FOWcpE9ek3Q/5sRV+QcGwRDuxS8mAvEA/Qqi5mwN+nQUf+GIwJuQxJAn3UVrbv/wS1WqZqSmu6OTuuglFl2/uA==
+
 shebang-command@^1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/shebang-command/-/shebang-command-1.2.0.tgz#44aac65b695b03398968c39f363fee5deafdf1ea"
