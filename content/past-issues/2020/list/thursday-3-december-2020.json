@@ -1,0 +1,11 @@
+{
+  "sling:resourceType": "wnews/page/front-page",
+  "date": "2020-12-03",
+  "title": "Thursday 3 December 2020",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/12/wnews20201203-01.jpg",
+  "abstract": "Following a turbulent 2020, Christmas this year is going to feel a little different to what we have previously known. The pandemic has changed many aspects of our lives, and the new habits we have formed will shape our behaviour over the festive season.",
+  "published": true,
+  "body": {
+    "content": ""
+  }
+}
