@@ -1,7 +1,7 @@
 {
   "sling:resourceType": "wnews/page/advertisement",
   "title": "The Cottage Ice Cream Shoppe",
-  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/advertisements/Cottage Ice Cream Shoppe.jpg",
+  "media": "",
   "telephone": "03 5856 1905",
   "testimonials": "enabled",
   "published": true
