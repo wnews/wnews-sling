@@ -1,0 +1,7 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "The Cottage Ice-cream Shoppe",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/12/cottage-ice-cream-shoppe-christmas-2020.png",
+  "testimonials": "enabled",
+  "published": true
+}

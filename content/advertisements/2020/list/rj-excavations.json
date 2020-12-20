@@ -1,0 +1,7 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "R & J Excavations",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/advertisements/2020/rj-excavations.png",
+  "testimonials": "enabled",
+  "published": true
+}

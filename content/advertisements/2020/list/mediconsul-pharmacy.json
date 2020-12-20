@@ -1,0 +1,7 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Mediconsul Pharmacy",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/advertisements/2020/mediconsul-pharmacy.png",
+  "testimonials": "enabled",
+  "published": true
+}
