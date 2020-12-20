@@ -1,0 +1,9 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Colbinabbin General Store",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/12/colbinabbin-general-store-christmas-2020.png",
+  "website": "",
+  "telephone": "",
+  "testimonials": "",
+  "published": true
+}
