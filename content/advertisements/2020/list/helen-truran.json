@@ -1,7 +1,9 @@
 {
   "sling:resourceType": "wnews/page/advertisement",
   "title": "Helen Truran Marriage Celebrant",
-  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/advertisements/2020/helen-truran.png",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/12/helen-truran-christmas-2020.png",
   "testimonials": "enabled",
-  "published": true
+  "published": true,
+  "website": "",
+  "telephone": ""
 }
