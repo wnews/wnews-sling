@@ -220,3 +220,7 @@ hr.separator {
     margin-bottom: 10px;
     margin-top: 20px;
 }
+
+#sidebar-ads article {
+    padding-bottom: 10px;
+}
