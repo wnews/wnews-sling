@@ -1,7 +1,9 @@
 {
   "sling:resourceType": "wnews/page/advertisement",
   "title": "Motofinish Cafe",
-  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/advertisements/2020/motofinish-cafe.png",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/12/motofinish-cafe-christmas-2020.png",
   "testimonials": "enabled",
-  "published": true
+  "published": true,
+  "website": "",
+  "telephone": ""
 }
