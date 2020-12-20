@@ -3,5 +3,7 @@
   "title": "Truffles Catering",
   "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/advertisements/2020/truffles-catering.png",
   "testimonials": "enabled",
-  "published": true
+  "published": false,
+  "website": "",
+  "telephone": ""
 }
