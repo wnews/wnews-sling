@@ -1,7 +1,9 @@
 {
   "sling:resourceType": "wnews/page/advertisement",
   "title": "Rushworth Hardware Emporium",
-  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/advertisements/2020/hardware-emporium.png",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/12/hardware-emporium-christmas-2020.png",
   "testimonials": "enabled",
-  "published": true
+  "published": true,
+  "website": "",
+  "telephone": ""
 }
