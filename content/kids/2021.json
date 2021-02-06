@@ -1,7 +1,9 @@
 {
-  "title":"Kids Corner (2020)",
+  "title":"Kids Corner (2021)",
   "sling:resourceType":"wnews/page/article-list",
   "jcr:primaryType":"nt:unstructured",
+  "sling:alias":"current",
+  "sling:vanityPath":"/kids",
   "pageSize": 6,
   "bannerUrl": "/kids/current.html",
   "bannerImage": "/assets/wnews/images/kids-corner.png"

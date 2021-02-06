@@ -1,7 +1,9 @@
 {
-  "title": "Cooks Column (2020)",
+  "title": "Cooks Column (2021)",
   "sling:resourceType": "wnews/page/article-list",
   "jcr:primaryType": "nt:unstructured",
+  "sling:alias": "current",
+  "sling:vanityPath": "/recipes",
   "pageSize": 6,
   "bannerUrl": "/recipes/current.html",
   "bannerImage": "/assets/wnews/images/cooks-column.png"
