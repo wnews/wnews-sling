@@ -1,0 +1,22 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-02-04",
+  "title": "New Branch Manager joins the Rushworth team",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/02/wnews20210204-004.jpg",
+  "body": {
+    "pars": [
+      "Rushworth Financial Services is excited to welcome new Branch Manager Karen Dimsey to the Rushworth & District Community bank branch.",
+      "Karen joins the team with much passion for community banking and has many years’ experience as both an independent broker and lender within the Bendigo bank network.",
+      "Together with Karen, the team consists of Sharna (who is the branch’s personal lender), Paige, Kylie and Colleen.",
+      "Karen will be at Rushworth full time to meet the needs of customers and is available to meet you to discuss your banking in times that suit you. So call the branch and fi nd out how your banking can make a difference in our community."
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "Rushworth Financial Services is excited\nto welcome new Branch Manager Karen\nDimsey to the Rushworth & District\nCommunity bank branch.",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
