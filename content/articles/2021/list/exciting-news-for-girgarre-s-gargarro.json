@@ -1,0 +1,23 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-02-18",
+  "title": "Exciting News for Girgarre’s Gargarro",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/02/wnews20210218-023.png",
+  "body": {
+    "pars": [
+      "The Girgarre community’s dream of establishing a world class botanic garden in the town has recently been given a huge boost, with the announcement that Gargarro has been allocated $200,000 from the Growing Victoria’s Botanic Gardens Program.",
+      "This means that work can commence on the most striking feature of the garden, the ephemeral stream, which will meander from east to west behind the soundshell. The entrance to Gargarro will be completed at this early stage, as well as the landscaping and lawn around the amphitheatre.",
+      "To help celebrate this major milestone a public launch of the detailed design of Gargarro’s fi rst stage will fi nally be held on Wednesday March 10th. The event will commence at 11 am in the Memorial Hall, before moving to Gargarro.",
+      "Internationally acclaimed landscape architects TCL will be in attendance to present their spectacular design.",
+      "Any district resident with an interest in the project would be welcome to attend this signifi cant occasion. Lunch will be provided after the presentation; Prior registration would be appreciated – Phone 58546283 or 0429 438 220."
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "The Girgarre community’s dream of establishing a world class botanic garden in the town has recently been given a huge boost, with\nthe announcement that Gargarro has been allocated $200,000 from the Growing Victoria’s Botanic Gardens Program.",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
