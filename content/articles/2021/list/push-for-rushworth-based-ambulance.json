@@ -1,0 +1,27 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-02-18",
+  "title": "Push for Rushworth based ambulance",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/02/wnews20210218-056.jpg",
+  "body": {
+    "pars": [
+      "Research conducted recently on behalf of the Waranga Health Community Reference Group has confirmed that a strong case exists for the restoration of an Ambulance Service based in Rushworth.",
+      "Conducted by Reference Group Member Cass Alexander, the investigation detailed the many risks that could occur locally and examined best-case ambulance response times to a number of typical scenarios and destinations around Rushworth, especially in areas to the south and southwest of the town.",
+      "The response times were calculated using low traffic density data collected from Google Maps combined with actual driving times experienced on both bitumen and gravel surfaces.",
+      "The data was then filtered through known traffic “risks”, including complex traffic mixes, narrow roads, one-lane bridges, school zones and the very real dangers posed to emergency vehicles by wildlife and stock movements in and around Rushworth.",
+      "The results were alarming, especially if vehicles at nearby ambulance stations were already deployed on other tasks, necessitating a vehicle being dispatched from a much more distant location. In some cases, deployments took around an hour to reach their patients in the local “Ambulance Black Hole”.",
+      "The response time to the same locations from a Rushworth ambulance station was just minutes.",
+      "With no emergency hospital care available in Rushworth and lacking an on-call doctor at night and on weekends, the situation is particularly critical.",
+      "The investigation proposed a low-cost, easily implemented solution to the physical establishment of an ambulance service based in Rushworth, an idea first formulated several years ago between Mr Alexander and Rushworth Fire Brigade Captain Mark Jones.",
+      "The thirteen page investigation report has been circulated to relevant authorities, and their formal responses are eagerly awaited."
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "Research conducted recently on behalf of the Waranga Health Community Reference Group has confirmed that a strong case exists for the restoration of an Ambulance Service based in Rushworth.",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
