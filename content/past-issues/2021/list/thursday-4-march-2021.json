@@ -1,0 +1,19 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-03-04",
+  "title": "Thursday 4 March 2021",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/03/wnews20210304-01.jpg",
+  "body": {
+    "pars": [
+
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "Rushworth was a place of action last week when local MP Steph Ryan came to town followed closely by WIN News TV cameras.",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
