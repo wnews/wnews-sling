@@ -2,7 +2,7 @@
   "title": "A community newspaper staffed by volunteers",
   "description": "Serving the Waranga community for over 30 years",
   "author": "Waranga News Inc.",
-  "feature": "push-for-rushworth-based-ambulance",
+  "feature": "rushworth-in-the-news",
   "sling:resourceType": "wnews/page/index",
   "jcr:primaryType": "nt:unstructured"
 }
