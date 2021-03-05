@@ -1,0 +1,26 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-03-04",
+  "title": "Calls ramp up for Rushworth ambulance service",
+  "media": "",
+  "body": {
+    "pars": [
+      "As long ago as 2012 the Waranga Health Advisory Committee met with Ambulance Victoria, advising that the ambulance response times were inadequate for the Rushworth area and calling for an ambulance base to be restored to the town. Many meetings later response times have not improved and there is still no ambulance in the vicinity.",
+      "Member for Euroa, Steph Ryan, recently raised the issue in Parliament, suggesting a review needed to be undertaken of Rushworth’s ambulance response times and noting the gap in services in the southern part of Campaspe Shire.",
+      "‘The Rushworth community have been lobbying for a dedicated ambulance service for more than a decade,’ Ms Ryan said.",
+      "‘While there are ambulance branches based at Tatura and Murchison, response times often exceed 40 minutes when those ambulances are deployed out of area’.",
+      "Ms Ryan said Rushworth has two medical clinics but doctors are only available during business hours so during an emergency all help must come by ambulance.",
+      "The GV Health Waranga Advisory Group is continuing with efforts to bring an ambulance service to town and Cass Alexander has put together an extensive proposal which illustrates Ambulance Victoria’s response times do not serve the district well.",
+      "Concerns that support the need for an ambulance base in Rushworth relate to remote rural isolation over an approximate area of 1200 square kilometres, no emergency department at the local hospital, a high danger location in regard to bush fires, an itinerant district workforce, and various sporting activities including high risk sports such as car racing and kite flying.",
+      "The current proposal is to house an ambulance at the Rushworth fire station which currently has a spare bay and office space which could be made available to Ambulance Victoria."
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "In 1923 Rushworth was one of the first country towns in Victoria to have an ambulance\nservice. Now the town is once again stepping up moves to regain the services of a locally\nstationed vehicle.",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
