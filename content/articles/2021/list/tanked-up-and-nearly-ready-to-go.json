@@ -1,0 +1,23 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-04-01",
+  "title": "Tanked up and (nearly) ready to go",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/04/wnews20210401a-000.jpg",
+  "body": {
+    "pars": [
+      "This large tanker and trailer were spotted at Rushworth’s petrol station site early last week, prompting a curious Waranga News photographer to find out what was happening. Was the tanker there just to test the station’s pavement strength, to verify entry and exit access for large vehicles or was it there on a more important mission?",
+      "In fact, the tanker was delivering the new station’s first load of fuels, comprising unleaded petrol, E10, premium and diesel.",
+      "Various tests will be carried out on the stations newly-fuelled tanks, and the modern electronic pumps must be calibrated and certified before fuel deliveries can begin to the public. Work on the station building is continuing, with a much anticipated opening likely within the new few weeks.",
+      "The round trip distance from Rushworth to refuel in Colbinabbin, Murchison East or Stanhope is at least 35km and consumes an average of 4.5 litres across all vehicle types.",
+      "Having fuel available will make local motorists happy with their savings over time."
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "This large tanker and trailer were spotted at Rushworth’s petrol station site early last week, prompting a curious\nWaranga News photographer to find out what was happening. Was the tanker there just to test the station’s\npavement strength, to verify entry and exit access for large vehicles or was it there on a more important mission?",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
