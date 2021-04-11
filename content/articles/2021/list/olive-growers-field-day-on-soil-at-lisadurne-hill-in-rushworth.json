@@ -1,0 +1,23 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-04-01",
+  "title": "Olive Growers Field Day on soil at Lisadurne Hill in Rushworth",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/04/wnews20210401a-028.jpg",
+  "body": {
+    "pars": [
+      "On a very wet Sunday, 21 March, Russ and Tina Knight hosted the Australian Olive Association supported by the Goulburn Strathbogie Olive Growers Association for a field day to educate olive growers about the importance of soil health.",
+      "Outdoor activities, which were only possible during the short breaks in the steady rain, included examination of the soil profile from a large trench dug for the day and a compost making demonstration.",
+      "Indoors, speakers explained how to increase olive yields, with emphasis on soil based approaches such as composting and ensuring the right microbes inhabit the soil.",
+      "The Goulburn Strathbogie Olive Association is planning another field day on 11 April. Interested olive growers can contact Russ Knight by email russ.lisadurnehill@ gmail.com",
+      "For membership enquires contact Bob Karolos on 0413 007 606."
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "On a very wet Sunday, 21 March, Russ\nand Tina Knight hosted the Australian Olive\nAssociation supported by the Goulburn\nStrathbogie Olive Growers Association for\na field day to educate olive growers about\nthe importance of soil health.",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
