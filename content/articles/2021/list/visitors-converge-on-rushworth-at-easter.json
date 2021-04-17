@@ -1,0 +1,24 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-04-15",
+  "title": "Visitors converge on Rushworth at Easter",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/04/wnews20210415-003.jpg",
+  "body": {
+    "pars": [
+      "The sun shone and the crowds gathered - and all the doubts of the past few weeks were allayed as the packed Easter Market clearly lived up to its well-earned reputation.",
+      "The High St green was packed with stalls selling a wide variety of produce, new and old goods and tasty snacks. Sausages served by the SES and Rushworth Football Netball Club were a big hit and Rushworth Kinder and St Mary’s stalls were also a fund-raising success.",
+      "Taking a stroll around High Street, it was great to see the local traders rushed off their feet (some are still recovering we hear!).",
+      "Residents and visitors alike were thrilled when the Moora horses made their way into town, offering a little bit of the vibe of the ‘normal’ years’ procession. While not able to parade, proud owners of lovingly restored old cars still took the opportunity to show off their vehicles parked strategically around the town.",
+      "A special attraction was “Into the wild”, the wildlife shelter offering the chance to get up ‘close and personal’ with a variety of animals and birds. Just up the street was the band duo ‘Gone Rogue’",
+      "The Easter raffles have not been drawn yet, and there will be a last chance to purchase tickets at this Saturday’s monthly market. There are some great prizes, so be quick to get in the draw!"
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "The sun shone and the crowds gathered - and all the doubts of the\npast few weeks were allayed as the packed Easter Market clearly\nlived up to its well-earned reputation.",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
