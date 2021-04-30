@@ -2,7 +2,7 @@
   "title": "A community newspaper staffed by volunteers",
   "description": "Serving the Waranga community for over 30 years",
   "author": "Waranga News Inc.",
-  "feature": "visitors-converge-on-rushworth-at-easter",
+  "feature": "anzacs-remembered",
   "sling:resourceType": "wnews/page/index",
   "jcr:primaryType": "nt:unstructured"
 }
