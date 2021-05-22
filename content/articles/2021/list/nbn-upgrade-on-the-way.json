@@ -1,0 +1,24 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-05-13",
+  "title": "NBN upgrade on the way",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/05/wnews20210513-028.jpg",
+  "body": {
+    "pars": [
+      "There’s hope in sight for local NBN users who have become increasingly frustrated with slow connections and drop-outs of their internet connection over the past few months.",
+      "Telecommunications services in the region are due to receive a Federal Government funding boost of almost $5 million via the Regional Connectivity Program.",
+      "Towns to benefi t include Rushworth which will receive Federal Government funding of $1.8 million, and Murchison $2.7 million, resulting in an upgrade of NBN access technology from fi xed wireless to NBN fi bre to the premises.",
+      "Federal Member for Nicholls Damian Drum said the projects will provide residents and business owners in those communities with access to improved broadband services and data, delivering fast, affordable and reliable connectivity.",
+      "“I’m thrilled that residents and businesses in Murchison and Rushworth will enjoy the benefi ts and opportunities that improved digital connectivity brings,” Mr Drum said.",
+      "The Regional Connectivity Program is a key component of the Federal Government’s response to the 2018 Regional Telecommunications Review, and the delivery of successful projects under the program will begin in the coming weeks with projects expected to be completed by midnext year."
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "There’s hope in sight for local NBN users who have become increasingly frustrated with slow connections and drop-outs of their internet\nconnection over the past few months.",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
