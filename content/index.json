@@ -2,7 +2,7 @@
   "title": "A community newspaper staffed by volunteers",
   "description": "Serving the Waranga community for over 30 years",
   "author": "Waranga News Inc.",
-  "feature": "anzacs-remembered",
+  "feature": "new-fuel-outlet-opens-in-rushworth",
   "sling:resourceType": "wnews/page/index",
   "jcr:primaryType": "nt:unstructured"
 }
