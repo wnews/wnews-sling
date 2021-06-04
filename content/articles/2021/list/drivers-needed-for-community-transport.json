@@ -1,0 +1,24 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-05-27",
+  "title": "Drivers needed for community transport",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/06/wnews20210527-047.jpg",
+  "body": {
+    "pars": [
+      "If you live in a small rural community, getting to and from medical appointments in regional centres can be both diffi cult and expensive. A little research indicates that a round trip to Shepparton using a taxi could cost more than $200 while Uber prices are just a little under the $200 mark. If you want the vehicle to wait for you, the costs can be even higher.",
+      "Clearly, these charges are beyond the capacity of many people, especially those on minimum wages or on social service benefits.",
+      "For many years, Rushworth Community House has run a successful patient transport service, taking people to and from medical appointments in Kyabram, Shepparton and Bendigo. These trips are conducted at a fraction of the costs to patients incurred using regular taxi or Uber services, and with a doorto- door convenience unmatched by regular public transport such as trains or buses.",
+      "The Community House urgently needs additional volunteer drivers for this patient transport service. Drivers are provided with comprehensive support packages and are reimbursed at standard mileage rates for the trips that they undertake.",
+      "Trips are allocated on the basis of driver availability and team participation. Some trips may be local, taking only an hour or two to complete. Others will be further afi eld, requiring greater transit times.",
+      "Either way, drivers are always needed for this important community initiative, so anyone with a few hours to spare each week is urged to help. If you can assist, please call the Community House on 5956 1295 and register you interest."
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "If you live in a small rural community, getting to and from medical appointments in regional centres can be both diffi cult and expensive.\nA little research indicates that a round trip to Shepparton using a taxi could cost more than $200 while Uber prices are just a little\nunder the $200 mark. If you want the vehicle to wait for you, the costs can be even higher.",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
