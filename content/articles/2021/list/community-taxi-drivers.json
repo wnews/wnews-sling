@@ -1,0 +1,23 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-05-27",
+  "title": "Community taxi drivers",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/06/wnews20210527-052.jpg",
+  "body": {
+    "pars": [
+      "The House would also like to hear from people who are interested in becoming drivers in its Community Taxi Service.",
+      "Supported by the Victorian Department of Transport, the Community Taxi program is run independently of the federally-supported patient transport program outlined at left.",
+      "RCH Community Taxi services will be run using a modern Kia fi ve door people mover (below left), which can accommodate a driver and seven passengers in three rows of seats.",
+      "Early this week, its compulsory magnetic “Commercial Passenger Vehicle” sign arrived, heralding the imminent start of the new Rushworth-based taxi service.",
+      "The Kia taxi may also be used for some patient transport services, subject to approval from relevant state and federal authorities."
+    ]
+  },
+  "published": false,
+  "sidebar": "",
+  "abstract": "The House would also like to hear from\npeople who are interested in becoming\ndrivers in its Community Taxi Service.",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
