@@ -1,0 +1,30 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-03-18",
+  "title": "Avacado",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/06/food-3332043.jpg",
+  "body": {
+    "pars": [
+      "Hey Kids!\nIn this edition of the Waranga News we are taking a look at a popular ingredient listed on menus in many cafes and pubs around Australia – the avocado!\nAn avocado is a berry fruit. It has medium dark green or dark green bumpy or smooth skin depending on the variety.",
+      "The flesh of an avocado is deep chartreuse green in colour near the skin and pale chartreuse green near the core. It has a creamy, rich texture.\nAvocado trees come from Central America and Mexico. They can grow in many places, as long as it is not too cold.",
+      "Avocados have much more fat than most other fruit, but most is fat that is healthy to eat (unsaturated fat). Avocados have lots of potassium, B vitamins, and vitamin E and K.\nThe Mexican food called guacamole is made of avocados. Many other foods are also made from avocado.\nAvocado is poisonous to some animals, especially the leaves.\n",
+      "History of the Avocado\nAvocados have long been a part of the Mexican diet. Archaeologists have found evidence of avocado consumption going back almost 10,000 years in central Mexico. Back then, humans were simply gathering and eating wild avocados. Researchers believe that humans began cultivating avocados about 5,000 years ago. Mesoamerican tribes like the Inca, the Olmec and the Maya grew domesticated avocado trees.",
+      "Prior to its domestication, it’s thought the survival of the avocado may have been dependent on the ability of now extinct large mammals to stomach the fruit’s mildly toxic pit after swallowing the large berry whole. Its thought that the seed was ready to sprout by the time it was excreted.",
+      "The avocado was extremely important among the indigenous people of ancient Mesoamerica, as the fruit provided sustenance and possessed mythological powers. For instance, the Aztecs believed the fruit provided strength to those who ate it, and in ancient Maya, the fourteenth month of their calendar (K’ank’in) is represented by the glyph (a symbol) for the avocado.",
+      "In the 16th century, Spanish explorers became the first Europeans to eat avocados. Martín Fernández de Enciso (circa 1470 – 1528) was the first European to describe avocados when he mentioned them in a book he wrote in 1519. The Spanish called the fruit aguacate, a corruption of ahuacatl. By the time of the Spanish Conquest, avocados had spread from Mexico through Central America into parts of South America. The Spanish eventually brought avocados to Europe and sold them to other countries including England.",
+      "An early English name for the fruit, dating back to the 17th century, was “avocado pear,” which lazy speakers misinterpreted as “alligator pear” (not exactly the most appetising sounding name for a fruit). And due to the fruit’s alligator skin-like exterior, the name stuck until a marketing effort from American growers in the early 1900s successfully changed the name to avocado.",
+      "Avocados first arrived in Australia in 1840 in seed form, and were planted in the Royal Botanical Gardens in Sydney. Further commercial imports of seed and plants continued over the next 110 years until by the late 1960’s when a developing Australian industry began to take shape.",
+      "Currently avocado orchards are found in Queensland, New South Wales, South Australia, Victoria, Western Australia and Tasmania. \nThe two main varieties of avocados grown in Australia are Hass and Shepard. Hass are in season from May through to January and Shepard’s are in season from February through to May.",
+      "Hass avocados are dark olive, purple and black with a pebbly textured skin and creamy texture. These are available for most of the year in Australia. The Shepard avocado has a smooth green skin, and a nutty flavour and buttery texture. It is only available for a limited time.",
+      "A simple way to enjoy ‘smashed avo’ is to toast a couple of pieces of crusty sourdough bread, then spread with butter and vegemite. Top with slices of avocado and smash with the back of a fork. Yummo!"
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
