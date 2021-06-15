@@ -1,0 +1,30 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-04-15",
+  "title": "Sunflowers",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/06/sunflower-4386505_1920.jpg",
+  "body": {
+    "pars": [
+      "Hey Kids! In this edition of the Waranga News we are taking a look at one of the happiest flowers you will find – the sunflower.\nThe word sunflower actually means sun flower or flower of the sun. The scientific name for the common sunflower is Helianthus Annuus.\nHelianthus is made up from two Greek words. Helios means sun and Anthus means flower.",
+      "The Annuus part of the scientific name of a sunflower, Helianthus Annuus, refers to the fact that these flowers are an annual plant and live for just one year.\nThis has since been found to be wrong because some sunflowers are actually perennials, meaning that they can live for many years.",
+      "The French word for sunflower is tournesol, which translates literally to \"turned sun,\" referring to the plant's ability to turn itself to face the sun.\nInterestingly, the Spanish word for sunflower also means turns towards the sun. El girasol is the Spanish word for this flower.",
+      "The sunflower is a large inflorescence, this means the flower head is actually made of many tiny flowers called florets. Central florets look like the centre of a normal flower while the outer florets look like yellow petals and together they make up a \"false flower\". This natural design helps insects and birds to easily see the sunflower and after pollination every little flower or floret produces a seed.",
+      "The stem of a sunflower can grow up to 3 m tall and the flower head can be 30 cm wide.\nSunflowers are very fast growing plants, In the right conditions they can grow 2.4 m - 3.7 m tall in six months.\nAs of 2012, the Guinness World Record for the tallest sunflower is 8.23 m for a sunflower grown in Germany.",
+      "Famous Dutch painter Vincent Van Gogh did a series of paintings featuring and called Sunflowers. There were 7 paintings in total, which can now be found in Art Galleries in Munich, London, Philadelphia, Amsterdam, and Tokyo. One painting is in a private collection, and unfortunately one painting was destroyed by a US air raid of World War II in Japan.",
+      "The flowers within a sunflower head are clustered in a spiral pattern whereby each floret is oriented towards the next by the golden angle of 137.5°. This produces a pattern of interconnecting spirals. The number of left and right spirals are consecutive Fibonacci numbers. Normally there are 34 spirals in one direction and 55 in the other. Very large sunflowers can have 89 in one direction and 144 in the other.",
+      "There are two kinds of sunflower seeds. Sunflower oil which is used in cooking and in margarines is made from black seeds and snack food is made from the striped seeds. The seeds can also be used as bird feed.\nSunflowers can also be processed into a peanut butter substitute called Sunbutter. In Germany, sunflower seeds are mixed with rye flour to make a type of bread (Sonnenblumenkernbrot).",
+      "The sunflower is native to the America's and was used extensively by Native American Indians for food, as oil, in bread, medical ointments, dyes and body paints.\nKansas is often known as the Sunflower state and the flower is in fact Kansas's state flower. The sunflower is also the national flower of Ukraine. ",
+      "Sunflowers can be used to extract toxin such as lead, arsenic and uranium from contaminated soil. For example, sunflowers were used to remove toxins from a pond after the Chernobyl disaster and similar projects took place after the Fukushima nuclear disaster.",
+      "A sunflower is one of just a very small handful of plants with the word flower in its actual name. Other flowering plants with flower in their name include safflower, elderflower, coneflower, cornflower and waxflower.",
+      "Sunflowers need at least 8 hours of sunshine to grow tall and healthy, so it’s probably best to grow them during daylight savings time. Why not keep an eye out for a packet of sunflower seeds to plant in the spring time? The golden yellow flower heads will brighten up your day, and birds, bees and other insects will love them too!"
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
