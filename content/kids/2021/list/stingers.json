@@ -2,7 +2,7 @@
   "sling:resourceType": "wnews/page/article",
   "date": "2021-02-18",
   "title": "Stingers",
-  "media": "",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/06/6e81e8hf-900-1.jpg",
   "body": {
     "pars": [
       "Hey Kids!\nIn this edition of the Waranga News we are taking a look at some of Australia’s dangerous stingers; the crawling, creeping, flying and swimming creatures that sting for self defence and when hunting for food. \n",
@@ -18,7 +18,7 @@
       "Research on platypus venom is very difficult to conduct as the animals have been found not to produce venom in captivity. "
     ]
   },
-  "published": false,
+  "published": true,
   "sidebar": "",
   "abstract": "",
   "related": {
