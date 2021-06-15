@@ -1,0 +1,25 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-06-15",
+  "title": "",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/06/suez-ap.jpg",
+  "body": {
+    "pars": [
+      "Hey Kids!\nYou may have seen images of a huge 400 metre long container ship wedged—and stuck—in the Suez Canal as it travelled from China in March 2021. The ship has blocked more than 300 ships at each end of the vital shipping route, causing major disruptions to global commerce. In this edition of the Waranga News we are taking a look at the Suez Canal.\nThe Suez Canal (Arabic: Qanā al-Suways, French: Le Canal de Suez) is a canal in Egypt. It lies west of the Sinai Peninsula. The canal is 163 km long and, at its narrowest point, 300 m wide. It runs between Port Said (Būr Sa'īd) on the Mediterranean Sea, and Suez (al-Suways) on the Red Sea. A French Company built it. The canal was started in 1859 and finished in 1869.",
+      "Uses\nThe canal allows boats/ships to travel from Europe to Asia without having to go the way around Africa. It was built to go from Egypt to the Indian Ocean. Before the Suez Canal was built, ships sailing between the Mediterranean Sea and the Indian Ocean had to sail all the way around the southern tip of Africa. The canal allows ships to pass directly between the Mediterranean and the Indian Ocean. Before the canal, the voyage from London, England, to Mumbai (Bombay), India, was 19,950 kilometres. The canal shortened the trip to 11,670 kilometres.",
+      "History\nAccording to the Suez Canal Authority (SCA), the idea of establishing a canal linking the Red Sea and the Mediterranean dates back to ancient Egypt some 40 centuries ago.\nThe pharaohs are believed to have dredged the first man-made canal in history with a view to activating world trade.\nVarious canals have been built and rebuild in Egypt throughout history — the remnants of some can still be seen today.",
+      "In 1859, the Suez Canal was built by the Universal Suez Ship Canal Company, and took 10 years to build. Building the Suez Canal required a lot of workers, and the Egyptian government supplied tens of thousands of poorly paid peasants to dig the early stages of the canal by hand. The progress was painfully slow.\nThe Suez Canal Company then began to use custom made steam and coal powered shovels and dredges to dig the canal, and the new technology gave the project a must needed boost. Of the 75 million cubic metres of sand eventually moved during the construction of the main canal, three quarters was moved by heavy machinery.",
+      "The first ship to pass through the canal did so on 17 February 1867; Giuseppe Verdi wrote the famous opera Aida for this ceremony.\nThe canal made it possible to easily transport goods across the world. The canal also allowed Europeans to travel to East Africa, and this area was soon controlled by European powers.\nThe success of the Suez Canal encouraged the French to try to build the Panama Canal. But they did not finish it. The Panama Canal was finished later.",
+      "After the Six Day War in 1967, the canal remained closed until June 5, 1975. A UN peacekeeping force has been stationed in the Sinai Peninsula since 1974, to avoid more wars.\nNearly 19,000 ships passed through the canal in 2020, according to the Suez Canal Authority, which is about 14% of world shipping. Each ship takes up to 16 hours to cross the canal. In 2015 a central part of the canal was expanded so more ships can go through and go faster.",
+      "On average, nearly 50 vessels per day pass along the canal, although at times the number can be much higher. It is particularly important as an avenue for oil and liquefied natural gas, enabling shipments to get from the Middle East to Europe.\nHundreds of ships are now waiting to pass through the waterway once the blockage is cleared."
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
