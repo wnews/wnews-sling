@@ -1,0 +1,30 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-04-29",
+  "title": "Cheese",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/06/cheese-1972744.jpg",
+  "body": {
+    "pars": [
+      "Hey Kids! Say Cheese! In this edition of the Waranga News we are taking a look into the wonderful world of cheese. Did you know that Fonterra’s Stanhope factory produces mozzarella, parmesan, cheddar and cheese powders for markets across the globe?",
+      "Here are a few cheesy facts:\nThere is no exact information regarding the origin of cheese, archaeological studies have shown the origin of cheese dates as far back as 6000 BC. Studies also show that during that era cheese was made from cow’s milk and goats in Mesopotamia.",
+      "The oldest cheese still existing was found preserved on 3800-year-old Chinese mummies in 2014. Researchers analysed the basic kefir-like cheese and were able to create their own matching batch.\nThere are more than 2000 varieties of cheese available worldwide, mozzarella is the favourite around the globe, and the most consumed.",
+      "People of Greece are the largest consumers of cheese worldwide. An average person from Greece consumes around 27.3 kg of cheese every year, about ¾ of which is feta cheese.\nCheese production around the globe is more than the combined worldwide production of coffee, tobacco, tea, and cocoa beans.",
+      "Cheese can be produced using a variety of milk including cow, buffalo, goat, horse, and even camel and moose.\nCheese is kept for a period of time before it’s ready to eat. Some varieties of cheese such as blue cheese, gorgonzola, and brie are exposed to mould which helps them age thoroughly.\nDuring the Roman Empire, large Roman houses had separate kitchens for making cheese. These kitchens were known as ‘careale’.",
+      "Some scientists believe that regularly eating Roquefort blue cheese helps people to live longer. Their study suggested that the cheese helps to improve heart health and may explain why French women have a longer life expectancy than others. You may find similar cheeses in other places, but according to European Union law, only a sheep’s milk cheese that has been aged in the Combalou caves of Roquefort-sur-Soulzon in Southern France may be labelled Roquefort cheese. One of the most famous blue cheeses and said to be a favourite of Charlemagne, Roquefort is white with characteristic veins of blue mould that give it a sharp, tangy taste. With no rind, it’s also crumbly and a bit moist with a semi-hard texture.",
+      "Queen Victoria (1819—1901) was given the greatest wedding gift of all: a giant wheel of cheddar cheese that weighed over 450kg.\nA 2015 study suggested that the holes in Swiss cheese may be caused by flecks of hay dust that fall into milk buckets. So, in a way, those holes in Swiss cheese could be there because of dirty milk. And scientists have theorised that we've been seeing fewer holes in Swiss cheese because the milk is cleaner.",
+      "Have you had a problem with mice in your house in the last few weeks? Those old Tom and Jerry cartoons lied to you. If you try to trap a mouse with cheese you could only warn the creature away.\nA 2006 study found mice prefer sweet and sugary foods (especially Peanut Butter) over cheese. Mice don’t usually have access to cheese, so while they may eat it if they’re hungry, they haven’t developed a liking for it.",
+      "Cheese has a bad reputation for being fattening and many varieties contain high levels of sodium. But it’s not all bad news. As a dairy food, cheese is a really good source of calcium and vitamin D – so it’s good for your bones – and other nutrients such as zinc, phosphorus, vitamin A, vitamin B2 and vitamin B12.\nIf you’re worried about the fat, varieties like parmesan, mozzarella, ricotta, cottage cheese and feta are the leanest cheese varieties.",
+      "Are you lactose intolerant? While it always depends on your personal level of intolerance, many lactose intolerant people can eat aged, dry cheeses like cheddar, parmesan, pecorino and gouda. The bacteria in these aged cheeses has had time to turn the lactose into lactic acid, which anyone can eat.",
+      "Cheese isn’t a common part of South Asian cuisine, but paneer is one variety that has managed to have quite a presence, particularly in vegetarian dishes. This fresh, un-aged cheese is made by adding food acid — such as that from yoghurt, lemon juice or citric acid — to hot, curdled milk that is then strained. Paneer is a non-melting cheese, and is usually used in curries or desserts.",
+      "Due to its mild flavour, ayibe is often served in Ethiopian cuisine as a complement to spicy dishes. It has a mild flavour and is similar to cottage cheese, but its crumbly texture is reminiscent of hard feta.\nSee if you can find all of these cheese varieties in the word search"
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
