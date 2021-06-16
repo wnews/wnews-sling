@@ -2,7 +2,7 @@
   "title": "A community newspaper staffed by volunteers",
   "description": "Serving the Waranga community for over 30 years",
   "author": "Waranga News Inc.",
-  "feature": "$1.5-Million-boost-to-the-Gargarro-Botanic-Gardens",
+  "feature": "1-5-million-boost-to-the-gargarro-botanic-gardens",
   "sling:resourceType": "wnews/page/index",
   "jcr:primaryType": "nt:unstructured"
 }
