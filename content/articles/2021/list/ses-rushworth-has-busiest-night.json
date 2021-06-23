@@ -1,0 +1,24 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-06-24",
+  "title": "SES Rushworth has busiest night",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/06/IMG_6083.JPG",
+  "body": {
+    "pars": [
+      "SES Rushworth had one of its busiest nights for many years when last week’s violent wind and rain storm hit the area. With eleven registered call outs and many occasions where trees had to be cleared to get to their destination, the members were stretched to their max. ",
+      "A tree blocking Station Street had to be removed on the way to another call-out. SES members also assisted securing Dunn Street while waiting for Powercor reps as wires were dangerously blocking the road. Roofs had to be secured, pieces of tin, branches on houses, all contributed to their busy night and morning. Things slowed down for the members at around 3 am, until there were more call outs at 5 am.",
+      "There were blackouts in some areas as Powercor struggled to keep up with the outages. The crew responded to more than 400 faults to restore power to more than 120,000 customers in and around the area. ",
+      "The Police said there were many trees down but these were cleared in record time by the local SES.",
+      "Unfortunately, it was bin collection the next morning and most people had their regular and recycle bins out for the following morning pick-up. This made for a messy Thursday morning with roads strewn with light rubbish after bins were blown over. ",
+      "It was great to see the St Mary’s children doing their bit to clear rubbish in Southam St under the guidance of their ‘overseer’, Kate Stewart."
+    ]
+  },
+  "published": true,
+  "sidebar": "A tree down on Station Street had to be cleared on the way to another call-out during the storms on Thursday night. The team of SES volunteers were quick to remove it as it was blocking the road.",
+  "abstract": "SES Rushworth had one of its busiest nights for many years when last week’s violent wind and rain storm hit the area. With eleven registered call outs and many occasions where trees had to be cleared to get to their destination, the members were stretched to their max. ",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
