@@ -5,6 +5,12 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: content/history
+  label: 50 Years Ago
+  create: all
+  match: "**/list/*"
+  new_doc_ext: ".json"
+- type: directory
   path: content/wildlife
   label: All About Wildlife
   create: all
