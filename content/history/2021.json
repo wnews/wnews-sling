@@ -4,5 +4,7 @@
   "jcr:primaryType":"nt:unstructured",
   "sling:alias":"current",
   "sling:vanityPath":"/history",
-  "pageSize": 6
+  "pageSize": 6,
+  "bannerUrl": "/history/current.html",
+  "bannerImage": "/assets/wnews/images/garden-hints.png"
 }
