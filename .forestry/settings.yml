@@ -9,7 +9,7 @@ sections:
   label: 50 Years Ago
   create: all
   match: "**/list/*"
-  new_doc_ext: ".json"
+  new_doc_ext: json
 - type: directory
   path: content/wildlife
   label: All About Wildlife
