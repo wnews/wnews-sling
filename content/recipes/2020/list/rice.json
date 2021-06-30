@@ -1,5 +1,5 @@
 {
-  "sling:resourceType": "wnews/page/article",
+  "sling:resourceType": "wnews/page/recipe",
   "date": "2020-11-05T13:13:52+11:00",
   "title": "Rice",
   "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/11/wnews20201105-060.jpg",
