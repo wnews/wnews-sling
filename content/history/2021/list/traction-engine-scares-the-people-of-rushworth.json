@@ -1,0 +1,19 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-06-24",
+  "title": "Traction engine scares the people of Rushworth",
+  "media": "",
+  "body": {
+    "pars": [
+
+    ]
+  },
+  "published": false,
+  "sidebar": "",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
