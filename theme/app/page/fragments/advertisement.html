@@ -35,6 +35,14 @@
 <!--    </script>-->
 </aside>
 
+<section data-th-fragment="banner-panel" id="banner-ads" data-th-with="list=${resolver.resolve('/content/wnews/advertisements/current').adaptTo(@org.mnode.whistlepost.page.BannerAdvertisements@class)}">
+    <div data-th-replace="/apps/wnews/page/fragments/advertisement.html::placeholder">
+    </div>
+
+    <div data-th-replace="/apps/wnews/page/fragments/advertisement.html::inline(${list.shuffledPage[0]})">
+    </div>
+</section>
+
 <div data-th-fragment="banner" class="container">
     <a href="<%= currentNode.href %>" title="<%= currentNode.title %>">
             <span class="wnews-banner">
@@ -45,7 +53,7 @@
 
 <section data-th-fragment="placeholder" style="text-align:center; padding: 5px;">
     <a href="/content/wnews/advertising.html" title="Advertising in the Waranga News supports your business AND your community">
-        <img class="img-fluid" style="max-width:100%; padding:5px" src="/assets/wnews/images/advertise2.png" alt="Advertise with us">
+        <img class="img-fluid" style="max-width:100%;" src="/assets/wnews/images/advertise2.png" alt="Advertise with us">
     </a>
 </section>
 
