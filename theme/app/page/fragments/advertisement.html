@@ -38,9 +38,10 @@
 <section data-th-fragment="banner-panel" id="banner-ads" data-th-with="list=${resolver.resolve('/content/wnews/advertisements/current').adaptTo(@org.mnode.whistlepost.page.BannerAdvertisements@class)}">
     <div data-th-replace="/apps/wnews/page/fragments/advertisement.html::placeholder">
     </div>
-
+    <!--
     <div data-th-replace="/apps/wnews/page/fragments/advertisement.html::inline(${list.shuffledPage[0]})">
     </div>
+    -->
 </section>
 
 <div data-th-fragment="banner" class="container">
