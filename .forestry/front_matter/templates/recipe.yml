@@ -5,6 +5,7 @@ fields:
 - type: text
   name: sling:resourceType
   label: sling:resourceType
+  default: wnews/recipe
 - type: datetime
   name: date
   label: date
