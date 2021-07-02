@@ -1,6 +1,6 @@
 {
   "sling:resourceType": "wnews/page/advertisement",
-  "title": "Mediconsul Pharmacy",
+  "title": "Rushworth Mediconsul Pharmacy",
   "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/03/RW Pharmacy.jpg",
   "testimonials": "enabled",
   "published": true,
