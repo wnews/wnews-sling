@@ -23,6 +23,9 @@
 </div>
 
 <aside data-th-fragment="sidebar-panel" id="sidebar-ads" data-th-with="list=${resolver.resolve('/content/wnews/advertisements/current').adaptTo(@org.mnode.whistlepost.page.ShuffledAdvertisements@class)}">
+    <div data-th-replace="/apps/wnews/page/fragments/advertisement.html::placeholder">
+    </div>
+
     <th:block data-th-each="advertisement : ${list.shuffledPage}">
         <div data-th-replace="/apps/wnews/page/fragments/advertisement.html::sidebar(${advertisement})">
         </div>
