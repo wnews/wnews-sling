@@ -1,5 +1,5 @@
 {
-  "sling:resourceType": "",
+  "sling:resourceType": "wnews/page/recipe",
   "date": "2021-03-18",
   "title": "Paul’s Smoked Duck Salad",
   "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/07/SaladWalnut.jpeg",
