@@ -24,6 +24,22 @@ fields:
 - type: boolean
   name: published
   label: published
+- name: column
+  type: select
+  default: single
+  config:
+    required: true
+    options:
+    - single
+    - double
+    - triple
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Column Layout
+  description: Select the layout used in print edition for this advertisement
 pages:
 - content/advertisements/2017/list/3b-small-engines.json
 - content/advertisements/2017/list/bayly-solar.json
