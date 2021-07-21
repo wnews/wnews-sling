@@ -44,6 +44,7 @@ fields:
     label: content
   label: body
 pages:
+- content/articles/2021/list/fairy-dust-and-magic-at-murchison-ps.json
 - content/past-issues/2020/list/2020-05-07.json
 - content/past-issues/2020/list/2020-05-21.json
 - content/past-issues/2020/list/2020-08-27.json
