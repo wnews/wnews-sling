@@ -1,5 +1,5 @@
 {
-  "sling:resourceType": "wnews/page/front-page",
+  "sling:resourceType": "wnews/page/article",
   "date": "2021-07-22",
   "title": "Fairy dust and magic at Murchison PS",
   "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/07/Roy was excited to see the new fairy house.jpg",

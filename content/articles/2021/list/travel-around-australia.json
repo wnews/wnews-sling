@@ -1,5 +1,5 @@
 {
-  "sling:resourceType": "",
+  "sling:resourceType": "wnews/page/article",
   "title": "Travel around Australia",
   "date": "2021-08-05",
   "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/08/Australia Puddle.jpg",
