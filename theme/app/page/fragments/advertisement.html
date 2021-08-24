@@ -36,7 +36,7 @@
 </aside>
 
 <section data-th-fragment="banner-panel" id="banner-ads" data-th-with="list=${resolver.resolve('/content/wnews/advertisements/current').adaptTo(@org.mnode.whistlepost.page.BannerAdvertisements@class)}">
-    <div data-th-replace="/apps/wnews/page/fragments/advertisement.html::placeholder">
+    <div data-th-replace="/apps/wnews/page/fragments/subscription.html::placeholder">
     </div>
     <!--
     <div data-th-replace="/apps/wnews/page/fragments/advertisement.html::inline(${list.shuffledPage[0]})">
@@ -53,8 +53,8 @@
 </div>
 
 <section data-th-fragment="placeholder" style="text-align:center; padding: 5px;">
-    <a href="/content/wnews/subscribe.html" title="Subscribe today to stay up to date with Waranga News online or print editions.">
-        <img class="img-fluid" src="/assets/wnews/images/subscription.png" alt="Subscribe today">
+    <a href="/content/wnews/advertising.html" title="Advertising in the Waranga News supports your business AND your community">
+        <img class="img-fluid" style="max-width:100%;" src="/assets/wnews/images/advertise2.png" alt="Advertise with us">
     </a>
 </section>
 

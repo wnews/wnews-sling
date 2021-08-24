@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" data-th-with="page=${request.adaptTo(@org.mnode.whistlepost.page.SortedArticles@class)}">
+
+<head data-th-replace="/apps/wnews/page/fragments/head.html::default">
+</head>
+
+<body>
+
+<div class="wp-layout holygrail">
+  <header data-th-replace="/apps/wnews/page/fragments/masthead.html::default">
+  </header>
+
+  <nav data-th-replace="/apps/wnews/page/fragments/navigation.html::navbar">
+  </nav>
+
+  <main>
+    <section data-th-replace="/apps/wnews/page/fragments/article.html::list(${page.sortedPage})">
+    </section>
+
+    <nav style="margin-left:20px">
+      <a data-th-href="|${resource.parent.path}/archive.html|" style="font-size: 1.4em;">More Articles..</a>
+    </nav>
+
+    <nav data-th-replace="/apps/wnews/page/fragments/columns.html::columns-nav">
+    </nav>
+  </main>
+
+  <aside data-th-replace="/apps/wnews/page/fragments/advertisement.html::sidebar-panel">
+  </aside>
+
+  <footer data-th-replace="/apps/wnews/page/fragments/footer.html::footer-panel">
+  </footer>
+</div>
+</body>
+
+</html>
