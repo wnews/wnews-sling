@@ -10,48 +10,70 @@ sections:
   create: all
   match: "**/list/*"
   new_doc_ext: json
+  templates:
+  - article-v2
+  - article
 - type: directory
   path: content/wildlife
   label: All About Wildlife
   create: all
   match: "**/list/*"
   new_doc_ext: json
+  templates:
+  - article-v2
+  - article
 - type: directory
   path: content/kids
   label: Kids Corner
   create: all
   match: "**/list/*"
   new_doc_ext: json
+  templates:
+  - article-v2
+  - article
 - type: directory
   path: content/gardening
   label: Garden Hints & Tips
   create: all
   match: "**/list/*"
-  new_doc_ext: json
+  new_doc_ext: ".json"
+  templates:
+  - article-v2
+  - article
 - type: directory
   path: content/past-issues
   label: Past Issues
   create: all
   match: "**/list/*"
   new_doc_ext: json
+  templates:
+  - front-page
 - type: directory
   path: content/articles
   label: Articles
   create: all
   match: "**/list/*"
-  new_doc_ext: json
+  new_doc_ext: ".json"
+  templates:
+  - article
+  - article-v2
 - type: directory
   path: content/recipes
   label: Cooks Column
   create: all
   match: "**/list/*"
-  new_doc_ext: json
+  new_doc_ext: ".json"
+  templates:
+  - recipe
 - type: directory
   path: content/firstpeoples
   label: Waranga Dreaming
   create: all
   match: "**/list/*"
   new_doc_ext: json
+  templates:
+  - article
+  - article-v2
 - type: directory
   path: content/technology
   label: Not a Robot
@@ -82,6 +104,8 @@ sections:
   create: all
   match: "**/list/*"
   new_doc_ext: json
+  templates:
+  - advertisement
 upload_dir: wnews
 public_path: https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews
 front_matter_path: ''
