@@ -36,7 +36,7 @@ sections:
   label: Garden Hints & Tips
   create: all
   match: "**/list/*"
-  new_doc_ext: ".json"
+  new_doc_ext: json
   templates:
   - article-v2
   - article
@@ -53,7 +53,7 @@ sections:
   label: Articles
   create: all
   match: "**/list/*"
-  new_doc_ext: ".json"
+  new_doc_ext: json
   templates:
   - article
   - article-v2
@@ -62,7 +62,7 @@ sections:
   label: Cooks Column
   create: all
   match: "**/list/*"
-  new_doc_ext: ".json"
+  new_doc_ext: json
   templates:
   - recipe
 - type: directory
