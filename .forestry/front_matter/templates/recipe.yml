@@ -6,6 +6,9 @@ fields:
   name: sling:resourceType
   label: sling:resourceType
   default: wnews/page/recipe
+  config:
+    required: true
+  hidden: true
 - type: datetime
   name: date
   label: date

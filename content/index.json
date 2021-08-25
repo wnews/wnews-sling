@@ -2,7 +2,7 @@
   "title": "A community newspaper staffed by volunteers",
   "description": "Serving the Waranga community for over 30 years",
   "author": "Waranga News Inc.",
-  "feature": "High-St-‘islands’-leave-locals-cold",
+  "feature": "high-st-islands-leave-locals-cold",
   "sling:resourceType": "wnews/page/index",
   "jcr:primaryType": "nt:unstructured"
 }

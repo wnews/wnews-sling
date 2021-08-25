@@ -6,6 +6,9 @@ fields:
   name: sling:resourceType
   label: sling:resourceType
   default: wnews/page/article
+  config:
+    required: true
+  hidden: true
 - type: text
   name: title
   label: title

@@ -8,9 +8,11 @@ fields:
 - type: text
   name: sling:resourceType
   label: sling:resourceType
+  hidden: true
 - type: text
   name: jcr:primaryType
   label: jcr:primaryType
+  hidden: true
 - type: field_group
   name: sections
   label: sections
