@@ -2,7 +2,7 @@
   "sling:resourceType": "wnews/page/recipe",
   "date": "2021-07-22T00:00:00+10:00",
   "title": "Orange Tea Cake",
-  "media": "",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/08/Orange Tea Cake.jpg",
   "abstract": "It seems to be a good season for oranges in downtown Colbo, hence the orange tea cake. I’ve used a recipe by Stephanie Alexander for inspiration.",
   "body": {
     "pars": [
