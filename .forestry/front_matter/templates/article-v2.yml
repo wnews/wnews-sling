@@ -51,7 +51,6 @@ fields:
   label: related
 pages:
 - content/articles/2014/list/lorem-ipsum-2.json
-- content/articles/2021/list/high-st-islands-leave-locals-cold.json
 - content/articles/2021/list/travel-around-australia.json
 - content/firstpeoples/2020/list/a-salutary-lesson.json
 - content/gardening/2021/list/sprinter-time.json
