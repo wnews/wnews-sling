@@ -4,6 +4,53 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: heading
+  label: Pages
+- type: document
+  path: content/index.json
+  label: Home Page
+- type: document
+  path: content/advertising.json
+  label: Advertising
+- type: document
+  path: content/contact.json
+  label: Contact Us
+- type: document
+  path: content/subscribe.json
+  label: Subscriptions
+- type: directory
+  path: content/directory
+  label: Trades & Services
+  create: all
+  match: "**/list/*"
+  new_doc_ext: json
+- type: directory
+  path: content/articles
+  label: Articles
+  create: all
+  match: "**/list/*"
+  new_doc_ext: json
+  templates:
+  - article
+  - article-v2
+- type: directory
+  path: content/advertisements
+  label: Advertisments
+  create: all
+  match: "**/list/*"
+  new_doc_ext: json
+  templates:
+  - advertisement
+- type: directory
+  path: content/past-issues
+  label: Past Issues
+  create: all
+  match: "**/list/*"
+  new_doc_ext: json
+  templates:
+  - front-page
+- type: heading
+  label: Columns
 - type: directory
   path: content/history
   label: 50 Years Ago
@@ -41,23 +88,6 @@ sections:
   - article-v2
   - article
 - type: directory
-  path: content/past-issues
-  label: Past Issues
-  create: all
-  match: "**/list/*"
-  new_doc_ext: json
-  templates:
-  - front-page
-- type: directory
-  path: content/articles
-  label: Articles
-  create: all
-  match: "**/list/*"
-  new_doc_ext: json
-  templates:
-  - article
-  - article-v2
-- type: directory
   path: content/recipes
   label: Cooks Column
   create: all
@@ -80,32 +110,6 @@ sections:
   create: all
   match: "**/list/*"
   new_doc_ext: json
-- type: document
-  path: content/index.json
-  label: Home Page
-- type: document
-  path: content/contact.json
-  label: Contact Us
-- type: document
-  path: content/subscribe.json
-  label: Subscriptions
-- type: document
-  path: content/advertising.json
-  label: Advertising
-- type: directory
-  path: content/directory
-  label: Trades & Services
-  create: all
-  match: "**/list/*"
-  new_doc_ext: json
-- type: directory
-  path: content/advertisements
-  label: Advertisments
-  create: all
-  match: "**/list/*"
-  new_doc_ext: json
-  templates:
-  - advertisement
 upload_dir: wnews
 public_path: https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews
 front_matter_path: ''
