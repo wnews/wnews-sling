@@ -1,5 +1,5 @@
 {
-  "sling:resourceType": "",
+  "sling:resourceType": "wnews/page/article",
   "title": "High St ‘islands’ leave locals cold",
   "date": "2021-08-19",
   "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/08/COL Truck thru gap.jpg",
