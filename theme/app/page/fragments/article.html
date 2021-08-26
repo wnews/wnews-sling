@@ -7,7 +7,7 @@
 <section data-th-fragment="latest(feature)" data-th-with="latest=${resolver.resolve('/content/wnews/articles/current').adaptTo(@org.mnode.whistlepost.page.SortedArticles@class)}">
     <div class="wp-layout dynamic">
         <th:block data-th-each="article : ${latest.sortedPage}">
-            <th:block data-th-if="${#strings.startsWith(article.resource.path, feature}">
+            <th:block data-th-if="${#strings.startsWith(article.resource.path, feature)}">
                 <div data-th-replace="/apps/wnews/page/fragments/article.html::feature(${article})">
                 </div>
             </th:block>
