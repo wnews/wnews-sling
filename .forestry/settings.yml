@@ -31,6 +31,7 @@ sections:
   match: "**/list/*"
   new_doc_ext: json
   templates:
+  - article-v2
   - article
 - type: directory
   path: content/advertisements
