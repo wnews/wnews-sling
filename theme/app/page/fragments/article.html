@@ -19,7 +19,7 @@
 
     <div class="wp-layout dynamic">
         <th:block data-th-each="article : ${latest.sortedPage}">
-            <th:block data-th-if="${article.resource.name} != ${feature}">
+            <th:block data-th-if="${not #strings.contains(feature, article.resource.name)}">
                 <div data-th-replace="/apps/wnews/page/fragments/article.html::feature(${article})">
                 </div>
             </th:block>
