@@ -1,0 +1,26 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-09-03",
+  "title": "School’s at home again",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/09/JJ remote learning.jpg",
+  "body": {
+    "pars": [
+      "With COVID 19 now getting too close for comfort in our region, we have certainly been jolted out of any complacency we might have felt or any optimism that we might be confidently planning any fun events in the near future.  ",
+      "Of course one of the most significant effects on families is that it’s back to  ‘school at home’ again.  \n",
+      "JJ (pictured) from St Mary’s Primary School looks pretty much on top of things as he focuses on his school work.  But of course the best part of school - playing with friends - is sadly missing from his day.\n",
+      "As we go to press on Tuesday, the Shepparton COVID-19 outbreak is concluding its twelfth day, with authorities confident it is on the way to being contained. \n.",
+      "GV Health CEO Matt Sharp said 40 per cent of Shepparton  and Mooroopna’s population had been tested, but he urged people to continue to come forward if they have been to an exposure site or are experiencing symptoms.\n",
+      "For the many people across the Goulburn Valley who have been in fourteen day isolation, it is coming up time for Day 13 tests. A negative result is needed as part of their release from quarantine. Anyone in isolation should rely on the information they receive from the Department of Health advising when their day 13 test should be completed.\n",
+      "For most people with children who were at one of the Tier 1 school sites on August 20, Thursday will be Day 13. \nWhile Shepparton lost a significant part of its workforce to quarantine over the past twelve days, the community has united in responding to the needs of those isolating and those businesses struggling to keep open and serving their customers. \n",
+      "Mr Sharp said there were two things now to do: Get tested if you have symptoms, and if you have not yet made an appointment for vaccination do so straight away."
+    ]
+  },
+  "published": true,
+  "sidebar": "JJ (pictured) from St Mary’s Primary School looks pretty much on top of things as he focuses on his school work.  But of course the best part of school - playing with friends - is sadly missing from his day.",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
