@@ -1,0 +1,8 @@
+{
+  "title": "Cooks Column (2020)",
+  "sling:resourceType": "wnews/page/article-list",
+  "jcr:primaryType": "nt:unstructured",
+  "pageSize": 6,
+  "bannerUrl": "/recipes/current.html",
+  "bannerImage": "/assets/wnews/images/cooks-column.png"
+}

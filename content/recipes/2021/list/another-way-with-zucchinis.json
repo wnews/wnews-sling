@@ -1,0 +1,29 @@
+{
+  "sling:resourceType": "wnews/page/recipe",
+  "date": "2021-03-04",
+  "title": "Another way with zucchinis!",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/07/ZucchiniEgg.JPG",
+  "abstract": "We really are trying hard to remember to check the zucchini patch each day . . . but some still seem to escape our notice till they’re over-size.\nI’ve come up with another way to use them (apart from soups, slices, cakes, muffins, pickles, stuffing them etc).\n",
+  "body": {
+    "pars": [
+
+    ]
+  },
+  "ingredients": [
+    "Large zucchini",
+    "egg",
+    "oil",
+    "crispy bacon",
+    "spring onion",
+    "sour cream"
+  ],
+  "method": [
+    "I cut a large zucchini into 4-5cm wide circles and cut out the centres using a large scone cutter and discard this part (edible but a bit seedy, so into the compost they go). ",
+    "I then drizzled my sandwich press with some olive oil and cooked the zucchini slices for a few minutes one side, before flipping over (a bit more olive oil added, S&P)  and breaking an egg into the centre of each slice, and cooking till the egg white was firm - we like our yolks runny!",
+    "I topped them with some crispy bacon pieces and some finely chopped spring onions to serve.",
+    "A dob of sour cream might have added a touch of luxury."
+  ],
+  "testimonials": "",
+  "published": true,
+  "sidebar": ""
+}

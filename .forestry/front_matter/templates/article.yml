@@ -1,0 +1,191 @@
+---
+label: Article
+hide_body: true
+fields:
+- type: text
+  name: sling:resourceType
+  label: sling:resourceType
+  default: wnews/page/article
+  config:
+    required: true
+  hidden: false
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+  default: now
+  config:
+    date_format: DD/MM/YYYY
+    export_format: YYYY-MM-DD
+- type: file
+  name: media
+  label: media
+- type: field_group
+  name: body
+  label: body
+  fields:
+  - type: list
+    name: pars
+    label: pars
+- type: boolean
+  name: published
+  label: published
+- name: sidebar
+  type: text
+  config:
+    required: false
+  label: sidebar
+- name: abstract
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: abstract
+- name: related
+  type: field_group
+  config: {}
+  fields:
+  - name: article
+    type: field_group
+    config: {}
+    fields:
+    - name: page
+      type: text
+      config:
+        required: false
+      label: page
+    label: article
+  label: related
+  description: Related articles
+pages:
+- content/articles/2014/list/lorem-ipsum.json
+- content/articles/2020/list/938-000-funding-for-st-mary-s.json
+- content/articles/2020/list/are-you-prepared-for-the-fire-season.json
+- content/articles/2020/list/back-to-school-at-last.json
+- content/articles/2020/list/community-house-buys-a-community-taxi.json
+- content/articles/2020/list/community-house-returns-to-normal-hours.json
+- content/articles/2020/list/envirowater-remaking-the-wetland.json
+- content/articles/2020/list/fire-danger-period-announced-for-the-campaspe-shire.json
+- content/articles/2020/list/fire-danger-period-information.json
+- content/articles/2020/list/local-schools-celebrate-naidoc-week.json
+- content/articles/2020/list/nominations-for-australia-day-awards-2021.json
+- content/articles/2020/list/origins-of-the-easter-festival.json
+- content/articles/2020/list/out-and-about-at-last.json
+- content/articles/2020/list/preparing-town-for-christmas.json
+- content/articles/2020/list/rushworth-town-celebrations-for-australia-day.json
+- content/articles/2020/list/your-decision-rushworth.json
+- content/articles/2021/list/1.5-million-boost-to-the-gargarro-botanic-gardens.json
+- content/articles/2021/list/anzacs-remembered.json
+- content/articles/2021/list/calls-ramp-up-for-rushworth-ambulance-service.json
+- content/articles/2021/list/community-taxi-drivers.json
+- content/articles/2021/list/drivers-needed-for-community-transport.json
+- content/articles/2021/list/exciting-news-for-girgarre-s-gargarro.json
+- content/articles/2021/list/iron-lady-joyce-celebrates-100-years.json
+- content/articles/2021/list/living-treasures-part-2.json
+- content/articles/2021/list/living-treasures-part-3.json
+- content/articles/2021/list/living-treasures.json
+- content/articles/2021/list/lucky-fish.json
+- content/articles/2021/list/mud-hut-yoga-studio-happenings.json
+- content/articles/2021/list/nbn-upgrade-on-the-way.json
+- content/articles/2021/list/new-branch-manager-joins-the-rushworth-team.json
+- content/articles/2021/list/new-fuel-outlet-opens-in-rushworth.json
+- content/articles/2021/list/new-rushy-servo-more-than-just-fuel.json
+- content/articles/2021/list/olive-growers-field-day-on-soil-at-lisadurne-hill-in-rushworth.json
+- content/articles/2021/list/push-for-rushworth-based-ambulance.json
+- content/articles/2021/list/rushworth-in-the-news.json
+- content/articles/2021/list/rushworth-streetscape-upgrade-ready-to-go.json
+- content/articles/2021/list/school-holiday-fun-at-kyabram-fauna-park.json
+- content/articles/2021/list/school-s-at-home-again.json
+- content/articles/2021/list/ses-rushworth-has-busiest-night.json
+- content/articles/2021/list/stanhope-health-centre-opens-with-aboriginal-smoking-ceremony.json
+- content/articles/2021/list/tanked-up-and-nearly-ready-to-go.json
+- content/articles/2021/list/top-local-citizens-honoured.json
+- content/articles/2021/list/victorian-ambulance-service.json
+- content/articles/2021/list/visitors-converge-on-rushworth-at-easter.json
+- content/articles/2021/list/volunteering-the-glue-that-keeps-communities-working-together.json
+- content/firstpeoples/2019/list/2019-12-12-possum-skin-cloaks.json
+- content/firstpeoples/2020/list/2020-02-13-national-apology-anniversary.json
+- content/firstpeoples/2020/list/2020-02-13-use-of-ochre.json
+- content/firstpeoples/2020/list/2020-06-04-queen-mary.json
+- content/firstpeoples/2020/list/making-a-stone-axe.json
+- content/firstpeoples/2020/list/the-primary-weapon.json
+- content/firstpeoples/2021/list/a-mass-arrest.json
+- content/firstpeoples/2021/list/aboriginal-place-names.json
+- content/firstpeoples/2021/list/battles-around-melbourne.json
+- content/firstpeoples/2021/list/cooking-methods.json
+- content/firstpeoples/2021/list/deadly-and-proud.json
+- content/firstpeoples/2021/list/dealing-with-the-true-history.json
+- content/firstpeoples/2021/list/decoction-of-wattle-bark.json
+- content/firstpeoples/2021/list/imagining-the-country.json
+- content/firstpeoples/2021/list/inter-group-relationships.json
+- content/firstpeoples/2021/list/more-on-marriage.json
+- content/firstpeoples/2021/list/more-traditional-medicines.json
+- content/firstpeoples/2021/list/ngurai-illum-wurrung-country-place-names.json
+- content/firstpeoples/2021/list/retrieving-the-language.json
+- content/firstpeoples/2021/list/seasonal-food-surplus.json
+- content/firstpeoples/2021/list/speaking-ngurai-illum-wurrung.json
+- content/firstpeoples/2021/list/traditional-health-practices.json
+- content/firstpeoples/2021/list/two-legal-systems.json
+- content/gardening/2020/list/hints-and-to-do-list-for-november.json
+- content/gardening/2020/list/kitchen-garden.json
+- content/gardening/2020/list/what-an-up-and-down-year-in-my-garden.json
+- content/gardening/2021/list/autumn-a-busy-time-in-the-garden.json
+- content/gardening/2021/list/autumn-time-in-the-garden...json
+- content/gardening/2021/list/frost-it-s-that-time-of-year.json
+- content/gardening/2021/list/inspirational-gardens.json
+- content/gardening/2021/list/it-s-pruning-time.json
+- content/gardening/2021/list/showiest-star-of-the-summer-garden.json
+- content/gardening/2021/list/soil-and-water-how-they-mix.json
+- content/gardening/2021/list/spring-days-just-around-the-corner.json
+- content/gardening/2021/list/tes.json
+- content/gardening/2021/list/winter-gardening-growing-from-seeds.json
+- content/history/2021/list/Goodbye to long-serving Shire identities in July 1971.json
+- content/history/2021/list/august-1971-had-lots-of-news.json
+- content/history/2021/list/district-winter-sport-finals-begin-in-august-1971-a.json
+- content/history/2021/list/fifty-years-ago-in-our-district-only-half-a-century-ago.json
+- content/history/2021/list/sad-month-and-big-fires-to-start-1971.json
+- content/history/2021/list/traction-engine-scares-the-people-of-rushworth.json
+- content/history/2021/list/two-school-chronicles-in-1956.json
+- content/history/2021/list/winter-sport-success-half-a-century-ago.json
+- content/kids/2020/list/australian-tropical-cyclones.json
+- content/kids/2020/list/quarantine.json
+- content/kids/2020/list/tropical-cyclones.json
+- content/kids/2021/list/Suez Canal.json
+- content/kids/2021/list/avacado.json
+- content/kids/2021/list/budgerigars.json
+- content/kids/2021/list/cheese.json
+- content/kids/2021/list/corn.json
+- content/kids/2021/list/flags.json
+- content/kids/2021/list/macadamias.json
+- content/kids/2021/list/possums.json
+- content/kids/2021/list/stingers.json
+- content/kids/2021/list/sunflowers.json
+- content/kids/2021/list/the-bandicoot.json
+- content/kids/2021/list/vaccines.json
+- content/past-issues/2021/list/thursday-22-july-2021.json
+- content/past-issues/2021/list/thursday-4-march-2021.json
+- content/recipes/2020/list/rice.json
+- content/technology/2020/list/beware-of-share.json
+- content/technology/2020/list/cookies-can-be-bad-for-you.json
+- content/technology/2020/list/i-am-not-a-robot.json
+- content/technology/2020/list/netiquette.json
+- content/technology/2020/list/rules-of-netiquette.json
+- content/technology/2020/list/turing-test.json
+- content/wildlife/2020/list/build-some-nesting-boxes.json
+- content/wildlife/2020/list/some-do-s-and-dont-s.json
+- content/wildlife/2021/list/a-little-less-hectic-bohollow.json
+- content/wildlife/2021/list/always-with-wildlife-rescue.json
+- content/wildlife/2021/list/bohollow-wildlife-shelter-inc-is-a-non-profit-charity-which-provides-24-hour-rescue-and-care-for-all-australian-native-wildlife.json
+- content/wildlife/2021/list/injured-wildlife.json
+- content/wildlife/2021/list/nankeen-kestrel.json
+- content/wildlife/2021/list/nature-is-not-black-and-white.json
+- content/wildlife/2021/list/owl-visits-bunnings.json
+- content/wildlife/2021/list/shearwater-otherwise-known-as-a-mutton-bird.json
+- content/wildlife/2021/list/spring-is-in-the-air.json
+- content/wildlife/2021/list/the-problems-of-rodenticides-bohollow.json
+- content/wildlife/2021/list/wildlife-care-a-tough-gig-bohollow.json

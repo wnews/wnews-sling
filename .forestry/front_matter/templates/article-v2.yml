@@ -1,0 +1,60 @@
+---
+label: Article v2
+hide_body: true
+fields:
+- type: text
+  name: sling:resourceType
+  label: sling:resourceType
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+  config:
+    export_format: YYYY-MM-DD
+    date_format: DD/MM/YYYY
+- type: file
+  name: media
+  label: media
+- type: textarea
+  name: abstract
+  label: abstract
+- type: boolean
+  name: published
+  label: published
+- name: body
+  type: field_group
+  config: {}
+  fields:
+  - name: content
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: html-blocks
+    label: content
+  label: body
+- name: sidebar
+  type: text
+  config:
+    required: false
+  label: sidebar
+- name: related
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: pages
+      section: articles
+  label: related
+pages:
+- content/articles/2014/list/lorem-ipsum-2.json
+- content/articles/2021/list/high-st-islands-leave-locals-cold.json
+- content/articles/2021/list/travel-around-australia.json
+- content/firstpeoples/2020/list/a-salutary-lesson.json
+- content/technology/2020/list/zoom-zoom.json

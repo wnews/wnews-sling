@@ -1,0 +1,11 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "title": "Lorem Ipsum 2",
+  "date": "2020-09-22T00:00:00+10:00",
+  "media": "",
+  "abstract": "This is a test",
+  "published": false,
+  "body": {
+    "content": "<h1>Test 1</h1>\n\nThis is a test.\n\n<pre>formatted</pre>\n"
+  }
+}

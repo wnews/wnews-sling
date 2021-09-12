@@ -1,0 +1,43 @@
+{
+  "sling:resourceType": "wnews/page/recipe",
+  "date": "2021-07-22T00:00:00+10:00",
+  "title": "Orange Tea Cake",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/08/Orange Tea Cake.jpg",
+  "abstract": "It seems to be a good season for oranges in downtown Colbo, hence the orange tea cake. I’ve used a recipe by Stephanie Alexander for inspiration.",
+  "body": {
+    "pars": [
+
+    ]
+  },
+  "ingredients": [
+    "Ingredients - cake",
+    "1 large orange (zest and juice)",
+    "2 eggs",
+    "125 gm softened unsalted butter",
+    "3/4 cup castor sugar",
+    "225 grms self raising flour",
+    "Ingredients - icing",
+    "2 cups icing sugar",
+    "1 teaspoon melted butter",
+    "1 tablespoon fresh orange juice (from an extra orange)",
+    "1 tablespoon orange flavoured liquor",
+    "1 tablespoon chopped candied/sugared orange peel."
+  ],
+  "method": [
+    "Pre heat oven to 190º, butter and line a 20cm ring tin. I only have a square 20cm.",
+    "Combine all cake ingredients in a food processor and blend for two minutes until smooth and creamy.",
+    "Pour into  the prepared tin and bake for 30-35 minutes.\n",
+    "Leave in tin for five minutes before turning onto a wire rack. ",
+    "Cool before icing.",
+    "Method - icing",
+    "Beat all ingredients until smooth (NOT the peel).",
+    "Stir in the peel. ",
+    "Warm icing over hot water until it thins and pour over the cake.",
+    "Big shout out to Jules of the Colbo Pub. ‘Thanks for the oranges. Best tasting oranges!’\n",
+    "Bon appetit.",
+    "Pauline"
+  ],
+  "testimonials": "",
+  "published": true,
+  "sidebar": ""
+}

@@ -1,0 +1,8 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Morgans Fuel",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/advertisements/Morgans Fuel.jpg",
+  "telephone": "0417 571 967",
+  "testimonials": "enabled",
+  "published": true
+}

@@ -1,0 +1,8 @@
+{
+  "title":"Waranga Dreaming (2019)",
+  "sling:resourceType":"wnews/page/article-list",
+  "jcr:primaryType":"nt:unstructured",
+  "pageSize": 6,
+  "bannerUrl": "/firstpeoples/current.html",
+  "bannerImage": "/assets/wnews/images/waranga-dreaming.png"
+}

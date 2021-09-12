@@ -1,0 +1,8 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Clive Coventry",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/advertisements/Clive Coventry.jpg",
+  "telephone": "03 5852 1619",
+  "testimonials": "enabled",
+  "published": true
+}

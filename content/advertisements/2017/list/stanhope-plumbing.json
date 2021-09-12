@@ -1,0 +1,7 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Stanhope Plumbing",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/advertisements/Stanhope Plumbing.jpg",
+  "testimonials": "enabled",
+  "published": true
+}

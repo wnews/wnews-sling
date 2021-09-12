@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en" data-th-with="page=${request.adaptTo(@org.mnode.whistlepost.page.SortedArticles@class)}">
+
+<head data-th-replace="/apps/wnews/page/fragments/head.html::default">
+</head>
+
+<body>
+
+<div class="wp-layout holygrail">
+    <header data-th-replace="/apps/wnews/page/fragments/masthead.html::default">
+    </header>
+
+    <nav data-th-replace="/apps/wnews/page/fragments/navigation.html::navbar">
+    </nav>
+
+    <main>
+        <section data-th-replace="/apps/wnews/page/fragments/recipe.html::list(${page.sortedPage})">
+        </section>
+
+        <nav data-th-replace="/apps/wnews/page/fragments/columns.html::columns-nav">
+        </nav>
+    </main>
+
+    <aside data-th-replace="/apps/wnews/page/fragments/advertisement.html::sidebar-panel">
+    </aside>
+
+    <footer data-th-replace="/apps/wnews/page/fragments/footer.html::footer-panel">
+    </footer>
+</div>
+</body>
+
+</html>

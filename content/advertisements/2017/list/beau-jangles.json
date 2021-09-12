@@ -1,0 +1,7 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Beau Jangles",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/advertisements/Beau Jangles.jpg",
+  "testimonials": "enabled",
+  "published": true
+}

@@ -1,0 +1,22 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-02-18",
+  "title": "Showiest star of the summer garden",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/07/corymbia-cvs-summer-beautycu800Main.jpg",
+  "body": {
+    "pars": [
+      "One of the showiest stars of a summer garden has to be the Corymbia flowering gum. The masses of brightly coloured flowers produced at the ends of branches provide a spectacular display, and honey-eating birds and bees find the nectar-laden flowers irresistible.",
+      "When grown from seed, blossoms can vary in a range of colours from red, pink through to orange and white, and can have two-toned colours as well. The seed grown tree can also range in height from 2 metre mallee forms to 15 metre trees. Seedlings are not especially hardy on their own roots in many soil types. If you are after a specific colour or height, it’s best to get one of the beautiful grafted forms available from your local nursery.",
+      "These cultivars are small to medium sized trees that may reach about 6-10 metres in height. They have large glossy dark green leaves with a light green reverse, along with decorative bronze new growth several times a year. Pruning is not necessary except to remove the lower branches so you can walk under them.",
+      "Corymbias prefer a full sun position in a well-drained soil. Mulch around the base in warm weather, and enjoy the colour!"
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}

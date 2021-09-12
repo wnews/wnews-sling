@@ -1,0 +1,18 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2020-07-02",
+  "title": "Core Rules of Netiquette",
+  "abstract": "",
+  "body": {
+    "pars": [
+      "Here are some example <a href='https://coursedesign.colostate.edu/obj/corerulesnet.html'>rules</a> to remind ourselves of good online behaviour.",
+      "<ol><li>Remember the Human</li><li>Adhere to the same standards of behavior online that you follow in real life</li><li>Know where you are in cyberspace</li><li>Respect other people's time and bandwidth</li><li>Make yourself look good online</li><li>Share expert knowledge</li><li>Help keep flame wars under control</li><li>Respect other people's privacy</li><li>Don't abuse your power</li><li>Be forgiving of other people's mistakes</li></ol>"
+    ]
+  },
+  "published": false,
+  "media": "",
+  "sidebar": "",
+  "related": [
+
+  ]
+}

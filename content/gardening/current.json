@@ -1,0 +1,280 @@
+{
+  "title":"Garden Hints &amp; Tips",
+  "sling:resourceType":"wnews/page/article-list",
+  "jcr:primaryType":"nt:unstructured",
+  "pageSize": 6,
+  "bannerUrl": "/gardening/current.html",
+  "bannerImage": "/assets/wnews/images/garden-hints.png",
+  "list": {
+    "crop-rotation": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-07-16",
+      "title": "Crop Rotation - mixing things up",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/07/wnews20200716-044.jpg",
+      "abstract": "As very amateur home gardeners\n(speaking from personal experience) most of\nus know that crop rotation is something that is\ngoing to help us grow healthy happy veggies\nthat we (instead of very hungry caterpillars\nand other pests) get to enjoy munching on.",
+      "body": {
+        "pars": [
+          "As very amateur home gardeners\n(speaking from personal experience) most of\nus know that crop rotation is something that is\ngoing to help us grow healthy happy veggies\nthat we (instead of very hungry caterpillars\nand other pests) get to enjoy munching on.",
+          "Knowing is one thing, but being\norganised enough to do more than not plant\nthe tomatoes in the same bed as last year,\nis another. However, we don’t need to have\na degree in agro-science or horticulture to\nunderstand the common sense theory that\ndifferent crops use up different nutrients\nin the soil, so it might be better to give that\npatch a rest from this year’s lodgers and offer\nit a crop with different tastes.",
+          "A useful fact to remember is that while\nmany vegetables remove many and various\nnutrients from the soil during their growing\nperiods, a number also replace nutrients (eg\nbeans, peas and other legumes). So by varying\nwhat we plant, and what type of crop follows\nanother, we can ensure that our vegies get\nwhat they need from the soil… and we get\nwhat we need from our vegies!",
+          "Essentially, each area should be planted\nwith a different plant family each season\n(generally every six months), to help avoid\nany nasty pest and disease outbreaks.",
+          "The other reason for this type of planting\nsequence is that some plants are referred to\nas “heavy” feeders, while others are “light”\nfeeders. By introducing a crop rotation\nsystem, we can estimate the potential levels\nof soil nutrients remaining in the plot and\nplant up accordingly.",
+          "So a key basic for crop rotation is a little\nbit of knowledge about plant families.",
+          "<strong>Know your vegies. How hungry\nare they?</strong>",
+          "<ul><li>Fruity things, such as cucumbers and\ntomatoes, are heavy feeders</li><li>Brassicas (cabbages, etc) are medium\nfeeders.</li><li>Rooty things, eg onions and carrots, are\nlight feeders.</li><li>Legumes (beans, etc) are non-feeders\n(they can fix their own nitrogen).</li><li>Leafy things (lettuce, spinach, silverbeet,\netc) are pretty neutral - don’t have much\nimpact on the soil and are not too fussy.</li></ul>",
+          "So, alternating light and heavy feeders,\na six year crop rotation (if you have an\nextensive vegie garden) might be:",
+          "<ol><li>Legumes (beans, peas etc).</li><li>Brassicas (cabbage, broccolietc).</li><li>roots:onions, leeks</li><li>cucumber, pumpkin, etc</li><li>roots: carrots</li><li>tomatoes, potatoes</li></ol>",
+          "But of course you might not have the\nspace, time or energy for such a minimarket\ngarden approach. So to make it more\nmanageble, you might:",
+          "<ul><li>Combine some things: eg all the ‘roots’.</li><li>Omit some things: eg never plant\nbrassicas (did you really want cabbages and\nbrussel sprouts anyway?)</li><li>The most common solution: plant a\ncool season crop (e.g. brassicas) followed\nby a warm season crop (e.g. tomatoes or\ncucumbers) into a single bed over the course\nof a year.</li></ul>"
+        ]
+      },
+      "published": true
+    },
+    "health-and-happiness": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-07-02",
+      "title": "Health and happiness from the garden",
+      "abstract": "In these times of high anxiety and enforced\nsocial isolation, connecting with nature helps\nus both physically and emotionally. It may\nbe walking in our local bushland, breathing\nthe fresh fragrant air, seeking out or admiring\nthe wild flowers, local fauna, and majestic\nEucalypts and acacias. Admiring the beauty,\nthe fresh greenery and colour and being\ninspired to “garden’ in one of its many forms.\nYou may just be tidying up a neglected area,\nrepotting plants on your verandah or indoor\npatio, taking some cuttings to share with\nfriends, weeding and feeding our ‘lawns’ or\ngrowing vegetables, herbs and flowers. Also\ntaking photos to journal, or share, and drawing\nor painting some outdoor inspiration. Being\namongst ‘the greenery has mental health\nbenefits.",
+      "body": {
+        "pars": [
+          "In these times of high anxiety and enforced\nsocial isolation, connecting with nature helps\nus both physically and emotionally. It may\nbe walking in our local bushland, breathing\nthe fresh fragrant air, seeking out or admiring\nthe wild flowers, local fauna, and majestic\nEucalypts and acacias. Admiring the beauty,\nthe fresh greenery and colour and being\ninspired to “garden’ in one of its many forms.\nYou may just be tidying up a neglected area,\nrepotting plants on your verandah or indoor\npatio, taking some cuttings to share with\nfriends, weeding and feeding our ‘lawns’ or\ngrowing vegetables, herbs and flowers. Also\ntaking photos to journal, or share, and drawing\nor painting some outdoor inspiration. Being\namongst ‘the greenery has mental health\nbenefits.",
+          "My garden is far from a masterpiece\nbut the rewards create a sanctuary from my\nsometimes stressful life. The vegetables\nare doing well with the beautiful rain, rich\ncompost and the mild autumn. The broccoli\nare beginning to set their main ‘heads’ and\nthe several varieties of cabbage are also\nthriving. I have these netted to prevent ‘the\nwhite cabbage moth’. Snow peas are halfway\nup their supports and the bush peas are\nflowering profusely. The onions, including\nspring onions and garlic, lettuces, silverbeet,\nkale, Asian greens, parsley, mints and chives\nwill keep my kitchen humming as well as\nplenty to give family and friends. From a\nsheltered area, still picking small tomatoes as\nthey begin to colour as well as red and green\ncapsicums in a large pot next to our chimney\nin the afternoon sun.",
+          "Maintenance at present is a high priority.\nI still have to cut back more shrubs and take\ncuttings to pot up for friends and family.\nNext will be the roses. Using cleaned and\nsharpened tools these need to be pruned\nback to about two thirds, removing any dead\nwood and binning any mouldy leaves. Then\nto thoroughly spray these roses with lime\nsulphate.",
+          "As I move around my garden to empty the\nwheelbarrow or collect some more compost,\nI usually get distracted and stop and do small\ntasks, like cutting a small bunch of flowers\nor herbs for indoors. I become so immersed\nin this green space ‘hubby’ often has to call\nme in to start dinner. Thank goodness for the\nslow cooker!",
+          "Today I am setting up my new strawberry\ntiered garden. My good friend Less Williams\nmade this for me at the Stanhope Men’s\nshed. This idea came from the “Gardening\nAustralia’ program, so I drew up a ‘plan’ and\nits now ready to go. It’s made from recycled\nwood with hinged corners. The bottom is\nlined with geo fabric which prevents the\nweeds from entering through the bottom.",
+          "Now to assemble and fill the three tiers\nwith soil enriched from homemade compost\nand worm castings. I am making an ‘Olla\nvessel using 2 terracotta post to place in the\ncentre of the three tiers allow the top to be\nlevel with the top surface. (This large selfwatering\npot which is porous, will continue\nto supply water to the strawberries. Water\nmoves through the porous walls into the\nsurrounding dry soil and is taken up by the\nplant as required through the roots. There is\nno water wasted, no evaporation, no run off,\nno over watering, not effort – just uncover the\nplugged hole and refill every ten days to two\nweeks).",
+          "Now to plant all the strawberry plants\naround each level which I have ready to go\nfrom runners I potted up.",
+          "<em>A photo of this venture will be in a later\nissue.</em>"
+        ]
+      },
+      "published": true
+    },
+    "banksias-brighten-a-garden": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-06-18",
+      "title": "Banksias brighten up a winter garden",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/06/wnews20200618-480.jpg",
+      "abstract": "The onset of winter brings the striking\nflowers of the many Banksia species to the\nfore.",
+      "body": {
+        "pars": [
+          "The onset of winter brings the striking\nflowers of the many Banksia species to the\nfore.",
+          "These striking and attractive Australian\nnative plants have tough, often serrated\nleaves and large, erect cones of stiff flowers in\nshades of greenish-white, yellow and orange\nthrough to pink and red. Banksias range from\nground covers, low growing shrubs to small\ntrees and are great plants to attract bees and\nnectar feeding birds into the garden. Banksias\nalso make great cut flowers indoors where\nthey’ll release their honey scent.",
+          "Banksias also\nproduce very distinctive\nwoody seed pods\nwhich you’ll instantly\nrecognise as the big bad\nBanksia men if you’ve\nread the children’s\nbook “Snugglepot &\nCuddlepie” by May\nGibbs.",
+          "There are more than\n170 species of banksias\nwith all but one being\nendemic to Australia\n.Probably the most\ncommon species grown\nin the home garden\nare Banksia spinulosa,\nBanksia speciosa and\nBanksia ericifolia while the cultivars ‘Giant\nCandles’ and ‘Birthday Candles’ are also\npopular with their prolific flowering.",
+          "<strong>How to grow Banksias</strong>",
+          "Choose a sunny position where the soil\nis free draining to avoid them developing\nroot rot. They are quite happy in sandy soils\nbut will appreciate a little organic matter\nbeing added. Clay soils will definitely need\nimproving with gypsum and you should also\nraise the garden bed to assist with drainage.\nApply liquid seaweed in the first few weeks\nto help settle the banksia into its new home.",
+          "Banksias lack a main taproot and can take\ntwo years to fully establish themselves. Keep\nan eye on them for their first two summers\nand provide extra water during hot periods if\nneeded. After that they’ll be quite drought\nresistant.",
+          "If you want to grow banksias from seed\nthe good news is the seeds are very viable\nand will easily germinate in a few days.\nExtracting the seed from the cone however is\nthe tricky part! They are deep inside the cone\nand the capsules only open after exposure\nto high temperatures eg bushfires. To mimic\nthis place the cone in an oven for 1-2 hours at\n100-150 degrees celcius and the capsules will\nopen releasing the seed. Watch that the cone\ndoesn’t catch alight.",
+          "Sow the seed either\ndirectly into a garden bed\nor in very free draining\nnative potting mix. Water\nin with liquid seaweed and\nbefore you know it, you\nwill have baby banksias!",
+          "<strong>Fertilising Banksias</strong>",
+          "Banksias have\nspecial roots called\nproteoid roots which\nhelp them to grow in our\nlow nutrient Australian\nsoils. As such they\nrequire little fertilising\nand are particularly\nsensitive to high levels of\nphosphorous, especially\nwhen they are young. Once or twice a year,\napply a certified organic fertiliser which is\nlabelled safe for natives or has a phosphorus\ncontent less than 2%.",
+          "If you have young plants that you want to\npush along then apply liquid seaweed every\n2-4 weeks as this are safe for all natives.",
+          "<strong>Pruning Banksias</strong>",
+          "Generally banksias require little pruning.\nSimply trim off any dead branches which\nmay appear and prune back to restrict the\nsize/shape if needed. Finished flower spikes\nleft to age on the plant become quite striking\nin their own right."
+        ]
+      },
+      "published": true
+    },
+    "wisdom-of-time": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-06-04",
+      "title": "The wisdom of time….and hindsight",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/06/wnews20200604-055.jpg",
+      "abstract": "Time is a great giver of wisdom; it allows\nyou to make mistakes and then hopefully\nlearn from them. This is certainly the case\nwith gardening where, sooner or later, your\nmistakes become very evident. However it\ndoes help if you have some of this wisdom\nsimply told to you so here are some little\ngardening pearls of wisdom.",
+      "body": {
+        "pars": [
+          "Time is a great giver of wisdom; it allows\nyou to make mistakes and then hopefully\nlearn from them. This is certainly the case\nwith gardening where, sooner or later, your\nmistakes become very evident. However it\ndoes help if you have some of this wisdom\nsimply told to you so here are some little\ngardening pearls of wisdom.",
+          "While weeding is sometimes good\ntherapy, mostly it is just a pain. To counter\nour weed problems many of us laid down\nweed mat and covered it with a good layer\nof mulch. It worked as far as the weeds go\nbut it created other\nproblems. The weed\nmat with a thick thatch\nof often hydrophobic\nmulch was impenetrable\nto water. The underlying\nsoil dried out and\ncompacted. There was\nno transfer of humus\ninto the soil. In effect,\nthe soil died. Even with\nan irrigation system\nmany plants struggled\nand often new plants\ndied or failed to thrive.\nA moderate, layer of\nmulch is almost essential\nin Rushworth, but\nmake sure that it is thin\nenough for our precious\nrain to penetrate. An\noccasional handful or\ntwo of wetting agent is\na big help.",
+          "It is entirely possible\nto build clay into garden\nsoil. It takes time. Initially a good dose of\ngypsum and plenty of compost needs to be\ndug in. The initial plantings should be quite\nhardy types. When planting dig large holes\nand really break up the clay and use plenty\nof seaweed solution. Over the following few\nyears keep adding compost and building\nup the soil and you will develop soil good\nenough to plant most things in, but remember\nthe clay is still underneath.",
+          "It is also quite possible to grow a garden\nin areas that are in a dark and gloomy spot.\nSimply plant what will tolerate the cooler\nlow-light conditions. It is a case of planting\nwhat the position dictates rather than what\nyou would like to grow.",
+          "An irrigation system on a timer is a great\nthing, but have you ever tried to program one\nof those expensive electronic timers? Unless\nyou have a tech savvy grandchild to do it for\nyou it may be better to get a mechanical twist\nstyle timer. You will need to turn it on but at\nleast you can use it. They are also cheaper and\nseem to last longer.",
+          "Some plants are quite fussy when it comes\nto soil ph. It is cheaper to get a soil testing kit\nor take a soil sample into your nursery to be\ntested than it is to buy plants and watch them\ndie.",
+          "In ‘difficult’ parts of the garden, resist\nthe temptation to plant vigorous bomb-proof\nplants. While they may thrive they may also\nspread to where you don’t\nwant them. Later when\nyou finally get around to\ndeveloping that “difficult”\narea they will be almost\nimpossible to eradicate. If\nyou insist upon planting\nthem check to ensure they\nare not classified as noxious.",
+          "Check all new plants\nfor insects and disease\nbefore you plant them. This\nis especially true for the\nfreebies that your gardening\nfriends give to you.",
+          "Every now and then we\nall have plants that start to\ngo downhill. If it is a shrub\nor tree, cut of a little of the\ndying part of the plant and\ncheck for termites. They are\nrife in Rushworth. Whether\nthe termites are the cause of\nthe plant’s failure or whether\nthey are taking advantage of\nthe weakened plant is a moot\npoint. If there are termites in the plant, treat\nwith powder insecticide (cut and immediately\ndust) or remove the plant entirely. Then\ncheck other plants and buildings for signs of\ntermites. Some plants are very well protected\nwith thorns or spines. Bougainvillaeas,\nyuccas, many grevilleas, cacti and of course\nroses, are just some examples. They may be\nlovely to look at but are murder to prune, cutback\nor remove. Try to find thornless varieties\nto plant.",
+          "Over the last few months many of us\nhave been swept up in a flurry of gardening;\na good, healthy activity when keeping away\nfrom the world. We just need to accept that\nnot all of the gardening we have done in this\ntime will bear the desired results and that we\nwill, in time, gain more wisdom.",
+          "<em>Zen Gardener</em>"
+        ]
+      },
+      "published": true
+    },
+    "gardening-in-lockdown": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-05-21",
+      "title": "Gardening days in lockdown.....",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/05/wnews20200521-055.jpg",
+      "abstract": "Mild\ntemperatures over the last month or so have\ngiven us ideal conditions for new plantings\nin the garden and plenty\nof daylight hours to tidy\nup all those areas we have\nbeen meaning to get to but\nhaven’t had the time ....\nso the upside of being in\nlockdown is plenty of time\nto get stuck into it and that’s\nexactly what we have been\ndoing in our garden and\nloving it !",
+      "body": {
+        "pars": [
+          "<strong>No Dig Gardening..</strong> with the ideal growing conditions for our\ngardens with balmy days and a good start\nto the year with some decent rains. Mild\ntemperatures over the last month or so have\ngiven us ideal conditions for new plantings\nin the garden and plenty\nof daylight hours to tidy\nup all those areas we have\nbeen meaning to get to but\nhaven’t had the time ....\nso the upside of being in\nlockdown is plenty of time\nto get stuck into it and that’s\nexactly what we have been\ndoing in our garden and\nloving it !",
+          "It has given me time to\nreflect on why we moved\nhere in the first place to\ngrow our own vegetables,\nherbs and fruits and to\npreserve what we can to\nlast throughout the year, but\nsomehow that had got lost in our busy lives\nand I am hoping that everyone has a different\noutlook on our choices now that we have\nbeen made to slow down and take stock of\nwhat really is important. And what we really\nneed and want back. ......Food for thought....",
+          "If you are new to growing vegetables and\nherbs and are struggling to get started there\nis a great easy way to achieve fresh delicious\norganic vegetables and herbs without too\nmuch manual work.....it’s the No Dig\nGarden....yes no dig !",
+          "To create a small,\nmedium or large patch\nin your garden you will\nneed some recycled\ncardboard boxes (\nall tape, staples etc\nremoved), good weed\nfree compost, some\nseedlings, and some\ntype of edging ....it can\nbe loose bricks old bits\nof concrete anything\nthat will hold the shape\nof your bed together .",
+          "Lay the cardboard\nin a position which will\nget six hours’ sunlight,\nas vegetables and herbs\nneed sun to thrive. You can lay this over a\npatch of weedy lawn so long as you overlap\nthe cardboard so no light gets into the ground.\nWet down the cardboard if you like but it’s\nnot necessary. It will break down over time\nafter the weeds have died. I prefer to put a\ncouple of layers of cardboard down to ensure\na good die off of weeds.",
+          "Layer organic compost over the cardboard\nto a depth of about 8 - 10 inches and firm\ndown so you get enough compost in the bed\nfor growing. Grab some vegetable and herb\nseedlings and plant into the compost and\nwater in, making sure you space them at the\nrequired width apart and you should have\ngreat healthy seedlings producing bountiful\nfresh food in no time!",
+          "I used to grow my vegetables by this\nmethod when in rental properties many years\nago with great success!",
+          "There are some great videos to step you\nthrough on YouTube if you need a bit extra\nhelp....",
+          "<em>Happy Gardening\n‘Green Earth Gardener’</em>"
+        ]
+      },
+      "published": true
+    },
+    "billy-buttons": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-04-09",
+      "title": "Billy Buttons",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/04/wnews20200409-042.jpg",
+      "abstract": "For a few weeks following a wet winter, the roadsides and grasslands\naround our patch of Victoria are brightened by a display of golden-yellow\nglobes on long wiry stems. Billy Buttons (Pycnosorus globosus), also known\nas Drumsticks, grow all around the district, and are a favourite wildflower of\nmany locals. Easily grown from seed, these beauties also make great longlasting\ncut flowers.",
+      "body": {
+        "pars": [
+          "For a few weeks following a wet winter, the roadsides and grasslands\naround our patch of Victoria are brightened by a display of golden-yellow\nglobes on long wiry stems. Billy Buttons (Pycnosorus globosus), also known\nas Drumsticks, grow all around the district, and are a favourite wildflower of\nmany locals. Easily grown from seed, these beauties also make great longlasting\ncut flowers.",
+          "<strong>Botanical name: Pycnosorus globosus</strong>",
+          "An attractive perennial plant with narrow woolly leaves and golden\nglobe shaped flowers on long stout stems. Flowers throughout spring and is\nexcellent for cut flowers and drying. They naturally grow in swampy areas, so\nwill need a moist but well drained soil to be at their best. Very frost tolerant.",
+          "The plant grows from an underground rhizome, so if the plant dies off,\nit can re-sprout. Once established, the plant will keep coming up for many\nyears. Plant Height: 50 - 75cm",
+          "The easiest way to grow Billy Buttons in the garden is by seed.",
+          "<strong>How to grow</strong>",
+          "Sow in warm areas at any time. In colder climates wait until the danger\nof frost is over. Sow by pressing seeds in the soil surface, directly where they\nare to grow or into seed trays filled with a moist quality seed raising mix.\nWater, and then keep evenly moist. To boost germination try sprinkling seed\nstarter granules over the surface.",
+          "Place in a warm shaded position to germinate fully. Transplant to final\ngrowing position when about 7cm - avoid disturbing the roots. Grow in full\nsun or part shade in well-drained soil. Water in well and then regularly until\nestablished but avoid fertilisers that are not designed for Australian natives.",
+          "Seedlings emerge 14-21 days.",
+          "<strong>When to plant</strong>",
+          "Spring, Summer and\nAutumn\nFlowering\nFrom 12 weeks\nSow\nSpring, Autumn",
+          "The bright yellow\nspherical flowers can\nbe dried like other\nnative daisies and used\nin floral arrangements\nfor months."
+        ]
+      },
+      "published": true
+    },
+    "time-for-reflection": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-03-26",
+      "title": "A time for reflection",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/03/wnews20200326-057.jpg",
+      "abstract": "Taking time to reflect is an important part of gardening. It is a time to think\nabout what is working in the garden and what is not and a time to make plans\nfor your garden’s future. After the dry summer months and the serious natural\nselection that took place and the prospect of the last summer being the new norm,\nwe can start planning for the future.",
+      "body": {
+        "pars": [
+          "Taking time to reflect is an important part of gardening. It is a time to think\nabout what is working in the garden and what is not and a time to make plans\nfor your garden’s future. After the dry summer months and the serious natural\nselection that took place and the prospect of the last summer being the new norm,\nwe can start planning for the future.",
+          "In my garden I have had some real successes. The blue fescue really took\noff, in spite of being trimmed by a resident rabbit. The nearby weeping wattle\nhas also done well, as did the leafless acacia. The yarrow under the new pergola\nthrived over the hot months, albeit with regular light watering Alas there were\na few fatalities among the newly planted. The upshot of this is that we need\nto plant earlier so that plants\ncan become more established\nbefore the summer. In some\ninstances we may have needed\nto buy larger, more resilient\nplants and we need to plant\nheat/drought tolerant plants\nthat can still tolerate the odd\nfrost.",
+          "It is clear that we need\nto do a serious rethink as to\nwhat we plant in our gardens.\nPlants which can not only\ntolerate but thrive in the hot,\ndry summers are now essential\nif we are to continue gardening\nin Rushworth. It would be good\nthing for Rushworth gardeners\nif we can share our successes\nby putting together a list of\nthose plants that will do well\nin our changing climate. What\nis needed from all you keen\ngardeners is to send a list of\nthe plants that have not just\nsurvived but thrived over the\nlast summer. Common names,\nbotanical names or nursery\nnames of the plants is all that is\nneeded and a brief description\ncan be sent in to the Waranga\nNews to be collated into a plant\nlist available to the public.",
+          "<em>Zen Gardener</em>"
+        ]
+      },
+      "published": true
+    },
+    "my-favourite-season": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-03-12",
+      "title": "Autumn rains to start my favourite season in the garden...",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/03/wnews20200312-055.jpg",
+      "abstract": "Wow, what a lovely way to start my favourite season of the year in the garden with over three inches of rain falling steadily over twenty-four hours, putting some much needed moisture back into the ground after a warm, humid summer.",
+      "body": {
+        "pars": [
+          "Wow, what a lovely way to start my favourite season of the year in the garden with over three inches of rain falling steadily over twenty-four hours, putting some much needed moisture back into the ground after a warm, humid summer.",
+          "Vegetables have suffered a little bit with the humidity this year. Our tomatoes have been a bit hit and miss so far and I’m guessing that we may not get quite enough warmer nights to ripen them fully, but all the other herbs and vegetables are enjoying the milder weather. Dahlias are my new love flower in our garden and they are coming into their own at this time of year, with delightful blooms to satisfy even the fussiest of flower lovers.",
+          "Now is the perfect time of year to plant new trees and shrubs as the ground is still warm and now moist, which will give them a great start to life. And in a few weeks it’s time to plant lovely sweet peas - traditionally planted on St Patrick’s Day on the garden calendar.",
+          "Prepare your soil for garlic cloves which also can be planted in the coming months, sourcing your bulbs from a reliable grower.",
+          "Cutting back of perennials in the garden now, keeps your garden plants from getting too tired looking in the coming seasons and keeps garden beds looking neat and tidy. Also dividing of iris can be done now, ensuring good flowering from newly planted rhizomes, and throw out old shrivelled ones. And adding any organic matter is always on the ‘to do’ list in the garden: feeding and conditioning your soil is the best way to a successful garden.",
+          "<em>Happy Gardening ‘Green Earth Gardener’</em>"
+        ]
+      },
+      "published": true
+    },
+    "a-garden-to-enjoy": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-02-27",
+      "title": "A garden to enjoy",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/02/wnews20200227-075.jpg",
+      "abstract": "It’s Saturday afternoon near Euroa, my son and his family’s oasis on a late summer day and I am sitting with our two beautiful and faithful dogs, Titan and Sari. The weather is balmy, a gentle breeze and brilliant blue skies. I’m writing this with my back against a large weeping mulberry tree, on lush cushioned lawn. My son cuts his lawn very high and maintains a wonderful cool lush parkland effect.",
+      "body": {
+        "pars": [
+          "It’s Saturday afternoon near Euroa, my son and his family’s oasis on a late summer day and I am sitting with our two beautiful and faithful dogs, Titan and Sari. The weather is balmy, a gentle breeze and brilliant blue skies. I’m writing this with my back against a large weeping mulberry tree, on lush cushioned lawn. My son cuts his lawn very high and maintains a wonderful cool lush parkland effect.",
+          "My view today surrounds a very big old renovated farmhouse. The lawns are watered with bore water with many extremely old well established trees, several huge golden elms, ash trees, wisteria around the perimeter house fence, a rosemary hedge neatly trimmed on either side of the side entrance, birches, silver birches, standard grevilleas. Thick lush pencil conifer amongst fountains and rose arbours. There are many more plant names that I’m still learning. That garden has hosted many weddings with the ranges in the near distance. I am surrounded by farmland with a flowing creek when it rains. This fills the dam, which the dogs love to chase each other around. Sari loves to leap into the water and take a shortcut to catch Titan. These “red-wheaten beautiful dogs” stretch out in a game of chase. This scene makes me laugh!",
+          "All around the property are giant stately river red gums, growing thickest along the fences and creek. Either side of the home gate entrance is two giant oak trees. These give welcome shelter to the cattle.",
+          "Last fortnight, I wrote about a plant (new to me), very like impatiens. Well, in this garden is a variegated vinca creating bedding in two sections with colourful shrubs, bulbs, canna lilies, agapanthus (lily of the Nile) in blues and white, geraniums, and pelargoniums standing tall amongst this.",
+          "There are beds of roses, crimson bougainvillea, tall standard tea roses creating features. Around the other side are huge pomegranate trees flanking the side gate into the paddocks.",
+          "Back at home I found several red capsicums on the potted bush I had last year near the clothesline. I had it there because the year before the dreaded fruit fly got into the capsicums and tomatoes late in the season. Come winter, I moved this large pot on a trolley, saucer and all, placing it next to the chimney which provides warmth all winter. This plant is about to my shoulder in height and producing very tasty fruit.",
+          "<strong>Joyful tasks in the garden</strong>",
+          "<ol><li>Cut back banksia rose, prune other roses now to get a late autumn flush.</li><li>Collect and grow clivia seed</li><li>Take cuttings of begonia, fuchsia, geraniums, and gardenia and divide iris. Use half potting mix and sand. I use a trial method, sometimes I Google requirements and usually have lots of success. Turn your compost over regularly.</li><li>Keep adding mulch over compost you add. Water it well.</li><li>Remove weeds especially bindi plants and waterweed, which have emerged quickly on the nature strips with the last bit of rain. Bindi eye plant seed spread very quickly and can be transferred to your garden area via shoes or mowers.</li><li>Ensure camellias don’t dry out now that there buds are forming.</li></ol>",
+          "Enjoy the exercise, early in the day or late as the sunsets is always a sensible idea until the weather cools.",
+          "<em>Gardener on L’s</em>"
+        ]
+      },
+      "published": true
+    },
+    "climate-change-adaptation": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-02-13",
+      "title": "Climate change adaptation",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/02/wnews20200213-062.jpg",
+      "abstract": "As a new year beckons, the heat and winds of summer have been a real trial. I love ‘all’ plants and this year I will concentrate on climate change adaption, but I vow to care for all those plants ‘special’ to me. We need to save our trees; favourite shrubs and plants that give us joy as well as structure and framework to our garden.",
+      "body": {
+        "pars": [
+          "As a new year beckons, the heat and winds of summer have been a real trial. I love ‘all’ plants and this year I will concentrate on climate change adaption, but I vow to care for all those plants ‘special’ to me. We need to save our trees; favourite shrubs and plants that give us joy as well as structure and framework to our garden.",
+          "Maybe we will get rains when needed, but if not, the main things to think of are compost, mulch, shade and water. Be resilient and use grey water, install a rainwater tank and rebuild your compost heap. Many plants will recover and regrow when the rain returns. More mature plants have weathered droughts before.",
+          "<strong>What has been giving you joy in your garden?</strong>",
+          "Maybe some potted colour, flowering trees, some fresh fruits or vegetables and new bright green fronds on the ferns or purple and crimson shoots on the many varieties of begonias. I admit this heat has been tough. Do I let the green grass (not lawn anymore) die back? It will usually spring back to vivid green once we get some soaking rain.",
+          "I have been enjoying delicious blood plums with sufficient to share with family and friends, limited apples; the crisp sweet flavours of the Jonathans are wonderful. I have Delicious and a few Granny Smith apples ripening well with no pesky insects so far this season.",
+          "My roses keep flowering as I lightly prune after each flush of blooms. It takes 7 – 8 weeks for new flowers. Oh and the crepe myrtles are beautiful, their flowering lasting for about three months. Once established they are relatively drought tolerant. I have several shades of mauve, pinks, white and red varieties. I planted them for their beautiful array of colour in the hotter months, autumn colour in their leaves from yellow, orange and reds, and for the beautiful textured bark and mottled colours on their winter trunks.",
+          "I have found impatiens grow well in pots, hanging baskets and in the garden amongst other small shrubs and they withstand the morning sun. They can survive the winter months from frosts if kept amongst other plants or moved to the veranda. They come in a wide range of colours: white, pink, reds and variegated colours. They flower for all of the warm and hot months and will grow from cuttings in autumn.",
+          "I have just discovered vinca plants. Their flowers look uncannily like impatiens, both individually and the way they cover their bushy plants. But unlike impatiens, they thrive in full sun and intense heat and drought alike, and aren’t bothered by budworm and other pests. I have just learned that vinca can take over the garden, so it’s best left in pots! You can also add colour with vibrant or subtle colours with a mosaic creation: a birdbath, a range of pots or some paving. The ideas are endless.",
+          "Save seeds and take cuttings to ensure you have plenty to replant once you want to start gardening again. I have collected silverbeet, spinach, parsley, rocket, lettuce and bean seeds for later in the year. But many have already self-sown, so fresh produce is always there. Store fresh seeds in labelled paper envelopes in a cool dry place.",
+          "Geraniums also have produced beautiful blooms in amongst the greenery. I often am given a small cutting; poke it in a pot and ‘voila’ it grows.",
+          "I visited a good friend a fortnight ago who has an extensive collection and currently has the most beautiful cacti flowering in a range of colours. They are planted in large beds and look amazing amongst rocks, gravel and rustic sculptures. These cacti do very well in raised beds in full sun.",
+          "Make sure you mulch again, as once the cooler times arrive (hopefully with some more rain) the weeds will return. Mulch deters weed regrowth.",
+          "Begin preparing vegetable garden beds for autumn and winter plantings. Add manure and compost in readiness.",
+          "In February, we can plant asian greens, basil, beans, beetroot, broccoli, brussel sprouts, cabbage, carrots, cauliflower, celery, chives, kale, leeks, lettuce, parsnips, radish, silverbeet, spring onions, zucchini, swede and turnip",
+          "Trim summer flowering shrubs after their blooms have faded. Leave burnt patches on plants’ extremities to provide protection for lower foliage until heatwaves are over.",
+          "<em>From ‘Gardener on Ls’</em>"
+        ]
+      },
+      "published": true
+    },
+    "crepe-myrtle": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-01-30",
+      "title": "Crepe Myrtle",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/01/wnews20200130-055.jpg",
+      "abstract": "A small tree perfect for regular sized gardens is crepe myrtle lagerstroemia indica. Believed to have originated on the Indian subcontinent, it is a tree for all seasons. In summer it produces vibrant flowers, which have a crinkly texture like crepe fabric, and last for up to three months, and in autumn it provides great leaf colour in shades of yellow, orange and scarlet. The lagerstroemia indica species of crepe myrtle is probably the most widely available in Australia and flower in a range of colours - white, red, pink and deep mauve.",
+      "body": {
+        "pars": [
+          "A small tree perfect for regular sized gardens is crepe myrtle lagerstroemia indica. Believed to have originated on the Indian subcontinent, it is a tree for all seasons. In summer it produces vibrant flowers, which have a crinkly texture like crepe fabric, and last for up to three months, and in autumn it provides great leaf colour in shades of yellow, orange and scarlet. The lagerstroemia indica species of crepe myrtle is probably the most widely available in Australia and flower in a range of colours - white, red, pink and deep mauve.",
+          "The crepe myrtle tree also has incredible bark, which looks magical in winter when low light hits the bare branches. These trees also get better with age, as the trunk develops a wonderful gnarled appearance, and the bark exfoliates in summer to give a spectacular mottled look with patches of pink, grey and brown.",
+          "Crepe myrtles range from small deciduous shrubs to trees up to about four metres, depending on the variety. Crepe myrtles thrive in a hot, dry climate with long summers and tolerate cold winters while they’re dormant.",
+          "Once established, crepe myrtles are remarkably drought-tolerant.",
+          "It’s a fairly versatile tree, adapting to coastal situations and dry conditions. The only thing it dislikes is wet feet. Crepe myrtles bloom on the current season’s growth so pruning isn’t strictly necessary. But not pruning will result in a mass display of smaller flowers, so encourage larger flowering heads by cutting back the main branches in winter.",
+          "This is one tree that no garden should be without."
+        ]
+      },
+      "published": true
+    },
+    "waste-not": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2019-12-12",
+      "title": "Waste not...",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2019/12/wnews20191212-085.jpg",
+      "abstract": "I try to use garden waste as a resource. To throw waste out in a green bin means nutrients are being lost out of the garden.",
+      "body": {
+        "pars": [
+          "I try to use garden waste as a resource. To throw waste out in a green bin means nutrients are being lost out of the garden.",
+          "I have several ways of using my garden waste. If it is big and woody I cut it up and use it in the wood heater. At least the ash ends up in the garden. If it is smaller it goes through a mulcher/chipper and is used to mulch the garden. If it is stalky it goes into a large compost bin and is eventually used in a garden bed as a base layer. Smaller, ‘wetter’ waste goes into one of several compost bins and is then used in the garden. The problem has been what to do with pulled weeds with seeds or bulbs that can survive composting to re-establish themselves in the garden. Soursop (oxalis) is a particular problem and I end up with barrow-loads of it.",
+          "‘Cooking’ it by covering it with a plastic tarp and allowing the sun’s heat and the heat from the rotting plants to kill the weeds worked well over warmer months, that is until I was moving the rotted weed matter to a garden bed. I peeled the tarp back a bit further only to be confronted by a very big brown snake which was very unhappy at being disturbed. After that the only useful thing I found to do with it was to use it to fill the holes in the bottom yard where the chooks had been having a scratch. It seemed quite a waste of a potential resource. Recently I think I have found a better way of using weeds like oxalis.",
+          "I had an old rubbish bin that I was not using. I half-filled it with water and put in a small shovel of chook-poo and gave it a good stir. A couple of squirts of seaweed solution may also help start off the fermentation. I use two buckets when weeding: one for the compost bin, the other for the problem weeds. I then simply submerge the problem weeds in the bin of water where they ferment and rot. An old saucepan is used as a dipper so that the liquid can be used as a liquid fertiliser. A well-fitting lid is a must to keep the smell in and the flies out.",
+          "After the weeds are very dead and rotted they can then be composted. I plan to get a second bin on the go so that weeds can be added to one while the other is fermenting. The only drawback is that after you use the liquid your garden may smell for a couple of days.",
+          "One of the exciting things about gardening is experimentation. Often many unsuccessful ideas are trialled and refined before a successful outcome is reached. I have been experimenting with wicking beds for a veggie patch with good results. The solution of the smelly weed juice issue may be to use it in the wicking beds. I’ll let you know how it turns out.",
+          "<em>Zen Gardener</em>"
+        ]
+      },
+      "published": true
+    }
+  }
+}

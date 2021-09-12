@@ -1,0 +1,126 @@
+{
+  "title":"Garden Hints &amp; Tips (2017)",
+  "sling:resourceType":"wnews/page/article-list",
+  "jcr:primaryType":"nt:unstructured",
+  "pageSize": 6,
+  "list": {
+    "planting-from-pots": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2017-10-26",
+      "title": "Planting from pots",
+      "sidebar": "/content/wnews/home-hints/list.sidebar.html/3",
+      "abstract": "Many gardeners have experienced the frustration of spending good money on a plant only to have it die after being planted out. Newly planted plants don’t just die for no reason; in many cases they are killed through the ignorance of the gardener.",
+      "body": {
+        "pars": [
+          "Many gardeners have experienced the frustration of spending good money on a plant only to have it die after being planted out. Newly planted plants don’t just die for no reason; in many cases they are killed through the ignorance of the gardener. Here is a simple guide to prevent those expensive post-planting fatalities:",
+          "Make sure the plant you have chosen is suitable for the location. In the Rushworth district plants need to be drought tolerant, yet still be able to withstand frosts. Some plants like shade, others full sun. Is the soil the correct pH for the plant? Some plants thrive in poor soils while others need rich soil. Don’t think you can just dig a hole and introduce suitable soil. This just doesn’t work. Above all remember, just because you like a plant, it doesn’t mean you will be able grow it in your garden.",
+          "Be wary if buying discounted plants at nurseries. There will be a reason for them being discounted. If there are roots growing out of the drainage holes of the pot it means that the plant is root-bound. This is a minor problem with non-natives as you can tease out the roots when planting. You can’t do this with natives; they don’t like having their roots disturbed. The only option is to plant them as is, however the roots will often continue to grow around and around instead of growing out from the plant. Without a decent root system, the plant cannot thrive. Check discounted plants for other damage. After the heavy frost of last winter some nurseries sold off plants with frost damaged tips. Without tips for new growth these plants may not be able to grow effectively. Nurseries will often discount plants that have finished flowering. These will offer good savings for the gardener, but make sure the plant is perennial.",
+          "If the nursery has kept the plant in a hothouse it is better to leave the plant outside in its pot for a few weeks so it can acclimatise to the outside world. Make sure it doesn’t dry out.",
+          "Do not plant out during an extreme heatwave or frosty weather. It is not good for either the plant or the gardener.",
+          "The hole for the plant needs to be twice the diameter of the pot and a little deeper. In hard, compacted soils use a pick to ‘shatter’ the soil around the hole to help drainage and root penetration.",
+          "A pour a generous amount of diluted seaweed liquid into the hole and let it soak in. This will provide a ‘tonic’ for your plant and encourage the roots to grow. It also improves clay soils.",
+          "Water the plant before trying to remove it from the pot. Tap the sides of the pot to loosen the plant and remove gently. If the plant is stuck, check for roots growing out of the drainage hole. These will need to be trimmed before you try again. If the plant is still stuck, just cut down the side of the pot in three places and peel the sides back to free the plant; why risk a plant worth good money for a pot worth a few cents?",
+          "Use the soil removed from the holes as back fill. Do not use potting mix or compost. Potting mix will only encourage top growth before the plant spreads its roots and to grow a circular root system within the potting mix. The potting mix will also create a sump that will retain water and may drown your plant.",
+          "Plant the plant to the same level as it was in the pot. Avoid planting it deeper as it may cause collar rot. Avoid planting the plant in a ‘saucer’ as this may cause waterlogging in wet seasons. If you wish to make a ‘saucer’ to help watering, make sure it is above the ground level.",
+          "Don’t tamp in the plant.",
+          "Give the plant a good watering-in with seaweed solution and stake if necessary.",
+          "Sprinkle a little appropriate slow release fertiliser around the plant after two weeks or so; any sooner the fertiliser may burn the roots. Mulch if necessary.",
+          "Keep an eye on the plant and make sure it doesn’t dry-out. A little mulch may help but don’t have it up against the stem of the pant as this may cause collar rot.",
+          "If you follow these steps you will have a greater success with your plants and will stop you wasting money on buying plants only to have them die.",
+          "<em>Happy gardening!</em>"
+        ]
+      },
+      "published": true
+    },
+    "organic-fruit": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2017-10-12",
+      "title": "Top tips for success with organic fruit",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/10/wnews20171012-063.jpg",
+      "sidebar": "/home-hints/list.sidebar.html/3",
+      "abstract": "Katie Finlay was one of the guest presenters at the Spring Garden Expo in Rushworth last Saturday and is sharing her hints here for the benefit of all. Hugh and Katie Finlay are organic orchardists from Harcourt who teach the online Grow Great Fruit home study program. They also offer a free weekly newsletter called Weekly Fruit Tips.",
+      "body": {
+        "pars": [
+          "Katie Finlay was one of the guest presenters at the Spring Garden Expo in Rushworth last Saturday and is sharing her hints here for the benefit of all. Hugh and Katie Finlay are organic orchardists from Harcourt who teach the online Grow Great Fruit home study program. They also offer a free weekly newsletter called Weekly Fruit Tips. Go to www.growgreatfruit.com for details.",
+          "At this time of year, the ground is warming up and weeds are well and truly growing.",
+          "To decide how to manage weeds around your fruit trees, you might need to do a cost/ benefit analysis. The ‘cost’ of weeds is that they compete with the tree for water and some nutrients, but the benefits are many!",
+          "Weeds help to increase the amount of carbon in your soil, they provide habitat for the all-important soil microbes, and they provide food for worms and other lovely underground garden helpers that provide free nutrition for your fruit trees, removing the need to add expensive artificial fertilisers. Many weeds are edible (or if you don’t fancy eating weeds you can replace them with herbs or vegies), or have medicinal uses, and they also help to keep the soil cool in summer, which can actually help to conserve water.",
+          "Some weeds are also very good at ‘mining’ the soil for nutrients and making them available to your fruit trees, particularly the ones with a deep tap-root. Flowering weeds also provide important habitat for beneficial insects in the garden (particularly yellow and white flowering plants) which play an important role in keeping pests like aphids under control.",
+          "Can you tell we like weeds? For all but the very youngest fruit trees, we reckon the balance is firmly in favour of having a living mulch under your fruit trees. However, they still need managing, and three good strategies to keep them under control are (1) mow them regularly, (2) plant the things you want to grow there, like legumes to pump nitrogen into your soil (e.g. clover, or peas), herbs, or vegetables, or (3) use animals (geese, sheep, chooks, guinea pigs...) to mow them for you!",
+          "If you decide to mulch instead, be aware that it can be just as effective at stopping water soaking into the soil as preventing evaporation.",
+          "It’s also a great idea to put some compost or worm castings underneath your mulch before you lay it, to help kickstart the biology in your soil. And a couple of words of warning - use straw rather than hay, because straw should be relatively free of seed, and don’t mulch until after any frost risk has passed."
+        ]
+      },
+      "published": true
+    },
+    "2017-spring-gardens-expo": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2017-09-28",
+      "title": "2017 Spring Gardens Expo",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/09/wnews20170928-053.jpg",
+      "sidebar": "/home-hints/list.sidebar.html/3",
+      "abstract": "The Rushworth Spring Gardens Committee welcomes a variety of guest speakers to the 2017 Spring Gardens Expo.",
+      "body": {
+        "pars": [
+          "The Rushworth Spring Gardens Committee welcomes a variety of guest speakers to the 2017 Spring Gardens Expo.",
+          "The Expo will take place Saturday 7 October, High Street, Rushworth, and is proudly sponsored by the Waranga News. Come along and get a dose of inspiration for your garden!",
+          "At 10.30am Katie and Hugh Finlay from Mt Alexander Fruit Gardens will speak about <em>‘Top 10 tips to care for fruit trees in spring’</em>.",
+          "Katie is passionate about helping people learn how to successfully grow organic fruit. Katie and her husband Hugh have twenty years’ experience running their own organic orchard at Harcourt, and in their spare time they also run an online organic fruit growing home-study program called Grow Great Fruit. Katie and Hugh are big believers in teaching from basic principles, to make it easy and understandable for everyone from beginners to experienced gardeners.",
+          "Betsy Sue Clarke is the Director and Principal Designer of Dirtscape Dreaming, a company dedicated for eighteen years to helping people connect to nature through highly creative landscape design and garden creation, the sharing of knowledge, and providing opportunities for emotional growth. The work of Dirtscape Dreaming has been recognised here in Australia and internationally, and has been featured in popular magazines and TV. Betsy Sue has a holistic and unique approach to design and is a knowledgeable and passionate presenter.",
+          "<em>Dirtscape Dreaming</em> will be guest speaking at the Spring Gardens Expo, and following the Expo, Betsy Sue will be presenting a Garden Design Workshop at the Rushworth Community House from 2pm - 4pm. The workshop costs $85.00 per person.",
+          "Tickets to the event can be arranged via Cherie ph. 0408 572 930, or Betsy Sue ph. 0413 044 631",
+          "<em>The Garden Design Workshop</em> will allow you to create a place of sanctuary in your garden. Betsy Sue writes: ‘We come to times in our life, with certainty, where much is uncertain and we feel the need to retreat for a time in order to find the way forward again. In a garden there can be beauty, hope, fulfilment and a sense of connection to ourselves if it is created with understanding of your emotional needs.",
+          "‘In this workshop, you will be inspired to think differently about your garden, be guided to find the connection that is meaningful to you with it’s healing potential, then begin to identify and plan the elements to make it your place of sanctuary. The workshop will leave you infused with passion and a greater understanding of you.’",
+          "Local florist, Kylie Wales, will demonstrate how to create a stunning arrangement using seasonal spring blooms.",
+          "<em>Nat Ryan</em>"
+        ]
+      },
+      "published": true
+    },
+    "wattle-it-be": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2017-09-14",
+      "title": "Wattle it be?",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/09/wnews20170914-083.jpg",
+      "sidebar": "/home-hints/list.sidebar.html/3",
+      "abstract": "It’s easy to get excited about gardens this time of year. Spring is a near promise, and the best (or worst) part of winter, is behind us. Our National floral emblem, the Golden Wattle (or for the plant nerds), Acacia pycnantha, is putting on a spectacular display and the contrast of its yellow blossom against the back-drop of black ironbark trunks and the blue-grey foliage of the forest is breathtaking.",
+      "body": {
+        "pars": [
+          "It’s easy to get excited about gardens this time of year. Spring is a near promise, and the best (or worst) part of winter, is behind us. Our National floral emblem, the Golden Wattle (or for the plant nerds), Acacia pycnantha, is putting on a spectacular display and the contrast of its yellow blossom against the back-drop of black ironbark trunks and the blue-grey foliage of the forest is breathtaking.",
+          "In fact, many wattle species make themselves known this time of year but acacias offer more than just a spring flurry and it’s worth considering them as a handy garden plant.",
+          "Many people think that wattles are shortlived and in some cases this is true, but there are dozens of species of wattle, both long and shortlived, that can be useful in the home garden.",
+          "A c a c i a deanii or Dean’s Wattle grows locally around Reedy Lake and is one of the larger and longer lived varieties.",
+          "This plant grows four to five metres and can be great as a screening plant or small shade tree. The foliage is fern-like, the blossom, pale yellow and it is perfect planted close to a window because it attracts a wide range of bush-land birds, so you can spy on them while you have your breakfast.",
+          "The Golden Wattle as well as the Golddust (Acacia acinacea) and Mallee Wattle (Acacia montana) are all relatively short-lived varieties but their contribution to a developing garden should not be under-valued. In particular, they are all great species if you want fast growth, generally exceeding one metre within the first eighteen months. This can be helpful if you’re waiting for other slowgrowing plants to establish. They don’t need much attention and will give you an abundant display of yellow blossom in September and October. Once again, the small birds love the protection and habitat they provide and when they do start to senesce, they fix nitrogen into the soil for successive plants, granting them the title of ‘colonisers’. If you’re lucky, you’ll even have them self-seed elsewhere which in my book is value for money.",
+          "One other favourite indigenous acacia of the box-ironbark region is the Spreading Wattle or A c a c i a genistifolia. This plant will grow to two metres in good conditions and likes stoney g r o u n d . Unlike the other species, it starts flowering in early May, making it the first Wattle to flower for the year. Its blossom is delightfully large and lemon-coloured and its foliage is needle-like so even though it’s probably best planted away from pathways, it is excellent for small birds, especially when there are cats prowling the neighbourhood.",
+          "All of these species are readily available at your friendly native plant nursery and all are indigenous to Rushworth so by planting them you are contributing to the natural environment, which is always a good thing."
+        ]
+      },
+      "published": true
+    },
+    "spring-is-in-the-air": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2017-08-31",
+      "title": "Spring is in the Air...",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/08/wnews20170831-065.jpg",
+      "sidebar": "/home-hints/list.sidebar.html/3",
+      "abstract": "Finally the days are getting longer and the temperatures are rising, although only in little bursts! Gardens are starting to come to life with bulbs popping up all over the place, bringing an end to that winter gloomy weather we have experienced this year. Roses should have been pruned by now and signs of new growth charging along promising us lovely blooms in the next few months. Fruit trees are all budding up and almond trees are in full blossom giving a very spectacular early spring display.",
+      "body": {
+        "pars": [
+          "Finally the days are getting longer and the temperatures are rising, although only in little bursts! Gardens are starting to come to life with bulbs popping up all over the place, bringing an end to that winter gloomy weather we have experienced this year. Roses should have been pruned by now and signs of new growth charging along promising us lovely blooms in the next few months. Fruit trees are all budding up and almond trees are in full blossom giving a very spectacular early spring display.",
+          "Spring brings many garden activities at home and out and about in our region over the next 3-4 months including our own Rushworth Spring Garden Expo down in the Village Green, showcasing some wonderful and exciting stalls and demonstrations for all on Saturday 7 October. For more information see page two of this Waranga News edition.",
+          "There has been a lot of frost damage on plants around our area this year. Hopefully most of the heavy frosts have passed now but, to be safe, maybe leave another week or two before tidying up frost-affected plants.",
+          "Feeding fruit trees and general feeding of home gardens is in full swing. Any organic matter that you can get your hands on ensuring good healthy growth in the coming season. With all the good frosts this year, it should bring us some good yields on our stonefruit in the home orchard ..... reminder if you haven’t sprayed for curly leaf you may still just have enough time, if no leaves have developed yet!",
+          "<em>Happy Gardening</em>",
+          "<em>‘Green Earth Gardener’</em>"
+        ]
+      },
+      "published": true
+    }
+  }
+}

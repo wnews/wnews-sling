@@ -1,0 +1,8 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "EW Pumps",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/advertisements/EW Pumps.jpg",
+  "telephone": "03 5484 1710",
+  "testimonials": "enabled",
+  "published": true
+}

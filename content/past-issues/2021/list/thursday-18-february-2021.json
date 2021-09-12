@@ -1,0 +1,11 @@
+{
+  "sling:resourceType": "wnews/page/front-page",
+  "date": "2021-02-18",
+  "title": "Thursday 18 February 2021",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/02/wnews20210218-01.jpg",
+  "abstract": "Volunteering – the glue that keeps communities working together",
+  "published": true,
+  "body": {
+    "content": ""
+  }
+}

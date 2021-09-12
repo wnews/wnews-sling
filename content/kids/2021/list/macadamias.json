@@ -1,0 +1,34 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-05-27",
+  "title": "Macadamias",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/06/australian-1152861.jpg",
+  "body": {
+    "pars": [
+      "Hey Kids! In this edition of the Waranga News we are taking a look at a very popular Australian native food – the macadamia nut!\nThe story of the macadamia began millions of years ago, in the rainforest along the north east coast of Australia.",
+      "Before European settlement, Aboriginal people congregated on the eastern slopes of Australia’s Great Dividing Range to feed on the seed of two evergreen trees, one of which they called ‘Kindal Kindal’ which was the macadamia. Aboriginal peoples had other names for macadamia including Boombera, Jindill & Baupal.",
+      "Macadamias were not an everyday snack; they were considered a delicacy and were treasured and collected wherever they were found. They were also traded between tribes and used as special ceremonial gifts at inter-tribal corroborees.",
+      "Aboriginal women would collect macadamias in their coolamons or dilly bags and take them to their feasting grounds. They would remove the husk and crack the shells using stones with special indentations. This technique involved placing the flat indented stone over the nut and then striking it with a larger stone, delivering an even force and minimising the damage to the kernel.",
+      "It wasn’t until the 1850s that Australian macadamia trees attracted the attention of European botanists Walter Hill and Ferdinand Von Mueller when they were struck with the majestic beauty of the trees they found growing in the rainforests of Queensland.",
+      "The German-Australian Von Mueller gave the genus the name Macadamia in 1857 in honour of the Scottish-Australian chemist, medical teacher and politician John Macadam.",
+      "While the first plantation was established in the 1880s, it wasn’t until the development of successful grafting techniques and the introduction of mechanical processing that commercial production of the tough nut became feasible.",
+      "Here are some fun facts about macadamias:\nMacadamia trees can take up to 5 years to grow their first nuts. But once they get started, they can keep producing beautiful macadamias for over 100 years!",
+      "Macadamias are the only native Australian food to be developed and successfully traded internationally as a large-scale commercial food product.\nMacadamias are enjoyed in more than 40 countries around the world.  A favourite way to enjoy a macadamia is to dip it in chocolate.\nMacadamia trees were introduced to Hawai’i as a windbreak for sugar cane crops.",
+      "By 1921, the nuts were quite popular with Hawaiians. Local planters took note and used the seeds to establish budding farms throughout the state. Van’s Macadamia Nuts, a commercial company, was born in 1934 and was the island’s first introduction to shelled, roasted, and salted macadamias. Today, there are over 700 macadamia farms and eight processing plants on Hawai'i Island. ",
+      "For decades, Hawai’i produced more macadamias than Australia. Production in Australia has now risen to 30% of worldwide macadamia production, just behind the largest producer, South Africa.",
+      "In Australia, the life cycle of the macadamia starts in spring, when macadamia trees start flowering. Nuts begin forming in early summer, and by Autumn the trees will have lots of large clusters of round green nuts. Between March and September, the ripe nuts fall to the ground, and farmers use specially designed machinery to collect and harvest them.",
+      "The nuts are then de-husked, dried, cracked open, and then roasted and packaged for consumers.\nThe best way to store macadamias is in an airtight container in the fridge. They will stay fresher for much longer that way.",
+      "Like most other nuts, macadamia nuts are rich in nutrients and beneficial plant compounds. They’re also linked to several benefits, including improved digestion, heart health, weight management, and blood sugar control.",
+      "Macadamia nuts are rich in vitamins, minerals, and fibre, yet low in carbohydrates and sugar. What’s more, they boast healthy mono-unsaturated fats. Can you think of another food that is a great source of mono-unsaturated fats?  (Hint - it’s delicious on toast….)",
+      "Why not search for some macadamia nut recipes to try on the weekend? \nRecipes to try include both sweet and savoury options such as white chocolate and macadamia cookies (yum!), macadamia sundae, macadamia and coconut slice, rocket and macadamia pesto, macadamia-crumbed fish fillets, and pasta with a parmesan macadamia crumb. "
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "Hey Kids! In this edition of the Waranga News we are taking a look at a very popular Australian native food – the macadamia nut!\nThe story of the macadamia began millions of years ago, in the rainforest along the north east coast of Australia.",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}

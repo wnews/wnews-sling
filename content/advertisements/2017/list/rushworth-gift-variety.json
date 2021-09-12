@@ -1,0 +1,8 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Rushworth Gift &amp; Variety",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/advertisements/RW Gift &amp; Variety.jpg",
+  "telephone": "0427 561 216",
+  "testimonials": "enabled",
+  "published": true
+}

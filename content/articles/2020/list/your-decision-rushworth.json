@@ -1,0 +1,21 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2020-12-03",
+  "title": "Your decision Rushworth!",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/12/wnews20201203-016.jpg",
+  "body": {
+    "pars": [
+      "When the Rushworth Easter Festival is in full swing it brings close to half a million dollars to the town and surrounding area. To many local businesses this is the main financial gain of the year, which flows into local employment opportunities, etc. DO WE WANT TO LOSE THIS?",
+      "The Rushworth Easter Festival is in crisis with only four people left to run this huge event - they desperately need new people, more hands on deck and new ideas!",
+      "A crisis meeting of the Easter Festival Committee is to be held Monday 7 December at the Festival headquarters in High Street, (next to the Shire Offices) at 7 pm."
+    ]
+  },
+  "published": true,
+  "sidebar": "/content/wnews/articles/2020/list/origins-of-the-easter-festival",
+  "abstract": "When the Rushworth Easter Festival is in full swing it brings close to half a million dollars to the town and surrounding area. To many\nlocal businesses this is the main financial gain of the year, which flows into local employment opportunities, etc. DO WE WANT TO\nLOSE THIS?",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}

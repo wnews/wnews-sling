@@ -1,0 +1,29 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-04-29",
+  "title": "ANZACs remembered",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/04/wnews20210429-000.jpg",
+  "body": {
+    "pars": [
+      "<strong>Small gatherings gradually emerge post-COVID</strong>",
+      "The Rushworth community gathered to remember the fallen at the town’s Dawn Service on Sunday. After a short acknowledgement by the President of the Rushworth Sub branch of the RSL, Bill Barlow, wreaths were laid and the bugler played.",
+      "Representatives from the RSL, Campaspe Shire, Rushworth P-12 and Rushworth Kindergarten laid wreaths at the candle-lit, poppy strewn Memorial as the crowd stood in silence.",
+      "As the sun was rising and with a background of birdsong, Bill then introduced ‘busy boy’ Ian Rogerson to talk about some of the great characters he knew who survived the second world war, who lived hard and played even harder.",
+      "Ian spoke of men who survived their time in Japanese and German prison camps (be it with permanent disabilities), a Rat of Tubruk, a New Guinea ambulance driver, nurses and medicos who ‘smelt death 24/7’ he said. The women’s army which continued after the men went overseas. Those who spent many hours in Heidelberg Repat, one dying at the age of 42. A seventeen year old German seaman, so well treated in Australian POW, he returned to make a life here and many other stories. He reiterated having known some truly wonderful people.",
+      "‘We wouldn’t be here without our returned service men and women’ he said.",
+      "Bill then played a very emotional song about eighteen year old Teddy Sheanne, who was posthumously awarded the Victorian Cross. He was on the HMAS Armidale when struck by fire and sank. Even after being injured he strapped himself into his gun and kept firing at the enemy.",
+      "A lament was played by the bagpiper, the national anthem was sung, thanks were given and the service came to an end.",
+      "<strong>10 am March and Service</strong>",
+      "Approximately thirty ex soldiers, family and/or other representatives marched from the PO to the Memorial accompanied by the Rushworth Concert Band.",
+      "Again, Bill Barlow greeted the crowd and wreaths were then laid by representatives of RSL and Legacy and by Pam Wells (wife of the late Col Rodney Wells). We were privileged to have local voices singing for the crowd and the band again played whilst the marchers continued up towards the IGA."
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "ANZAC Day was once again commemorated in the district with a range of events including the traditional Dawn Service, flag-lowering\nceremonies, marches and laying of wreaths.",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}

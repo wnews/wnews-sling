@@ -1,0 +1,39 @@
+{
+  "sling:resourceType": "wnews/page/recipe",
+  "date": "2020-06-06",
+  "title": "Mushroom Risotto",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/06/wnews20200604-054.jpg",
+  "abstract": "While shopping the other week I had a\nwant for mushrooms, with no plans in mind\nof just how I would put them to use…. It got\nto 3 days post-shopping and the mushrooms\nwere beginning to wither and wilt in the\nfridge. There was no way I was letting my\nimpulse buy of deliciousness go to waste!",
+  "body": {
+    "pars": [
+      "While shopping the other week I had a\nwant for mushrooms, with no plans in mind\nof just how I would put them to use…. It got\nto 3 days post-shopping and the mushrooms\nwere beginning to wither and wilt in the\nfridge. There was no way I was letting my\nimpulse buy of deliciousness go to waste!",
+      "ET VOILA… an easy to make, minimal\nstir, Mushroom Risotto!"
+    ]
+  },
+  "ingredients": [
+    "1 brown onion, diced",
+    "6 cups of stock (I used 3 each of veg and\nchicken)",
+    "1 tbsp. olive oil",
+    "300-500g sliced mushrooms (depending how\n‘mushroom-y’ you like it)",
+    "1.5 cups (300g) arborio rice",
+    "2 tbsp. butter",
+    "½ cup grated cheese (parmesan or cheddar",
+    "depending your preference)",
+    "1 cup of frozen peas",
+    "salt and pepper to taste"
+  ],
+  "method": [
+    "Prepare the 6 cups of stock and set aside.",
+    "Add the olive oil to a pot, add the onion and sauté on medium high for a couple of\nminutes.",
+    "Add in the sliced mushrooms, cover the\npot and cook for a couple of minutes until\nthe mushrooms have released some of their\nwater.",
+    "Remove the lid and add the rice and sauté\nit with the onions and mushrooms.",
+    "Add 3 cups of stock, stir well, then cover\nand simmer for around 20 minutes until the\nstock is mostly absorbed.",
+    "Add 1.5 cups stock, stir well again. Cover\nand simmer for around 10 minutes until the\nstock is mostly absorbed.",
+    "Add the last 1.5 cups of stock and the frozen\npeas, stir well again. Cover and simmer for a\nfinal 5-10 minutes.",
+    "It’s ready when all the stock is mostly\nabsorbed by the rice. Turn off the heat and\nstir in the 2 tbsp of butter and ½ cup of grated\ncheese. Add sea salt and black pepper to taste.",
+    "Serve with chopped parsley or a parsley sprig\ngarnish."
+  ],
+  "testimonials": "enabled",
+  "published": true,
+  "related": []
+}

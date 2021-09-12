@@ -1,0 +1,28 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-03-19",
+  "title": "Comments: Where Social Media fails.",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/03/comment-bubble-1616026459137.png",
+  "body": {
+    "pars": [
+      "If there is one thing we can all agree on, it's that we tend to disagree a lot online. Polarisation of views is on the rise, tribalism is surging, and almost every social media platform has a toxic comments section. And it's not just social media. Almost anywhere you find comments you will find examples of abuse. So how can we challenge, prevent or contain the bad behaviour?",
+      "<strong>Moderation</strong>",
+      "Unmoderated, anonymous platforms are a perfect example of the depths of vitriol capable of many people on the Internet. Even the prospect of being identified does not seem to deter many of these individuals. Twitter is an example of an unmoderated platform, and the stories of abuse, stalking, threats on this platform are endless.",
+      "So we need moderation, whether it be automated (via AI/ML) or tasked to a team of human moderators, we cannot have online comments in public spaces without moderation. The only exception here is a closed community where everyone personally knows each other.",
+      "<strong>Downvote the downvote</strong>",
+      "What is the purpose of the downvote? To flag as abusive, disresepectful, unwarranted? Or is it simply to disagree with an opinion? Unfortunately many people use it as the latter, and as an opportunity to suppress/hide opinions they disagree with. Platforms like Reddit suffer from this problem regularly, to the point where it can be hard to see why comments are being downvoted so heavily.",
+      "In order to respect the value of everyone's opinion there should be no downvoting, only upvoting and other positive forms of response should be entertained.",
+      "<strong>Warning signs</strong>",
+      "Finally, we need to acknowledge that the Internet is not a space filled with rainbows and unicorns. It is a dangerous, often dark place, that can be as threatening as the darkest alley you would fear to travel. We should be encouraged to use caution when engaging strangers, even if that message is counter to the prevailing view that social media platforms are a safe place to visit. Facebook, Instagram, Snapchat, etc. are all marketed to adults and children alike as happy, welcoming place to be, but all too often we hear this is simply not the case.",
+      "Ultimately we all need to weigh the benefit versus risk of using social media platforms for ourselves and those in our care, but we also need to be transparent and open about the risks and not just focus on the benefits."
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "If there is one thing we can all agree on, it's that we tend to disagree a lot online. Polarisation of views is on the rise, tribalism is surging, and almost every social media platform has a toxic comments section.",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "title":"Advertising",
+  "sling:resourceType":"wnews/page/default",
+  "jcr:primaryType":"nt:unstructured",
+  "sections": {
+    "sling:resourceType": "wnews/block/section-list",
+    "advertising": {
+      "sling:resourceType":"wnews/block/section",
+      "title": "Advertising",
+      "pars": [
+        "Advertising rates are subject to change, so please contact us for the latest pricing and website advertising options."
+      ],
+      "sections": {
+        "sling:resourceType": "wnews/block/section-list",
+        "classifieds": {
+          "sling:resourceType":"wnews/block/section",
+          "title": "Classifieds",
+          "pars": [
+            "$2.75 per line (minimum charge $11)"
+          ]
+        },
+        "flyers": {
+          "sling:resourceType":"wnews/block/section",
+          "title": "Flyers",
+          "pars": [
+            "Inserting pre-printed flyers in an edition:<ul><li>$80 – current advertisers</li><li>$100 – if advertisement also placed</li><li>$140 – without an advertisement</li></ul>"
+          ]
+        },
+        "display_advertising": {
+          "sling:resourceType":"wnews/block/section",
+          "title": "Display Advertising",
+          "sections": {
+            "sling:resourceType": "wnews/block/section-list",
+            "black_white": {
+              "sling:resourceType":"wnews/block/section",
+              "title": "Black & White",
+              "pars": [
+                "Single Column (6.4 cm wide) – $4.90 per cm depth",
+                "Double Column (13 cm wide) – $9.80 per cm depth",
+                "Triple Column (20 cm wide) – $14.70 per cm depth",
+                "Full Page (20 x 29.8 cm) – $440.55",
+                "Half Page (20 x 14.8 cm) – $220.28"
+              ]
+            },
+            "colour": {
+              "sling:resourceType":"wnews/block/section",
+              "title": "Full Colour",
+              "pars": [
+                "Full Page (20 x 29.8 cm) - $540",
+                "Half Page (20 x 14.8 cm) - $270",
+                "Quarter Page - $135",
+                "Per column centimetre - $6.00",
+                "Please call for further details."
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

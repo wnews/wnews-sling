@@ -1,0 +1,28 @@
+{
+  "sling:resourceType": "wnews/page/recipe",
+  "date": "2021-04-01",
+  "title": "More peaches - #3 Bellini Cocktail",
+  "media": "",
+  "abstract": "",
+  "body": {
+    "pars": [
+
+    ]
+  },
+  "ingredients": [
+    " 4 ripe peaches",
+    "1 bottle sparkling wine."
+  ],
+  "method": [
+    "Peel peaches, remove pits.",
+    "Puree in blender until smooth.",
+    "Store in fridge for thirty minutes until chilled.",
+    "1/4 cup (20ml) peach puree into flute glass, gently pour in sparkling wine so as not to overflow.",
+    "Stir gently top up glass, garnish with a peach slice.",
+    "Substitute wine for soda water or non alcholic sparkling wine.",
+    ""
+  ],
+  "testimonials": "Best way to eat them!  Straight from your tree or fruit bowl!",
+  "published": true,
+  "sidebar": ""
+}

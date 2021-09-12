@@ -1,0 +1,6 @@
+{
+  "title":"Trades &amp; Services Directory Archive",
+  "sling:resourceType":"wnews/page/archive-list",
+  "jcr:primaryType":"nt:unstructured",
+  "list": ["2020"]
+}

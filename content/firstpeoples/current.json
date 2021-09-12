@@ -1,0 +1,395 @@
+{
+  "title":"Waranga Dreaming",
+  "sling:resourceType":"wnews/page/article-list",
+  "jcr:primaryType":"nt:unstructured",
+  "pageSize": 6,
+  "bannerUrl": "/firstpeoples/current.html",
+  "bannerImage": "/assets/wnews/images/waranga-dreaming.png",
+  "list": {
+    "sling:resourceType":"wnews/block/article-list",
+    "death-and-grieving": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-07-16",
+      "title": "Death And Grieving",
+      "abstract": "The previous Waranga Dreaming story\ncited William Thomas, a former Assistant\nProtector of Aborigines, providing details of\nwhat he thought were standard practices after\nthe death of an Aboriginal person. It is worth\nnoting that practices varied widely across\nAustralia prior to European colonisation –\nperhaps even within Ngurai-illum Wurrung\ncountry - and included both burial and\ncremation.",
+      "body": {
+        "pars": [
+          "The previous Waranga Dreaming story\ncited William Thomas, a former Assistant\nProtector of Aborigines, providing details of\nwhat he thought were standard practices after\nthe death of an Aboriginal person. It is worth\nnoting that practices varied widely across\nAustralia prior to European colonisation –\nperhaps even within Ngurai-illum Wurrung\ncountry - and included both burial and\ncremation.",
+          "What Thomas does not mention in his\nstory is that the time of death and grieving was\noften accompanied by most intense keening\nby the Aboriginal women. Unlike many\npresent-day funerals, grief was displayed\nopenly and unashamedly and could also\ninclude mourners self-inflicting themselves\nwith wounds.",
+          "<strong>Keening</strong>",
+          "When we think of keening as a way of\nexpressing grief, we tend to think of the Irish.\nIn his book “My Father’s Wake”, Irish author\nKevin Toolis writes – “In the narrow room\nthe old man lay close to death….In the bare\nwhitewashed room, no bigger than a prison\ncell, 10 watchers – the mná caointe – the\nwailing women, were calling out, keening,\nsharing the last moments of the life, and the\ndeath, of this man. My father. Sonny…In the\ntight, enclosed space, the sound of this chorus\nof voices boomed off the walls, the ceiling,\nlouder and louder, reverberating, verse after\nverse, on and on, cradling Sonny into death.\nThis death so open, so different from the\ndenial of the Anglo-Saxon world would, too,\nbe Sonny’s last parental lesson. How to die.”",
+          "Similarly, keening was an important part\nof Aboriginal burial practice. When “Captain\nJohn” died in 1874, the Waranga Chronicle\nreported “As a rosy-tipped morning dawns on\nMonday a wail is heard from the native camp\non the banks of the Goulburn at Murchison…\nHis lubra (sic) mourns, and two other women\nfrom a neighbouring camp join in the\ncoronach”.1 (Coronach = part of a round of\nkeening, the traditional improvised singing at\na death, wake or funeral).",
+          "We can only guess who the “two other\nwomen” would be, but most likely candidates\nwould be his stepmother “Queen Mary” and\nhis Auntie “Sarah”. In the small Aboriginal\ncommunity still living on the Goulburn\nRiver at the time, they were two of the few\nremaining older women who would be\nmost familiar with the traditional songs and\nchants that had been passed down over many\ngenerations.",
+          "<strong>Sorry cuts</strong>",
+          "Another way of displaying grief was\nthrough self-inflicted wounds, often cutting\nthe arms with a sharp object. This is quite\ndifferent from a practice where a person may\nself-harm as the result of negative feelings\nthat they have about themselves or aspects of\ntheir life. Instead, it is part of “ceremony”\nor “sorry business”, with an example being\nsorry cuts “practised as a sign of grief for the\nloss of a family member”.",
+          "There doesn’t appear to be any\ndocumented evidence of Ngurai-illum\nWurrung people engaging in “sorry cuts”.\nThe few photographs that we have of the\npeople do not make it clear either, although\na well-known photograph of “King Charles”\nTattambo appears to indicate that his arms are\nhighly scarred. These scars may have been\ndecorative, as were those clearly featured\non the shoulders and breasts of his second\nwife, “Queen Mary”. “Sorry cuts” are quite\ndifferent to this decorative scarring, instead\nbeing a way of demonstrating grief.",
+          "<strong>Sorry business</strong>",
+          "The grieving process was (and still is)\ntaken extremely seriously by Aboriginal\npeople, so there is no reason to suggest that it\nwould have been any different for the Nguraiillum\nWurrung people in centuries gone by.\nExtended kinship relationships meant that the\ndeceased was very closely linked to a large\nnumber of people. It was important for those\npeople to all get together at the time of the\ndeath and take their time to work through the\nearly stages of the grieving process. This\nis generally referred to these days as “sorry\nbusiness”.",
+          "Like the Irish experience mentioned\nabove, deaths were treated openly, and grief\ndisplayed publicly by Aboriginal people.\nPerhaps there is another lesson to be learned\nhere, rather than the traditional reserve we\ntend to display in response to a death.",
+          "<em>References: 1.Waranga Chronicle 29.10.1874;\n2 <a href=\"https://healthinfonet.ecu.edu.au/\" target=\"_blank\">healthinfonet.ecu.edu.au</a></em>"
+        ]
+      },
+      "published": true,
+      "related": [],
+      "sidebar": ["/content/wnews/articles/2020/list/i-cant-breathe"]
+    },
+    "burial-rites": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-07-02",
+      "title": "Burial Rites",
+      "abstract": "Recent Waranga Dreaming stories have\nfocussed on three local Aboriginal people\nwho are buried in the Murchison cemetery\n– “King Charles” Tattambo, his second\nwife “Queen Mary” and his son by his first\nmarriage, known as “Captain John”. All\nthree were born before European colonisation\nof the Waranga area and were deeply imbued\nwith Aboriginal spirituality and culture. In\nview of that, it is somewhat surprising they\nall chose to be buried according to European,\nrather than Aboriginal, customs.",
+      "body": {
+        "pars": [
+          "Recent Waranga Dreaming stories have\nfocussed on three local Aboriginal people\nwho are buried in the Murchison cemetery\n– “King Charles” Tattambo, his second\nwife “Queen Mary” and his son by his first\nmarriage, known as “Captain John”. All\nthree were born before European colonisation\nof the Waranga area and were deeply imbued\nwith Aboriginal spirituality and culture. In\nview of that, it is somewhat surprising they\nall chose to be buried according to European,\nrather than Aboriginal, customs.",
+          "The first of these to be buried was Tattambo,\nin January 1868. By that point, Tattambo had\nbeen influenced by over 30 years of contact\nwith Europeans. Most reports of his death\nmention that he wanted to be buried like a\nEuropean. “He had been gradually wasting\naway for a month, during which time he\nwas quite aware of his approaching end. He\nviewed the matter quite calmly, expressing\na very strong desire to be buried in the\ncemetery, and in a coffin.”",
+          "<strong>A foot in each world</strong>",
+          "People like Tattambo and his relatives lived\nwith a foot in each of two worlds, which were\npoles apart. On one hand, they had lived at a\ntime totally uninfluenced by European ideas\nand culture, living in traditional ways over\nmany years. Then they had experienced a\ndramatic transformation in their lifestyles,\nover an extremely short period of time, during\nwhich everything they knew was radically\nchanged forever.",
+          "The fact that members of this family survived\nsuch an enormous change is a testament to\ntheir adaptability and courage to embrace\nchange. It is understandable that they would\nadopt some of the customs of the European\ncolonisers, while at the same retaining many\naspects of their traditional way of life in the\nface of enormous pressure to change.",
+          "The generation that lived through European\ncolonisation felt the pull of both cultures in a\nsimilar way that emigrants to a new country\ndo. The difference for the local Aboriginal\npeople was that they had not moved, but their\nworld had changed so dramatically it would\nseem to them as though they were in another\ncountry.",
+          "<strong>Traditional Burials</strong>",
+          "Had the lives of Tattambo, Mary and John\nnot been impacted by European colonisation,\ntheir burial rites would have obviously been\nquite different. Like the situation in our\ncommunities now, there was a whole range of\noptions open to the families of the Aboriginal\npeople of the local area when one of them\ndied.",
+          "Generally, Aboriginal burial took place at,\nor close to, the place where the person died,\nrather than in a communal cemetery. For this\nreason, the remains of Aboriginal people have\nbeen located all over the Waranga area. A\nreporter in the Ovens and Murray Advertiser\nwho had visited the Murchison district, and\nwas talking about the Ngurai-illum Wurrung\npeople, said that “From archaeological\nresearch of a very superficial character, we\nfind frequent traces and mementoes of the\nAboriginal occupation of the Goulburn. The\nblackfellow’s tomahawk, their camp-fire and\nburying ground, are continually being met\nwith…”.",
+          "An earlier Waranga Dreaming story mentioned\nthe two skeletons found near Sapling Point\non Waranga Basin in the 1930s. A similar\ndiscovery took place on the Campaspe River\nnear Rochester in 1886, when a farmer, Mr\nMcHattie, “whilst digging up an Aboriginal\n“oven” unearthed the skeletons of two human\nbeings.” Dr Taffe “pronounced them to be\nAboriginals” and concluded that the remains\nbelonged to a man and a woman “of good\nage.”",
+          "<strong>Funeral service</strong>",
+          "William Thomas, who worked for a period\nas an Assistant Protector of Aborigines, and\nlater as a “guardian” (after the protectorate\nsystem was abandoned) made the following\nobservations – “Over the men, according to\ntheir importance, an oration is delivered…\nOver the women and children no ceremony\nis performed. After the body is interred, the\nencampment breaks up, leaving a fire at the\neast of the grave.”",
+          "Thomas does not say how the body was\ngenerally positioned in the grave, but in\nmany cultures, graves are often orientated to\nthe east, where the sun rises. In the case of\nChristianity, the east is where it is considered\nthe second coming will occur.",
+          "<em>References:</em> 1 McIvor Times and Rodney\nAdvertiser 10.1.1868; 2 Ovens and Murray\nAdvertiser 15.7.1885, p 4; 3 Elmore Standard\n19.2.1886; 4 Bride, Thomas F (ed) Letters\nfrom Victorian Pioneers p 400"
+        ]
+      },
+      "published": true,
+      "related": ["local-kinship-connections"]
+    },
+    "captain-john": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-06-18",
+      "title": "Captain John",
+      "abstract": "The Aboriginal man called “Captain\nJohn” by the Europeans was the son of\nTattambo and his first wife. We do not know\nJohn’s Aboriginal birth name or where he was\nborn. When he died in 1874, it was estimated\nat the time that he was in his late 40s. If true,\nthat would place his birth date in the mid to\nlate 1820s. “Mr William Phillips, the oldest\nresident in the town, remembers him as a boy\nof 12 or 13, when the Protectorate was first\nestablished under Mr Le Soeuf in 1839.”",
+      "body": {
+        "pars": [
+          "The Aboriginal man called “Captain\nJohn” by the Europeans was the son of\nTattambo and his first wife. We do not know\nJohn’s Aboriginal birth name or where he was\nborn. When he died in 1874, it was estimated\nat the time that he was in his late 40s. If true,\nthat would place his birth date in the mid to\nlate 1820s. “Mr William Phillips, the oldest\nresident in the town, remembers him as a boy\nof 12 or 13, when the Protectorate was first\nestablished under Mr Le Soeuf in 1839.”",
+          "Being born prior to the European\nincursion into Ngurai-illum Wurrung country\nmeant that as a boy, John would have had a\nvery traditional upbringing. The clan of his\nparents was based on the Campaspe River\nsouth of Elmore, but travelled extensively\nto the east, beyond the Goulburn River. All\nchildren born in the Gunung Willam clan,\nlike John, became members of the Waa, or\ncrow moiety, so this bird would have been an\nimportant totem for John.",
+          "<strong>Initiation</strong>",
+          "At about the time that John would have\nnormally been going through his formal\ninitiation, the world of the Ngurai-illum\nWurrung was in total upheaval. European\ncolonisers rapidly moved into their country\nin the wake of the 1836 Major Mitchell\nexpedition. John could potentially have been\na witness to some of the massacres that took\nplace, particularly on the Campaspe in the\nlate 1830s.",
+          "It is unclear whether John went through\nan initiation process in the usual way, because\nof these disruptions. Instruction was given\nto young teenage boys by a mentor, usually\nfrom within the clan. The mentor needed to\nhave accumulated considerable knowledge\nto pass on, so was usually a respected older\nman. The initiation culminated in ceremony\nat a location regularly used for such events.",
+          "<strong>Later years</strong>",
+          "A writer for the Waranga Chronicle\nclaimed that Captain John said the first white\nmen that he had seen were in Major Mitchell’s\nparty, as they passed through northern\nVictoria in 1836. When the Aboriginal\nProtectorate was established in 1839, it seems\nthat Captain John frequented the station with\nother members of the Ngurai-illum Wurrung\nclans.",
+          "As he grew older, he was employed by the\npolice as a tracker in Gippsland. There was\ngenerally no love lost between the people of\nthe Kulin nation (of which John was member)\nand the Gippsland Aboriginal people known\nas the Kurnai. Apparently, John tended to\nbe overenthusiastic in the performance of\nhis duties, preferring to shoot first and ask\nquestions later.",
+          "One such incident resulted in his own\narrest. However, when he was handcuffed\nand being taken to a place of incarceration\nto answer the charges, he escaped by diving\ninto a river and swimming away underwater.\nHe “…appeared not again on the confines of\ncivilised life till his offence was forgotten.”1\nHis access to firearms during his time with\nthe police meant that he became an excellent\nshot, and as a result probably abandoned his\ntraditional weapons.",
+          "<strong>Family life</strong>",
+          "When he resurfaced along the Goulburn\nRiver, Captain John spent most of his time in\nthe districts of Avenel, Seymour, Nagambie\nand Murchison, particularly the latter.1 His\nwife was known as Biddy. They had a\ndaughter (Jeannie/Jenny) who was born\naround 1844, and a son, Johnny/Johnnie.",
+          "In winter 1874, while camping on the\nGoulburn at Murchison, Biddy’s mia mia\ncaught fire. She was the only occupant, and\nwas quite severely burned. She was nursed\nback to health by Jeannie and an unnamed\nmember of the Murchison community.2 After\nJohn died in 1874, the remaining members\nof his immediate family went to live at\nCoranderrk station near Healesville.",
+          "It seems that Captain John was quite a\ncharacter. “There was a humorous twinkle\nabout the Captain’s eye that seems to intimate\nthat he rather enjoys life.”4 When he died, it\nwas reported that “The deceased had a great\ndeal of native dignity in his composition, and\nhe was a true gentleman on many points.”",
+          "<strong>References:</strong> 1. Waranga Chronicle\n29.10.1874; 2. ibid 2.7.1874; 3. ibid\n12.11.1874; 4. McIvor Times and Rodney\nAdvertiser 3.7.1873. 5. Waranga Chronicle\n29.10.1874",
+          "<em>Waranga Chronicle articles courtesy of Alan\nMcLean.</em>"
+        ]
+      },
+      "published": true,
+      "related": []
+    },
+    "queen-mary": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-06-04",
+      "title": "“QUEEN MARY”",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/06/wnews20200604-010.jpg",
+      "abstract": "When Tattambo died on 1.1.1868, it was\nreckoned that he was at least 70. If this was\naccurate, then he was born prior to 1800.\nThis was well before any first contact with\nEuropeans on Ngurai-illum Wurrung country\nin northern Victoria.",
+      "body": {
+        "pars": [
+          "When Tattambo died on 1.1.1868, it was\nreckoned that he was at least 70. If this was\naccurate, then he was born prior to 1800.\nThis was well before any first contact with\nEuropeans on Ngurai-illum Wurrung country\nin northern Victoria.",
+          "There was a short-lived European\nsettlement at Sullivan’s Cove (near presentday\nSorrento), from which convict William\nBuckley escaped in 1803. He lived with\nthe Wadawurrung people on the Bellarine\nPeninsula for over 30 years. In his travels\nwithin the Kulin Nation, Tattambo may have\nencountered Buckley, as members of both\nthe Ngurai-illum Wurrung and Wadawurrung\nattended cultural gatherings near what is now\nMelbourne CBD.",
+          "Tattambo’s second wife is only\nremembered by her allotted European name,\n“Queen Mary”. Her birth name and clan are\nnot known. As was a common occurrence\nwith Aboriginal marriages, she was much\nyounger than Tattambo. When she died in\n1874, her age was estimated at 55-60, placing\nher date of birth before 1820. The report of\nher death said “Mary’s recollection dated\nback as far as the time of Buckley, ‘the wild\nwhite man’…” Perhaps Mary saw him at a\nKulin gathering?",
+          "<strong>Family background</strong>",
+          "When an Aboriginal woman was married\nto a Ngurai-illum Wurrung man, she had to\nleave her clan to live with her husband’s clan.\nMary was apparently from Wemba Wemba\ncountry, near present-day Murrabit. There is\na record of Tattambo and Mary visiting her\nrelatives there in 1866. It is not known when\nTattambo and Mary were married, but we do\nknow that their daughter Jenny (aka Jeannie\nor “Jinny”) was born around 1844. At this\ntime, the family may have had connections\nwith the Aboriginal Protectorate that was\noperating at Murchison.",
+          "It is also unclear whether Tattambo’s first\nwife (name unknown) was deceased before\nhe married Mary. Some Aboriginal men had\nmore than one wife concurrently. There was\na son from the earlier marriage who was\nknown by the Europeans as Captain John.\nHe died in 1874, just before his step-mother\nMary, both being buried along with Tattambo\nat Murchison cemetery.",
+          "<strong>A matriarch and elder</strong>",
+          "Photographs of Mary showed that she had\na considerable amount of decorative scarring\non her upper abdomen and arms. It is unclear\nwhether this was standard practice for local\nwomen. Perhaps she already had the scarring\nprior to leaving Wemba Wemba country.",
+          "After Tattambo died, Mary “unusually,\nassumed the role of Queen…Captain John\npreferred to keep a low profile.” It was\nreported that “for many years afterwards (i.e.\nafter Tattambo’s death) his widow, Queen\nMary…and a tribe of 100 blacks roamed\nabout the Waranga Shire and enjoyed the\nprotection of an aboriginal compound, which\nwas supervised for some time by William\nPhillips, on or near the site of the present\nMurchison Mechanics’ Institute, the state\nschool and the local churches.”",
+          "This second quote was written in 1930,\nso is probably inaccurate on some counts. In\nparticular, it seems very unlikely than there\nwere 100 Aboriginal people in the area in\nthe 1860s. The Aboriginal Protectorate at\nMurchison had closed in 1853, and many of\nthe former residents had moved to reserves\nsuch as Coranderrk, or had dispersed to other\nareas. However, it could well be that Mary\nand a much smaller group, which included\nher step-son Captain John and her sister-inlaw\nSarah, continued to follow Ngurai-illum\nWurrung songlines into the early 1870s.",
+          "<strong>Being on country</strong>",
+          "The press of the day generally used\ncondescending language when writing about\nMary and her perceived ownership of the\nland. “The Queen-dowager Mary…usurped\nwithout contradiction the regal title…Mary\nwould spread her arms forth, and proclaim\naloud that all the land was hers. Poor Mary!”",
+          "Another story written over a year earlier\nin 1873 reported “The township (Murchison)\nhas been honoured by a visit from royalty,\nQueen Mary, with her retinue, having lighted\nher camping-fire near the Farmers’ Hotel on\nthe Rushworth road.” This seems to indicate\nsome continuation of the seasonal movement\nof the remaining Aboriginal people around\nformer Ngurai-illum Wurrung country.",
+          "<em>References: “Argus” newspaper 2.10.1874,\np4; Clark, Ian D, Goulburn River Aboriginal\nProtectorate (Ballarat Heritage Services\n2013); Notes by Uncle Vin Peters; The\nAge, 24.7.1930, p7; “Argus” 2.10.1874; McIvor Times & Rodney Advertiser 3.7.1873</em>"
+        ]
+      },
+      "published": true,
+      "related": []
+    },
+    "local-kinship-connections": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-05-21",
+      "title": "Local kinship connections",
+      "abstract": "Mentioned in the previous story, Tattambo\n(often referred to by Europeans as King\nCharles) was apparently born into a clan of\nthe Ngurai-illum Wurrung people called the\nGunung Willam, whose home country was on\nthe Campaspe River south of Elmore. The\nnames of his parents are unknown.\nLike his father and any siblings, he was in\nthe “Waa” or crow moiety. As such, one of\nhis cultural duties was to conserve and protect\nthe crow. His mother would have been from\nanother clan, and if she was from one of the\ngroups of Aboriginal people in the Kulin\nnation, she would have been from a “Bunjil”,\nor wedge-tailed eagle, clan and moiety.",
+      "body": {
+        "pars": [
+          "Mentioned in the previous story, Tattambo\n(often referred to by Europeans as King\nCharles) was apparently born into a clan of\nthe Ngurai-illum Wurrung people called the\nGunung Willam, whose home country was on\nthe Campaspe River south of Elmore. The\nnames of his parents are unknown.\nLike his father and any siblings, he was in\nthe “Waa” or crow moiety. As such, one of\nhis cultural duties was to conserve and protect\nthe crow. His mother would have been from\nanother clan, and if she was from one of the\ngroups of Aboriginal people in the Kulin\nnation, she would have been from a “Bunjil”,\nor wedge-tailed eagle, clan and moiety.",
+          "<strong>Family</strong>",
+          "We do not know much about Tattambo’s\nsiblings, apart from a brief reference to a sister,\nwho was called “Sarah” by the Europeans.\nIn 1874, a Mr Green, superintendent of the\nCoranderrk Aboriginal Reserve, near presentday\nHealesville, was trying to encourage any\nremaining Aboriginal people living around\nMurchison to transfer to the Reserve. Noted\nas a sister of Tattambo, Sarah “could not\nbe prevailed upon to quit the haunts of her\nlife with all their associations. She alone\nremains, like an old tree in a clearing, gnarled\nsomewhat, but sturdy and strong.”",
+          "Tattambo married twice. The name\nof his first wife is unknown but they had a\nson, known by the Europeans as “Captain\nJohn”. Tattambo’s second wife was known as\n“Queen Mary”. These two people are buried\nwith Tattambo in the Murchison cemetery.\n“Queen Mary” and Tattambo had one child,\ncommonly known as “Jenny”. There will be\nstories about these members of Tattambo’s\nfamily in later Waranga Dreaming articles.",
+          "Descendants of this line of the family\nare proud and strong Ngurai-illum Wurrung\npeople. In particular, the writer would like\nto acknowledge Ngurai-illum Wurrung Elder,\nUncle Vincent Peters, now a regular visitor\nto Murchison. Uncle Vin is an invaluable\ncontributor to these stories.",
+          "<strong>Multilingual</strong>",
+          "Kinship connections meant that Tattambo\nwould have been multi-lingual. His native\ntongue was the Ngurai-illum Wurrung\nlanguage. Connections with the other people\nin the Kulin nation (which comprised at least\nfive similar languages), meant that he would\nhave been able to communicate with people\nfrom all of those language groups.",
+          "The languages spoken by near neighbours,\nthe Bangerang/Yorta Yorta (to their north)\nand the Barapa Barapa (west of the Campaspe\nRiver), were quite different to those spoken\nby members of the Kulin nation. There would\nhave been a necessity to learn the basics of\nthose languages to facilitate communication.",
+          "Thirty years of contact with Europeans\nbefore his death in 1868 would also have\ngiven Tattambo a good working knowledge\nof English.",
+          "<strong>Initiation</strong>",
+          "When Tattambo was growing up, well\nbefore the impact of European colonisation,\nhe would have been taken through his\ninitiations by an Elder, known in some Kulin\nclans as a Caganguk. A Caganguk was a\nmentor, knowledgeable in the stories and\nculture of his people, who would work with\na group of boys, imparting knowledge and\npreparing them for their initiations.",
+          "Pictures of Tattambo seem to indicate\nthat he had cicatrices on his body (as did his\nsecond wife Mary), some of which he may\nhave received at initiation. Cicatrices are scar\ntissue that forms from wounds. The cicatrices\non Tattambo’s body were from wounds\ndeliberately inflicted on the arms and upper\nbody. The wounds were kept open until the\nscar tissue formed, resulting in the familiar\nraised scars. These scars were a form of\ndecoration, also telling stories of their owner.",
+          "<strong>Burial</strong>",
+          "When Tattambo was buried in Murchison\ncemetery, it was apparently at his own\nrequest. As a mark of respect from the\nlocal community, the grave was “fenced\nin by a beautiful piece of iron railing, the\nworkmanship, we believe, of Mr Barratt. It\nis faced by the brass plate the old king wore\nround his neck…” Estimates of his age at\nthe time ranged between 70 and 80 years.",
+          "<em>References: 1 Barwick, Diane, Mapping\nthe Past: At Atlas of Victorian Clans 1835-\n1904; 2 Waranga Chronicle 12.11.1874; 3\nWoiwod, Mick, The Last Cry (Tarcoola Press\n1997); 4 Waranga Chronicle 29.10.1874</em>"
+        ]
+      },
+      "published": true,
+      "related": ["kinship-relationships"]
+    },
+    "aboriginal-spirituality": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-04-23",
+      "title": "Aboriginal spirituality",
+      "abstract": "Closely linked to the systems of kinship\nthat were briefly discussed in the previous\nWaranga Dreaming story are the advanced\nnotions of spirituality that were evident in\nthe lives of Aboriginal people of this area\nprior to European colonisation. Compared\nto some of the major religions of today,\nAboriginal spirituality had evolved over tens\nof thousands of years, with local variations.",
+      "body": {
+        "pars": [
+          "Closely linked to the systems of kinship\nthat were briefly discussed in the previous\nWaranga Dreaming story are the advanced\nnotions of spirituality that were evident in\nthe lives of Aboriginal people of this area\nprior to European colonisation. Compared\nto some of the major religions of today,\nAboriginal spirituality had evolved over tens\nof thousands of years, with local variations.",
+          "“Aboriginal spirituality is defined at\nthe core of Aboriginal being, their very\nidentity. It gives meaning to all aspects of life\nincluding relationships with one another and\nthe environment. All objects are living and\nshare the same soul and spirit as Aboriginals.\nThere is a kinship with the environment.\nAboriginal spirituality can be expressed\nvisually, musically and ceremonially.”\n(Grant, 2004)",
+          "Sadly, we know very little about the highly\ndeveloped spirituality of the Aboriginal\npeople who lived in this area, and the depth of\nits meaning to their lives. Along with many\nother things, there was massive disruption to\nthis aspect of their lives from the late 1830s.",
+          "<strong>Basic Tenets</strong>",
+          "It is possible, however, to generalise\nabout some of the basic tenets of Aboriginal\nspirituality, and reflect on how they may have\nguided the lives of Aboriginal people in this\narea. One aspect of this spirituality that we\ncan all relate to is the concept of animism i.e.\n“a world where everything is interconnected,\npeople, plants and animals, landforms and\ncelestial bodies are part of a larger reality…\nnothing is inanimate, everything is alive…all\nare energised by a spirit. As such, humans\nare on an equal footing with nature, are part\nof nature and are morally obligated to treat\nanimals, plants and landforms with respect.”",
+          "We are by now familiar with the\nAboriginal view of the Dreaming – the time\nof creation – just as similar stories exist in\nmost major religions of today. As noted in\nthe previous story, Bunjil (the Wedge-tailed\nEagle) was seen as the creator figure for the\nNgurai-illum Wurrung people.",
+          "The role of totems, briefly described in the\nprevious story, was also an important part of\nthe whole concept of Aboriginal spirituality.",
+          "<strong>More than creation</strong>",
+          "In local Aboriginal communities, the\ncreation ancestor (Bunjil) was also seen to\nhave stipulated “what people had to do to\nmaintain their part of this interdependence”\ni.e. the rules by which all things were to live\nharmoniously and sustainably. The laws\nensure “that each person knows his or her\nconnectedness and responsibilities for other\npeople, for country….and (for) the ancestor\nspirits.”",
+          "In practice, the basic laws had probably\nexisted since time immemorial, subject to\nregular revision over time until the result\nwas a very practical and workable set of\nrules. These rules were then handed down by\nelders in an oral tradition over hundreds of\ngenerations.",
+          "<strong>Clarity</strong>",
+          "discussion is that Aboriginal people’s\nlives were very clearly ordered by tens of\nthousands of years of experiencing a system\nthat was handed down orally, and understood\nby successive generations. People knew\nwhere they stood, and what was expected\nof them. There was enormous comfort for\npeople in having a very clear structure by\nwhich to live their lives.",
+          "Because of the inextricable link between\nAboriginal people and their country, one can\nonly wonder at the devastation caused by\nthe disconnection from country in the period\nfrom 1836 – especially the first couple of\ndecades of European colonisation extending\ninto the 1850s.",
+          "Part of the healing process that people\ncan go through is to try to reconnect with\ncountry. There are plenty of encouraging\nexamples in our local communities where this\nis happening.",
+          "<em>Reference: <a href=\"http://australianstogether.org.au\">australianstogether.org.au</a></em>"
+        ]
+      },
+      "published": true,
+      "related": []
+    },
+    "kinship-relationships": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-04-09",
+      "title": "Kinship relationships",
+      "abstract": "Each member of the Ngurai-illum\nWurrung Aboriginal people belonged to one\nof two moieties, Bunjil or Waa. Moiety means\n“half” in Latin, and in the local Aboriginal\ncontext means there are two social or ritual\ngroups into which all people are divided.",
+      "body": {
+        "pars": [
+          "Each member of the Ngurai-illum\nWurrung Aboriginal people belonged to one\nof two moieties, Bunjil or Waa. Moiety means\n“half” in Latin, and in the local Aboriginal\ncontext means there are two social or ritual\ngroups into which all people are divided.",
+          "“A person’s affinity with either Bunjil\nor Waa defines their kinship relationships,\nmarriage partners and social responsibilities.”\n(museumsvictoria.com.au/bunjilaka) “People\nwho share the same moiety are considered\nsiblings, meaning they are forbidden to marry.\nThey also have a reciprocal responsibility to\nsupport each other.” (australianstogether.org.\nau)",
+          "<strong>Bunjil and Waa</strong>",
+          "Bunjil is represented by the “eaglehawk”,\nor as we know it better, the Wedge-Tailed\nEagle. In local Aboriginal mythology, Bunjil\nwas the creator deity – similar to God for\nChristians or Allah for Moslems. Bunjil was\nalso considered to be a cultural hero and an\nancestral being.",
+          "Waa is represented by the Crow. Like\nBunjil, Waa was a cultural hero and ancestral\nbeing. Waa was considered to be something\nof a trickster, but also a protector.",
+          "So, everyone in the local Ngurai-illum\nWurrung people was in either the Bunjil or\nthe Waa moiety. This was decided by the\nmoiety of their Father, in a system known as\npatrilineal (patri = father). This was true of\nmany of the neighbours of the Ngurai-illum\nWurrung e.g. the Taungurung to their south,\nbut through south-eastern Australia, the\nsystem was generally matrilineal i.e. people\ntraced their identity from their Mother.",
+          "<strong>Clan connections</strong>",
+          "As well as individuals being identified as\nbeing Bunjil or Waa, so too were clans. We\nhave already talked about three Ngurai-illum\nWurrung clans, and each of those identified\nwith Bunjil or Waa, viz – Ngurai-illum balug\n(Murchison) – Bunjil; Bendebora balug\n(Elmore and to the north) – Bunjil; Gunung\nwillum (south of Elmore) – Waa.",
+          "Whenever a marriage occurred with\nthe Kulin nation, it was always between\none person identifying as Bunjil and one as\nWaa, and with someone from a clan with the\nopposite moiety. For example, if a Bunjil\nwoman was to marry, it would be with a Waa\nman, and she would then go and live with the\nWaa clan. Any children of the relationship\nwould identify as Waa. As a local example\nof this, Tooteerie, a woman from the\nNgurai-illum balug clan (Bunjil) married a\nWurundjeri man (from a Waa clan) and their\nson was the famous artist and Aboriginal\nactivist William Barak (1824-1903).",
+          "Marriages could still occur between\nsomeone from the Kulin nation and someone\nfrom a different group of Aboriginal peoplewho spoke a different language. For example,\nthe so-called “Queen Mary” buried in the\nMurchison cemetery, who married “Charles”\nTattambo, was from the Wemba Wemba\nAboriginal people from on the Murray River.\nPrior to marriage, she spoke quite a different\nlanguage and had different cultural beliefs to\nTattambo’s people.",
+          "<strong>Totems and skin names</strong>",
+          "In addition to being from a specific\nlanguage group, clan, and moiety, Aboriginal\npeople could also be linked by having the same\npersonal totem e.g. a specific animal, bird or\nreptile. Having a particular totem meant that\nit was incumbent on a person to protect and\nconserve that creature. It also gave them a\nlink to anyone else with that particular totem,\nwho would be treated as a sibling. Totems\nmight also be plants, landscape features and\ntypes of weather.",
+          "Yet another personal link between people\ncould be by a Skin Name. The system of using\nskin names was in the form of a sequential\ncycle, usually of 16-32 names. Again, you\nshared a special bond with anyone who had\nyour skin name.",
+          "<strong>A sense of belonging</strong>",
+          "The upshot of all of the above is a level of\nconnection between Aboriginal people that is\ndifficult to grasp for most people of European\norigins. Although the extraordinary kinship\nrelationships that existed before European\ncolonisation have been compromised by\ndisconnection from country, it is clear that\nvery strong bonds continue to be an important\nfeature of Aboriginal life today. It must be\nreassuring to have so many people looking\nout for you.",
+          "“You will never be an only child. Here’s\nall your other brothers and sisters…You’ve\ngot all these other mothers and fathers to\nsupport and teach you. That’s the strength\nof the system…That extended family take\nit really seriously and want to be engaged in\nthat life.” Lynette Riley",
+          "<em>References: australianstogether.org.au and\nMuseums Victoria websites</em>"
+        ]
+      },
+      "published": true,
+      "related": []
+    },
+    "lessons-to-learn": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-03-26",
+      "title": "Lessons to be learnt",
+      "abstract": "The last story talked about the essential items that the Ngurai-illum Wurrung women would have carried around with them as they moved around country. Similarly, the men would need to select just a few easily-carried items e.g. spears and clubs. Heavy items, such as grinding stones, were left at regularly used campsites.",
+      "body": {
+        "pars": [
+          "The last story talked about the essential items that the Ngurai-illum Wurrung women would have carried around with them as they moved around country. Similarly, the men would need to select just a few easily-carried items e.g. spears and clubs. Heavy items, such as grinding stones, were left at regularly used campsites.",
+          "It is an interesting contrast to our sedentary lifestyle these days. When people settle in a place now, they start to accumulate “stuff”. The longer they stay there, the more they tend to accumulate. The result is that much of that stuff is of no real use to them. And many of us spend a disproportionate amount of our lives getting the wherewithal to purchase yet more stuff.",
+          "A lesson we can learn from Aboriginal people who frequented this area before European colonisation is that less is better: more assets won’t bring you greater happiness. Also, if you do have the good fortune to accumulate some wealth, then sharing it with others can enhance your life as well as that of those around you.",
+          "<strong>Peripatetic lifestyle</strong>",
+          "Another advantage of Aboriginal life in this area pre-1840, that we could all learn from, is the benefit provided by walking. Always being on foot allowed the Ngurai-illum Wurrung people to live in close harmony with nature. Their knowledge of the country over which they travelled was most detailed. It was the basis for many stories that could be shared.",
+          "In contrast, we tend to use motor vehicles for most journeys, missing out on so much along the way. “Motorised transport is nothing but destination after destination, slicing everything into disconnected episodes; back at this familiar (walking) pace, the world was integral again.” By walking from place to place, Aboriginal people were able to make the connections which allowed them make sense of the universe.",
+          "This is quite apart from the pollution now caused by cars, with more and more cars appearing on the world’s roads. “In 2000, there were four million cars in China. By 2010 this had gone up twenty-fold to eighty million, with growth expected to continue for a long time to come.” Now there are 340 million. You have to question whether that constitutes a higher standard of living.",
+          "The health benefits of walking – both physical and mental – cannot be ignored. By walking more, we can be healthier as well as noticing and learning so much more about our country as we traverse it.",
+          "<strong>Making things from scratch</strong>",
+          "In 2019 the Rushworth Shire Hall committee ran a “Spirit of Making Do” event as part of the very successful 150th birthday celebrations of the hall. This timely reminder came at a point in time when we are less and less likely to make things from scratch for ourselves or others, or repair things that have broken.",
+          "The Ngurai-illum Wurrung people were highly skilled at making do with what resources that they had on country. Trade was only relied on to obtain the few items they could not make for themselves, or for which the resources were not available locally. The result was that they were adept at a whole range of skills that were passed down from generation to generation, in a way that enhanced family and community relationships.",
+          "As well as coming up with a useful or aesthetically pleasing thing, the physical act of creating something from scratch can also be good for the soul. “When we use our hands effectively the heart is most at peace.”",
+          "<strong>Kinship and spirituality</strong>",
+          "Another lesson that can be learnt from the original custodians of our country is the importance of family. Of course, this is much more difficult these days where families are often spread across the globe, having little day-to-day contact.",
+          "Aboriginal family connections are closely linked to concepts of spirituality in ways that we can only vaguely understand. This is worth exploring, considering that many people today lament the apparent loss of faith and spirituality in society. Again, there is much to learn.",
+          "<em>References: 1 Hunt, Nick, Walking the Woods and Water; 2 Lilwall, Rob, Walking Home from Mongolia p 265</em>"
+        ]
+      },
+      "published": true,
+      "related": []
+    },
+    "essential-items": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-03-12",
+      "title": "Carrying essential items",
+      "abstract": "Although it is well established that Aboriginal people in the Waranga area were much more than just hunter-gatherers, there is plenty of evidence of seasonal migration around Ngurai-illum Wurrung country. Before times of travel, the women had to decide what items they would need to always carry with them. There would certainly be a number of small tools, such as a scraper (shell), an awl (bone), a cutting blade (stone) and a yam digging stick amongst the items that would be regularly used. These items could be carried in a bag or basket. In addition, the women may have used another carrying vessel (these days most often referred to as a ‘coolamon’, although that is an anglicised NSW Aboriginal word), an oval U-shaped piece of bark or wood which could be used for transporting food collected on their travels. This would often be carried on the head. It could also be used under an arm to carry a small baby.",
+      "body": {
+        "pars": [
+          "Although it is well established that Aboriginal people in the Waranga area were much more than just hunter-gatherers, there is plenty of evidence of seasonal migration around Ngurai-illum Wurrung country. Before times of travel, the women had to decide what items they would need to always carry with them. There would certainly be a number of small tools, such as a scraper (shell), an awl (bone), a cutting blade (stone) and a yam digging stick amongst the items that would be regularly used. These items could be carried in a bag or basket. In addition, the women may have used another carrying vessel (these days most often referred to as a ‘coolamon’, although that is an anglicised NSW Aboriginal word), an oval U-shaped piece of bark or wood which could be used for transporting food collected on their travels. This would often be carried on the head. It could also be used under an arm to carry a small baby.",
+          "<strong>Bags and basketry</strong>",
+          "To carry the smaller tools, while at the same time leaving the hands free for other tasks, the women would often use bags or baskets made from found materials. These vessels could be hung by a string or strap around the neck.",
+          "Stiff baskets could be made using various weaving techniques, or by a process known as coiling. Because of the materials used, few if any of these baskets from the local area would remain in existence today. As a result, it is now a matter of conjecture as to what natural raw materials were used.",
+          "One of the common plants of the local box ironbark forests that has the right properties for basket making is the black anther flax lily <em>(Dianella revoluta)</em>. The strappy leaves can be used for basketry as soon as they are harvested, giving the plant an advantage over other materials that have to be dried before use.",
+          "As well as the flax lily, another common plant that might have been used is the Lomandra. This plant is usually found in the gullies around the box-ironbark forests, where there is a bit more moisture. The common names – spiny or spiky head mat rush, or basket grass – indicate that the plant was definitely used for basket making, certainly in other areas, but probably also in the Waranga area.",
+          "<strong>Dilly bags</strong>",
+          "As well as making stiff baskets, local Aboriginal women were adept at making what is generally referred to these days as ‘dilly bags’. These are soft string bags, made from woven bush string. The word ‘dilly’ is most likely an anglicised Queensland Aboriginal word that came into general use. Dilly bag making skills were apparently lost in Victoria after European colonisation, but are now making a resurgence.",
+          "One of the local forest items that might have been used by the Ngurai-illum Wurrung people to make string for dilly bags is the bark from the red stringybark tree (E.macrorhyncha). The bark that was used was not the fibrous outer bark that we are familiar with, but the layer of inner bark that is generally white, yellow and orange and resinous. To collect this bark, the outer layer of bark is removed by use of an axe. (Prior to European colonisation, the axes used were stone-headed.) The inner bark, once removed from the tree, was bashed with a stone or the flat side of an axe head.",
+          "The fibrous material resulting could then be used to make into string by twisting and weaving the strands. The resin helped to keep the string together. String could obviously be used for a whole range of purposes other than making dilly bags; e.g. nets for fishing and catching birds.",
+          "<strong>Making string</strong>",
+          "When on country, in an environment where the desirable raw materials were available, string making would have been a regular activity for local Aboriginal people.",
+          "Like basket-making and dilly bag making, these skills would be passed down through the generations, with local variations.",
+          "<em>References: Websites - Culture Victoria - cv.vic.gov.au; Yenbena marrinbidja</em>"
+        ]
+      },
+      "published": true,
+      "related": []
+    },
+    "freshwater-mussels": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-02-27",
+      "title": "Freshwater mussels",
+      "abstract": "Another local resource that has been mentioned in relation to the making of possum skin cloaks was the shells of freshwater mussels. Apparently, the shells were used to scrape excess animal fat from the inside of the possum skins before they were dried. They were also used to incise patterns into the cloaks before they were painted with ochre.",
+      "body": {
+        "pars": [
+          "Another local resource that has been mentioned in relation to the making of possum skin cloaks was the shells of freshwater mussels. Apparently, the shells were used to scrape excess animal fat from the inside of the possum skins before they were dried. They were also used to incise patterns into the cloaks before they were painted with ochre.",
+          "In an early Waranga Dreaming story, former Nagambie resident Harry Parris was cited as mentioning Aboriginal middens at Reedy Lake. A midden is an “accumulation of shell produced by Aboriginal people collecting, cooking and eating freshwater shellfish.” As well as occurring at lakes and swamps, middens can be found along rivers and creeks.",
+          "<strong>Collection and cooking</strong>",
+          "Eating muddy flavoured mussels collected from local waterways these days is a doubtful privilege, but they were much more palatable when our rivers and creeks ran clear, prior to the days of intensive agriculture and deforestation. It was most often the role of the women and children to collect the mussels. “Depending on the season, one person could collect up to 200 shellfish per hour.” It is no wonder that vast accumulations of shells have been found in middens, often mixed with fish bones, the bones of other animals and charcoal from the fires on which they were cooked.",
+          "Mussels can survive in damp ground for up to two years. This meant that in time of drought, the people could dig down, say in a dry creek bed, and find a source of food when other sources were scarce.",
+          "Mussels were usually lightly roasted on an open fire, which eventually caused the shells to pop open as the mussels expanded with the heat. The flesh of the mussels would supplement other animal and plant foods, although “the relatively low energy value of the meat” would mean that, by itself, the flesh of mussels would not constitute an adequate diet.",
+          "<strong>Storage of mussels</strong>",
+          "Some people still have the misconception that Aboriginal people were simply huntergatherers i.e. they just collected or hunted what they needed for the next meal. However, there is plenty of evidence to suggest that they engaged in all sorts of pursuits that belie that notion. One was the storage of food for use in the future, and freshwater mussels were an example of this.",
+          "There have been examples of caches of shells found which were certainly not random piles of shells that would constitute middens. Instead, they were collections of carefully stacked mussels, buried down about a metre. Presumably, this allowed the people to come back to that spot at some point in the future, and have a supply of mussels readily available for use.",
+          "<strong>Use of shells as tools</strong>",
+          "As stated at the outset, mussel shells were often used as tools in different stages of the production of possum-skin cloaks. With their sharp edges, they were probably handy for plenty of other things. If that is the case, it begs the question as to whether the women always carried some shells with them on country. Perhaps they were in such profusion around the Waranga area there was no need to, as you could always find one if you needed it.",
+          "If the shells were indeed carried around as tools, perhaps there were some other small items that the women regularly carried with them. An awl, which is a small pointed tool made of bone, would have been useful for piercing leather e.g. when sewing together possum skins, as well as for many other uses. This contrasts with heavier items, such as grinding stones, which were often left in situ at regularly frequented campsites.",
+          "<strong>Protection of middens</strong>",
+          "Like all places of cultural significance to Aboriginal people in Victoria, shell middens are protected, so you cannot disturb or destroy them. No artefacts, including the shells themselves, should be removed from such a site. Instead, you should report the presence of such sites to the Heritage Registrar at the Office of Aboriginal Affairs Victoria.",
+          "<em>References: “Aboriginal Freshwater Middens” information sheet (Victorian Government 2008)</em>"
+        ]
+      },
+      "published": true,
+      "related": ["possum-skin-cloaks"],
+      "sidebar": ["/content/wnews/firstpeoples/2020/list/national-apology-anniversary"]
+    },
+    "use-of-ochre": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-02-13",
+      "title": "Use of ochre",
+      "abstract": "In recent stories about corroborees and possum-skin cloaks, mention was made of the use of ochre.",
+      "body": {
+        "pars": [
+          "In recent stories about corroborees and possum-skin cloaks, mention was made of the use of ochre.",
+          "Ochre is a natural clay earth pigment containing iron oxide that the local Aboriginal people used to produce paint. The paint was then used for all sorts of artistic decoration and for cultural purposes. It was, and still is, used for art works on many media, such as rock art, body painting and on objects such as baskets and possum-skin cloaks. The squatter Curr noted the men using ochre to paint their bodies prior to the corroboree that he witnessed in the 1840s.",
+          "Certain colours were harder to source than others, so became highly valued. Ochre was one of many items that were traded along clearly defined (to Aboriginal eyes) trade routes that criss-crossed the country. Traded ochre was often kept moist, in a ball, for ease of carrying to points at which trading occurred.",
+          "<strong>Colours</strong>",
+          "There is a wide range of colours of ochre available – most commonly reds, yellows, browns, oranges, blacks and whites but also purple, pink, green and turquoise. Blue is one colour that traditional Aboriginal peoples rarely used, perhaps largely due to lack of ready availability.",
+          "“Colour may often be associated with a particular usage and meaning. In many cultures across the continent white is a colour used to represent mourning and loss. Yellow in many situations is associated with women’s ceremonies. Whereas red may in some cultures represent an association with war…it may also be seen as the colour of celebration or ceremony.”",
+          "<strong>Sources in the local area</strong>",
+          "One can only imagine where the good sources of ochre might have been in the Waranga area, especially in the areas where mining, farming and industrial pursuits have since totally changed the landscape. A site close to Rushworth that seems to contain all sorts of different colours of clay is the spot that locals just refer to as “the clay dams”, south west of Growler’s Hill and below the wildflower reserve.",
+          "The white clay there is virtually a pure white, and is generically referred to as “pipe clay”. This name was probably brought to the area via European colonisation. White clay was often used on the continent to fashion pipes, which were then fired.",
+          "<strong>Making ochre</strong>",
+          "As with many Aboriginal cultural activities, there has been something of a resurgence in people producing ochre paint and using it in a variety of ways. The Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS) is encouraging this resurgence, and a visit to its website reveals some interesting short videos about making ochre to apply to a possum skin cloak.",
+          "The ingredients usually include the powdered clay, water and some type of binding agent. Often the latter would be the gum from an acacia (wattle), which you often see oozing out of the trunk when a tree or shrub has been damaged. After the flow of sap stops it hardens into globules of gum. One of the most ubiquitous wattles in our area is the golden wattle (Acacia pycnantha) which produces a beautiful honey-coloured gum. Perhaps this is what the Ngurai-illum Wurrung people used as a binding agent for their ochre?",
+          "The clay was ground into a fine powder using stone tools – the Aboriginal equivalent of a mortar and pestle. Then, appropriate amounts of water and gum were added and the ochre was ready for immediate use. Alternatively, with less water added, it could be squeezed into a ball for later use or for transporting as a trading item.",
+          "<strong>In the bush</strong>",
+          "When you are in the bush sourcing materials to make ochre, you see everything in a completely different light. Just looking for wattle gum, for instance, you start to see not only all the different gums exuded by different plants, but by looking closely at those plants, you begin to see all the insects and other small critters that rely on those plants. You get the faintest inkling of the way that Aboriginal people see their country and how everything is connected.",
+          "<em>References: 1 <a href='http://Koorihistory.com/earth-pigments-ochre/'>Koorihistory.com/earth-pigments-ochre/</a>; 2 <a href='http://aiatsis.gov.au/exhibitions/possum-skin-cloak'>aiatsis.gov.au/exhibitions/possum-skin-cloak</a></em>"
+        ]
+      },
+      "published": true,
+      "related": ["possum-skin-cloaks"],
+      "sidebar": ["/content/wnews/firstpeoples/2020/list/national-apology-anniversary"]
+    },
+    "national-apology-anniversary": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-02-13",
+      "title": "12th anniversary of National Apology",
+      "abstract": "On 13 February 2008 the National Apology to the Stolen Generations was made after a recommendation from The National Inquiry into the Separation of Aboriginal Children from their Families. It highlighted the suffering of Indigenous families under the Commonwealth, state and territory Aboriginal protection and welfare laws and policies.",
+      "body": {
+        "pars": [
+          "On 13 February 2008 the National Apology to the Stolen Generations was made after a recommendation from The National Inquiry into the Separation of Aboriginal Children from their Families. It highlighted the suffering of Indigenous families under the Commonwealth, state and territory Aboriginal protection and welfare laws and policies.",
+          "The National Inquiry led to the Bringing Them Home report which was tabled in Parliament on 26 May 1997. It contained 54 Recommendations on how to redress the wrongs done to Aboriginal and Torres Strait Islander peoples by the race-based laws and policies of successive governments throughout Australia.",
+          "Recommendations suggested that all Australian Parliaments and State and Territory police forces acknowledge responsibility for past laws, policies and practices of forcible removal and that on behalf of their predecessors officially apologise to Indigenous individuals, families and communities.",
+          "After winning the election in 2007 Prime Minister Kevin Rudd began consulting with Indigenous Australians about the form an apology should take. In the spirit of the new commitment to Indigenous affairs, a Welcome to Country ceremony was held at the opening of Parliament. This was the first time that such a ceremony was held.",
+          "Visitors to Country were welcomed by elders and dancers from around Australia and the Torres Strait Islands took part in the ceremony. A message stick was presented by children to the Prime Minister as a tangible symbol of the ceremony. Message sticks were a ‘means of communication used by our peoples for thousands of years. They tell the story of our coming together,’ said elder Matilda House.",
+          "Members of the Stolen Generations were invited to hear the National Apology first-hand in the gallery of The House of Representatives chamber at Parliament House in Canberra. The Prime Minister, Kevin Rudd delivered the Apology at 9 am on 13 February 2008.",
+          "Crowds of people across Australia watched the Apology on screens in their own cities and towns. Photographic and video records of those witnessing the Apology show sombre and reflective faces as the Prime Minister spoke of the wrongs governments had inflicted on Indigenous peoples across Australia and a huge wave of tears, relief and applause flowed when he finished speaking."
+        ]
+      },
+      "published": false
+    },
+    "possum-hunting": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-01-30",
+      "title": "Possum hunting",
+      "abstract": "As noted in the previous story, perhaps the most prized possessions of local Aboriginal people were their possum skin cloaks.",
+      "body": {
+        "pars": [
+          "As noted in the previous story, perhaps the most prized possessions of local Aboriginal people were their possum skin cloaks.",
+          "Over time, a person’s possum skin cloak would grow in size, and as well as being a practical item, was an important cultural object. The decoration on the leather side of the cloak would tell important stories of both the person who owned it, and the people to which that person belonged.",
+          "It seems that possum hunting was more often part of the role of the men, but women were also documented in colonial history climbing trees to source possums. When possums were hunted, both the meat and the skins were important. Nothing was wasted.",
+          "<strong>Current situation</strong>",
+          "These days, possums (both brush-tailed and ring-tailed) are protected species in Victoria and most other states, although there is still an annual season in Tasmania (with bag limits). As a result, if you are wanting to make a possum skin cloak these days, you can’t just go out and hunt enough possums to do so. However, there can be exemptions for traditional owners.",
+          "There is an enormous amount of legislation that currently relates to traditional owners, protecting their rights and interests. Under the Victorian Traditional Owners Settlement Act 2010, the government can “authorise the members of a traditional group owner entity that has a natural resource agreement” to hunt certain wildlife. This has to be for traditional purposes, rather than commercial. As a result, an entity could come to an agreement with the State government which allows its members to hunt possums with a view to making a possum skin cloak.",
+          "<strong>Waranga area</strong>",
+          "There are a couple of problems with this in the Waranga area. Firstly, possum habitat, and therefore numbers of possums, has been vastly reduced since European colonisation. Possums like tree hollows, and many of the older trees with hollows have simply disappeared with clearing.",
+          "In addition, at the moment there is no Aboriginal entity in the local area that has negotiated a natural resource agreement with the Victorian government. Unfortunately, descendants of the Ngurai-illum Wurrung people, who were the traditional owners of this area, do not currently have an “entity” with which to negotiate an agreement. The neighbouring Yorta Yorta and Taungurung corporations are the nominal custodians of the area at the moment and could potentially make an agreement with government.",
+          "The Dja Dja Wurrung people around Bendigo are the nearest group to have gained a “natural resources hunting authorisation” as part of a natural resources agreement. It specifies that, in total, up to 50 possums (and 250 Eastern Grey Kangaroos) can be taken by members of the Dja Dja Wurrung each year for traditional purposes.",
+          "<strong>Present day source of skins</strong>",
+          "Australia was a big exporter of skins over 100 years ago. For example, around four million pelts went to world markets in 1906. Tasmania is the only state that still exports possum fur and meat, with around 20,000 possums harvested in 2014-15. Most of these go to China and Taiwan.",
+          "Possums were introduced to New Zealand from Australia about the time that European colonisation was expanding into the Waranga area in the wake of Major Mitchell’s 1836 expedition. Sadly for the New Zealanders, the possums bred like rabbits. They were ideally suited to their new environment, with no natural predators, and numbers burgeoned. The population is now estimated in the tens of millions, and hundreds of thousands of pelts are exported each year. Obviously New Zealand has no restrictions on hunting what is a major environmental pest.",
+          "As noted in the previous story, there has been a resurgence in the making of possum skin cloaks in Australia in the last 25 years or so. It seems as though you can access enough skins for a decent sized cloak from New Zealand for between $500 and $1000, and at the same time help our neighbours across the ditch get rid of a few of these unwanted pests.",
+          "<em>References: Australian Geographic, Atlas of Living Australia, Victorian Government websites</em>"
+        ]
+      },
+      "published": true,
+      "related": ["possum-skin-cloaks"]
+    },
+    "possum-skin-cloaks": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2019-12-12",
+      "title": "Possum Skin Cloaks",
+      "abstract": "Squatter Edward Curr’s description of a corroboree on his run in the 1840s, near present-day Tongala, makes two references to the use of possum skin cloaks. In one, he talks about the women rolling up their cloaks, leather-side out, and bashing on them to make a bass percussion accompaniment to the corroboree. In the other, when each man started to prepare himself for the corroboree by painting his body and appending various parts of his costume, “his opossum-rug (was) discarded for the occasion.”",
+      "body": {
+        "pars": [
+          "Squatter Edward Curr’s description of a corroboree on his run in the 1840s, near present-day Tongala, makes two references to the use of possum skin cloaks. In one, he talks about the women rolling up their cloaks, leather-side out, and bashing on them to make a bass percussion accompaniment to the corroboree. In the other, when each man started to prepare himself for the corroboree by painting his body and appending various parts of his costume, “his opossum-rug (was) discarded for the occasion.”",
+          "So, it is clear that possum skin cloaks were widely used by the Aboriginal people in the area. They were multi-purpose items – they could be worn, used as a blanket or groundsheet, as a baby carrier or as a burial shroud. They were worn with the fur on the inside or the outside, depending on the circumstances. In the colder months, they were warm and water-proof.",
+          "<strong>Plenty of Possums</strong>",
+          "The widespread use of possum skin cloaks in the local area implies that there were plenty of possums available. Numbers probably dropped rapidly as land was cleared and habitat reduced. The lack of suitable hollows would have become significant. Also, the provision of the more inferior blankets by government officials and lack of access to country meant that the use of possum skin cloaks quickly diminished from the 1840s.",
+          "It was often the men who did the possum hunting. The standard method was to climb a tree to a likely looking hollow, then whack the tree trunk around the hollow with a club or axe. If a possum ran out, it would be quickly despatched by the hunter or finished off by other hunters waiting below. The possum meat would be cooked and eaten after the skin was removed, so nothing was wasted.",
+          "<strong>Making the cloaks</strong>",
+          "The skin would be scraped, perhaps with a mussel shell or stone scraper. It would then be pegged out to dry on a piece of bark using wooden or bone pins. When it had dried out, animal fat would be rubbed into the skin to make it supple. Holes would then be made around the edge of the skin with a sharppointed bone. Skins were sewn together using sinews from kangaroos, yet another example of using all available resources.",
+          "A possum skin cloak was a prized possession, taken through life. It might begin as a small cloak made of just a few skins, being used to carry a baby around, and for the baby to sleep in. As the child grew, their cloak was added to until, as an adult, it might comprise 40-50 possum skins.",
+          "<strong>Significant decoration</strong>",
+          "As with many aspects of Aboriginal life, possum skin cloaks are inextricably linked with story-telling. Designs were incised into the leather with mussel shells or sharp bone awls, then painted with ochre. Each cloak tells a story, “mapping the identity of the owner with stories of clan and country.” As the cloak increased in size over time, so too did the number of stories that were represented. It was a means by which important cultural information could be communicated from one generation to the next.",
+          "<strong>Recent Revival</strong>",
+          "In the 1980s and 1990s, there were only a handful of 19th century possum skin cloaks remaining in Australia, two of which are held by Museums Victoria. One of these came from our local area, collected in 1853 at Maiden’s Punt, Echuca. Then there was a resurgence of cloak making, largely initiated by two indigenous women artists, Vicki Couzens and Lee Darroch. One of the outcomes of this resurgence was the production of 35 cloaks that were proudly worn by Aboriginal Elders at the opening ceremony of the 2006 Commonwealth Games in Melbourne.",
+          "Since then, the skills have been well and truly revived. Bendigo Library is amongst the local institutions that have examples which are often on display, and are well worth a look.",
+          "<em>REFERENCES: Gibbins, Helen, “Possum Skin Cloaks: tradition, continuity and change” in The Latrobe Journal No 85 (May 2010)</em>"
+        ]
+      },
+      "published": true
+    }
+  }
+}

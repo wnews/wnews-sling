@@ -1,0 +1,29 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2020-11-19",
+  "title": "Quarantine",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/11/wnews20201119-052.jpg",
+  "body": {
+    "pars": [
+      "Hey kids! In this edition we are taking a look at a word that you have probably heard many, many times in 2020: quarantine. But to find the origin of the word, we have to look back to mid-14th century Europe.",
+      "The word “quarantine” comes from quarantino, from the Venetian language meaning “forty days”.",
+      "At the time, the bubonic plague, also known as the Black Death, was ripping through the continent.",
+      "The plague arrived in Europe in October 1347, when 12 ships from the Black Sea docked at the Sicilian port of Messina. People gathered on the docks were met with a horrifying surprise: most sailors aboard the ships were dead, and those still alive were gravely ill and covered in black boils that oozed blood and pus. Sicilian authorities hastily ordered the fleet of “death ships” out of the harbour, but it was too late: over the next five years, the Black Death would kill more than 20 million people in Europe—almost one-third of the continent’s population.",
+      "Officials in the Venetian-controlled port city of Ragusa (now Dubrovnik, Croatia) passed a law establishing trentino, or a 30-day period of isolation for ships arriving from plague-affected areas. No one from Ragusa was allowed to visit those ships under trentino, and if someone broke the law, they too would be isolated for the mandatory 30 days. The law caught on.",
+      "Over the next 80 years, Marseilles, Pisa, and various other cities adopted similar measures.",
+      "Within a century, cities extended the isolation period from 30 to 40 days, and the term changed from trentino to quarantino—the root of the English word quarantine that we use today.",
+      "No one knows for certain why the isolation period was extended to 40 days, but scholars have a few hunches. There’s a lot of cultural meaning packed into the number 40—plenty of Biblical events draw upon the number, such as Jesus’ fast in the desert, Moses’ time on Mount Sinai, and the Christian observation of Lent. Others suggest that perhaps it was simply thinking that 30 days wasn’t quite enough time to burn out the disease.",
+      "While we can trace the word quarantine to the time of the Black Death, the practice of isolating the sick stretches back much further. In fact, references to isolating people with leprosy can be found in the Bible, and hospitals called lazarettos, which were intentionally constructed outside the city centre, existed by the first half of the 14th century in Venice. (The name lazaretto itself is named after the beggar Lazarus, the patron saint of lepers in Catholicism.)",
+      "Today, the word quarantine has come to mean a period of isolation to prevent the spread of disease or pests. The term is no longer connected with its original meaning of forty days of isolation, for example, in Australia, the current COVID-19 quarantine period for people entering the country from overseas is 14 days.",
+      "Racehorses must undergo a strict quarantine period before being allowed to compete on Australian racecourses. Prior to travelling to Australia, horses must serve a minimum of 14 days in approved premises, and on arrival a minimum of 14 days at the Werribee International Horse Centre."
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "Hey kids! In this edition we are\ntaking a look at a word that you have\nprobably heard many, many times in\n2020: quarantine. But to find the\norigin of the word, we have to look\nback to mid-14th century Europe.",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}

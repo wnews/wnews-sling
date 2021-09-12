@@ -1,0 +1,33 @@
+{
+  "sling:resourceType": "wnews/page/recipe",
+  "date": "2020-01-30",
+  "title": "Fishy Fridge Bonanza",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/01/wnews20200130-056.jpg",
+  "abstract": "I don’t know if this recipe will inspire anyone to have a bash at it. I just want you to know that I made it – and it was really delicious. Himself and I both agree with that statement.",
+  "body": {
+    "pars": [
+      "I don’t know if this recipe will inspire anyone to have a bash at it. I just want you to know that I made it – and it was really delicious. Himself and I both agree with that statement.",
+      "I was in NEED of some nutritious, fishy, vegetable lunch, so searched in the fridge for inspiration. (I also cleaned out the fridge while I was at it.)"
+    ]
+  },
+  "ingredients": [
+    "2 frozen fish fillets, cut into 2 cm slices",
+    "½ bunch Chinese cabbage sliced (I used one with the dark green leaves, buck choi)",
+    "6 cherry tomatoes cut in half",
+    "1 green cucumber, halved lengthwise, seeds removed and sliced 1cm",
+    "Half a capsicum sliced",
+    "Garlic and ginger (1/2 tspn each)",
+    "1tspn light soya sauce",
+    "1 tbspn mint jelly",
+    "1 dstspn peanut oil",
+    "Finely sliced spring onions to serve"
+  ],
+  "method": [
+    "Slice fish and add ginger and garlic. Using peanut oil, gently stir fry fish for a minute, then add the prepared vegetables and continue to stir gently (some fish fillets break up easily, so you want to keep them looking respectable.) When everything is cooked, only a matter of minutes, add the mint jelly. Do a taste test and adjust, perhaps using fish sauce for extra saltiness.",
+    "Serve on some boiled rice and sprinkle with the chopped spring onions.",
+    "What you end up with is something of the flavours of a fish sweet and sour.",
+    "PS. The mint jelly I used was a home-made variety that my friend Marge usually gives me for Christmas. I’m sure she’ll be happy that I’ve found another way to use it. She makes it using her home-grown mint and lime jelly as a setting agent. Very delicious, of course, with roast lamb."
+  ],
+  "testimonials": "enabled",
+  "published": true
+}

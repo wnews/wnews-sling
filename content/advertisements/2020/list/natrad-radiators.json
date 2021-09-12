@@ -1,0 +1,9 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Natrad Radiators",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/advertisements/2020/natrad-radiators.png",
+  "testimonials": "enabled",
+  "published": true,
+  "website": "",
+  "telephone": ""
+}

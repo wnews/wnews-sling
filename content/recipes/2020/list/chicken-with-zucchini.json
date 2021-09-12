@@ -1,0 +1,30 @@
+{
+  "sling:resourceType": "wnews/page/recipe",
+  "date": "2020-02-27",
+  "title": "Chicken with Zucchini ‘Zoodles’, Feta and Salsa Verde",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/02/wnews20200227-074.jpg",
+  "abstract": "This week’s recipe makes use of some of the season’s harvest of zucchini, parsley, basil and I included Vietnamese mint and coriander.",
+  "body": {
+    "pars": [
+      "This week’s recipe makes use of some of the season’s harvest of zucchini, parsley, basil and I included Vietnamese mint and coriander.",
+      "I liked this recipe because it is open to adaptation eg different cuts of chicken, use regular pasta and cows’ milk fetta. You can also vary the herbs you use. You could also serve it hot rather than as a ‘warm’ chicken style salad."
+    ]
+  },
+  "ingredients": [
+    "4 chicken breasts halved horizontally(I used chicken thighs and legs - which I had)",
+    "1 tblspn olive oil",
+    "5 medium zuchinnis (which you have)",
+    "1/3 cup flaked almonds (oops missing from photo)",
+    "100gm goat cheese fetta, crumbled",
+    "1/4 cup flat leaf parsley"
+  ],
+  "method": [
+    "Season chicken. Heat oil in large frypan over med-high heat, cook chicken in batches, about four mins or until cooked through. Transfer to a plate. Put aside, covered loosely.",
+    "Using a vegie spiraliser cut zuchinni into noodles. I had a huge zuchinni so I used a ‘V’ slicer.",
+    "Top ‘zoodles’ with chicken, spoonfuls of salsa verde, almonds, crumbled fetta and parsley.",
+    "Serve with extra salsa verde."
+  ],
+  "testimonials": "enabled",
+  "published": true,
+  "sidebar": "/content/wnews/recipes/2020/list/salsa-verde"
+}

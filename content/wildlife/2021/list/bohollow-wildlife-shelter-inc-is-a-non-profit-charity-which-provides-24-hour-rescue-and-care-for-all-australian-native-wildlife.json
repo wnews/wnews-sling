@@ -1,0 +1,25 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-05-27",
+  "title": "Bohollow Wildlife Shelter Inc is a non-profit charity",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/06/Charlie koala.jpg",
+  "body": {
+    "pars": [
+      "As Kirsty covers a very large area with her rescue activities, she is often out and about  managing critters during the day and nights. Sometimes she is flat out with these rescues when her column is due in to the Waranga News, as is the case this week - and her many fans just have to wait until next edition! Talking to her briefly today on her mobile, she was cold and wet but still passionate about saving our wildlife.",
+      "This is National Volunteer Week so we take the opportunity to celebrate Kirsty’s work along with other volunteers in our community.",
+      "Bohollow Wildlife Shelter Inc is a non-profit charity which provides 24 hour rescue and care for all Australian native wildlife. Bohollow consists of two registered voluntary wildlife shelters owned and operated by Deb Fowler and Kirsty. They cover a large area of Northern and Central Victoria.",
+      "All Victorian wildlife shelter operators are required by law to hold a Wildlife Shelter Permit, authorised by Victorian DELWP and have to adhere to strict laws and codes of practice.",
+      "BoHollow receives no government funding or assistance and each BoHollow Wildlife Shelter costs in excess of $20,000 a year to maintain, as well as the time and dedication of shelter operators. Costs of Bohollow include veterinary, enclosures, rescue equipment, fuel for rescue and food expenses for wildlife. Bohollow is primarily funded by Deb and Kirsty.",
+      "Through education, preservation of native wildlife and their natural habitats, Deb and Kirsty at Bohollow strive to help make the world a better place for everyone, including generations to come.",
+      "On the Bohollow web site, you can leave donations to help with the cost of running the shelter; go to www.bohollowwildlife.com."
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "As Kirsty covers a very large area with her rescue activities, she is often out and about  managing critters during the day and nights. Sometimes she is flat out with these rescues when her column is due in to the Waranga News, as is the case this week - and her many fans just have to wait until next edition! Talking to her briefly today on her mobile, she was cold and wet but still passionate about saving our wildlife.",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}

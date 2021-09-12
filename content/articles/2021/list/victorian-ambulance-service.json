@@ -1,0 +1,20 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-03-04",
+  "title": "Victorian Ambulance Service",
+  "media": "",
+  "body": {
+    "pars": [
+      "In 1923 the fleet comprised 6 motor vehicles, a motor cycle and sidecar, 3 horse drawn ambulances and 27 operational staff. Country services in Yarram, Yarra Junction and Rushworth began. 1925 saw the end of the horse drawn ambulance era.",
+      "<em><a href=\"http://www.ahsv.org.au/history/\">Ambulance Historic Society of Victoria</a></em>"
+    ]
+  },
+  "published": false,
+  "sidebar": "",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}

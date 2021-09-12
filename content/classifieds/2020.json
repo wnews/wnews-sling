@@ -1,0 +1,46 @@
+{
+  "title": "Local Classifieds",
+  "sling:resourceType": "wnews/page/default",
+  "sling:alias":"current",
+  "sling:vanityPath":"/classifieds",
+  "jcr:primaryType": "nt:unstructured",
+  "sections": {
+    "sling:resourceType": "wnews/block/section-list",
+    "situations-vacant": {
+      "sling:resourceType": "wnews/block/section",
+      "title": "Situations Vacant",
+      "sections": {
+        "sling:resourceType": "wnews/block/section-list",
+        "cleaner-wanted": {
+          "sling:resourceType": "wnews/block/section",
+          "title": "CLEANER WANTED",
+          "pars": [
+            "We are currently seeking a\ndedicated cleaner to\nwork locally in Rushworth.\nApprox 23 hours per fortnight –\nafternoons from 3.30pm\n(or early morning) MON-FRI",
+            "Experience preferred but not essential\n– energy and positive\nattitude a must.",
+            "Please forward resume or enquires\nto Trudie\ntrudie@kycleaningservice.com.au"
+          ]
+        }
+      }
+    },
+    "public-notices": {
+      "sling:resourceType": "wnews/block/section",
+      "title": "Public Notices",
+      "sections": {
+        "sling:resourceType": "wnews/block/section-list",
+        "shop-21": {
+          "sling:resourceType": "wnews/block/section",
+          "title": "Looking for something special and different",
+          "pars": [
+            "Need fun stuff for the kids, we have lots of\ngoodies for all ages.",
+            "<strong>Shop 21, High Street Rushworth</strong>",
+            "Helium Filled latex balloons with ribbon and\nweight just $4 or 3 for $10",
+            "Shelta umbrellas, wearable personal cooling\nproducts, wind up tin toys, money boxes, hand\npuppets, new stock minnidip pools.",
+            "Open: Thurs 12-5, Fri 9-5, w/ends 10-3, Monday 9-12",
+            "Phone: 0418 571 673",
+            "Bruce & Gwen"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Dawes &amp; Vary Riordan",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/advertisements/Dawes &amp; Vary Riordan.jpg",
+  "website": "http://www.dvrlawyers.com.au",
+  "testimonials": "enabled",
+  "published": true
+}

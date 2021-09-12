@@ -1,0 +1,28 @@
+{
+  "sling:resourceType":"wnews/page/article",
+  "date": "2020-07-16",
+  "title": "Rainbows",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/07/wnews20200716-053.jpg",
+  "abstract": "In this edition of the\nWaranga News we are learning about\ndifferent types of rainbows, how\nrainbows form, what colours can we\nsee in a rainbow, and much more.",
+  "body": {
+    "pars": [
+      "Hey Kids! In this edition of the\nWaranga News we are learning about\ndifferent types of rainbows, how\nrainbows form, what colours can we\nsee in a rainbow, and much more.\nAnd don’t forget to have a go at the\nRainbow themed wordsearch!",
+      "A rainbow is a multi-coloured arc that forms in the\nsky.",
+      "Rainbows are created by both reflection and refraction\n(bending) of light in water droplets in the atmosphere,\nwhich results in a spectrum of light appearing.",
+      "A rainbow is created when light is bent (refracted)\nwhile entering a droplet of water and reflected. A\nrainbow is actually round. On the ground, the bottom part\nis hidden, but in the sky, like from a flying aeroplane, it\ncan be seen as a circle.",
+      "A rainbow is not situated at a specified distance,\ninstead it will always be visible to a person at the precise\nangle freshwater droplets reflect the light which is 42\ndegrees in the opposite direction of the sun.",
+      "A rainbow is not an object, it cannot be approached or\nphysically touched.",
+      "No two people see the same rainbow, in fact even our\nindividual eyes see slightly different rainbows. If someone\nappears to be standing under a rainbow you can see, they will\nsee a different rainbow at the same angle but further away.",
+      "Rainbows can be seen not just in rain but also mist, spray,\nfog, and dew, whenever there are water drops in the air and\nlight shining from behind at the right angle.",
+      "Sir Isaac Newton identified the 7 colours of the visible\nspectrum that together make up white light. All of which\nare present in a rainbow in the order\nred, orange, yellow, green, blue, indigo\nand violet (the acronym or name ROY G\nBIV is a good way to remember these\ncolours and their order).",
+      "Most rainbows we see will be a\n\"primary rainbow\" whereby the colour\nred can be seen on the outer edge\nthrough to violet on the inner edge.",
+      "The sky within a primary rainbow is\nbrighter than the sky outside of the arc.\nThis is due to the fact that the millions\nof droplets needed to make a rainbow\nare spherical and overlap to create\nwhite light. At the edge however, these\ncoloured discs don't overlap so display\ntheir individual colours producing the\nrainbow arc.",
+      "A \"double rainbow\" is where a second,\nmuch fainter arc can be seen outside of\nthe primary arc. This is caused by the\nlight reflecting twice inside the water\ndroplets. As a result of this double reflection the colours\nof the second arc are inverted with violet on the outer edge\nand red on the inner edge.",
+      "The dark, unlit sky between the primary arc and\nsecondary arc is called Alexander's band, after Alexander\nof Aphrodisias who first described it in 200 AD.",
+      "Very rarely, light can be reflected 3 or 4 times within a\nwater droplet which produces even fainter tertiary (third)\nand quaternary (fourth) rainbows in the direction of the sun.",
+      "A \"moonbow\" is a rare lunar rainbow or night time rainbow\nproduced by light from the moon. Our eyes see it as white\neven though all colours are faintly present.",
+      "A \"fogbow\"\nis formed by\ncloud and fog\ndroplets, they\nare almost\nwhite with\nvery faint\ncolours visible.\nFogbows are\nquite large and\nmuch broader\nthan a rainbow."
+    ]
+  },
+  "published": true
+}

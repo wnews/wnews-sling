@@ -1,0 +1,28 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-06-24",
+  "title": "Frost - it’s that time of year",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/07/201489660_868136707113492_7682742451658090866_n.jpg",
+  "body": {
+    "pars": [
+      "When the temperature drops down to 0 degrees and below, we freeze and so do our plants. Unfortunately for some plants however, they don’t recover quite as readily as we do when we rug up or turn on the heater. ",
+      "While our region might not be quite as frost-prone as the hilly slopes around the Great Divide, most of inland Victoria is liable to awaken to white-frosted gardens on some mornings at this time of year and into early spring. \nKnowledge of your garden is important in preparing for frost because features of your land can channel or divert cold air and create microclimates which can either attract or protect from frost. ",
+      "Knowledge of your plants and how they are likely to deal with the big chill is equally important, as some plants will tolerate frost and cold temperatures better than others. It doesn’t take long to learn that summer annual flowers and summer vegetables will give up trying as soon as the winter chill sets in, but we must also watch out for some of our more tolerant species that can withstand a bit of cold but will draw the line at a heavy frost. ",
+      "It’s also good to know how and when the real damage occurs and what you might do to minimise the devastation. ",
+      "What is frost?\nWhen the temperature drops to the minuses, it causes the plant’s cells to shrink, forcing water into spaces between the cells where it can freeze and form ice crystals. As temperatures rise and thawing begins the water is absorbed back into the cells by osmosis. If this occurs quickly there is no damage to the tissue, but if thawing is slow, the cells are deprived of water and become dehydrated resulting in ‘frost burn’. However, just to complicate things, frost damage can also occur during a rapid thaw if the foliage receives strong sunshine. ",
+      "What can you do?\nCovering plants is obviously not a viable solution for most of your garden. But if you have something especially vulnerable to the bite of Jack Frost (eg a baby jacaranda), you can protect it by covering, preferably with hessian (not plastic as there might be early morning sun damage), and preferably before the night chill sets in, so the warmer air is trapped. Ideally, coverings shouldn’t touch foliage.",
+      "Mulching puts down a layer of insulation to help the soil avoid freezing. Likewise, watering your plants each night can help them survive by acting as an insulator to avoid drying out in the cold weather.",
+      "Know your garden\nThe number of microclimates in your garden can be surprising. Well-developed tree canopies can be valuable for affording frost-protection. Observe which areas on the property are free of frost pockets. This is where tender plants should be grown.",
+      "Keep soils moist\nDryness is an ally of frost.",
+      "Spray with seaweed products\nSpraying applications of seaweed products help to strengthen cell walls, minimising the chance of frost damage and also helping the plant cope with excessive heat."
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "When the temperature drops down to 0 degrees and below, we freeze and so do our plants. Unfortunately for some plants however, they don’t recover quite as readily as we do when we rug up or turn on the heater. ",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}

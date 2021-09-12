@@ -1,0 +1,9 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Bayly Solar",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/advertisements/Bayly Solar.jpg",
+  "website": "http://www.baylysolar.com.au",
+  "telephone": "0433 871 579",
+  "testimonials": "enabled",
+  "published": true
+}

@@ -1,0 +1,31 @@
+{
+  "sling:resourceType": "wnews/page/recipe",
+  "date": "2021-03-04",
+  "title": "Norma’s Mallee Quiche",
+  "media": "",
+  "abstract": "We sometimes appeal to our readers to send in their favourite recipes and very pleased when we get a response.\nOne of our regular and faithful subscribers, to the Waranga News, Norma Morgan of Highton, has sent in a couple of her quick and easy ones. Thanks, Norma!",
+  "body": {
+    "pars": [
+
+    ]
+  },
+  "ingredients": [
+    "4 eggs",
+    "4 oz chopped bacon",
+    "4 oz grated cheese",
+    "1 finely chopped medium onion",
+    "A generous 1/2 cup SR flour",
+    "11/2 cups milk",
+    "1 tbspn chopped parsley"
+  ],
+  "method": [
+    "Mix all ingredients until well blended.",
+    "Pour into a greased deep quiche dish (10inch).",
+    "Top with slices of tomatoes (optional).",
+    "Bake in a moderate oven until set.",
+    "Serve with your favourite salad."
+  ],
+  "testimonials": "",
+  "published": true,
+  "sidebar": ""
+}

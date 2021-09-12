@@ -1,0 +1,26 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-03-04",
+  "title": "Rushworth in the News",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/03/wnews20210304-000.jpg",
+  "body": {
+    "pars": [
+      "Member for Euroa and Nationals’ deputy leader Ms Ryan was in Rushworth to discuss a move to establish a local foodbank in Rushworth.",
+      "She met with Rushworth Community House Manager Anita Pirie and Waranga Councillor Adrian Weston about the proposed facility, after raising her concerns in Parliament last week about the Victorian Government’s failure to support the project.",
+      "“In the 12 months before COVID, one in four Rushworth households ran out of food,” Ms Ryan said.",
+      "“This food bank will be an important safety net to assist those who are doing it tough.”",
+      "Ms Ryan said the Rushworth community had applied for funding through the Community Relief Food Fund.",
+      "“The community house was approached by council last year to establish a food bank because they believed Rushworth had the greatest need,” she said.",
+      "“Despite this, the government allocated $15,000 to the Kyabram Community and Learning Centre to assist the Kyabram district while overlooking Rushworth’s application.”",
+      "The foodbank, to be set up in High St (in the former Salvation Army Op Shop) will be funded for the next twelve months by the Shire of Campaspe."
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "Member for Euroa and\nNationals’ deputy leader Ms Ryan\nwas in Rushworth to discuss a\nmove to establish a local foodbank\nin Rushworth.",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}

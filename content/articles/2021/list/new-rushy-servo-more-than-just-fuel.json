@@ -1,0 +1,27 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-05-13",
+  "title": "New Rushy servo - more than just fuel",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/05/wnews20210513-006.jpg",
+  "body": {
+    "pars": [
+      "NSW-based Metro Petroleum is one of Australia’s largest independent service station franchise operators. It has more than 200 service station outlets across New South Wales, Victoria and Queensland, including several in Melbourne.",
+      "Australian owned, the company has been operating service station retail outlets for the past forty years using a franchise-based ownership model.",
+      "The brightly lit, air-conditioned interior of the new Rushworth business reveals that it is much more than just a fuel outlet.",
+      "In common with other Metro Fuels service stations, the local outlet also carries an extensive range of retail products such as drinks, ice-creams, milk products, fast-food snacks, sweets and chocolates.",
+      "Motoring and household cleaning products have their own shelf, as do commonly used personal health and hygiene products.",
+      "One obvious feature of the station interior is the Mr Whippy machine, which delivers both self-serve thick shakes and “slushies”! With its powerful self-cleaning capabilities, the machine is ideal for customer use, and is sure to be popular with the young-at-heart of all ages. The presence of food warmers suggests that future services for the fuel outlet may include hot foods.",
+      "Outside, several type of fuel are available from the self-serve pumps, including unleaded petrol, E10, premium and diesel; prices are competitive across the board.",
+      "There is also provision for an electric vehicle charging point, although its activation time is yet to be determined.",
+      "Rushworth’s new fuel outlet is up and running - why not call in and check it out!"
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "NSW-based Metro Petroleum is one\nof Australia’s largest independent service\nstation franchise operators. It has more than\n200 service station outlets across New South\nWales, Victoria and Queensland, including\nseveral in Melbourne.",
+  "related": {
+    "article": {
+      "page": "/content/wnews/articles/2021/list/new-fuel-outlet-opens-in-rushworth"
+    }
+  }
+}

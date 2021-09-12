@@ -1,0 +1,32 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-02-18",
+  "title": "Two legal systems",
+  "media": "",
+  "body": {
+    "pars": [
+      "The previous story talked about a gathering of Kulin Nation people near Melbourne to, among other things, administer justice in a murder case. In 1844, the new settlement of Melbourne was less than 10 years old. At the time, present-day Victoria was part of the colony of New South Wales (the Port Phillip District), and the administration of British justice was overseen from there.",
+      "Being a site that had for generations been used as a meeting place for Kulin Nation people meant that for a time after European colonisation, the banks of the Yarra continued to be used for that purpose.",
+      "Two Aboriginal men from the Westernport area were charged with having killed a man from the Goulburn River in 1843. At the time, an ancient legal system used by Aboriginal people since time immemorial was still in place, although it would be quickly fractured as they were hunted off their traditional country by the colonists.",
+      "By the 1840s the British legal system was starting to be superimposed over the top of this existing system. Clearly, there were going to be situations where the two systems were contradictory.",
+      "<strong>Battle lines drawn</strong>",
+      "When the people from the Kulin Nation came together, it seems that the matter may have been contentious, as one of the fi rst things that happened was that a “pitched battle between the Upper and Lower Goulburn blacks (sic) on the one side, and the Yarra Yarra and Barrabool (Geelong) blacks on the other, was fought on Thursday last, in Mr. Ryrie’s suburban allotment on the outskirts of Collingwood.”1 The fi ght went on for several hours, resulting in some injuries but apparently no deaths.",
+      "The reporter surmised, perhaps incorrectly, that the fi ghting related to the earlier murder of the Aboriginal man from the Goulburn River. The fi ghting was followed by a harmonious corroboree in the evening, which would tend to indicate that it may have been unrelated, or that any differences had been resolved. Perhaps it was a mock battle – a form of training for battles to come.",
+      "<strong>Retribution</strong>",
+      "A few days later, another paper2 reported an event that seems far more likely to have been retribution resulting from judicial proceedings within the Aboriginal gathering. It was stated that “…two men were carting wood from the neighbourhood of Rirey’s (sic) paddock, when they saw an Aborigine running towards them, followed by about twenty of the above (Goulburn) tribe, who were brandishing spears and yelling after the run away; the men were too much intimidated by the appearance of the natives to afford the required protection. The savages rushed among the teams and so frightened the bullocks that they bolted with the drays, which they seriously damaged. Two of the bullocks were so much injured as to be rendered useless for the future. The whole proceeding arose from the murder of one of the Goulbourn (sic) tribe, who was butchered by the Yarra tribe…”2",
+      "It seems that what was deemed to be an appropriate punishment, i.e. spearing, may have been decided upon, and the guilty party either bolted of his own accord, or was given the opportunity to run and potentially escape. The paper also reported that “The Protectors are taking it easy.” In other words, they were letting the Aboriginal gathering use its laws to deal with the situation.",
+      "<strong>Aboriginal law</strong>",
+      "The beauty of the Aboriginal system was that it was clearly defi ned and communicated, if not written down. Everyone understood what their rights and obligations were under the system. They knew what to expect if crimes were committed and the murderers in the above case would have expected retribution. Once the gathering had discussed the case democratically, and a fi nal decision made, their fate was sealed.",
+      "Increasingly during the 1840s, British law was superimposed over Aboriginal law, especially in instances where it was perceived that an alleged crime had been committed by an Aboriginal person. It was far less likely to be applied where the victim of an alleged crime was Aboriginal, regardless of whether the perpetrator was black or white.",
+      "<em>References: 1. Melbourne Weekly Courier, 10.2.1844; 2. Port Phillip Gazette, 14.2.1844</em>"
+    ]
+  },
+  "published": true,
+  "sidebar": "/content/wnews/firstpeoples/2021/list/deadly-and-proud",
+  "abstract": "In 1844, the new settlement\nof Melbourne was less than 10 years old. At\nthe time, present-day Victoria was part of the\ncolony of New South Wales (the Port Phillip\nDistrict), and the administration of British\njustice was overseen from there.",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}

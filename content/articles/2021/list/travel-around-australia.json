@@ -1,0 +1,15 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "title": "Travel around Australia",
+  "date": "2021-08-05",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/08/Australia Puddle.jpg",
+  "abstract": "Exploring Australia has become an ever-popular travel goal over the past eighteen months, especially as the adventurers amongst us realise they won’t be leaving our shores in the near future.  But did you know you don’t have to venture far from home to traverse the perimeter of this great land of ours?",
+  "published": true,
+  "body": {
+    "content": "Two of Colbinabbin’s most intrepid walkers came upon this Australia shaped puddle while walking in Madden’s Bush (eight or ten km south of Colbinabbin) last week . . .  apparently just one of the many paths travelled by this pair. Unfortunately your chance to travel around Australia in minutes has probably passed, as there has been quite a bit of rain lately and we suspect the coastline may have changed since then.  (Photo by Robin Ryan)"
+  },
+  "sidebar": "",
+  "related": [
+
+  ]
+}

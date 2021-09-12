@@ -1,0 +1,8 @@
+{
+  "title":"All About Wildlife (2019)",
+  "sling:resourceType":"wnews/page/article-list",
+  "jcr:primaryType":"nt:unstructured",
+  "pageSize": 6,
+  "bannerUrl": "/wildlife/current.html",
+  "bannerImage": "/assets/wnews/images/all-about-wildlife.png"
+}

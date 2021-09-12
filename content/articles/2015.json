@@ -1,0 +1,6 @@
+{
+  "title":"Articles (2015)",
+  "sling:resourceType":"wnews/page/article-list",
+  "jcr:primaryType":"nt:unstructured",
+  "pageSize": 6
+}

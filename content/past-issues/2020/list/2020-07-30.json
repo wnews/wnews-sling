@@ -1,0 +1,10 @@
+{
+  "sling:resourceType": "wnews/page/front-page",
+  "title": "July 30, 2020",
+  "date": "2020-07-30",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2020/07/wnews20200730-01.jpg",
+  "abstract": "",
+  "body": {},
+  "comments": "enabled",
+  "published": true
+}

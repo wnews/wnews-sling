@@ -1,0 +1,12 @@
+{
+    "title":"A community newspaper staffed by volunteers",
+    "description": "Serving the Waranga community for over 30 years",
+    "author": {
+        "name": "Waranga News Inc.",
+        "url": "https://wnews.org.au"
+    },
+    "sling:resourceType": "wnews/feeds/articles",
+    "jcr:primaryType": "nt:unstructured",
+    "items": ["dsa"],
+    "version": "https://jsonfeed.org/version/1"
+}

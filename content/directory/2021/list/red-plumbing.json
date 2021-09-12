@@ -1,0 +1,7 @@
+{
+  "sling:resourceType": "wnews/page/business",
+  "title": "Red Plumbing",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/directory/2020/red-plumbing.png",
+  "testimonials": "enabled",
+  "published": true
+}

@@ -1,0 +1,34 @@
+{
+  "sling:resourceType": "wnews/page/recipe",
+  "date": "2021-02-04",
+  "title": "Peaches - #2 Almond meal and Peach cake",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/06/Peaches.jpg",
+  "abstract": "",
+  "body": {
+    "pars": [
+      "Welcome to the new year readers!\nMy recipes this edition include a few ways with peaches but will cover most stone fruit.",
+      "#1 Stewed Peaches: use your own method regards the amount of water and sugar you use. I’ve tweaked it a bit by gently simmering the fruit until just softened, then removing the fruit and adding 1/2 cup caster sugar, a couple of thin slices fresh ginger and a slurp of verjuice.  Bring the liquid back to the boil, then pour over the fruit and let cool. The ginger and verjuice is very subtle.",
+      "",
+      "",
+      "Pop into a bowl big enough, add juice,  a generous slurp of olive oil and season to taste. This goes perfectly with chicken, salmon and pork. Pretty much use whatever excess bounty you have on hand or been gifted.",
+      "Wow - that’s it. Gotta love summer fruits.Share it around, substitute other fruit, enjoy.\nCheers Pauline"
+    ]
+  },
+  "ingredients": [
+    "\n3 cups almond meal",
+    "4 eggs",
+    "1cup brown sugar."
+  ],
+  "method": [
+    "Pre heat oven 180ø, grease and line a springform tin.",
+    "Make a batter from all the ingredients, add some milk or cream if too thick. ",
+    "You want a pancake batter. To prepare the peaches, I leave the skins on. ",
+    "Use enough fruit to cover the bottom of cake tin, cut fruit in halves remove the pit and arrange on the bottom of the tin - cut side UP.",
+    "Cut up 4-6 extra peaches into quarters. ",
+    "Pour enough batter into the tin to cover the peaches, spread extra peaches over batter and pour over the remaining batter. ",
+    "Cook for 45 minutes or until golden on top and shrinking away from tin edges."
+  ],
+  "testimonials": "",
+  "published": true,
+  "sidebar": ""
+}

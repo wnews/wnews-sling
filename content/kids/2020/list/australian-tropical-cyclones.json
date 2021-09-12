@@ -1,0 +1,22 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2020-11-05T14:03:13+11:00",
+  "title": "Australian Tropical Cyclones",
+  "media": "",
+  "body": {
+    "pars": [
+      "<strong>Cyclone Larry</strong> made landfall in far north Queensland in 2006 with wind gusts reaching 240 kms per hour, damaging more than half the homes in Innisfail and leaving a repair bill of $1.5 billion.",
+      "<strong>Category four Cyclone Tracy</strong> hit Darwin on Christmas Eve in 1974 and killed 71 people. Wind speeds were measured up to 217 kms an hour, before the airport’s airspeed gauge broke. Tracy caused more than $800 million in damage and destroyed about 80 per cent of homes.",
+      "<strong>Cyclone Yasi</strong> (also originating near Fiji) hit north Queensland in February 2011, with wind gusts reaching 285 kms per hour. It left a repair bill of about $800 million after destroying homes, shredding crops and smashing marinas and island resorts. One man died from asphyxiation while sheltering in his home.",
+      "The next names on the BOM 2020- 2021 Tropical Cyclone list are:",
+      "<strong>Imogen, Joshua, Kimi, Lucas, Marian, Niran, Odette, Paddy, Ruby, Seth, Tiffany, and Vernon.</strong>",
+      "You can write to the BOM to suggest a cyclone name, but it is likely to be more than a 50-year wait. Names beginning with certain letters such as J, T and S have even longer to wait!"
+    ]
+  },
+  "published": false,
+  "sidebar": "",
+  "related": [
+
+  ],
+  "abstract": ""
+}

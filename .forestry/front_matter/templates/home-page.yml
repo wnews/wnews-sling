@@ -1,0 +1,35 @@
+---
+label: Home Page
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- name: feature
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: articles
+      file: 
+      path: 
+  label: feature
+- type: text
+  name: author
+  label: author
+- type: text
+  name: sling:resourceType
+  label: sling:resourceType
+  hidden: true
+- type: text
+  name: jcr:primaryType
+  label: jcr:primaryType
+  hidden: true
+pages:
+- content/index.json

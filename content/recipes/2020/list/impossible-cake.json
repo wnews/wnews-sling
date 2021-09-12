@@ -1,0 +1,34 @@
+{
+  "sling:resourceType": "wnews/page/recipe",
+  "date": "2020-05-21",
+  "title": "Impossible Cake",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/05/wnews20200521-056.jpg",
+  "abstract": "‘Have you tried ‘Impossible Cake’, my\ndaughter asked. Hmmm . . I remember\nsomething about ‘Impossible Pie’ which I\nthink was something like a baked custard\ntart - no pie crust.",
+  "body": {
+    "pars": [
+      "‘Have you tried ‘Impossible Cake’, my\ndaughter asked. Hmmm . . I remember\nsomething about ‘Impossible Pie’ which I\nthink was something like a baked custard\ntart - no pie crust.",
+      "It’s called ‘Impossible’ because it’s\nimpossible to muck it up - so my daughter\nsays."
+    ]
+  },
+  "ingredients": [
+    "4 eggs",
+    "1/2 cup melted butter",
+    "1/2 cup plain flour",
+    "1 cup coconut",
+    "2 cups milk",
+    "2 tspn vanilla essence",
+    "3/4 cup sugar",
+    "Juice and zest of a lemon/orange."
+  ],
+  "method": [
+    "Just beat it all up together and pour into a\ngreased dish over some stewed fruit and bake\nit till it’s golden on top. And lo and behold:\nyou have a very quick and easy hot dessert.\nServe with cream, ice-cream or custard - or\njust as is.",
+    "Confession Time: I forgot to add any\norange or lemon juice and zest . . but it was\nstill delicious. I cooked it over some lightly\nMW fresh peach slices. And dusted it with\nicing sugar to make it look ‘more interesting’\n- didn’t make much difference, to be honest.",
+    "In the interests of no one else but myself,\nI thought I’d Google ‘Impossible Pie’ - and\nwould you believe it? It’s the exact same\nrecipe but not cooked over fruit. You do get\na sort of firmness or ‘crust’ forming on the\nbottom and a nice crunch-layer on top with a\ncustardy-type middle.",
+    "I recall that we (friends of many years\nago around Colbo who shared cups of tea and\nconversations including ‘What Cheeses Me\nOff’ sessions) used to cook it in a round pie\nplate, so it did look more like a custard tart.",
+    "It makes me think of how many of my\nrecipes are titled with somebody’s name:\n‘Judith’s Chocolate Peanut Biscuits’, ‘Anne’s\nBaked Cheese Cake’, ‘Hazel Balls’ (which\nwere really Rum Balls without the rum), and\nTHIS recipe called ‘Brenda’s Impossible Pie’",
+    ". . . I even had a recipe for ‘Pat’s So Easy\nChocolate Cake that even Aunty Glad Can\nMake It’. I admit to being the Aunty Glad\nmentioned in the title. I am no cake cook. Glen"
+  ],
+  "testimonials": "enabled",
+  "published": true,
+  "related": ["/content/wnews/recipes/2017/list/chocolate-special-occasion-cake"]
+}

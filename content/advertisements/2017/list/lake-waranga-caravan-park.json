@@ -1,0 +1,8 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Lake Waranga Caravan Park",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/advertisements/Lake Waranga CPark.jpg",
+  "telephone": "03 5856 1243",
+  "testimonials": "enabled",
+  "published": true
+}

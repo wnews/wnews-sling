@@ -1,0 +1,6 @@
+{
+  "title":"Past Issues (2020)",
+  "sling:resourceType":"wnews/page/front-page-list",
+  "jcr:primaryType":"nt:unstructured",
+  "pageSize": 6
+}

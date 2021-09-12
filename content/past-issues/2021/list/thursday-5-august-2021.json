@@ -1,0 +1,11 @@
+{
+  "sling:resourceType": "wnews/page/front-page",
+  "date": "2021-08-05",
+  "title": "Thursday 5 August 2021",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/08/wnews20210805P01.jpg",
+  "abstract": "",
+  "published": true,
+  "body": {
+    "content": ""
+  }
+}

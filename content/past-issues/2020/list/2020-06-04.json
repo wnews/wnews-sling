@@ -1,0 +1,10 @@
+{
+  "sling:resourceType": "wnews/page/front-page",
+  "title": "June 4, 2020",
+  "date": "2020-06-04",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2020/06/wnews20200604-01.jpg",
+  "abstract": "",
+  "body": {},
+  "comments": "enabled",
+  "published": true
+}

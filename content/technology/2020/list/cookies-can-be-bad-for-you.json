@@ -1,0 +1,21 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2020-01-30",
+  "title": "Too many Cookies can be bad for you",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/02/Oxygen480-apps-preferences-web-browser-cookies.svg",
+  "abstract": "Have you noticed that when you search for something in Google that quite often you will start to see ads on every site related to that search? Or even if you were to visit a flight booking website or retailer, that suddenly all the ads you see on Facebook will be for the same or similar products? This is because of browser Cookies.",
+  "body": {
+    "pars": [
+      "Have you noticed that when you search for something in Google that quite often you will start to see ads on every site related to that search? Or even if you were to visit a flight booking website or retailer, that suddenly all the ads you see on Facebook will be for the same or similar products? This is because of browser Cookies.",
+      "When you load a website in your browser sometimes they leave behind small files called Cookies. These Cookies are used by websites to remember useful information like the last time you visited the site, what pages you have visited on the site and account information if you have previously logged in.",
+      "Advertising companies, like Google and Facebook, also use Cookies extensively to identify which ads they should show you, so they can <em>personalise</em> your advertising experince. Every time an ad is loaded on a website they have the option of saving an advertising cookie (commonly known as <em>Third-party</em> Cookies) so they can track both the ads that have been shown to you and also the sites you have visited in their network.",
+      "As their advertising network grows, these companies are able to build a profile around your browsing habits and more accurately target the advertising shown to you. So even if you never explicitly agreed to a relatioship with the advertiser they are still able to track you via browser Cookies.",
+      "Fortunately many browsers now provide an option to disable Third-party Cookies, such that this tracking can be restricted. Unfortunately by disabling Third-party Cookies it may also inadvertently limit other functionality on a website. However this is becoming less of an issue due to the increasing pressure to eliminate Third-party Cookies entirely."
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "related": [
+
+  ]
+}

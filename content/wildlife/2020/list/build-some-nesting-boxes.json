@@ -1,0 +1,18 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2020-11-05T14:37:34+11:00",
+  "title": "Build some nesting boxes",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/11/wnews20201105-039.jpg",
+  "body": {
+    "pars": [
+      "This spring, with the near perfect conditions, birds are breeding prolifically. Nesting boxes encourage local bird life, especially in areas where there are a limited number of hollows for birds such as rosellas and galahs.",
+      "This adult male Eastern Rosella has just fed one of its young in a back yard nesting box in Rushworth, providing much joy to the property owner."
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "related": [
+
+  ],
+  "abstract": "This spring, with the near perfect conditions, birds\nare breeding prolifically. Nesting boxes encourage\nlocal bird life, especially in areas where there are\na limited number of hollows for birds such as\nrosellas and galahs."
+}

@@ -1,0 +1,7 @@
+{
+  "title":"Regional News",
+  "sling:resourceType":"/libs/wp-rss/block/list",
+  "jcr:primaryType":"nt:unstructured",
+  "feedUrl": "http://www.abc.net.au/local/rss/shepparton/all.xml",
+  "htmlUrl": "http://www.abc.net.au/shepparton"
+}

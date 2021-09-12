@@ -1,0 +1,8 @@
+{
+  "title":"Advertisements (2021)",
+  "sling:resourceType":"wnews/page/article-list",
+  "sling:alias":"current",
+  "sling:vanityPath":"/advertisements",
+  "jcr:primaryType":"nt:unstructured",
+  "pageSize": 7
+}

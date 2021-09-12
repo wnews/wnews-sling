@@ -1,0 +1,7 @@
+{
+  "title":"Weather",
+  "sling:resourceType":"wnews/page/weather",
+  "jcr:primaryType":"nt:unstructured",
+  "feedUrl": "http://rss.weather.com.au/vic/rushworth",
+  "htmlUrl": "http://weather.com.au/vic/rushworth"
+}

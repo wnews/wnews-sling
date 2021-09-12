@@ -1,0 +1,6 @@
+{
+  "title": "Cooks Column (2019)",
+  "sling:resourceType": "wnews/page/article-list",
+  "jcr:primaryType": "nt:unstructured",
+  "pageSize": 6
+}

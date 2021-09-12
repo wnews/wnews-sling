@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+
+<div data-th-fragment="columns-nav" class="wnews-columns">
+    <div class="container-fluid" style="margin-top:30px">
+        <div class="row">
+            <div class="col-md-2">
+                <h4 class="wnews-column-heading"><a href="/content/wnews/wildlife.html">All About Wildlife</a></h4>
+                <div data-th-replace="/apps/wnews/page/fragments/article.html::links(${resolver.resolve('/content/wnews/wildlife/current').adaptTo(@org.mnode.whistlepost.page.SortedArticles@class).sortedPage})"></div>
+            </div>
+            <div class="col-md-2">
+                <h4 class="wnews-column-heading"><a href="/content/wnews/recipes.html">Cooks Column</a></h4>
+                <div data-th-replace="/apps/wnews/page/fragments/article.html::links(${resolver.resolve('/content/wnews/recipes/current').adaptTo(@org.mnode.whistlepost.page.SortedArticles@class).sortedPage})"></div>
+            </div>
+            <div class="col-md-2">
+                <h4 class="wnews-column-heading"><a href="/content/wnews/gardening.html">Garden Hints &amp; Tips</a></h4>
+                <div data-th-replace="/apps/wnews/page/fragments/article.html::links(${resolver.resolve('/content/wnews/gardening/current').adaptTo(@org.mnode.whistlepost.page.SortedArticles@class).sortedPage})"></div>
+            </div>
+            <!--
+            <div class="col-md-2">
+                <h4 class="wnews-column-heading"><a href="/content/wnews/technology.html">Not A Robot</a></h4>
+                <div data-th-replace="/apps/wnews/page/fragments/article.html::links(${resolver.resolve('/content/wnews/technology/current').adaptTo(@org.mnode.whistlepost.page.SortedArticles@class).sortedPage})"></div>
+            </div>
+            -->
+            <div class="col-md-2">
+                <h4 class="wnews-column-heading"><a href="/content/wnews/history.html">50 Years Ago</a></h4>
+                <div data-th-replace="/apps/wnews/page/fragments/article.html::links(${resolver.resolve('/content/wnews/history/current').adaptTo(@org.mnode.whistlepost.page.SortedArticles@class).sortedPage})"></div>
+            </div>
+            <div class="col-md-2">
+                <h4 class="wnews-column-heading"><a href="/content/wnews/kids.html">Kids Corner</a></h4>
+                <div data-th-replace="/apps/wnews/page/fragments/article.html::links(${resolver.resolve('/content/wnews/kids/current').adaptTo(@org.mnode.whistlepost.page.SortedArticles@class).sortedPage})"></div>
+            </div>
+            <div class="col-md-2">
+                <h4 class="wnews-column-heading"><a href="/content/wnews/firstpeoples.html">Waranga Dreaming</a></h4>
+                <div data-th-replace="/apps/wnews/page/fragments/article.html::links(${resolver.resolve('/content/wnews/firstpeoples/current').adaptTo(@org.mnode.whistlepost.page.SortedArticles@class).sortedPage})"></div>
+            </div>
+        </div>
+    </div>
+
+<!--    <ul class="nav">-->
+<!--        <li class="nav-item">-->
+<!--            <a class="nav-link" href="/content/wnews/wildlife/current.html">All About Wildlife</a>-->
+<!--        </li>-->
+<!--        <li class="nav-item">-->
+<!--            <a class="nav-link" href="/content/wnews/recipes/current.html">Cooks Column</a>-->
+<!--        </li>-->
+<!--        <li class="nav-item">-->
+<!--            <a class="nav-link" href="/content/wnews/gardening/current.html">Garden Hints &amp; Tips</a>-->
+<!--        </li>-->
+<!--        <li class="nav-item">-->
+<!--            <a class="nav-link" href="/content/wnews/technology/current.html">Not A Robot</a>-->
+<!--        </li>-->
+<!--        <li class="nav-item">-->
+<!--            <a class="nav-link" href="/content/wnews/kids/current.html">Kids Corner</a>-->
+<!--        </li>-->
+<!--        <li class="nav-item">-->
+<!--            <a class="nav-link" href="/content/wnews/firstpeoples/current.html">Waranga Dreaming</a>-->
+<!--        </li>-->
+<!--        <li class="nav-item">-->
+<!--            <a class="nav-link" href="/content/wnews/articles/archive.html">More articles..</a>-->
+<!--        </li>-->
+<!--    </ul>-->
+</div>
+
+</body>
+</html>

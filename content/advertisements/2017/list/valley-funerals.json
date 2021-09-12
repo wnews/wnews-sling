@@ -1,0 +1,8 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Valley Funerals",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/advertisements/Valley Funerals.jpg",
+  "telephone": "03 5824 1180",
+  "testimonials": "enabled",
+  "published": true
+}

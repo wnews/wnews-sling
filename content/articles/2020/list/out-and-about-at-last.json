@@ -1,0 +1,19 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2020-11-05T11:24:25+11:00",
+  "title": "Out and about at last!",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/11/wnews20201105-001.jpg",
+  "body": {
+    "pars": [
+      "It didn’t take much encouragement to bring out the punters for Melbourne Cup parties at our local pubs. Great food and great weather ensured the events lived up to expectations - and with the excitement of being recently ‘let out’, how could anyone not have a wonderful day!",
+      "While dining and drinking was high on the agenda of the day, it was also a novelty to get dressed up in finery once again - and of course, remembering the excuse for the partying, all tuned in to watch the Big Race.",
+      "Indeed Melbourne Cup Day 2020 lunches may well be remembered as the ‘events of the year’."
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "related": [
+
+  ],
+  "abstract": "It didn’t take much encouragement to bring out the punters\nfor Melbourne Cup parties at our local pubs. Great food and great\nweather ensured the events lived up to expectations - and with the\nexcitement of being recently ‘let out’, how could anyone not have\na wonderful day!"
+}

@@ -1,0 +1,126 @@
+---
+label: Advertisement
+hide_body: true
+fields:
+- type: text
+  name: sling:resourceType
+  label: sling:resourceType
+  default: wnews/page/advertisement
+  config:
+    required: true
+  hidden: true
+- type: text
+  name: title
+  label: title
+- type: file
+  name: media
+  label: media
+- type: text
+  name: website
+  label: website
+- type: text
+  name: telephone
+  label: telephone
+- type: text
+  name: testimonials
+  label: testimonials
+- type: boolean
+  name: published
+  label: published
+- name: column
+  type: select
+  default: single
+  config:
+    required: true
+    options:
+    - single
+    - double
+    - triple
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Column Layout
+  description: Select the layout used in print edition for this advertisement
+pages:
+- content/advertisements/2017/list/3b-small-engines.json
+- content/advertisements/2017/list/bayly-solar.json
+- content/advertisements/2017/list/cottage-ice-cream-shoppe.json
+- content/advertisements/2020/list/campbell-smith.json
+- content/advertisements/2020/list/colbinabbin-general-store.json
+- content/advertisements/2020/list/cottage-ice-cream-shoppe.json
+- content/advertisements/2020/list/coughlans-iga.json
+- content/advertisements/2020/list/coventry-funerals.json
+- content/advertisements/2020/list/hairzone.json
+- content/advertisements/2020/list/hardware-emporium.json
+- content/advertisements/2020/list/helen-truran.json
+- content/advertisements/2020/list/hotwire.json
+- content/advertisements/2020/list/king-billy-retreat.json
+- content/advertisements/2020/list/kyabram-funeral-services.json
+- content/advertisements/2020/list/lipshut-law.json
+- content/advertisements/2020/list/meander.json
+- content/advertisements/2020/list/mediconsul-pharmacy.json
+- content/advertisements/2020/list/motofinish-cafe.json
+- content/advertisements/2020/list/mud-hut-yoga.json
+- content/advertisements/2020/list/murchison-service-station.json
+- content/advertisements/2020/list/natrad-radiators.json
+- content/advertisements/2020/list/perrys-butchery.json
+- content/advertisements/2020/list/rexterminate.json
+- content/advertisements/2020/list/riordan-lawyers.json
+- content/advertisements/2020/list/rj-excavations.json
+- content/advertisements/2020/list/rushworth-general-store.json
+- content/advertisements/2020/list/steph-ryan.json
+- content/advertisements/2020/list/the-spin-doctor.json
+- content/advertisements/2020/list/truffles-catering.json
+- content/advertisements/2020/list/valley-funerals.json
+- content/advertisements/2021/list/anton-damen.json
+- content/advertisements/2021/list/balloonsandstuff.json
+- content/advertisements/2021/list/beau-jangles-dog-grooming.json
+- content/advertisements/2021/list/campbell-smith.json
+- content/advertisements/2021/list/colbinabbin-general-store.json
+- content/advertisements/2021/list/cottage-ice-cream-shoppe.json
+- content/advertisements/2021/list/coughlans-iga.json
+- content/advertisements/2021/list/coventry-funerals.json
+- content/advertisements/2021/list/easter-heritage-festival-market.json
+- content/advertisements/2021/list/farriervet.json
+- content/advertisements/2021/list/hairzone.json
+- content/advertisements/2021/list/hardware-emporium.json
+- content/advertisements/2021/list/helen-truran.json
+- content/advertisements/2021/list/hotwire.json
+- content/advertisements/2021/list/king-billy-retreat.json
+- content/advertisements/2021/list/kyabram-funeral-services.json
+- content/advertisements/2021/list/kyabram-town-hall-gallery.json
+- content/advertisements/2021/list/lipshut-law.json
+- content/advertisements/2021/list/lipshut-plumbing.json
+- content/advertisements/2021/list/mawsons-concrete-tongala.json
+- content/advertisements/2021/list/meander.json
+- content/advertisements/2021/list/mediconsul-pharmacy.json
+- content/advertisements/2021/list/morgan-fuel-grain.json
+- content/advertisements/2021/list/motofinish-cafe.json
+- content/advertisements/2021/list/motor-mobile.json
+- content/advertisements/2021/list/mud-hut-yoga.json
+- content/advertisements/2021/list/murchison-service-station.json
+- content/advertisements/2021/list/natrad-radiators.json
+- content/advertisements/2021/list/ned-barlow-electrical.json
+- content/advertisements/2021/list/painter-adrian.json
+- content/advertisements/2021/list/perrys-butchery.json
+- content/advertisements/2021/list/peter-knobel-cabinet-maker.json
+- content/advertisements/2021/list/red-plumbing.json
+- content/advertisements/2021/list/rexterminate.json
+- content/advertisements/2021/list/riordan-lawyers.json
+- content/advertisements/2021/list/rushworth-community-house.json
+- content/advertisements/2021/list/rushworth-hardware-electrical.json
+- content/advertisements/2021/list/rushworth-laundromat.json
+- content/advertisements/2021/list/rushworth-pharmacy.json
+- content/advertisements/2021/list/rushworth-tv-antenna-service.json
+- content/advertisements/2021/list/rushworth-variety.json
+- content/advertisements/2021/list/saphire-contructions.json
+- content/advertisements/2021/list/simply-iced.json
+- content/advertisements/2021/list/stanhope-monster-garage-sale.json
+- content/advertisements/2021/list/stanhope-plumbing.json
+- content/advertisements/2021/list/steph-ryan.json
+- content/advertisements/2021/list/the-spin-doctor.json
+- content/advertisements/2021/list/truffles-catering.json
+- content/advertisements/2021/list/valley-funerals.json
+- content/advertisements/2021/list/workmate-bobcat-excavator-tipper.json

@@ -1,0 +1,32 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-02-18",
+  "title": "Living Treasures – Part 2",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/02/wnews20210218-041.jpg",
+  "body": {
+    "pars": [
+      "<strong>Estimating the age of trees</strong>",
+      "In the previous edition of Waranga News, the story about old eucalypts in and around Rushworth posed the question of how old the oldest surviving trees might be. The story suggested that there are a number of trees that were mature hundreds of years before the gold rush. Generally, trees were clear-felled by miners without compunction. The survivors were often in places that had been set aside for a particular purpose e.g. government camp, cemetery, school or church.",
+      "There are several ways of estimating the age of these old trees including growth ring counts (which we obviously don’t want to be doing to our oldest trees!) and carbon dating. In the Living Treasures project conducted by the Maldon Urban Landcare group (MULGA), the methodology predicted age based on the increase in diameter of the tree trunk at “breast height” (BH = 1.3 m), then considered the average growth rate of the tree over its life.",
+      "It should be noted that all measures of tree age are subject to inaccuracies. With a particular species, growth rates will vary depending on the particular location of individual trees. For instance, a tree in a gully might consistently get more water than one on a ridge or hilltop and so grow faster, or soil conditions may vary from place to place.",
+      "<strong>Average growth rate</strong>",
+      "In the MULGA project, five major tree species of which there are ancient examples surviving in, and surrounding the town area were surveyed. These were Yellow Box, Grey Box, Red Box, Long-leaved Box and Yellow Gum. Using technical data from a range of sources, an average rate of growth of a tree’s diameter was taken to be 3.5 mm.",
+      "To calculate the approximate age of a tree, you measure the circumference (over bark, OB) in millimetres at BH (taken as 1.3 m), then divide by 3.14 to get the diameter of the tree (DBHOB). Once you have the diameter, you divide that by 3.5 mm, which is the average growth rate per year. This gives you the approximate age of the tree.",
+      "For example, the Grey Box near the clubhouse at Royal Rushworth, which was mentioned in the last story, has a circumference at breast height of 4.95 metres, or 4950 mm. Divided by 3.14, that gives you a DBHOB of 1576 mm. Divide that by an average growth rate of 3.5 mm and you come up with an astonishing estimate of 450 years. Two Grey Boxes in the cemetery near the Tat road are, give or take a few years, 365 and 275 years old.",
+      "<strong>Ironbarks</strong>",
+      "Unfortunately, the Maldon project did not look at Red Ironbarks because there were none in the area under investigation. For Rushworth, Ironbarks are of special interest because they are the dominant species in the town and surrounding area.",
+      "All of the circumference measurements done in Maldon were over bark, where the bark on the five species studied was relatively thin. The rough bark on Ironbarks is obviously much thicker and might contribute to a different outcome. A cursory examination reveals that the bark on a mature ironbark probably adds 150-200 mm the diameter.",
+      "A study of a high-quality stand of Ironbarks in the Rushworth forest that had been thinned in 1941, then measured in 1993, came up with an average growth rate of 4.9 mm/year OB. There were only 43 trees in the sample, so it is relatively small. We don’t know the exact location where the sample was taken, which may have affected the result. There is also potential for results to vary between coppice regrowth (which these were) and trees that have grown from seed.",
+      "However, if we apply that growth rate to the magnificent old Ironbark on the first hole at Royal Rushworth, we still come up with an estimated age of well over 400 years. And the ripper in the front yard of the P-12 College is at least 260 years old – a sapling when Captain Cook was a whipper snapper and one that “King Charles” Tattambo might have camped under as a young boy as he followed Ngurai-illum Wurrung songlines through his country.",
+      "<em>References: Maldon Urban Landcare Group Inc (MULGA), Living Treasures of Maldon brochure (2017); DNRE, Box- Ironbark Timber Assessment Project – Bendigo FMA and Pyrenees Ranges (1998). Thanks to Bev Phillips, Secretary of MULGA.</em>"
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "Estimating the age of trees",
+  "related": {
+    "article": {
+      "page": "/content/wnews/articles/2021/list/living-treasures"
+    }
+  }
+}

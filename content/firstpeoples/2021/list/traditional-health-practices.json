@@ -1,0 +1,28 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-04-29",
+  "title": "Traditional health practices",
+  "media": "",
+  "body": {
+    "pars": [
+      "Prior to European colonisation, local Aboriginal people had developed a comprehensive set of health practices to deal with illnesses, wounds and injuries caused by accidents.  Quite often, this would include the use of local plants to assist in the healing process.  In the Waranga area, we can only really guess at the range of plants that were used in preparations for specific purposes.",
+      "In 1861, The Age newspaper reported on some observations on Aboriginal health in Victoria1 by a Dr Thomas.  Indigenous health was already in a parlous state, largely due to the impacts of twenty-five years of European colonisation.  Prior to that, Aboriginal people were living in such a way that their health was much better.  This was the result of good diet, a more active lifestyle and lack of access to European vices such as tobacco and alcohol.  ",
+      "Dr Thomas commenced his observations by noting that “Although the Aborigines of this colony are liable to the usual diseases of Europeans, I invariably found years back that they seldom had the common diseases, as rheumatism, &c, to the extent Europeans have.”  However, they were highly susceptible to any sort of lung disease after colonisation “which carries them off so speedily that the ablest medical treatment, when available, seldom saves them.”",
+      "Wound care\nIt was noted that even severe accidental wounds or those inflicted by weapons such as spears “(that would have kept Europeans for months invalids) were healed in an incredibly short time, to the astonishment of (European) medical men.”  This was achieved by first sucking the blood out of the wound, presumably to reduce the possibility of infection.  If there was no blood coming out of the wound, a sharpened bone probe or lancet would be used “putting the patient to pain”, or the body would be manipulated to stimulate blood flow.",
+      "When the wound was cleaned in this way, the practitioner would then cover it with “a lump of pridgerory (a kind of wax oozing from trees).”  This coating would be removed from time to time to check the wound.  If necessary, it would be replaced, in a similar way in which a medical professional now changes the dressing on a wound.",
+      "The article doesn’t state the source plant of the “pridgerory”.  Earlier stories in this series have talked about the widespread use of wattle gum for a variety of purposes, so perhaps it was something like that.  It could have simply been a protective coating, or may have had antiseptic qualities like, say, ti-tree oil is deemed to have these days.",
+      "Rheumatism\nTreatment for aches and pains in the joints and connecting tissues seems to have been extreme.  The practitioner would use massage, but with the hot ashes from a fire.  The fire would be deliberately made of bark only, so it burned down into very fine powder.  It was applied when it was still hot.  If parts of the legs were affected, then a mound of hot ashes could be put over the legs while they were massaged.  At the end of the treatment “the invalid is wrapped up in his blanket”.",
+      "Muscular aches and pains could be treated with a lotion made from a decoction (concentrated liquid resulting from boiling down) of wattle bark.  For more severe cases, the common marshmallow plant was boiled down and used as a poultice on the affected area.  There are recorded cases of early European settlers using this latter method, which they could well have learned from the local Aboriginal people.",
+      "Fire was an essential part of the daily lives of Aboriginal people, which meant that accidental burns were quite common.  Animal fat was used as a salve before the application of what was called “wheerup”, a fine powder of red ochre.  A puff made of possum fur could be used to apply the wheerup in the same way that people might apply make-up these days.",
+      "References:  1  The Age 30.9.1861"
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}

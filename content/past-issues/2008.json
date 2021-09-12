@@ -1,0 +1,17 @@
+{
+  "title":"Past Issues (2008)",
+  "sling:resourceType":"wnews/page/front-page-list",
+  "jcr:primaryType":"nt:unstructured",
+  "pageSize": 6,
+  "list": {
+    "2008-09-18": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "September 18, 2008",
+      "abstract": "",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/front-page-20080918.jpg",
+      "body": {},
+      "comments": "enabled",
+      "published": true
+    }
+  }
+}

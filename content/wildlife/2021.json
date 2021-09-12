@@ -1,0 +1,10 @@
+{
+  "title":"All About Wildlife (2021)",
+  "sling:resourceType":"wnews/page/article-list",
+  "jcr:primaryType":"nt:unstructured",
+  "sling:alias":"current",
+  "sling:vanityPath":"/wildlife",
+  "pageSize": 6,
+  "bannerUrl": "/wildlife/current.html",
+  "bannerImage": "/assets/wnews/images/all-about-wildlife.png"
+}

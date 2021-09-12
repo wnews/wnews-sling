@@ -1,0 +1,17 @@
+{
+  "title":"Past Issues (2019)",
+  "sling:resourceType":"wnews/page/front-page-list",
+  "jcr:primaryType":"nt:unstructured",
+  "pageSize": 6,
+  "list": {
+    "2019-12-12": {
+      "sling:resourceType": "wnews/page/front-page",
+      "title": "December 12, 2019",
+      "abstract": "",
+      "body": {},
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/past-issues/2019/12/wnews20191212-0001.jpg",
+      "comments": "enabled",
+      "published": true
+    }
+  }
+}

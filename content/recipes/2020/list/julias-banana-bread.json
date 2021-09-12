@@ -1,0 +1,43 @@
+{
+  "sling:resourceType": "wnews/page/recipe",
+  "date": "2020-06-18",
+  "title": "Julia’s Banana Bread",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/06/wnews20200618-479.jpg",
+  "abstract": "Apparently baking Banana Bread is a sure\nsign you’ve been in lockdown for many\nweeks. . . anybody who’s anybody has been\nbaking Banana Bread. So when a few overripe\nbananas appeared in our fruit bowl,\nI thought I’d better have a go at it myself.",
+  "body": {
+    "pars": [
+      "Apparently baking Banana Bread is a sure\nsign you’ve been in lockdown for many\nweeks. . . anybody who’s anybody has been\nbaking Banana Bread. So when a few overripe\nbananas appeared in our fruit bowl,\nI thought I’d better have a go at it myself.",
+      "Just this past week, a recipe by Julia\nBusuttil Nishimura was published in the\n‘Age’."
+    ]
+  },
+  "ingredients": [
+    "2 eggs",
+    "150g raw sugar",
+    "100ml extra virgin olive oil",
+    "2.5 tbspn full-cream milk",
+    "2 very ripe bananas",
+    "1 cup SR flour",
+    "1/2 tspn cinnamon",
+    "Optional extras:",
+    "1 1/2 tbsp Dutch cocoa",
+    "100g dark chocolate chopped",
+    "50g chopped walnuts",
+    "1 extra banana sliced lengthwise"
+  ],
+  "method": [
+    "Preheat oven to 180ºC. Grease and line a\nloaf tin with baking paper.",
+    "Whisk eggs and sugar together until pale.",
+    "Pour in the olive oil and milk and whisk to\ncombine.",
+    "Mash bananas in a separate bowl then mix\ninto the batter.",
+    "Stir sifted flour and cinnamon gently into\nmixture (do not overwork).",
+    "At this stage you can add the extra cocoa,\nchocolate and walnuts.",
+    "Pour the mixture into prepared loaf tin\nand (if you’re going with the extra option)\nslice the banana lengthwise down the middle\nand place the two slices on the top of the loaf\nin the tin.",
+    "Bake for about 45-50 minutes until a\nskewer inserted in the mixture comes out\nclean.",
+    "PS. Before anyone asks, yes, there is only\none slice of banana on my Banana Loaf,\nthat’s because I made a double batch and only\nhad one optional extra banana. You really are\nbeing pedantic!",
+    "I used cocoa, but not the dark chocolate\nand not the walnuts as I’d have had to shell\nthem. I was a bit over my little baking spree\nby then.",
+    "Glen"
+  ],
+  "testimonials": "enabled",
+  "published": true,
+  "related": []
+}

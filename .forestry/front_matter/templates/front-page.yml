@@ -1,0 +1,73 @@
+---
+label: Front Page
+hide_body: true
+fields:
+- type: text
+  name: sling:resourceType
+  label: sling:resourceType
+  default: wnews/page/front-page
+  config:
+    required: true
+  hidden: true
+- type: text
+  name: title
+  label: title
+- type: file
+  name: media
+  label: media
+- type: text
+  name: abstract
+  label: abstract
+- type: boolean
+  name: published
+  label: published
+- name: date
+  type: datetime
+  label: Published Date
+  description: ''
+  config:
+    required: false
+    date_format: DD/MM/YYYY
+    time_format: 
+    display_utc: false
+    export_format: YYYY-MM-DD
+  default: now
+- name: body
+  type: field_group
+  config: {}
+  fields:
+  - name: content
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: content
+  label: body
+pages:
+- content/articles/2021/list/fairy-dust-and-magic-at-murchison-ps.json
+- content/past-issues/2020/list/2020-05-07.json
+- content/past-issues/2020/list/2020-05-21.json
+- content/past-issues/2020/list/2020-08-27.json
+- content/past-issues/2020/list/thursday-13-august-2020.json
+- content/past-issues/2020/list/thursday-17-december-2020.json
+- content/past-issues/2020/list/thursday-19-november-2020.json
+- content/past-issues/2020/list/thursday-22-october-2020.json
+- content/past-issues/2020/list/thursday-3-december-2020.json
+- content/past-issues/2020/list/thursday-5-november-2020.json
+- content/past-issues/2021/list/high-st-islands-leave-locals-cold.json
+- content/past-issues/2021/list/thrusday-10-june-2021.json
+- content/past-issues/2021/list/thrusday-8-july-2021.json
+- content/past-issues/2021/list/thursday-1-april-2021.json
+- content/past-issues/2021/list/thursday-13-may-2021.json
+- content/past-issues/2021/list/thursday-15-april-2021.json
+- content/past-issues/2021/list/thursday-18-february-2021.json
+- content/past-issues/2021/list/thursday-18-march-2021.json
+- content/past-issues/2021/list/thursday-2-september-2021.json
+- content/past-issues/2021/list/thursday-24-june-2021.json
+- content/past-issues/2021/list/thursday-27-may-2021.json
+- content/past-issues/2021/list/thursday-29-april-2021.json
+- content/past-issues/2021/list/thursday-4-february-2021.json
+- content/past-issues/2021/list/thursday-5-august-2021.json

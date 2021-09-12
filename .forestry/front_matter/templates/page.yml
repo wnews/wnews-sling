@@ -1,0 +1,22 @@
+---
+label: Page
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: sling:resourceType
+  label: sling:resourceType
+  hidden: true
+- type: text
+  name: jcr:primaryType
+  label: jcr:primaryType
+  hidden: true
+- type: field_group
+  name: sections
+  label: sections
+  fields:
+  - type: text
+    name: sling:resourceType
+    label: sling:resourceType

@@ -1,0 +1,9 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Coughlan's IGA",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/12/coughlans-iga-christmas-2020.png",
+  "testimonials": "enabled",
+  "published": true,
+  "website": "",
+  "telephone": ""
+}

@@ -1,0 +1,24 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-03-04",
+  "title": "Autumn ~ a busy time in the garden",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/07/IMG_0572(small).jpg",
+  "body": {
+    "pars": [
+      "While not quite sure what happened to summer this year (still waiting for the run of 40 degree days we have become accustomed to in recent years), there’s no doubt some milder January - February months have been kinder to our gardens than usual. ",
+      "And now it’s autumn which is always a busy period in the garden. It’s time to start clearing out some of those tired looking summer veggies and adding some organic manures into the beds to prepare for winter crops. This could be compost, manures, or even some autumn leaves could add to the mix soon.  ",
+      "Another way to get organic matter into the soil is to sow a green manure crop. Special green manure mixes of efficient nitrogen-fixing plants can be purchased, or you can use old left-over seed you might have (especially legumes), and just sprinkle it thickly and water well. Before it flowers or sets seed just dig it over and work it into the soil - or you can even just leave it on top of the soil and cover with more compost. (Also a very handy use for those too many sprouting seeds you buy to add your salad!)",
+      "Perennial plants and herbs, such as salvias, oregano and lemon balm should now  be cut back to new growth to prevent them becoming woody. ",
+      "It’s also an excellent time to be planting out new trees and shrubs, especially natives, as the soil is still warm but the days not so hot as to stress the newly transplanted specimens. If well watered and mulched now they will get off to a good start and acclimatise well before the winter cold sets in. ",
+      "Not surprisingly Autumn is voted the favourite season of so many gardeners - the days are usually sunny but just pleasantly warm, and there’s that little bit of freshness in the morning air. It doesn’t take much to entice us outside where it’s so enjoyable, attending to the many garden chores doesn’t seem at all onerous."
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-02-18",
+  "title": "Volunteering – the glue that keeps communities working together",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/02/wnews20210218-002.png",
+  "body": {
+    "pars": [
+      "With huge ‘holes’ in many volunteer organisations and clubs, most are on a mission to source time and skills from the community in Rushworth and surrounding areas. Harking back to the ‘good old days’, when there always seemed to be a new generation of volunteers coming along and ready to take over the reigns, is a common but fruitless exercise. So how do we spread the word that volunteering is both essential for our community and rewarding for the individual? One way is through our local (volunteer-produced) newspaper.",
+      "<strong>Emergency services – vital for our safety</strong>",
+      "The CFA and SES are two of the organisations experiencing dwindling volunteer numbers over past years. We sometimes take it for granted when the fi re alarm rings and trucks head out of town to extinguish a blaze. Whilst people are going about their busy lives, the CFA has dedicated volunteers ready to exercise their skills in often dangerous situations in order to save properties and lives. Summer time may be holiday time for many but CFA volunteers must be always ready for action in the bushfi re season, while in winter the likelihood of chilly night callouts to chimney fi res must keep them alert.",
+      "Likewise with the VicSES Rushworth! You don’t hear an alarm when the SES is called out to a car accident, a tree down over the road, storm damage or a boating accident. Yet the SES is needed all year round covering an extensive area in the region.",
+      "In both of these organisations volunteer skills are performed with precision and accuracy because of their dedicated training regimes."
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "With huge ‘holes’ in many volunteer organisations and clubs, most are on a mission to source time and skills from the community in\nRushworth and surrounding areas.",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}

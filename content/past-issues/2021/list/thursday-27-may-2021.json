@@ -1,0 +1,11 @@
+{
+  "sling:resourceType": "wnews/page/front-page",
+  "date": "2021-05-27",
+  "title": "Thursday 27 May 2021",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/06/wnews20210527-01.jpg",
+  "abstract": "Stanhope Health Centre opens with Aboriginal Smoking Ceremony",
+  "published": true,
+  "body": {
+    "content": ""
+  }
+}

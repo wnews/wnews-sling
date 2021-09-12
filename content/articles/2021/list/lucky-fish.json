@@ -1,0 +1,22 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-02-04",
+  "title": "Lucky fish!",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/02/wnews20210204-071.jpg",
+  "body": {
+    "pars": [
+      "Jay Wall spent time fishing in the Waranga Basin and in the local channels over Christmas while spending some quality time with his Nan and Pop, Graeme and Wendy Wall.",
+      "He was lucky (and clever) to catch an 80 cm Murray Cod.",
+      "Jay was rapt with his catch, got the photo and released the fi sh back into the water to hopefully breed and improve the local Cod population.",
+      "Great to see a young fi sherman returning fish to the water."
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "Jay Wall spent time\nfishing in the Waranga\nBasin and in the local\nchannels over Christmas\nwhile spending some\nquality time with his Nan\nand Pop, Graeme and\nWendy Wall.",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "The Criterion Hotel",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/advertisements/Criterion Hotel.jpg",
+  "telephone": "03 5856 1100",
+  "testimonials": "enabled",
+  "published": true
+}

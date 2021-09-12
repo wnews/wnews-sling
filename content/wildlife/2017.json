@@ -1,0 +1,219 @@
+{
+  "title":"All About Wildlife (2017)",
+  "sling:resourceType":"wnews/page/article-list",
+  "jcr:primaryType":"nt:unstructured",
+  "pageSize": 6,
+  "list": {
+    "barn-owl-rescue": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-11-23",
+      "title": "Barn owl rescue from work shed",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/11/wnews20171123-034.jpg",
+      "sidebar": "/content/wnews/wildlife/2017/list/bohollow-calendar-2018",
+      "abstract": "I get called to remove many birds from buildings, most of them raptors like this beautiful Barn Owl.",
+      "body": {
+        "pars": [
+          "I get called to remove many birds from buildings, most of them raptors like this beautiful Barn Owl.",
+          "I was called to rescue one this on a very busy day for rescues so my friend Tanya went and checked it out while I was attending a rescue elsewhere. The owl could not be found so it was assumed it had made its own way out. I didn’t give it another thought until the following morning when I received a call to say that it must have been hiding as it was definitely still in the building.",
+          "It was another extremely busy day and after doing a couple of pick-ups elsewhere and removing and relocating a duck family from a garden shed, I finally arrived at the premises to catch the owl.",
+          "Tanya met me at the location to give me a hand as in large areas such as this one, it is much easier with two people to keep the bird moving; making it easier to eventually net.",
+          "I never know how long these rescues are going to take but the shed was very open; not too cluttered for access and not as high as some of the ones I get called to, so it was looking good.",
+          "As luck would have it, we managed the capture within about five minutes!",
+          "The poor owl wasn’t flying quite as quickly as they usually do and upon inspection of his eyes, one lid was slightly drooped which is an indication that he was possibly concussed.",
+          "This work shed is adjacent to the busy main road which goes right through Shepparton. It is a likely scenario that he was clipped by a vehicle at night and feeling pretty ordinary, didn’t get back to his usual daytime roost. The shed was a good place to evade the magpies, ravens and other birds which attack an owl when caught out in the open during daylight hours. Other bird species often attack owls and other raptors purely because they know they are predators and pose a threat to them, so naturally wish to move them on. Usually, when an owl flies into a premises such as this, the rescue description I receive is that they flew into the shed with magpies in hot pursuit. This was the case for this fellow.",
+          "He is a bit underweight so a week or two at Bohollow with rest and good tucker should see this Barn Owl being able to get back out, flying free where he belongs.",
+          "Thank you to the people at the business for being so quick to call for help, (both days) and a huge thank you to my trusty rescue partner, Tanya, for being there to help out."
+        ]
+      },
+      "published": true
+    },
+    "bohollow-calendar-2018": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-11-23",
+      "title": "Bohollow calendar 2018",
+      "abstract": "The 2018 Bohollow calendar is set to be available this week and is an excellent Christmas gift for that hard-to-buy-for person, who cares about local wildlife.",
+      "body": {
+        "pars": [
+          "The 2018 Bohollow calendar is set to be available this week and is an excellent Christmas gift for that hard-to-buy-for person, who cares about local wildlife.",
+          "Photographs from 2017 have been chosen for each month from a variety of rescue animals and birds throughout the year, many of which have featured in stories and articles.",
+          "The calendars will be available at most of the veterinary clinics in our surrounding area as well as the Kyabram Fauna Park, Numurkah Learning Centre and the Ethnic Council Shepparton or you can secure a copy by contacting us with your order and address so we can mail out to you.",
+          "Price is $20 per calendar plus postage.",
+          "ALL proceeds go directly back into Bohollow to help cover the costs of caring for the critters at both of our shelters and the costs of our 24/7 rescue service.",
+          "This is our third calendar and the feedback was brilliant the previous two years so we hope our native wildlife helps brighten your year in 2018.",
+          "All photographs are taken by Kirsty Ramadan. For orders please contact Kirsty on 0447 636 953"
+        ]
+      },
+      "published": false
+    },
+    "look-before-you-lop": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-10-26",
+      "title": "Look before you lop",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/10/wnews20171026-028.jpg",
+      "abstract": "Spring is a time of year people love to get out in their garden and clean things up before the Summer months. Unfortunately, it also clashes with the busiest time of the nesting season for our native birds. As a consequence at this time each year, Bohollow receives calls for many baby birds who have either had their nests destroyed or brought down through trimming, pruning or lopping.",
+      "body": {
+        "pars": [
+          "Spring is a time of year people love to get out in their garden and clean things up before the Summer months. Unfortunately, it also clashes with the busiest time of the nesting season for our native birds. As a consequence at this time each year, Bohollow receives calls for many baby birds who have either had their nests destroyed or brought down through trimming, pruning or lopping.",
+          "These tiny superb fairy wrens were accidentally dislodged from their hiding place amongst long grass and a shrub at one of our Bunbartha shelter neighbours. The owners were distressed that the babes had ended up on the ground, nest and all. After observing and assessing the situation, it was decided that the babes were to come to the shelter to be raised as we could not return the nest due to the site being too sparse from the clearing of grass. These little birds love to build their nests deep within dense cover which makes it almost impossible for predators to get to them and now this perfect cover was completely gone.",
+          "Making these decisions can sometimes be difficult and we tossed up various options before deciding on the final outcome. Each situation is different and there are many factors to take into account such as species, habitat, chances of survival and how advanced the chicks are.",
+          "All seem to being doing well in care at the moment, although with teeny chicks like this, you can never count your chicks before they are fledged!",
+          "If you are considering pruning heavily, lopping or undertaking any other garden activity which may disturb nests and their young, please take the time to have a good look around before doing so. If you notice nesting birds, please consider putting off any plans which may cause their demise.",
+          "Birds grow extremely quickly and these little wrens only take 12 to 13 days from hatching to fledging and the incubation time for the eggs in the nest is only 13 to 15 days! So you shouldn’t have to postpone your gardening plans for too long if you discover your resident birds have decided to nest in an inconvenient place. They sure will appreciate you waiting for them to raise their little family and you get the added joy of watching the babes grow and leave the nest.",
+          "It is also a myth that once you touch a baby bird the parents will not have anything to do with it. Most birds have a pretty rudimentary sense of smell and their instinct to return to care for their young is strong. Different bird species also tolerate different levels of disturbance around nests and young. Never assume that a young bird or nest cannot be put back with the parents. Each case is different so always call for advice if you find a nest or young bird in a place it should not be and always check before you prune, slash or burn."
+        ]
+      },
+      "published": true
+    },
+    "tawny-frogmouth": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-10-12",
+      "title": "Which came first, the tawny or the egg?",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/10/wnews20171012-037.jpg",
+      "sidebar": "/content/wnews/articles/2017/list/adopt-a-nest-box",
+      "abstract": "Some critters get back on their feet quite quickly and these cases are great for us as well as them. Less time in care means less expense and less stress on a critter when they can return to their home almost immediately.",
+      "body": {
+        "pars": [
+          "Some critters get back on their feet quite quickly and these cases are great for us as well as them. Less time in care means less expense and less stress on a critter when they can return to their home almost immediately.",
+          "When this female Tawny frogmouth arrived at Bohollow, she was extremely quiet and after giving her a full examination, I could not find any reason why she couldn’t fly. No fractures, light response was good, no symptoms of anything drastic but she refused to fly at all. When tested for flight, each time she would flutter straight to the ground. I put it down to possible mild concussion from minor head trauma and set her up for the night. I left her hospital box fully open as sometimes ,in cases like these, stimulation is a good thing and can assist a bird in returning to the land of the living.",
+          "Come morning, I was surprised to find her sitting up on a curtain rail and when I approached her, she flew strongly and well, landing perfectly each time she flew. Happy to see a hundred percent improvement on her condition the previous night, I knew she would be ready to get back out there very soon.",
+          "I was even more surprised when I discovered that she had laid a perfect egg in her hospital box before vacating it during the night.",
+          "Laying eggs takes a bit of effort and I have seen aviary-bred birds display behaviour just like this prior to producing an egg. They can become quiet, disinterested in food, sit for 24 to 48 hours, not doing anything at all. I have had pet bird owners, not familiar with egg laying, call me for advice on their ‘sick’ bird. As long as the bird is not egg bound, the bird returns to normal behaviour as soon as they lay an egg, as was the case for this Tawny frogmouth.",
+          "I do not know why she ended up on the ground during this process rather than staying on her nest. It may be that she is a young bird and this was her first egg. I will never know. I do know that she was ready to return to her wild home that night, so I drove her back to Echuca Village where she was found and set her free to keep laying her eggs where she needs to!",
+          "Tawny frogmouths construct a very rudimentary nest. It is basically a few sticks thrown together which usually sits on top of a wide horizontal branch, sometimes in a large fork of the tree. It is not stuck down or woven on to the tree, it really does just sit there, so in a good wind the babes often fall out and maybe this is what happened to this female while she was sitting on her nest in ‘egg-laying mode,’ as we have had some pretty windy weather lately. She was happy to be back in the trees so quickly and I wish her and her future eggs well.",
+          "Incidentally, the only other time this has ever happened in all my years as a wildlife carer, was an injured Kookaburra who came to the shelter and proceeded to lay two eggs!"
+        ]
+      },
+      "published": true
+    },
+    "branchers-on-the-branches": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-09-28",
+      "title": "Branchers on the branches",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/09/wnews20170928-025.jpg",
+      "sidebar": "/content/wnews/articles/2017/list/adopt-a-nest-box",
+      "abstract": "Babes have been coming in at a great rate to Bohollow and this red wattlebird chick was one of the first to arrive. He was found on the ground injured and was taken to one of our local veterinary clinics who immediately called us for help.",
+      "body": {
+        "pars": [
+          "Babes have been coming in at a great rate to Bohollow and this red wattlebird chick was one of the first to arrive. He was found on the ground injured and was taken to one of our local veterinary clinics who immediately called us for help.",
+          "These large honeyeaters generally have two or three young and both parents share in the duties of their care. They make a fairly rough nest which can be difficult to spot, usually amongst the outer foliage of a dense tree or bush. These birds leave the nest just before they are able to fly properly, therefore are perfect examples of what we call ‘branchers’.",
+          "Some of our native Australian bird species leave the nest as branchers. This can cause some baby birds to be ‘rescued’ when they are at this precarious branching stage as they cannot yet fly properly and this often leads people to believe they are injured or orphaned. The only true way to distinguish whether a baby bird is a true brancher, as opposed to a babe who needs our assistance, is to observe closely before catching it. The parents of a brancher will not be far away and are generally watching their young intently and feeding them frequently. A brancher will be able to stand, hop, walk, run and flutter or fly short distances. They are also usually pretty good at climbing up and clinging to branches, hence the name brancher! If a baby bird cannot do any of these things, it needs to come into care. Leaving the nest for the first time is a dangerous time for all birds, particularly branchers, and they can often end up on the ground in harm’s-way. If a young bird is displaying all the signs of a brancher but cannot seem to get back up into a tree or shrub, sometimes all that is needed is a helping hand. If you place them back up as high as you can manage, you may have the pleasure of seeing them continue on their way. The key really is observation in these cases and these are the things you are looking for:",
+          "<ul><li>Does one or both parents return to the youngster to feed and protect it?</li><li>Does the youngster remain in the branches or just end up on the ground again?</li><li>Is there any obvious injury to the youngster; visual blood, broken wing or leg?</li><li>If you are able to keep an eye out until nightfall, does the young bird remain high enough and in enough cover to evade predators?</li></ul>",
+          "The answers to all these questions can help you decide whether a baby bird needs help and are also questions we may ask you when you call for help. Birds who are obviously too young to be out of nest must come into care, but branchers can sometimes be tricky for even us to determine if they need help, unless we observe what is going on.",
+          "If a brancher is in your garden, it can be a lot easier to keep an eye on things and in cases where a brancher cannot get back up to a safe place for the night, sometimes all it takes is to take it inside at dusk and return it immediately at dawn. Parent birds will accept their babes back willingly and continue to feed and look after them. It is a myth that birds will abandon young if a person has touched them due to the smell of humans. Birds, apart from some waterbird species and vultures, generally have a very rudimentary sense of smell; it is almost non-existent. Birds rely predominantly on their sense of sight and sound to recognise their young, unlike mammals which are highly sensitive to smell. If you collect a young bird at nightfall to keep it safe, do not attempt to feed it and be sure to return it immediately early in the morning so it can be fed by its parents. This is only a course of action if you have witnessed the parent birds tending to the young right up until dark. Sometimes, people will place a baby bird back out in a tree or shrub and wait, watching for a number of hours before deciding that the parents are not coming in to feed it, then will call for help. Many species of birds, particularly when they are young, require constant, frequent feeding and if left too long or overnight can be the difference between life and death. Getting too cold is also a killer for baby birds who have come out of the nest too early. Always call for help and advice.",
+          "Branchers usually only remain branchers for a day or two, sometimes a bit longer, all depending on the species, so this critical time is short, before they hit the air.",
+          "Some common species who leave the nest as branchers are magpies, ravens, whitewinged choughs, honeyeaters (including wattlebirds and noisy miners), tawny frogmouths and butcher birds.",
+          "This little fellow has grown a lot since these photos were taken about a week ago. Baby birds grow so quickly! He has also been joined by another wattlebird chick who is about a week behind him in age. They will continue to be raised together and be soft released together when they are ready to return to the big wide world for their second chance at life; which they would not have had unless kind people stopped to pick them up and seek help."
+        ]
+      },
+      "published": true
+    },
+    "baby-bird-season": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-09-14",
+      "title": "It’s official...baby bird season has arrived at BoHollow",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/09/wnews20170914-031.jpg",
+      "sidebar": "/content/wnews/articles/2017/list/adopt-a-nest-box",
+      "abstract": "This little Australian wood duckling was found all alone in Echuca and taken to Rose’s Veterinary Clinic. Rose rang me straight away and I collected him immediately, knowing how important it is to get these guys into a nice, warm environment and one which they feel comfortable in.",
+      "body": {
+        "pars": [
+          "This little Australian wood duckling was found all alone in Echuca and taken to Rose’s Veterinary Clinic. Rose rang me straight away and I collected him immediately, knowing how important it is to get these guys into a nice, warm environment and one which they feel comfortable in.",
+          "You can see in the photo that this little fellow still has his egg tooth, the white pimple-looking thing at the tip of his little bill. This means that he is not long hatched, as the egg tooth usually drops off in a few days after hatching. The egg tooth is what enables the duckling to break out of the shell and it is amazing to think that this tooth is the tool which enables the hatch to happen. Breaking egg shell is hard and exhausting work for a tiny chick or duckling.",
+          "I do not know this duckling’s history, only that he was found alone. There is the possibility that he is a late hatcher which happens frequently with ducklings. The rest of his siblings may have all hatched within 48 hours of each other and left with the parent ducks to travel to feeding grounds, while this little fellow may have hatched late, emerged into an empty nest hollow and had no choice but to try take on the world on his own. Lone ducklings generally do not survive in the wild on their own without the security and comfort of their parents and a clutch. Warmth is critical for tiny ducklings, as is protection from predators.",
+          "He is doing well on his own and has settled in nicely at Bohollow, though I don’t doubt that he will have friends joining him soon as he grows at the shelter.",
+          "If you find baby ducklings or other chicks on their own, please call for help. Do not attempt to raise them on your own. Take them to a registered wildlife shelter as soon as possible. This can mean life or death for a young chick. Warmth is critical for them, so keep them nice and toasty until they reach the shelter and please DO NOT FEED unless you have been advised to do so by a shelter operator.",
+          "Birds feed frequently, particularly baby birds, but feeding inappropriate food or incorrect feeding methods can cause the death of a critter, particularly baby birds.",
+          "Always call for help. Despite being cute, baby critters require special care and baby birds grow extremely quickly. This duckling will be flying in eight weeks time so he needs to have the correct diet and care to grow strong and develop properly or problems begin to arise very quickly.",
+          "And so it begins. The crazy season is officially upon us. The season of frequent feeding, the sound of chicks begging incessantly, makeshift nests, pin feathers and poor sleep.",
+          "<em>Bring it on, Spring!</em>"
+        ]
+      },
+      "published": true
+    },
+    "plovers-in-the-drainpipe": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-08-17",
+      "title": "Plovers in the drainpipe",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/08/wnews20170817-084.jpg",
+      "abstract": "For those of you who follow our stories, you may remember I recently rescued and relocated four tiny spur-winged plover chicks from a day-care centre in Echuca. I have been called to this same plover family for three consecutive years as the parents have taken to nesting on the roof of the day-care centre. When the eggs hatch, the young fall off the roof into the courtyard where they cannot get out without assistance and I relocate them next door where there is some open grassland where they were always known to nest in previous years. The last time I was called to this family was exactly two months ago and the relocation went pretty smoothly.",
+      "body": {
+        "pars": [
+          "For those of you who follow our stories, you may remember I recently rescued and relocated four tiny spur-winged plover chicks from a day-care centre in Echuca. I have been called to this same plover family for three consecutive years as the parents have taken to nesting on the roof of the day-care centre. When the eggs hatch, the young fall off the roof into the courtyard where they cannot get out without assistance and I relocate them next door where there is some open grassland where they were always known to nest in previous years. The last time I was called to this family was exactly two months ago and the relocation went pretty smoothly.",
+          "I was surprised to receive a call last week from the day-care centre again, asking me to come and remove new babes which had again come off the roof. This time they had come off the roof into the front yard of the centre, which is the playground area for the children. As I was not able to leave immediately for Echuca, when I was ready to hit the road I gave them a call back to let them know I would be there in 45 minutes. I was informed that the plover family had moved out into the carpark area. They now just had to go through the diamond mesh fence at the side of the carpark to reach their usual feeding grounds. I called my good friend, Anita, who lives in Echuca and asked if she could go down and check on the family for piece of mind. All was well...or so I thought.",
+          "Later that night I received a text from Anita saying that the chicks had fallen into the stormwater pipes through a grate and the grate could not be removed to get them out! One of the chicks was hanging through the grate as his head had somehow managed to stop him from falling to the pit below. He was limp, lifeless and cold but after being removed by Anita and warmed up, within five minutes he had come back to life. After numerous attempts to get the other two chicks she could see in the pit below, one chick disappeared down one of the pipes and the other became still and lifeless in the damp, muddy pit. The night was cold and without the warmth of their parents, small chicks cannot survive long at all. The fourth chick had not been seen at all.",
+          "When we arrived we found the dead chick immediately, laying lifeless in the bottom of the pit. I decided to get it out. The parent plovers were distressed, calling and flying in and out constantly. They kept going back to the grates, knowing they had lost their babes down there. As I was using a stick which Anita had been using in her attempt to get the chicks out, thinking that because the chick had died, the stick might work now, I flipped the little body over on its back...It was stiff, neck and legs stretched out, little wings also stretched out in a fixed position. I couldn’t believe our eyes when we both saw ever so slight movement in the tiny wings! In unison we cried out, “It’s alive!” Then we sprung into gear to get the poor chick out. We knew the little bit of life that was left in this little soul was barely existent and every second mattered. Beau ran and got my snake hook out of the ute and after three attempts, I was able to carefully lift the lifeless body to the top of the grate where Beau was able to get his fingers through enough to pull him all the way out.",
+          "I still wasn’t sure if he had died in the short time it took us to get him out but did not want to give up. What I did next, I have done before... sometimes it works..sometimes it doesn’t, and I know I am not the only wildlife carer who could admit to giving a critter mouth to mouth. I placed my mouth over the tiny bill and nostrils and blew quick, shallow breaths, hoping against hope for a small miracle.",
+          "Still no movement, but just as I was convinced we had not got to him in time, he began to take gasping breaths! Once I was sure he was breathing steady enough, down the shirt he went to warm his freezing body. After half an hour he was moving his legs and head. After about an hour, he began to cheep. This demonstrates just how important warmth is for baby birds and baby critters in general. Warmth really is the difference between life and death for baby birds. The fall did not kill them, the cold is what almost did.",
+          "The rescue of these two little chicks really was a team effort that night and I give huge thanks to Anita, who always helps me out when she can and to my son, Beau. Both are invaluable members of the Bohollow team."
+        ]
+      },
+      "published": true
+    },
+    "swamp-wallaby-rescue": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-08-03",
+      "title": "Swamp Wallaby rescue",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/08/wnews20170803-024.jpg",
+      "abstract": "On Sunday night I received a call-out for a kangaroo joey at Dookie. I was told it was pink and very small. The people who found it kindly agreed to meet me in Shepparton to cut down my travel time and I set off, calling Deb before I left to give her the heads up that we had an incoming joey arriving.",
+      "body": {
+        "pars": [
+          "On Sunday night I received a call-out for a kangaroo joey at Dookie. I was told it was pink and very small. The people who found it kindly agreed to meet me in Shepparton to cut down my travel time and I set off, calling Deb before I left to give her the heads up that we had an incoming joey arriving.",
+          "The trip into town wasn’t a good one. As I was travelling on the road there was a car heading towards me and a car further back behind me. I caught a quick glimpse of a dark shape on the middle white lines. With the lights of the oncoming car, I couldn’t be sure what it was but I made sure I missed it and made the split second decision to turn around immediately and go back to make sure it wasn’t an animal. It only took me a minute to turn around and head back to where I saw it. In that time, both other cars had gone past and I was dismayed to find the shape had now moved to the edge of the road and was now laying on its side, kicking in agony and distress. It was a juvenile black wallaby or swamp wallaby as they are commonly known, and he wasn’t in a good way.",
+          "I grabbed a towel from the ute and tried to comfort him as best I could. I could feel his nose was shattered and there was a lot of blood. All I could do was to wrap him up and take him with me, knowing that this little fellow was not going to make it and would need to be euthanised upon return to the shelter.",
+          "With a heavy heart, I continued my journey and when I arrived, I discovered that the kangaroo joey happened to be a swamp wallaby joey!",
+          "The people who hit this little fellow’s mother stopped immediately to check if she was still alive. Initially they thought she was still breathing until they realised, with amazement, that the movement they were seeing was this little joey moving in her pouch. They called straight away and followed my instructions to keep him warm by placing him down their jumper. He was beautiful and toasty when they passed him to me. This is so important for young joeys, particularly ones that do not possess fur, as they cannot maintain enough heat on their own to keep warm.",
+          "It is also so important to stop and check if you hit a critter, any critter, bird, mammal or reptile. Even if you do not think they could have survived, they surprisingly often do and can remain injured on the road for many hours, sometimes even days or get hit again when they may have been able to be saved. In the case of our native mammals it is vital that you check if the animal is female, has a pouch and check for live young. Many pouched young survive the impact and can be saved or can also be terribly injured and require help. Pouched young can sometimes survive for days in their dead mother’s pouch. For this reason some people, particularly wildlife carers, will stop and check deceased animals for pouched young. We usually pull them well off the road and spray a cross on them with bright spray paint to let others know that the animal has already been checked to save someone else stopping to check the same animal.",
+          "Through taking the time to stop and check, you may just save a life or spare one from much more pain and suffering.",
+          "Deb met me back at our Bunbartha shelter where we sadly euthanised the young wallaby which I had picked up on the way, and the little pink joey was transported back to our Kotupna shelter with Deb for care.",
+          "This night is a perfect example of the ups and downs of shelter life and what we, as wildlife rescuers, have to cope with on a daily basis. Life and hope in one hand, death in another.",
+          "Operating a reliable 24 hour rescue service not only means we must be able to handle different wildlife species, injuries and rescue situations; it also means we must be competent at dealing with the human aspect. Just as wildlife that are injured are suffering great distress, many people who come across injured wildlife can find it very distressing and upsetting to be confronted with the situation, especially when they don’t know what they can do to help. The two kind gentlemen who hit this joey’s mother were greatly upset that she had died and when they discovered the tiny joey, they did not know who to call or what they should do. Once they made contact and realised that this little fellow could possibly be saved, they were relieved to find help and the feeling of helplessness subsided.",
+          "Although we deal with horrific injury often and it is a part of our job as wildlife carers and rescuers, we too feel the same distress and helplessness at times. We are by no means immune to it, just more accustomed to it. As I placed this precious cargo into a prepared pouch for transport and chatted to the guys about what would now happen to the little joey and how his chances were good because they had stopped to check and help, it was still fresh in my mind that moments before I was on my knees in the gravel on the side of a dark road, holding a terribly wounded wallaby’s head in my hands, trying to ease his suffering, assessing his injury and making decisions on what needed to be done. I believe that when I first passed this wallaby, he was sitting, hunched over but upright in the middle of the road. I believe that one of the other two cars which were travelling from both directions actually hit him in the time it took me to turn around. While I was tending to him on the roadside, a few more cars passed.",
+          "No one else stopped.",
+          "If I had not have happened to be heading to a rescue, he may have spent hours suffering on the roadside before he succumbed to his injuries. Although we may not show it, we do feel the distress too, and yes, it still hurts.",
+          "The little fellow in the photo (right) has an excellent chance of growing up to be independent and released back to his wild home. This is why we do what we do; for life and hope."
+        ]
+      },
+      "published": true
+    },
+    "ibis-entanglements": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-07-20",
+      "title": "Ibis entanglements",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/07/wnews20170720-031.jpg",
+      "abstract": "Two ibis were released at Bohollow on Friday. Both were local birds found in Shepparton and both were entanglement cases.",
+      "body": {
+        "pars": [
+          "Two ibis were released at Bohollow on Friday. Both were local birds found in Shepparton and both were entanglement cases.",
+          "One, a sacred ibis was the victim of fishing line and had been flying around the Shepparton Lake for a few months before I was finally able to catch him with our newest rescue tool, the net gun. Sadly, his feet had suffered badly from being caught in the line and on one foot he only had one toe left; the others had all fallen off previously through lack of circulation from the tightness of the line. The other foot had damage to the bottom of his leg and one toe was partially missing. When I finally caught him, he had deteriorated to the point of barely being able to walk and spent a lot of his time sitting right down on the ground, which is not a normal position for an ibis at all. He was also quite underweight.",
+          "After spending the past month at Bohollow, he has improved dramatically. Once the line was removed, he took a few days before beginning to walk much better and the day of his release, he barely had a limp. He will always bear the scars of the fishing line but now he has the chance to continue his life without the cruel fate hanging over his head which being entangled was going to bring.",
+          "This is one bird who I spent many hours attempting to catch and the happiness that fills my heart to see him hit the skies without that rotten line wrapped around his legs is one I find difficult to describe.",
+          "The other bird, a straw-necked ibis, was found entangled in a soccer net at a local school. His entanglement caused severe bruising and lacerations to both his wings but after only a couple of weeks in care, all evidence of his injuries were completely gone and he was itching to get back out there. They have been buddies in the same enclosure and as they were both ready to go at the same time, they were released together.",
+          "It surprised me that they both decided to stick around for a while as I know they are both flying really well. I expected them to take off into the blue yonder. We have large flocks of ibis of both species who frequent the paddocks of Bohollow and the neighbouring farmland and wetland so I know they will both join the flocks as they like to forage in groups.",
+          "Interestingly, from my observations of them in their wild environment, the flocks often consist of one or the other species but nearly always, in a flock of sacred ibis there will usually be at least one straw-necked and in a flock of sacreds there will undoubtedly be a single or a couple of straw-necked. I am not sure why this is so, but I do know they mix readily.",
+          "I last saw the straw-necked still feeding further out in the paddock and the sacred had flown further into the heart of the property and landed at the centre dam.",
+          "Good luck out there fellas and stay clear of line, twine and all things horrid."
+        ]
+      },
+      "published": true
+    },
+    "meet-earl": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2017-05-25",
+      "title": "Meet Earl",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2017/05/wnews20170525-026.jpg",
+      "abstract": "Earl was found on the ground at a farmland property at Earlston. There was no mother koala in sight, but in a nearby tree an adult male was spotted.",
+      "body": {
+        "pars": [
+          "Earl was found on the ground at a farmland property at Earlston. There was no mother koala in sight, but in a nearby tree an adult male was spotted.",
+          "Although it is outside the main breeding time for koalas in our area they can also mate during this time, so there is always the possibility that little Earl was separated from his mother in an altercation between her and a male. Like many of our patients here at Bohollow, we will never know his full story as to how he ran into trouble and ended up alone on the ground, but he has likely been without his mother for more than just one day as he is under-weight.",
+          "Deb picked him up from our Bunbartha shelter shortly after I arrived home with him and he has already perked up considerably with regular feeds and care. He will be raised by Deb at our Kotupna shelter and eventually go on to be released if all goes well.",
+          "Female koalas usually begin to breed around three or four years of age and can have one offspring each year, although sometimes they may only produce young once every two or three years. This can depend on food sources, habitat and the age of the female. Females average a lifespan in the wild of around twelve years and during their life they may only have  ve or six young.",
+          "From conception to the birth of a koala joey, it only takes 35 days! Newborn koalas are teeny, only weighing in at about a gram and measuring around 2cm long. Just like other marsupial joeys, they are akin to a hairless, pink, blind jelly bean and they make the same arduous journey from the birth canal to their mother’s pouch without any help. To do this, they rely on their sense of smell and touch, using their already strong forelimbs and claws to make the climb. Upon reaching the safety of the pouch, the koala joey attaches itself to one of two teats. The teat swells to  ll its tiny mouth which helps to prevent the babe from detaching and mother koala contracts muscles at the top of her pouch to keep her young safe and free from the danger of falling out.",
+          "For six to seven months, the koala joey remains in the pouch, only drinks its mother’s milk and develops eyes, ears and fur. When they are around twenty-two weeks old, they begin to take peeks out of the pouch with freshly opened eyes.",
+          "Koala mothers also produce a substance other than milk which is called pap. Pap has a soft, runny consistency and is actually made of faeces (droppings) and this is a vital part of the joey’s diet from around twenty-two to thirty weeks. Pap contains the micro- organisms in the mother’s digestive system and is rich in protein which, through digesting the pap, is passed onto the joey. This allows the transition from milk to eucalyptus leaves, as these important micro-organisms enable the koala to digest them. To feed on pap, the joey must lean out of the pouch. Pap becomes a regular part of their diet until they begin to feed on fresh leaves, usually feeding on these while on their mother’s back. When a koala joey is too big to  t inside the pouch, the mother’s teat becomes very elongated so it protrudes from the pouch to make feeding easier. A baby koala will continue to drink milk from their mother until they are a year old and remain with their mother until the next joey appears from the pouch. Therefore if a female does not have another joey the following year, her joey will often remain with her longer and has a greater chance of survival.",
+          "Koalas truly are one of Australia’s unique critters!"
+        ]
+      },
+      "published": true
+    }
+  }
+}

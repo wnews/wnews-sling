@@ -1,0 +1,8 @@
+{
+  "title":"Garden Hints &amp; Tips (2020)",
+  "sling:resourceType":"wnews/page/article-list",
+  "jcr:primaryType":"nt:unstructured",
+  "pageSize": 6,
+  "bannerUrl": "/gardening/current.html",
+  "bannerImage": "/assets/wnews/images/garden-hints.png"
+}

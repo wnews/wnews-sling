@@ -1,0 +1,24 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-02-04",
+  "title": "Top local citizens honoured",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/02/wnews20210204-001.jpg",
+  "body": {
+    "pars": [
+      "Getting together to celebrate community held special significance this year as we emerge from the quiet times of 2020. Australia Day was marked across the region with some traditional celebrations and, most importantly, citizens being recognised for outstanding contribution to their local communities.",
+      "In Rushworth Citizens of the Year, Leah Huggard and Christine Brown were announced as joint Citizens of the Year, recognising their work . . .",
+      "Young Citizen of the Year, was Julie Habegger, who also happened to be 2020 Dux of Rushworth P-12 College.",
+      "Although the wind blew (at times unpleasantly), a crowd of near to 90 gathered on the Village Green in the evening.",
+      "Mayor of Campaspe, Cr Chrissy Weller was present, along with Waranga Ward’s Cr Adrian Weston, both sharing a council role in the proceedings.",
+      "Guest Speaker was former police inspector Neil Thomas, now from The Great Aussie Beer Shed and Heritage Museum at Echuca."
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "Getting together to celebrate community held special significance this year as we emerge from the quiet times of 2020. Australia Day\nwas marked across the region with some traditional celebrations and, most importantly, citizens being recognised for outstanding\ncontribution to their local communities.",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "GV Level &amp; Lift",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/advertisements/GV Level &amp; Lift.jpg",
+  "telephone": "0400 217 201",
+  "testimonials": "enabled",
+  "published": true
+}

@@ -1,0 +1,6 @@
+{
+  "title":"Advertisements (2020)",
+  "sling:resourceType":"wnews/page/advertisement-list",
+  "jcr:primaryType":"nt:unstructured",
+  "pageSize": 7
+}

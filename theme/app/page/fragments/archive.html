@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+
+<section data-th-fragment="list(archives)">
+    <div class="wp-layout dynamic">
+        <ul>
+            <li data-th-each="archive : ${archives}">
+                <div data-th-replace="/apps/wnews/page/fragments/archive.html::link(${archive})">
+                </div>
+            </li>
+        </ul>
+    </div>
+</section>
+
+<article data-th-fragment="link(archive)">
+    <a data-th-href="|${archive.resource.path}.html|"><span data-th-utext="${archive.metadata.title}">[ARCHIVE]</span></a>
+</article>
+
+</body>
+</html>

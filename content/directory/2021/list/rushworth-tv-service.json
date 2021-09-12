@@ -1,0 +1,7 @@
+{
+  "sling:resourceType": "wnews/page/business",
+  "title": "Rushworth TV & Antenna Service",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/directory/2020/rushworth-tv-service.png",
+  "testimonials": "enabled",
+  "published": true
+}

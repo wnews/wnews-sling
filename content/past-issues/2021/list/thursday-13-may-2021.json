@@ -1,0 +1,11 @@
+{
+  "sling:resourceType": "wnews/page/front-page",
+  "date": "2021-05-13",
+  "title": "Thursday 13 May 2021",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/05/wnews20210513-01.jpg",
+  "abstract": "There were happy faces throughout Rushworth last week as the town’s first petrol station in many years opened for business. Bright and early on the Monday morning, the pumps were activated, the fuel price indicator board lit up, and the station’s three franchisees stood ready to welcome its fi rst customer through the door.",
+  "published": true,
+  "body": {
+    "content": ""
+  }
+}

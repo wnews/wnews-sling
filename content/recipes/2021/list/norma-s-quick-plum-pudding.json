@@ -1,0 +1,30 @@
+{
+  "sling:resourceType": "wnews/page/recipe",
+  "date": "2021-03-04",
+  "title": "Norma’s Quick Plum Pudding",
+  "media": "",
+  "abstract": "We sometimes appeal to our readers to send in their favourite recipes and very pleased when we get a response.\nOne of our regular and faithful subscribers, to the Waranga News, Norma Morgan of Highton, has sent in a couple of her quick and easy ones. Thanks, Norma!",
+  "body": {
+    "pars": [
+
+    ]
+  },
+  "ingredients": [
+    "1 cup milk",
+    "1 tbspn butter",
+    "1 cup plain flour",
+    "1/2 cup sugar",
+    "1 cup mixed fruit",
+    "1 tspn baking soda",
+    "1 tspn mixed spice"
+  ],
+  "method": [
+    "Bring the cup of milk and 1 tbspn butter to the boil.",
+    "Cool and stir in dry ingredients well.",
+    "Put in a greased basin and cover with foil, steam for two hours.",
+    "Serve with custard and/or cream."
+  ],
+  "testimonials": "",
+  "published": true,
+  "sidebar": ""
+}

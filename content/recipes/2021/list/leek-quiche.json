@@ -1,0 +1,48 @@
+{
+  "sling:resourceType": "wnews/page/recipe",
+  "date": "2021-02-18",
+  "title": "Leek Quiche",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/06/leek-quiche.jpg",
+  "abstract": "",
+  "body": {
+    "pars": [
+      "I’ve been keeping myself busy doing lots of cooking lately, and especially since buying myself a ‘new’ second-hand toy. A Thermomix or TM5.  A ‘Thermie’ has been something on my wish list for a number of years, and spotting an amazing bargain on Facebook Marketplace, I took the plunge and haven’t looked back. I LOVE IT! \nNow though this is a Thermomix recipe, I believe it would be very easily adaptable to conventional oven and stovetop cooking."
+    ]
+  },
+  "ingredients": [
+    "Pie Crust",
+    "100g blanched almonds",
+    "40g sesame seeds",
+    "200g rolled oats",
+    "¼ tsp salt",
+    "125g filtered water",
+    "Leek Filling",
+    "1 brown onion, cut into halves",
+    "3 garlic cloves",
+    "1 fresh long red chilli, deseeded",
+    "3 sprigs of flat-leaf parsley",
+    "40g extra virgin olive oil",
+    "2 leeks (approx. 400g), white part only cut into thin slices (5mm)",
+    "100g raw cashews",
+    "150g filtered water",
+    "2tsp salt",
+    "40g cornflour",
+    "300g silken tofu, cut into pieces",
+    "1-2 pinches of paprika"
+  ],
+  "method": [
+    "Preheat oven to 180C. Set aside a loose-based fluted tart tin (23cm).",
+    "Put almonds, sesame seeds, oats and salt into mixing bowl and mill 1 min/speed 9. ",
+    "Add water and mix 10 sec/speed 6. Transfer mixture into tart tin and evenly press into base and sides.  Mixture is VERY sticky to work, so I found wetting fingers made the spreading easier. Line pie shell with baking paper, then fill with pie weights, rice or dried beans. Bake for 18 mins. Remove from oven, remove baking paper and pie weights and set pie crust base aside for later. ",
+    "Reduce oven temperature to 160C.",
+    "Leek Filling – put onion, garlic, chilli and parsley into mixing bowl and chop 4 sec/speed 7. Scrape down sides of mixing bowl with spatula. ",
+    "Add oil and leeks and sauté 5 min/120C/reverse/speed 1. Transfer into a bowl and set aside. Clean and dry mixing bowl. 7. Put cashews into mixing bowl and chop 10sec/speed 9. ",
+    "Add water and blend 1 min/speed 9. ",
+    "Add salt, cornflour and tofu and blend 30 sec/speed 9. ",
+    "Add reserved Leek mixture and mix 5 sec/reverse/speed 3. Transfer into prepared pie crust, sprinkle with paprika and bake for 40-45 mins (160C), until just firm in the centre. Set aside to cool slightly before serving. ",
+    "Serve with fresh garden salad"
+  ],
+  "testimonials": "",
+  "published": true,
+  "sidebar": ""
+}

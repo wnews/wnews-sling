@@ -1,0 +1,68 @@
+---
+label: Recipe
+hide_body: true
+fields:
+- type: text
+  name: sling:resourceType
+  label: sling:resourceType
+  default: wnews/page/recipe
+  config:
+    required: true
+  hidden: true
+- type: datetime
+  name: date
+  label: date
+  config:
+    date_format: DD/MM/YYYY
+    export_format: YYYY-MM-DD
+- type: text
+  name: title
+  label: title
+- type: file
+  name: media
+  label: media
+- type: textarea
+  name: abstract
+  label: abstract
+- type: field_group
+  name: body
+  label: body
+  fields:
+  - type: list
+    name: pars
+    label: pars
+- type: list
+  name: ingredients
+  label: ingredients
+- type: list
+  name: method
+  label: method
+- type: text
+  name: testimonials
+  label: testimonials
+- type: boolean
+  name: published
+  label: published
+- type: text
+  name: sidebar
+  label: sidebar
+pages:
+- content/recipes/2019/list/raspberry-shortbread-cakes.json
+- content/recipes/2020/list/easiest-ever-moist-apple-cake.json
+- content/recipes/2020/list/turkish-menemen.json
+- content/recipes/2021/list/another-way-with-zucchinis.json
+- content/recipes/2021/list/cinnamon-sugar-donut-muffins-makes-12.json
+- content/recipes/2021/list/classic-braised-beef-stew.json
+- content/recipes/2021/list/leek-quiche.json
+- content/recipes/2021/list/more-peaches-1-peach-sorbet.json
+- content/recipes/2021/list/more-peaches-2-peach-crumble.json
+- content/recipes/2021/list/more-peaches-3-bellini-cocktail.json
+- content/recipes/2021/list/norma-s-mallee-quiche.json
+- content/recipes/2021/list/norma-s-quick-plum-pudding.json
+- content/recipes/2021/list/paul-s-smoked-duck-salad.json
+- content/recipes/2021/list/peaches-1-stewed-peaches.json
+- content/recipes/2021/list/peaches-3-peach-salsa.json
+- content/recipes/2021/list/peaches-three-ways.json
+- content/recipes/2021/list/rosie-s-easy-peasy-chocolate-slice.json
+- content/recipes/2021/list/scone-recipe-1.json
+- content/recipes/2021/list/scone-recipe-2-sconetime.json

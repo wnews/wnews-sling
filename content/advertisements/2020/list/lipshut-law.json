@@ -1,0 +1,9 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Lipshut Law",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/12/lipshut-law-christmas-2020.png",
+  "testimonials": "enabled",
+  "published": true,
+  "website": "",
+  "telephone": ""
+}

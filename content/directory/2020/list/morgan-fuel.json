@@ -1,0 +1,7 @@
+{
+  "sling:resourceType": "wnews/page/business",
+  "title": "Morgan Fuel & Grain",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/directory/2020/morgan-fuel.png",
+  "testimonials": "enabled",
+  "published": true
+}

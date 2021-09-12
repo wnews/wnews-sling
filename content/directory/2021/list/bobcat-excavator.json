@@ -1,0 +1,7 @@
+{
+  "sling:resourceType": "wnews/page/business",
+  "title": "Bobcat Excavator",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/directory/2020/bobcat-excavator.png",
+  "testimonials": "enabled",
+  "published": true
+}

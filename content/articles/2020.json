@@ -1,0 +1,980 @@
+{
+  "title":"Articles (2020)",
+  "sling:resourceType":"wnews/page/article-list",
+  "jcr:primaryType":"nt:unstructured",
+  "pageSize": 7,
+  "list": {
+    "callum-gleeson-voice-battle": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-07-02",
+      "title": "Callum Gleeson performs in ‘Battle\nRound’ of ‘The Voice’",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/07/img-0082.jpg",
+      "abstract": "Former Rushworth resident Callum Gleeson has shown his talent in the final ‘Battle Round’ of ‘The Voice’, the very popular talent\nquest on Channel 9. The program went to air on Monday 29 June.",
+      "body": {
+        "pars": [
+          "Former Rushworth resident Callum Gleeson has shown his talent in the final ‘Battle Round’ of ‘The Voice’, the very popular talent\nquest on Channel 9. The program went to air on Monday 29 June.",
+          "His coach Delta Goodrem partnered him\nwith twelve year old Emmagen Rain and they\nsang ‘Footloose’ by Kenny Loggins. The\natmosphere was electric and the audience\nloved their performance.",
+          "The feedback from the judges was\npositive, but it was up to Delta Goodrem, the\ncoach of both performers, to select whether\nCallum or Emmagen proceeded to the ‘Play-\nOff’ rounds.",
+          "Delta chose Emmagen because she felt\nshe could mould her to what she wanted to\nbe, whereas Callum is already an established\nartist. The ‘Play-Off’ rounds will be screened\non Channel 9 this coming Sunday, Monday\nand Tuesday evenings.",
+          "When asked by the Waranga News\nreporter about his reaction, Callum said, ‘To\nget to this point in ‘The Voice’ was a pinnacle\nof my career. I’ve had tremendous support\nfrom my fans and friends, and especially\nfrom my family.”",
+          "“People can connect\nwith me on my professional\nFacebook page - just type\nin my name. I will be doing\nlivestream concerts during\nthe COVID-19 lockdown at\n3:30 pm every Saturday and\nI would love people to make\nrequests and join in the fun,”\nhe added.",
+          "<strong>CDs available</strong>",
+          "All of Callum’s six CDs,\nincluding ‘Callum Gleeson\n– the Nashville Album’\nrecorded in Nashville,\nUSA, in June this year, are available for\npurchase at Focus Cards & Gifts in the\nMall at Shepparton, High Street Vacuums\nand Electrical in Shepparton, ONE FM, the\nWunghnu Tavern and at any of Callum’s gigs.",
+          "Each Thursday from 12 midday to 3pm\nCallum presents his popular program on 98.5\nONE FM, the community radio station in\nShepparton."
+        ]
+      },
+      "published": true,
+      "related": ["callum-gleeson-stars"]
+    },
+    "made-road-wetland": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-06-18",
+      "title": "“Made road” wetland in Rushy",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/06/wnews20200618-000.jpg",
+      "abstract": "This is Pyle Road, Rushworth, normally a winding gravelled road linking the western edge of Rushworth township\nwith many of the grain and grazing properties around Moora. When it rains, however, Pyle Road becomes an\nimpassable quagmire trapping any unwary motorist who chooses to plumb its depths!",
+      "body": {
+        "pars": [
+          "This is Pyle Road, Rushworth, normally a winding gravelled road linking the western edge of Rushworth township\nwith many of the grain and grazing properties around Moora. When it rains, however, Pyle Road becomes an\nimpassable quagmire trapping any unwary motorist who chooses to plumb its depths!",
+          "Numerous vehicles use Pyle Road on a\ndaily basis, as local residents make their\nway to and from work. At weekends, the\nsurrounding bush is a mecca for itinerant\nprospectors trying their luck with their latest\ngold detector.",
+          "Needless to say, Pyle Road is not the only\nlocal thoroughfare with surface “blemishes”,\nand with road bitumenising a mere pipedream\nin many parts of northern Victoria, this\nsituation is likely to persist.",
+          "One consolation, however, is that few\nroads around Echuca or other regional towns\ncan boast Rushworth’s variety of local native\norchids, which are now beginning their annual\njourney towards flowering and reproduction\nin the forest adjacent to Pyle Road."
+        ]
+      },
+      "published": true,
+      "related": []
+    },
+    "callum-gleeson-stars": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-06-18",
+      "title": "Callum Gleeson stars\non ‘The Voice’",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/06/wnews20200618-032.jpg",
+      "abstract": "A very popular talent show is Channel 9’s ‘The Voice’ and on\nMonday 9 June former Rushworth resident Callum Gleeson\nstarred.",
+      "body": {
+        "pars": [
+          "A very popular talent show is Channel 9’s ‘The Voice’ and on\nMonday 9 June former Rushworth resident Callum Gleeson\nstarred.",
+          "Callum, the son of Noel (a former policeman at Rushworth) and\nBev, is a well known entertainer and showcased his skills in this\ntelevision performance.",
+          "In the third last of the Blind Auditions, with the four coaches,\nGuy Sebastian, Delta Goodrem, Boy George and Kelly Rowland\nclose to having their teams full, it was not easy to get them to turn\ntheir chairs.",
+          "Callum sang ‘Locomotion’ and very positively engaged the large\naudience present and it was very rewarding for him when Delta\nGoodrem turned her chair and later complimented him for having ‘a\nbeautiful voice’. Delta will now be his coach in the ‘Battle Rounds’.",
+          "While on screen, Callum publicly thanked ‘my wonderful\nsupportive family who have been with me all along.’",
+          "Watching Callum off stage (but still featured on the television\nscreen) were his parents, his brother Tyson and the family’s two\npoodles that the production team had asked them to bring. (When not\nsinging, Callum loves to show his family’s poodles at dog shows).\nAfter his performance, a coach invited his mother to bring one of the\npoodles onto the stage and the coaches and the audience loved the\nbeautiful dog.",
+          "Callum doesn’t know when he will be next on ‘The Voice’."
+        ]
+      },
+      "published": true,
+      "related": ["/content/wnews/articles/2017/list/callum-gleeson"],
+      "sidebar": "/content/wnews/articles/2020/list/callum-gleeson-activities"
+    },
+    "callum-gleeson-activities": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2020-06-18",
+      "title": "Callum’s other activities",
+      "abstract": "Unfortunately COVID-19 has brought his career as an entertainer\nto a halt at present, but he has recorded his sixth CD when travelling\nto Nashville, USA, in June. It is entitled ‘Callum Gleeson – The\nNashville Album’. This CD is available for purchase at Focus\nCards & Gifts in the Mall at Shepparton, High Street Vacuums and\nElectrical in Shepparton, ONE FM, the Wunghnu Tavern and at any\nof Callum’s gigs.",
+      "body": {
+        "pars": [
+          "Unfortunately COVID-19 has brought his career as an entertainer\nto a halt at present, but he has recorded his sixth CD when travelling\nto Nashville, USA, in June. It is entitled ‘Callum Gleeson – The\nNashville Album’. This CD is available for purchase at Focus\nCards & Gifts in the Mall at Shepparton, High Street Vacuums and\nElectrical in Shepparton, ONE FM, the Wunghnu Tavern and at any\nof Callum’s gigs.",
+          "Callum is also a popular presenter on ONE FM, the community\nradio station at Shepparton, on Thursdays from 12 midday to 3pm."
+        ]
+      },
+      "published": false
+    },
+    "fonterra-support-community": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2020-06-18",
+      "title": "Fonterra teams up to support\ncommunity groups in northern Victoria",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/06/wnews20200618-042.jpg",
+      "abstract": "While we might be in the midst of winter, the local community will be able to make a splash this summer after the Stanhope Community\nPool received funding from Fonterra’s Grass Roots Fund to help keep the pool running.",
+      "body": {
+        "pars": [
+          "While we might be in the midst of winter, the local community will be able to make a splash this summer after the Stanhope Community\nPool received funding from Fonterra’s Grass Roots Fund to help keep the pool running.",
+          "The pool is one of six\ncommunity groups across\nnorthern Victoria to receive\nsupport from Fonterra this week,\nwith other initiatives ranging\nfrom fire safety equipment and\ncommunity gardens to sporting\nequipment and swimming\nprograms.",
+          "Fonterra Regional Operations\nManager Steve Taylor said\nFonterra was pleased to once\nagain be supporting local\ncommunity groups across\nnorthern Victoria.",
+          "“We’ve partnered with the\nStanhope Community Pool for the\npast four years because we know\nthat this facility plays a crucial\nrole in bringing communities\ntogether,” Mr Taylor said.",
+          "“It’s a hub for families during\nthe summer, it gets a lot of use\nand we know how important it is\nto our community.",
+          "“It’s a partnership that is\nimportant to us and our local\ncommunity.”",
+          "Stanhope Pool Committee\nSecretary Michelle Ponton said\nthe swimming pool had been\npart of the Stanhope community\nfor more than 70 years and was\na hive of activity in the summer\nmonths.",
+          "“We have more than 2000\npeople walk through our gates\nduring the summer period. It’s a\nplace where families can come\nand enjoy time together,” Ms\nPonton said.",
+          "“The support from Fonterra\nmeans we can cover the day-today\nrunning expenses of the pool\nand ensure it stays open for the\ncommunity. It also means we\ncan run our school swimming\nprogram for students from\nStanhope Primary School.",
+          "“It’s our job to provide a safe\nplace for people to swim, stay\nactive, and enjoy – thanks to\nFonterra we are able to do this.”",
+          "Mr Taylor said Fonterra’s\ncommunity sponsorship\nprogram is changing next year\nso it can further support its local\ncommunity.",
+          "“The team is currently\nworking through these changes\nand will be able to share more\ninformation on this later in the\nyear – so keep your eyes peeled,”\nhe said."
+        ]
+      },
+      "published": true,
+      "sidebar": "/content/wnews/articles/2020/list/fonterra-2020-recipients"
+    },
+    "fonterra-2020-recipients": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2020-06-18",
+      "title": "2020 recipients",
+      "abstract": "",
+      "body": {
+        "pars": [
+          "The other northern Victorian\nrecipients of Fonterra’s Grass\nRoots Fund for 2020 include:",
+          "<ul><li>Leitchville Gunbower Football\nNetball Club</li><li>Kyabram Fauna Park</li><li>Stanhope Fire Brigade</li><li>Stanhope Primary School Parents\nClub</li><li>Stanhope Bowls Club</li></ul>"
+        ]
+      },
+      "published": false,
+      "related": []
+    },
+    "colbo-on-silo-art-trail": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-06-04",
+      "title": "Colbo takes its place on the silo art trail",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/06/wnews20200604-000.jpg",
+      "abstract": "The Colbinabbin Silo Art Project Artist painting of the mural has now\nbeen finalised. Artist Tim Bowtell departed from town on Monday 25 May\nafter twelve weeks of painting an outstanding art mural of Colbinabbin’s\nHistory on the six Vic Feeds silos.",
+      "body": {
+        "pars": [
+          "The Colbinabbin Silo Art Project Artist painting of the mural has now\nbeen finalised. Artist Tim Bowtell departed from town on Monday 25 May\nafter twelve weeks of painting an outstanding art mural of Colbinabbin’s\nHistory on the six Vic Feeds silos.",
+          "Tim and his son Jake concluded the art work, providing a clear coat\nfinish over the entire art works to protect the design for everyone to enjoy\nfor many years.",
+          "The Colbinabbin community has enjoyed watching Tim transform the\nart canvas on their many daily visits. Thanks to Tim and his support\ncrew for completing the fantastic art designs which are already attracting\nvisitors to Colbo.",
+          "<strong>Next Steps</strong>",
+          "The Colbinabbin community now needs to take care of the art work,\nmaintain the surrounds and in partnership with the Colbinabbin &\nDistrict Historical Society Inc will now move to further develop the\nviewing area by expanding the parking space and creating parklands and\npicnic areas - so stay tuned!"
+        ]
+      },
+      "published": true,
+      "related": ["colbo-colour"]
+    },
+    "push-for-rail-trail": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-06-04",
+      "title": "Renewed push for Rail Trail",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/06/wnews20200604-007.jpg",
+      "abstract": "The much anticipated walking and cycling trail planned between Rushworth Murchison has once again attracted a new burst of\nenthusiasm amongst Rushworth residents and the creation of a ‘Rushworth Rail Trail Friends’ Facebook group.",
+      "body": {
+        "pars": [
+          "The much anticipated walking and cycling trail planned between Rushworth Murchison has once again attracted a new burst of\nenthusiasm amongst Rushworth residents and the creation of a ‘Rushworth Rail Trail Friends’ Facebook group.",
+          "<strong>Long term project</strong>",
+          "The rail trail project has been on the agenda\nsince a public meeting held in Rushworth in\n2007, at which 80 people attended to hear\nproposals for the disused railway corridor.",
+          "In 2009 Waranga News reported that\nthe Shire of Campaspe was successful in its\napplication, to control the lease of the railway\nland on which the Rushworth – Murchison\nRail trail will be constructed. Victrack was\nresponsible for the leasing of railway land in\nVictoria.",
+          "It was noted then that in the two years\nsince the original idea was suggested,\nextensive engineering reports had been made\nusing an Engineer appointed by the shire for\nthat purpose.",
+          "Over following years a number of\nnegotiations with VicTrack, DELWP, Parks\nVictoria and other bodies ensued, as well as\nfeasibility studies and cost analyses for the\nproject.",
+          "In 2016 Campaspe Council endorsed\nthe signing of land management agreements\nin order to progress external funding\nnegotiations.",
+          "While the proposed Waranga Trail included\nthe rail trail from Murchison to Rushworth and a\nconnecting trail through to Heathcote, separate\nscoping and estimates for each section were\ncarried out. An interim costing at the time\npredicted the Rushworth to Murchison link\nwould cost approximately $1.2 million.",
+          "<strong>Local action</strong>",
+          "Rushworth resident Graeme Hanigan\nrecently created the Facebook group\n‘Rushworth Rail Trail Friends’ in response to\na post asking about the project.",
+          "“In the space of just one week it has\ngained 180 members, which in my experience\nwith Facebook groups is quite remarkable\nand I believe reveals a genuine need within\nthe community,” Mr Hanigan said.",
+          "Followers of the page were encouraged\nto make a submission supporting the rail\ntrail project to the to the Shire’s draft budge\nprocess which closed last Friday.",
+          "The Waranga Trail was identified as a key\nShire of Campaspe project in the Regional\nDevelopment Australia prospectus."
+        ]
+      },
+      "published": true,
+      "related": {
+        "rushworth-okeefe-rail-trail": {
+          "page": "/content/wnews/articles/2017/list/rushworth-okeefe-rail-trail"
+        }
+      },
+      "sidebar": "/content/wnews/articles/2020/list/rail-trail-vision"
+    },
+    "rail-trail-vision": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-06-04",
+      "title": "The ‘Vision’ from 2007",
+      "abstract": "",
+      "body": {
+        "pars": [
+          "<ul><li>To transform the disused railway land into a multifunctional trail.</li><li>To develop an important environmental corridor which will benefit our precious and\nunique native flora and fauna.</li><li>To increase awareness regarding the flora and fauna of the district, including the\nvulnerability of many of the species within the box ironbark forest.</li><li>To provide educational opportunities.</li><li>To revegetate the trail, which will not only prevent erosion and therefore improve runoff\nwater quality, but it will also enhance the Basin foreshore and views.</li><li>To provide information on historical areas of significance along the trail.</li><li>To create a safe alternative route between Murchison and Rushworth that can be utilised\nby both pedestrians and cyclists alike.</li><li>To improve the health of the general population who will benefit by using the trail.</li><li>To provide economic benefit to the local community.</li></ul>"
+        ]
+      },
+      "published": false
+    },
+    "murchison-historical-society-still-active": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-06-04",
+      "title": "Work goes on for Murchison & District Historical Society!",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/06/wnews20200604-014.jpg",
+      "abstract": "Murchison & District Historical Society is still active behind the scenes during ‘lockdown’ and closure of the Heritage Centre, with\nvarious projects continuing by members working from home.",
+      "body": {
+        "pars": [
+          "Murchison & District Historical Society is still active behind the scenes during ‘lockdown’ and closure of the Heritage Centre, with\nvarious projects continuing by members working from home.",
+          "We have had contacts from\npeople who have now found\nthe time to follow up on family\nhistory, others wanting details\nof local properties and others\nreviving memories of time spent\nin Murchison some years ago.\nOne such person is John Taylor, a\ntrainee surveyor employed by the\nState Rivers and Water Supply\nCommission in 1953 who was\ninvolved with the building of the\nCattanach Canal and who was\nbilleted in the abandoned POW\nCamp 13 Murchison.",
+          "John has sent some great\nphotographs of the Bucyrus-Erie\nwalking dragline (commonly\nreferred to as “Monaghan”).\nThis enormous machine replaced\nthe heavy work previously\nperformed by horses dragging a\nsingle bucket and human labour\nat the time of the construction\nof the Stuart Murray Canal in\nthe 1890’s. Monaghan, which\nwas fitted with a 30m boom,\na 5.7m³ bucket, and a 385 HP\ndiesel motor, was able to move a\nmassive 7,186m³ of soil per hour.\nMonaghan was imported entirely\nfrom USA, and was assembled\non-site in Murchison. A total of\n4,500,000m³ of soil was removed\nduring its two years on the Canal.",
+          "This mechanisation meant\na more direct course to the\nWaranga Basin was possible,\ncompared to the early days\nwhen building the Stuart Murray\nCanal. Then, any elevated terrain\nwas avoided that would entail\nmassive excavation, resulting in a\ncircuitous, meandering and much\nlonger route whereas the walking\ndragline with its huge bucket,\nploughed straight through hills in\nits path thus creating the shorter,\nstraighter Cattanach Canal.",
+          "The ‘Big Cut’ is a rarelyseen\nsection of the Cattanach\nCanal where the channel cut\nthrough a rise just before the\nCanal enters the Waranga\nBasin. Here the depth of cut\nis the greatest on the Canal, up\nto 19m, resulting in impressive\nsteep cliff-like walls.",
+          "<em>Kay Ball,\nPresident, Murchison & District\nHistorical Society</em>"
+        ]
+      },
+      "published": true,
+      "related": []
+    },
+    "a-new-look-for-stanhope": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-06-04",
+      "title": "A New Look Business Centre for Stanhope",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/06/wnews20200604-021.jpg",
+      "abstract": "During the COVID lockdown the Stanhope Business Centre has received a complete new facelift.",
+      "body": {
+        "pars": [
+          "During the COVID lockdown the Stanhope Business Centre has received a complete new facelift.",
+          "Firstly it was given a new paint job, with\na changed colour scheme of light grey and\na dark grey for the trims, with the windows\nremaining white.",
+          "According to the Business Centre\nmanagers and the Stanhope & District\nDevelopment Committee Inc (S&DDC),\nlocal feedback received has been one hundred\npercent positive.",
+          "Recently, a historic mural has been\nattached to the Monash Street side wall.\nThis mural is created from very old photos\ngathered by the S&DDC from a variety of\nsources, depicting the very early history\nof Stanhope. It records the time following\nthe breaking up of the huge Winter-Irving\nEstate, the formation of the Closer Settlement\nScheme by the Government and later,\nfollowing the First World War, the Soldier\nSettlement Scheme.",
+          "They also show the very early formation\nof the Stanhope & District Dairy Co operative\non the same site and the forerunner of today’s\nFonterra. These are displayed together with\nan early photo of the Stanhope railway station\nand a photo of the disastrous fire, which\ndestroyed most of the businesses on the south\nside of Birdwood Avenue in the 1920s.",
+          "These photos and the stories that\naccompany them, were gathered mainly by\nGlenda Cowie, President of the S&DDC and\nother members of the committee.",
+          "The photos were transposed by Karl\nDevlin, of Karl Devlin Signs, onto aluminium\nand attached to the wall for all to see.",
+          "All this was made possible in part, by a\ngrant received by the S&DDC from FRRR."
+        ]
+      },
+      "published": true,
+      "related": []
+    },
+    "perfect-place-to-excercise": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-05-21",
+      "title": "A perfect place to exercise",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/05/wnews20200521-000.jpg",
+      "abstract": "As COVID-19 restrictions are gradually eased, many people are seeking new places to explore while exercising.\nOne such place is literally on Rushworth’s door-step .... its spectacular nine hole sand green Golf Course nestled\nbetween the Old and New Rushworth-Tatura Roads and liberally enhanced with native flora and fauna.",
+      "body": {
+        "pars": [
+          "As COVID-19 restrictions are gradually eased, many people are seeking new places to explore while exercising.\nOne such place is literally on Rushworth’s door-step .... its spectacular nine hole sand green Golf Course nestled\nbetween the Old and New Rushworth-Tatura Roads and liberally enhanced with native flora and fauna.",
+          "Following higher than normal rainfalls in\nlate 2019 and during the first few months of\nthis year, the Course is resplendent in diverse\nshades of green.",
+          "Rushworth Golf Club President Denis\nHardie says that the Club encourages\nmembers of the public to enjoy the Course for\nexercise, pet walking and bush exploration\nwhile enjoying the fresh air in a delightful\nsetting.",
+          "The best access to the Course is via the\nClubhouse carpark in Tatura Road, where\nthere is ample parking. Social distancing will\nstill be required, and visitors are asked to help\nmaintain the Course’s immaculate appearance\nby sensible and sensitive use of the grounds.",
+          "So if the opportunity presents, enjoy\nthe Rushworth Golf Course and its many\nattractions - we know you’ll enjoy it!",
+          "<em>(Call Denis on 0422156285 for more information.)</em>"
+        ]
+      },
+      "published": true,
+      "related": []
+    },
+    "creating-writing-course": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-05-21",
+      "title": "Creative Writing course to start on 1 June",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/05/wnews20200521-031.jpg",
+      "abstract": "In the last edition of the Waranga News, Rushworth Community House advised readers that it was planning to deliver\na Creative Writing course over the coming weeks and several people have already expressed an interest in joining the\nprogram. The course will be going ahead, but with a few changes that should make it even better!",
+      "body": {
+        "pars": [
+          "In the last edition of the Waranga News, Rushworth Community House advised readers that it was planning to deliver\na Creative Writing course over the coming weeks and several people have already expressed an interest in joining the\nprogram. The course will be going ahead, but with a few changes that should make it even better!",
+          "Teacher and published author John\nKriesfeld will run the course over eight weeks\nbeginning on Monday, 1 June. Sessions start at\n6.30pm and finish around 8pm.",
+          "With the easing of COVID-19 restrictions,\nit was decided to run the course “face-to-face”\nin the Community House’s large multipurpose\nroom, where up to six students and the course\nleader can be accommodated using social\ndistancing guidelines.",
+          "The course will cover all of the important\nelements of creative writing using prepared\nnotes, workshopping, developmental exercises\nand homework, and is designed to enhance\neach student’s individual writing style.",
+          "Whether they plan to write a professional\npersonal CV or a major work of fact or fiction,\nstudents will benefit from the course.",
+          "At just $80 for the entire eight weeks, it’s\ngenuine value for money. Who knows, you\nmight soon join the irrepressable Ian Rogerson\n(pictured at right) at the Waranga News and create some magical tales for people of all ages\nto enjoy. Please call Rushworth Community\nHouse on 5856 1295 to book a place on this\nexciting new local initiative."
+        ]
+      },
+      "published": true,
+      "related": [],
+      "sidebar": "/content/wnews/articles/2020/list/how-to-right-real-good"
+    },
+    "how-to-right-real-good": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": false,
+      "date": "2020-05-21",
+      "title": "HOW TO RIGHT\nREAL GOOD",
+      "abstract": "",
+      "body": {
+        "pars": [
+          "<ol><li>Always avoid annoying alliteration!</li><li>Don’t succumb to redundant-type\nredundancy or use more words than\nnecessary as it is quite superflfluous.</li><li>Always be more or less specifific.</li><li>A preposition is not a thing to end a\nsentence with.</li><li>Avoid cliches like the plague - after all\nis said and done, they’re old hat.</li><li>Comparisons are as bad as cliches!</li><li>Rhetorical questions! Who needs ‘em?</li><li>You’s the write won when words\nsound a like.</li><li>Exaggeration is billions of times\nworse than understatement.</li></ol>"
+        ]
+      },
+      "published": false,
+      "related": []
+    },
+    "excellent-quality-wines": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-05-21",
+      "title": "Heathcote region producing excellent quality wine this year",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/05/wnews20200521-029.jpg",
+      "abstract": "As vintage 2020 comes to a close,\nwinemakers and grape growers around\nthe country are taking stock of what was\na particularly challenging vintage. But the\nnews is not all bad for local wine lovers.",
+      "body": {
+        "pars": [
+          "As vintage 2020 comes to a close,\nwinemakers and grape growers around\nthe country are taking stock of what was\na particularly challenging vintage. But the\nnews is not all bad for local wine lovers.",
+          "With COVID-19 occupying the news over\nthe last couple of months, it’s easy to forget the\nevents that shaped our summer. The Australian\nwine industry was particularly exposed to the\nchallenges posed by dry conditions, bushfires\nand finally the COVID-19 pandemic.",
+          "The growing season started with dry\nconditions, due to a lower than average\nrainfall over winter. None the less, the vines\nbegan their march toward harvest with bud\nburst occurring in early spring.",
+          "In late November, hot windy weather\ncoincided with flowering in some grape\ngrowing regions of south-eastern Australia.\nThe hot conditions resulted in a reduction\nin the number of flowers that set fruit on the\nvine, reducing the yield potential of some\nvarieties. The weather was very warm in\nDecember, however it moderated in January,\nallowing vines to grow well and establish a\nhealthy canopy.",
+          "Meanwhile, the bushfires in New South\nWales, South Australia and Victoria grew\nin size and burnt larges areas of each state.\nThe fires sadly destroyed some vineyards,\nwhile many others were indirectly affected\nby smoke taint. Smoke taint occurs when\nripening grapes are bathed in fresh smoke for\na period of time. Compounds from the smoke\nare absorbed into the skin of the grape, which\ncan be transferred to the wine during the\nwinemaking process.",
+          "<strong>Not affected by smoke\ntaint</strong>",
+          "Thankfully, testing of grapes prior to\nharvest at the Australian Wine Research\nInstitute laboratory showed that grapes from\nthe Heathcote wine region were not affected\nby smoke taint.",
+          "“We feel grateful because some growers\nin the Hunter Valley and other regions\nadjacent to the fires chose not to harvest at all\nthis year,” said Gerard Kennedy of Kennedy\nVintners.",
+          "Finally, in the middle of vintage, Australia\nwent into lockdown due to the COVID-19\npandemic. This dealt the industry another\nblow because of its reliance on the hospitality\nindustry and cellar doors to sell the majority\nof our wine.",
+          "While it has been a challenging vintage\nfor Heathcote producers, this year’s wines\nare developing to be of excellent quality,\nwith intense colour and flavour. This is a\nvery positive and welcome end to an eventful\nvintage 2020.",
+          "If you are looking to purchase wine,\nplease consider supporting one of the many\nsmall businesses located in the Heathcote\nwine region. Many wineries have online\nstores and will ship directly to your door.",
+          ""
+        ]
+      },
+      "published": true,
+      "sidebar": "/content/wnews/articles/2020/list/kennedyvintners-special-offer",
+      "related": []
+    },
+    "kennedyvintners-special-offer": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": false,
+      "date": "2020-05-21",
+      "title": "Special offer for Waranga\nNews readers",
+      "abstract": "",
+      "body": {
+        "pars": [
+          "Kennedy Vintners are pleased to offer a\n20% discount to the readers of the Waranga\nNews. Being from Heathcote, they have three\ndelicious Shiraz wines to choose from:",
+          "<ul><li><strong>2018 Henrietta Shiraz</strong> - bright and fruity\nwith soft tannin</li><li><strong>2016 Kennedy Shiraz</strong> - structured and\nsavoury with a core of red fruit</li><li><strong>2014 Cambria Shiraz</strong> - their flagship\nShiraz showing intense dark fruit with a\ntouch of earth and fine tannin.</li></ul>",
+          "Visit <a href=\"http://www.kennedyvintners.com.au\">www.kennedyvintners.com.au</a> and\nuse the discount code ‘waranga’ at checkout\nto claim 20% off your order."
+        ]
+      },
+      "published": false,
+      "related": []
+    },
+    "time-to-celebrate": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-05-07",
+      "title": "Time to celebrate our Nurses",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/05/wnews20200507b-001.jpg",
+      "abstract": "On 12 May each year International Nurses Day is celebrated globally on the birthday of Florence Nightingale, the founder of modern nursing.",
+      "body": {
+        "pars": [
+          "On 12 May each year International Nurses Day is celebrated globally on the birthday of Florence Nightingale, the founder of modern nursing.",
+          "There surely couldn’t be a more appropriate time to celebrate the work of our nurses than in the middle of a health crisis such as\nwe are experiencing at present. Pictured are some of our local nurses: Lynn Cruz, Beth Parker, Amy Francis and Amanda Williams\nfrom the Waranga Medical Centre.",
+          "The central role nurses and midwives\nhave in the delivery of care to communities\nacross the globe has been recognised by the\nWorld Health Organisation (WHO) declaring\n2020 the ‘Year of the Nurse and Midwife’.",
+          "This also coincides with the 200th\nanniversary of the birth of Florence\nNightingale. We celebrate and acknowledge\nthe invaluable contributions nurses make to\nhealth care and improving outcomes for all.",
+          "As the single largest workforce group,\nnurses are there at every turn, making a real\ndifference to the care and the experience of\npatients and their families and carers.",
+          "We acknowledge the compassion,\nprofessionalism, and commitment of nurses\ncaring for patients in our community and\ncelebrate and appreciate nurses, for their\nimportant role of nursing across the world.\nThank you nurses!"
+        ]
+      },
+      "published": true,
+      "related": []
+    },
+    "financial-support": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-05-07",
+      "title": "Financial support measures\nendorsed to support community",
+      "abstract": "Campaspe Shire Council has endorsed a range of financial support measures to assist\nratepayers, residents, businesses and community groups in response to the coronavirus\npandemic.",
+      "body": {
+        "pars": [
+          "Campaspe Shire Council has endorsed a range of financial support measures to assist\nratepayers, residents, businesses and community groups in response to the coronavirus\npandemic.",
+          "Mayor, Cr Adrian Weston said the\nmeasures are aimed at supporting individuals\nand groups experiencing difficulty in paying\na range of Council charges such as rates,\naccounts, rents, as well as suspending debt\ncollection or enforcement action.",
+          "“We acknowledge there are still many\nunknowns at the moment, particularly\naround the length of time the impacts will be\nexperienced to control and manage the spread\nof coronavirus,” Cr Weston said.",
+          "“Also each person’s circumstance is\ndifferent and while we have endorsed a range\nof measures, I would encourage individuals\nor groups who feel the measures do not\nsupport their specific circumstance to make\ncontact as soon as possible.”",
+          "A summary of the financial support\nmeasures are:",
+          "<ul><li>Rate payments</li><li>EWMAC</li><li>Animal registrations</li><li>Library fees</li><li>Hire fees</li><li>Rental payments – Council owned commercial properties</li><li>Rental payments – Council owned</li></ul>",
+          "Supporting payment plans to address\nindividual needs; waiving interest for the\nperiod from 25 March to 30 September 2020;\nand suspending any debt collection processes\nuntil 30 September 2020.",
+          "Pausing direct debits for the Echuca War\nMemorial Aquatic Centre until the centre\nreopens; extension of prepaid memberships\nto honour the number of months impacted or,\non request, offer a pro-rata refund from 23\nMarch 2020.",
+          "Deferring enforcement action on unpaid\nregistrations until 30 September 2020.",
+          "Waiving library fees from Monday, 23\nMarch 2020 for any non-returned materials\nuntil one month after the library service\nreturns to full operation.",
+          "Refunding all fees paid in advance to\nhire Council facilities, including the Echuca\nWharf and recreation reserves, where an\nevent has been cancelled as a result of the\npandemic.",
+          "Waiving monthly commercial property\nrental payments for businesses or community\ngroups impacted by the State Government\nRestricted Activities direction, occupying\nCouncil buildings and facilities by lease or\nlicence, from Monday, 23 March 2020 for\nthree months, then on a month by month\nbasis until the direction to remain closed is\nrevoked.",
+          "Waiving rental payments for businesses,\nartisans or community groups impacted by\nthe State Government Restricted Activities\ndirection, occupying Council buildings and\nfacilities by lease or licence in line with\nCouncil’s Leases for Community Groups Waiving rental payments for businesses,\nartisans or community groups impacted by\nthe State Government Restricted Activities\ndirection, occupying Council buildings and\nfacilities by lease or licence in line with\nCouncil’s Leases for Community Groups Artisans Policy, on a pro rata basis for\nthree months, then on a month by month\nbasis until the direction to remain closed is\nrevoked.",
+          "Deferring payments for community\ngroups impacted by the State Government\nRestricted Activities direction occupying\nCouncil buildings and facilities by a User\nAgreement until 30 September 2020.",
+          "Agreeing to surrender any lease or licence,\nif a business or community group gives\nnotice, without penalty until 30 September\n2020, except when there is an outstanding\ndebt prior to 23 March.",
+          "Suspending debt collection processes\nuntil 30 September 2020.",
+          "Waiving the 14 day notice period for the\ncancellation of any child care attendance at\nCouncil operated child care centres from 23\nMarch.",
+          "Waiving, on a monthly pro rata basis, fees\nrelated to the 2020/21 public spaces trading\npermits for the display of goods, A-frames\nand footpath trading, if businesses have been\nimpacted by the State Government Restricted\nActivities direction, until the direction is\nrevoked.",
+          "“The financial implications of these\nmeasures to Council have not been quantified\nat this stage, however impacts that extend\ninto the 2020/21 financial year will be\ncaptured when a revised budget is developed\nand can be more precisely quantified,” the\nMayor added.",
+          "“We are acutely aware that the recovery of\ncommunities and the local economy will need\nto be our paramount focus when restrictions\nare eased.”",
+          "Council will now write to businesses and\ncommunity groups set to benefit from these\nfinancial support measures outlining how\nthese support measures will be applied.",
+          "More detail about the financial support\nmeasures will also be made available on\nCouncil’s website, <a href=\"http://www.campaspe.vic.gov.au/covidfinance\">www.campaspe.vic.gov.au/covidfinance</a>."
+        ]
+      },
+      "published": true,
+      "related": []
+    },
+    "anzac-day-commemoration-2020": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-04-23",
+      "title": "2020 Anzac Day commemoration via live streaming and online",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/04/wnews20200423-006.jpg",
+      "abstract": "This year Anzac Day 2020 will be commemorated in a very different way, as coming together as community becomes both a memory\nand a future aspiration. While the traditional Dawn Service and veterans’ marches will not take place this year, Australians are being\ninvited to mark the day in a number of safe and special ways.",
+      "body": {
+        "pars": [
+          "This year Anzac Day 2020 will be commemorated in a very different way, as coming together as community becomes both a memory\nand a future aspiration. While the traditional Dawn Service and veterans’ marches will not take place this year, Australians are being\ninvited to mark the day in a number of safe and special ways.",
+          "As every year, no matter where you may\nbe, you can follow Anzac Day services and\nceremonies on the ABC.",
+          "To acknowledge the sacrifices of our\nservicemen and women, a nationally\nbroadcast commemorative service will take\nplace at the Australian War Memorial on the\nmorning of Anzac Day, 25 April. The ABC\nwill begin pre-service programming from 5\nam, with the service broadcast live from the\nCommemorative Area and Hall of Memory\nfrom 5.30 am.",
+          "The event will not be open to the public\nbut will be broadcast live across Australia\nand streamed online. The ABC will make\nthe broadcast available to other networks\nunder a host broadcaster arrangement to\nenable people to mark Anzac Day safely\nand respectfully from home. It will include a\nminute’s silence around 6 am so you can pay\nyour respects wherever you may be.",
+          "Director of the Australian War Memorial,\nMatt Anderson PSM, said that the situation\nsurrounding the COVID-19 pandemic makes\nthis year’s Anzac Day all the more important.",
+          "“Anzac Day is traditionally about\nacknowledging the resilience and fortitude\ndemonstrated by the Anzacs at Gallipoli and\nthe subsequent legacy that was born. Across\nthe community, people are drawing upon\ntheir own resources to deal with this global\nhealth crisis,” Mr Anderson said.",
+          "“It is vital that we have the opportunity\nto take time to pause and reflect on Anzac\nDay, if not as some brief respite from the\noverwhelming nature of the pandemic, but\nbecause it’s what we do.",
+          "“Anzac Day happens every year and\nit will happen in 2020, albeit in different\ncircumstances. We are resolute in our\ncommitment to ensuring Australians can\nhonour the Australian servicemen and\nservicewomen who have served in the\npast, and recognise those who are currently\nserving.”",
+          "The commemorative service will be\nattended by dignitaries representing the\nCommonwealth of Australia, the people of\nNew Zealand, the Returned and Services\nLeague, and veterans. There will be a\nceremonial piper, didgeridoo player and\nbugler among other traditional elements.",
+          "A special pre-recorded Last Post\nCeremony will be posted to the Memorial’s\ndigital platforms at 4.55 pm on Anzac Day.\nThe ceremony will feature the story of\nPrivate Thomas Anderson Whyte of the 10th\nBattalion AIF who was killed during the\nlanding at Gallipoli in 1915, read by Sergeant\nShelby Powell of the Royal Australian Air\nForce.",
+          "<strong>ANZAC Appeal</strong>",
+          "Although people cannot buy badges from\nveterans this year, donations to the annual\nappeal can be made online via a secure and\neasy to use donation website, <a target=\"_blank\" href=\"http://anzacappeal.com.au\">anzacappeal.com.au</a>.",
+          "While there is no face to face selling of\nbadges this year by Sub-branches, badges\nare available for purchase from Woolworths\nfrom 15 April at the service desks."
+        ]
+      },
+      "published": true,
+      "related": ["events-cancelled"]
+    },
+    "innovative-time": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2020-04-23",
+      "title": "Innovative time for local businesses",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/04/wnews20200423-009.jpg",
+      "abstract": "While COVID-19 has made these past\nfew weeks a challenging time for local\nbusinesses, especially those in the\nhospitality sector, it has also prompted\nsome new ways of working in a bid to\nkeep the operation afloat.",
+      "body": {
+        "pars": [
+          "While COVID-19 has made these past\nfew weeks a challenging time for local\nbusinesses, especially those in the\nhospitality sector, it has also prompted\nsome new ways of working in a bid to\nkeep the operation afloat.",
+          "With restrictions on ‘sitting in’ for meals\nat the Motofinish Cafe in Rushworth, owner\nFiona is one of many who have adapted\ntheir service to off-site dining.",
+          "The Motofinish menu is now not only\navailable for takeaway, but it can also be\naccessed in a number of different ways.\nCustomers are welcome to visit the shop\n(socially distancing of course!) and choose\nfrom the variety of meals at the counter.\nOr, especially for the regulars who know\nexactly what they want, the order can be\nordered by phone and picked up at the\nkerbside (without ever leaving your car) or\neven delivered right to the front door.",
+          "With contactless payment made easy\nwith the portable EFTPOS device, all is\nin place for safe and easy meals when the\nnovelty of ‘isolation cooking’ has worn off!"
+        ]
+      },
+      "published": true,
+      "related": ["we-can-still-eat-ice-cream"]
+    },
+    "wicked-community": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2020-04-23",
+      "title": "Living in a ‘WICKED’ community",
+      "abstract": "Campaspe Shire Council is calling on the community to provide feedback on waste and\nthe environment through the annual WickED (Waste in Campaspe – know, educate, do)\nsurvey.",
+      "body": {
+        "pars": [
+          "Campaspe Shire Council is calling on the community to provide feedback on waste and\nthe environment through the annual WickED (Waste in Campaspe – know, educate, do)\nsurvey.",
+          "Regulatory and Community Services\nGeneral Manager, Paul McKenzie said\nCouncil is collecting data on community\nperception and behaviour relating to waste\nand the environment.",
+          "“A central component of Council’s\nwaste education program, the survey will\nprovide valuable information on residents’\nknowledge, attitudes and behaviours in\nrelation to the environment and waste\nmanagement practices in Campaspe,” Mr\nMcKenzie said.",
+          "“Survey results will guide the direction\nof the WickED program over the next 12\nmonths.”",
+          "WickED informs and educates, shaping\npositive attitude and behaviour change in\nwaste reduction, and the survey provides\ninsight into the impact the program is having\non the community.",
+          "The survey seeks feedback on the use of\nCouncil’s eight transfer stations, kerbside\ncollection, illegal dumping and what\ngoes in what bins. It provides consistent\nbaseline data to help with identifying waste\neducation priorities as well as the planning,\ncoordination, implementation and evaluation\nof the program year on year.",
+          "“It is reassuring to learn that over time,\nresults from the WICKED survey have shown\na considerable shift in peoples’ attitudes and\nbehaviour towards waste reduction and the\nhealth of the environment,” Mr McKenzie\nsaid.",
+          "Over the past six years, there has been\na positive shift towards environmentally\nfriendly behaviours including:",
+          "<ul><li>81% of respondents within the shire use\na transfer station</li><li>94% of respondents use their own bags\nwhen shopping (66% increase)</li><li>78% of respondents use recycling bins\nin public areas (12% increase)</li><li>81% of respondents are concerned for\nthe environment</li><li>More than 7,400 properties across the\nshire have now opted for a food and garden\nwaste bin, reducing the amount of waste\ngoing to landfill</li></ul>",
+          "By completing the survey, respondents\nwill go in the draw to win prizes including an\nApple IPad valued at $530.",
+          "The WickED survey is open to all\nCampaspe Shire and Moama residents,\ngroups, businesses and schools, and can be\naccessed via Council’s website. The online\nsurvey closes Monday, 1 June."
+        ]
+      },
+      "published": true,
+      "related": []
+    },
+    "quiet-achievements": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2020-04-23",
+      "title": "Quiet achievements at Community House",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/04/wnews20200423-038.jpg",
+      "abstract": "As the COVID-19 Pandemic rolls on, Rushworth Community House remains closed to members of the public. However, individual\nvolunteers have kept the House “ticking over” for the last few weeks, and look likely to continue doing so for the foreseeable future.\nThis edition of the Waranga News highlights a couple of special activities that will prove valuable when the current restrictions are\neased or lifted.",
+      "body": {
+        "pars": [
+          "As the COVID-19 Pandemic rolls on, Rushworth Community House remains closed to members of the public. However, individual\nvolunteers have kept the House “ticking over” for the last few weeks, and look likely to continue doing so for the foreseeable future.\nThis edition of the Waranga News highlights a couple of special activities that will prove valuable when the current restrictions are\neased or lifted.",
+          "Rushworth Community Garden holds a\nspecial place in the hearts and minds of many\nlocal people. At this time of year, the garden\nlooks, feels and smells wonderful.",
+          "Wednesdays have traditionally been\nthe day when community gardeners gather\ntogether to work on their masterpiece, but\nwith current social distancing laws, such\nassemblies are prohibited. Nevertheless, the\ngarden still needs lots of maintenance and\nvolunteers are coming in solo each day to\nwater the plants, attend to the worm farm and\nto remove weeds before they can spread.",
+          "<strong>No buns in the oven</strong>",
+          "The loneliest object in the Community\nGarden has to be its hugely popular Pizza\nOven, which produces sensational pizzas\nusing vegetable, herbs and spices fresh from\nthe Garden. A lot of local people are really\nlooking forward to its next “performance”!",
+          "<strong>Behind closed doors</strong>",
+          "Meanwhile, back inside the Community\nHouse, upgrading of its extensive computer\nfacilities is nearing completion, with only a\nfew multi-person tasks still outstanding.",
+          "Importantly, all computers at the\nHouse now use Microsoft’s Windows 10\nProfessional operating system, together\nwith wireless keyboards and mice and the\nstandardisation will have major benefits\nwhen the House’s many computing activities\n(Computer Classes, WebDotWiz, Genealogy)\nresume and can be enjoyed with workstation\ncommonality and user confidence.",
+          "Some workstations have now been fitted\nwith ultra-modern Hewlett Packard “All-In-\nOne” computers that are a delight to use.",
+          "Slightly older desktop units have been\nupgraded with additional memory and\nother enhancements that have dramatically\nimproved their performance.",
+          "Special PCs have also been built for the\nrugged environs of the Mens’ Shed and the Art\nDepot, both of which occupy space in the old\nShire of Campaspe maintenance area. These\nmachines are recycled and re-engineered\nIBM desktops that are built tough! (below).",
+          "Tests soon revealed that the House’s\nrecent WiFi service High Street enhancement\nstill did not cover the Art Depot or Mens\nShed, so microwave links were installed to\nensure that both the Shed and the Depot could\nuse the powerful RCH computer network.",
+          "Remember that members of the public\ncan use the Community House WiFi from\ntheir cars or nearby houses. Though no public\nuse of the internal machines is currently\npermitted, the WiFi service remains in\noperation."
+        ]
+      },
+      "published": true,
+      "related": ["covid-closes-community-house"]
+    },
+    "we-can-still-eat-ice-cream": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-04-09",
+      "title": "Hard times - but we can still eat ice cream!",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/04/wnews20200409-000.jpg",
+      "abstract": "The Cottage Ice Cream Shop has become a well-known and popular go-to venue for residents and visitors to Rushworth.\nThis April should be party time as owners Michelle and Stewart celebrate its 10th birthday - but, alas, the celebrations\nmust wait! Still, it’s with some relief that we see the business remains one of the bright spots in our quiet town at the\nmoment.",
+      "body": {
+        "pars": [
+          "The Cottage Ice Cream Shop has become a well-known and popular go-to venue for residents and visitors to Rushworth.\nThis April should be party time as owners Michelle and Stewart celebrate its 10th birthday - but, alas, the celebrations\nmust wait! Still, it’s with some relief that we see the business remains one of the bright spots in our quiet town at the\nmoment.",
+          "We asked Michelle how she felt after ten years serving\nice cream to (very appreciative) children and adults\neach day.",
+          "“From a very slow beginning and being able to withstand\nall the trials that have come with starting a small business,\nwe can now sit back and reflect on what has become our\nnew life and home.,” she said.",
+          "“Flicking back through my Journal (yes I actually kept\nit) has brought back a lot of memories. I ran the business\nvirtually on my own for the first 12 months before Stewart\nmoved up here permanently. I will admit that I was a little\nbit terrified at the time as I did not know the town or anyone\nhere.",
+          "“Now that we have reached our 10th birthday we are so\nhappy we made the decision to make Rushworth our home.\nWe love our town and the people who live here.",
+          "“Thank you to all our wonderful customers who have\nsupported our shop over the last 10 years,” she added.",
+          "<strong><em>Congratulations Cottage Ice Cream Shoppe!</em></strong>"
+        ]
+      },
+      "published": true,
+      "related": ["events-cancelled"],
+      "advert": "/content/wnews/advertisements/2020/list/cottage-ice-cream-shoppe"
+    },
+    "colbo-colour": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-03-26",
+      "title": "Colbo Colour",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/03/wnews20200326-000.jpg",
+      "abstract": "Mayor Adrian Weston recently called into the viewing area at the Colbinabbin Silo Art site to check on the progress of the project with Committee members.",
+      "body": {
+        "pars": [
+          "Mayor Adrian Weston recently called into the viewing area at the Colbinabbin Silo Art site to check on the progress of the project with Committee members. With the central concrete R Class Locomotive painting almost complete, artist Tim Bowtell will make a start on one of the metal silos this week. In a few days the next subject matter will be revealed - you can follow along on Facebook for a daily artwork update and guess the emerging theme! Pictured in front of the almost completed artwork are Barry Dawson, Frank Stewart, Adrian Weston, Mary Ann Morgan, Sadie Vale and Guy Rathjen."
+        ]
+      },
+      "published": true,
+      "related": ["/content/wnews/articles/2020/list/colbo-silo-art-boost"],
+      "sidebar": []
+    },
+    "events-cancelled": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-03-26",
+      "title": "Events cancelled due to COVID-19",
+      "abstract": "Readers will be aware of the event restrictions put in place in an effort to control the spread of the COVID-19 virus. All events with an attendance of 500 or more people have been either cancelled or postponed until further notice. Many smaller events have been cancelled or postponed at the discretion of their organisers. Because COVID-19 is a new virus there are many unknowns, the least of these unknowns is when postponed events will eventually be held.",
+      "body": {
+        "pars": [
+          "Readers will be aware of the event restrictions put in place in an effort to control the spread of the COVID-19 virus. All events with an attendance of 500 or more people have been either cancelled or postponed until further notice. Many smaller events have been cancelled or postponed at the discretion of their organisers. Because COVID-19 is a new virus there are many unknowns, the least of these unknowns is when postponed events will eventually be held.",
+          "<h2>Rushworth businesses and services</h2>",
+          "<strong>The Cottage Ice Cream Shoppe</strong>",
+          "Remaining open for business at this stage - with cleaning and sanitising in between customers.",
+          "No seating will be available as all food and drink must be in take away containers and not consumed in the shop.",
+          "* Please keep the distance rules in mind at all times if you are in the shop or out and about.",
+          "<strong>The Criterion Hotel</strong>",
+          "Public bar is closed however the bottle shop is still trading 10am till 9pm.",
+          "The Pizza shop is open from 11am till 9pm and will also have for sale Roast Chicken, chips and salad and more options.",
+          "Delivery coming soon.",
+          "<strong>Pharmacy</strong>",
+          "Open as usual but if showing symptoms please don’t come in, call the pharmacy on 5856 1402",
+          "If needing delivery please contact the Rushworth Community House on 5856 1295.",
+          "<strong>Post office</strong>",
+          "Running as usual (no word from head office for any changes at this stage). Encouraging social distancing etc.",
+          "<strong>IGA</strong>",
+          "Normal hours. Limit of one packet toilet paper and 1kg mince or two of any one product. Social distancing is encouraged. 58561441.",
+          "<strong>Rushworth Hotel</strong>",
+          "Bottle shop sales - take away only (see advert page 8)",
+          "<strong>Golden Nugget</strong>",
+          "Same hours, no seating inside takeaway food only. 5856 2000",
+          "<strong>Motofinish Cafe</strong>",
+          "Open normal hours, with take away meals, takeaway coffee, lunch and diner packs available. Roast beef and gravy rolls for takeaway. Deliveries available 0438 018 192.",
+          "<strong>Hardware</strong>",
+          "Rushworth Hardware running as usual and enforcing social distancing.",
+          "<strong>Butcher</strong>",
+          "Normal hours, limit on mince to 1 kg.",
+          "<strong>Rushworth Bakery</strong>",
+          "Open as normal take away food only at the moment . good coffee and full range of bread pies and cakes",
+          "<strong>Variety Store</strong>",
+          "Closed until further notice.",
+          "<strong>Waranga News</strong>",
+          "The office will be closed to the public so please phone on 5856 1120 or email wnews@iinet.net.au with enquiries and contributions for the paper.",
+          "<strong>Rushworth Community House</strong>",
+          "See Page 12 for full details."
+        ]
+      },
+      "published": true,
+      "related": ["coronavirus-update"],
+      "sidebar": "/content/wnews/articles/2020/list/cancelled-or-postponed"
+    },
+    "cancelled-or-postponed": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2020-03-26",
+      "title": "Cancelled or postponed events (as notified by Tuesday 24 March)",
+      "abstract": "",
+      "body": {
+        "pars": [
+          "<ul><li>CFA-VFBV Firefighter State Championships (Mooroopna)</li><li>Colbinabbin NBFBC (all games and matches until 31 May)</li><li>‘Meeting of the Waters’ exhibition launch (Port of Echuca)</li><li>Moora Working Horse Muster</li><li>Port of Echuca Easter Spectacular</li><li>Rushworth Easter Heritage Festival and street parade</li><li>Rushworth Hotel RCH Good Friday Appeal fundraiser</li><li>Rushworth Lions Easter wood auction (Easter Saturday)</li><li>Tatura Amateur Basketball Association (all programs)</li></ul>",
+          "It is suggested that if you wish to know if an event is still running you should contact the organisation involved."
+        ]
+      },
+      "published": false,
+      "related": []
+    },
+    "hairitage-on-moora": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-03-26",
+      "title": "Hairitage stays on Moora",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/03/wnews20200326-010.jpg",
+      "abstract": "Over the past few weeks a new acronym, WFH, has become common to describe the work situation for many people. But for Helen Hutchins, owner and operator of Hairitage on High, her new plan to ‘work from home’ was in place long before a virus disrupted our traditional ways of working.",
+      "body": {
+        "pars": [
+          "Over the past few weeks a new acronym, WFH, has become common to describe the work situation for many people. But for Helen Hutchins, owner and operator of Hairitage on High, her new plan to ‘work from home’ was in place long before a virus disrupted our traditional ways of working.",
+          "Helen has been very busy and very hands-on over several months, transforming her house into not just her home but also her business. You may have noticed the house (next to the old fire station) slowly transforming into the now beautifully restored old house that certainly belies a former life as a butcher shop!",
+          "It’s not only Helen’s great business sense that shone through as she renovated her home to accommodate her business. Over this time she also become very knowledgeable in home renovation and learnt many aspects of the building and restoring process, all while continuing to operate her hairdressing salon.",
+          "“I really am grateful and appreciate the support of the community, friends and family who have rolled up their sleeves and given me a hand. I couldn’t have done it without them,” Helen said.",
+          "Earlier this month Helen relocated and started trading her hairdressing salon business from 22a Moora Road to 13 Moora Road, Rushworth.",
+          "The move was a win-win situation for Rushworth. As Helen was moving out, Brendan and the team from Rushworth Hardware were moving in. Both businesses were expanding and, importantly, there was no addition to the tally of Rushworth’s empty shops (a common affliction in many country towns).",
+          "The good news for Helen’s clients is that she remains accessible, especially for those who aren’t very mobile, the new venue is pleasant and homely, and (we’re told) you can sit back while having your hair done and watch all the happenings down the main street.",
+          "And, as an added bonus, while having a cut and colour you may even be able to have a DIY consultation with Helen!",
+          "So why not give her a call on her old/new number 5856 1180 and make an appointment."
+        ]
+      },
+      "published": true,
+      "related": [],
+      "sidebar": []
+    },
+    "rushworth-hardware-expansion": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-03-26",
+      "title": "Rushworth Hardware & Electrical expansion",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/03/wnews20200326-008.jpg",
+      "abstract": "Brendan Hawking, owner of Rushworth Hardware & Electrical, opened the extension to his business on Wednesday 11 March.",
+      "body": {
+        "pars": [
+          "Brendan Hawking, owner of Rushworth Hardware & Electrical, opened the extension to his business on Wednesday 11 March.",
+          "With Helen moving her hairdressing salon to the new location, Brendan decided to take over the vacant shop, which is in the same building as his hardware store.",
+          "Brendan told the Waranga News, “We needed more room to expand our product range. We had a little bit of everything – now we can have more. This will help both our business and the town.”",
+          "The former hairdressing salon is now used as the entrance and the check-out counter for Rushworth Hardware & Electrical. It was originally run as a grocery shop by Brendan’s Great-Great Grandfather, Roy Hawking. This is why the current entrance has extensive shelving around two of its walls.",
+          "Everyone is invited to come along and check out the bigger and better Rushworth Hardware and Electrical.",
+          "“Come in and have a look at our new store. You will be made very welcome, and will be under no obligation to buy anything.’"
+        ]
+      },
+      "published": true,
+      "related": [],
+      "sidebar": []
+    },
+    "covid-closes-community-house": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-03-26",
+      "title": "COVID-19 closes Community House",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/03/wnews20200326-032.jpg",
+      "abstract": "Rushworth Community House has joined thousands of businesses across Australia and closed its doors to members of the general public. The decision was taken at a recent meeting of the House’s Committee of Management, and reflects the potential danger to staff, volunteers and visitors posed by exposure to the COVID-19 virus.",
+      "body": {
+        "pars": [
+          "Rushworth Community House has joined thousands of businesses across Australia and closed its doors to members of the general public. The decision was taken at a recent meeting of the House’s Committee of Management, and reflects the potential danger to staff, volunteers and visitors posed by exposure to the COVID-19 virus.",
+          "The closure comes hot on the heels of the Community House’s 2020 Annual General Meeting, where several significant changes occurred. (A full report of the House AGM will appear in a future Waranga News edition.)",
+          "<strong>The looming threat</strong>",
+          "Rushworth Community House is usually a hive of activity, offering a huge range of classes, activities and services throughout the week. Amongst these is the Centrelink Access Point, which is the area’s sole official site for Centrelink and Medicare services.",
+          "As COVID-19 cases in Australia began to climb, RCH Committee members met to assess the situation and approve changes that would likely occur as the crisis deepened.",
+          "Announcements by both State and Federal Governments last weekend confirmed their worse fears. Social isolation has now become mandatory, and all ‘routine’ Community House public activities and most services - including the Access Point - have been shut down indefinitely.",
+          "Given the age and medical status of many Community House volunteers, the risk of infection from people visiting the building compelled the closure of all face-to-face interactions, including those associated with the Government Services Access Point.",
+          "<strong>Cessation of services</strong>",
+          "As a result, Rushworth Community House is unable to provide any of the following services during the COVID-19 closure:",
+          "<ul><li>Centrelink Access Point</li><li>Office services (photocopying etc.)</li><li>First Aid training</li><li>Other accredited courses</li><li>Men’s Shed Program</li><li>Welding Classes</li><li>WebDot Wizards</li><li>Basic Computers Classes</li><li>Carer Support Group</li><li>Preparing for Work activities</li><li>Wood-fired Pizzas</li><li>Community and Sensory Garden</li><li>Creative threads and Stitches</li><li>Genealogy Group</li><li>Art Group</li><li>Health &amp; Fitness Classes</li><li>Cooking Classes</li><li>Music Groups</li><li>Internet/PC Use</li><li>Document Creation Photography</li><li>Passport &amp; ID Photos</li><li>Graphic Design</li><li>Business Support</li><li>Mobile and PC Support</li><li>Picture Framing</li><li>Other Art Depot activities</li><li>Museum Tours</li></ul>",
+          "<strong>Transport service</strong>",
+          "For many years, Rushworth Community House has run a popular patient transport service which carries local people to and from medical appointments in Shepparton, Kyabram, Echuca and Bendigo, winning high praise from clients and medical service providers alike.",
+          "Committee members felt that it was vital to maintain this service, albeit in a scaled-down form. The current scarcity of suitable drivers means that the House can now only transport clients who have no other way of getting to and from their appointments. All other registered clients are being asked to seek help from family members or friends.",
+          "As an additional service, locals who require transport to and from medical appointments <em>but are not currently registered for the House’s medical transport service</em> may be referred to one of several volunteers who have indicated a willingness to help out in cases of genuine and urgent need.",
+          "<strong>Telephone service</strong>",
+          "RCH will run a telephone answering service each weekday between 9am and 1pm. Volunteers manning the phone will be able to take urgent medical transport bookings for people registered to use the House’s Medical Transport service.",
+          "Volunteers may also be able to refer callers facing difficulties to other organisations such as the Salvation Army or government-based assistance providers.",
+          "It is hoped that RCH volunteers will also be able to help the community by delivering groceries and pharmaceuticals to local people who have no means of shopping personally. Details of this proposed service are yet to be finalised as this edition of the Waranga News goes to press, so please call the House if you require emergency shopping help.",
+          "Call 5856-1295 between 9am and 1pm Monday to Friday to access this service.",
+          "<em>Please do not call outside these hours as nobody will be available to take those calls.</em>",
+          "<strong>Other activities</strong>",
+          "Free Wi-Fi will be available to the public in High Street near the Community House. Access details are listed on signs in the House front windows. Users should be aware that due to the increased numbers of people using the Internet while self-isolating at home, access speeds may be lower than normal.",
+          "During the COVID-19 Community House shut-down, a number of other volunteers will be active at the House from time to time. Plants in both the Community Garden and the smaller Sensory Garden will be watered several times weekly.",
+          "Other volunteers will be at the House from time to time servicing the extensive computer network and carrying out routine maintenance tasks. All such work will be rostered to meet social isolation standards to protect RCH personnel and the community."
+        ]
+      },
+      "published": true,
+      "related": [],
+      "sidebar": "/content/wnews/articles/2020/list/new-rch-manager"
+    },
+    "new-rch-manager": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2020-03-26",
+      "title": "New RCH Manager",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/03/wnews20200326-033.jpg",
+      "abstract": "Eloise Mitchell retired from the Community House at the end of February after five years as RCH Manager. Among the many highlights of her tenure were securing grants for programs designed to keep the community healthy in mind and body while expanding local artistic creativity.",
+      "body": {
+        "pars": [
+          "Eloise Mitchell retired from the Community House at the end of February after five years as RCH Manager. Among the many highlights of her tenure were securing grants for programs designed to keep the community healthy in mind and body while expanding local artistic creativity.",
+          "(A comprehensive acknowledgement of Eloise’s many valuable achievements will appear in a future Waranga News edition.)",
+          "Sharron Handley-Kriesfeld (left) has been appointed as the new RCH Manager and commenced duties at the beginning of March. She has extensive experience with Neighbourhood and Community Houses, and is a trained book-keeper, skills which will make her a great asset in Rushworth.",
+          "Since arriving at the Community House, Sharon has worked tirelessly with staff and volunteers to prepare the organisation for the impact of COVID-19, ensuring maximum support for the local community while ensuring protection for its personnel."
+        ]
+      },
+      "published": false,
+      "related": []
+    },
+    "community-bank-scholarship-winner": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-03-12",
+      "title": "Community Bank Tertiary Scholarship winner announced",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/03/wnews20200312-003.jpg",
+      "abstract": "Congratulations to Rushworth & District Community Bank 2020 Tertiary Scholarship recipient Euan Suarez!",
+      "body": {
+        "pars": [
+          "Congratulations to Rushworth & District Community Bank 2020 Tertiary Scholarship recipient Euan Suarez!",
+          "Euan, a local Rushworth boy, will travel to La Trobe University Bendigo to complete a Bachelor of Education.",
+          "The $2500 scholarship will assist Euan in his access to higher education, which can be challenging in rural Victoria.",
+          "As a Community Bank, the Board is proud to support local rural students so they can access tertiary education.",
+          "And it’s thanks to customers and shareholders that the Bank can continue to support young people in our community achieve their dreams of higher education and hopefully, one day to bring their skills home."
+        ]
+      },
+      "published": true,
+      "related": ["/content/wnews/articles/2020/list/community-bank-supports-waranga-news"],
+      "sidebar": "/content/wnews/articles/2020/list/volunteer-awards"
+    },
+    "volunteer-awards": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2020-03-12",
+      "title": "Now open – 2020 Volunteer Awards",
+      "abstract": "Campaspe Shire Council has opened nominations for the 2020 Volunteer Awards which acknowledge and reward individuals and groups within our community who work tirelessly to benefit others.",
+      "body": {
+        "pars": [
+          "Campaspe Shire Council has opened nominations for the 2020 Volunteer Awards which acknowledge and reward individuals and groups within our community who work tirelessly to benefit others.",
+          "Mayor Cr Adrian Weston said the awards program highlights the value of what volunteers bring to our community, making it a better place to live.",
+          "<strong>Awards are presented in the following categories:</strong>",
+          "<ul><li><strong>Individual:</strong> outstanding voluntary contribution and achievement by an individual person</li><li><strong>Young person:</strong> outstanding voluntary contribution and achievement by a person aged under 25 years</li><li><strong>Organisation:</strong> an outstanding contribution and achievement by a not-for-profit organisation for supporting its volunteers.</li></ul>",
+          "“We have an extraordinary level of programs provided by volunteers and often the value of our volunteers is overlooked. This is our chance to say thank you for their outstanding commitment,” Cr Weston said.",
+          "The awards coincide with National Volunteer Week, 18 – 24 May, and will be presented at a special ceremony to be held on 21 May. The winners of the Individual and Young Person categories will each receive a prize to the value of $250 and the winner of the Organisation category will receive a prize to the value of $550.",
+          "“Often, volunteers don’t seek recognition and reward, so I encourage you to nominate a worthy candidate for their ongoing support and the positive difference they make to our community,” Cr Weston said.",
+          "The closing date for 2020 Volunteer Award nominations is Friday, 17 April. Nomination forms are available on Council’s website or from customer service centres."
+        ]
+      },
+      "published": false,
+      "related": []
+    },
+    "coronavirus-update": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2020-03-12",
+      "title": "Information on Coronavirus for the Goulburn Valley Community",
+      "abstract": "Goulburn Valley Health (GV Health) is prepared in case the Coronavirus (COVID-19) spreads to the Goulburn Valley region and has a number of key messages to help the community protect against infection.",
+      "body": {
+        "pars": [
+          "Goulburn Valley Health (GV Health) is prepared in case the Coronavirus (COVID-19) spreads to the Goulburn Valley region and has a number of key messages to help the community protect against infection.",
+          "Two students currently in Shepparton on an international school exchange program have been investigated for possible Coronavirus infection. On the advice of the Department of Health and Human Services the students self-isolated in the care of one of their teachers and now tests have been found to be negative.",
+          "GV Health’s Executive Director Medical Services & Chief Medical Officer, Dr John Elcock said other students from Shepparton schools are not at this point considered to have been in contact with a confirmed case and are not required to take any specific measures or to self-quarantine.",
+          "“While there are only a small number of confirmed Coronavirus cases in Victoria there is a high probability that the virus will spread and impact more Victorians,” Dr Elcock said.",
+          "“The World Health Organisation (WHO) has declared the new coronavirus outbreak a Public Health Emergency of International Concern.",
+          "“All of us can play our part in containing the spread of this virus by doing a couple of simple things.",
+          "“You should pay close attention to good hand hygiene. Wash your hands regularly with soap and water, especially before eating and after using the toilet.",
+          "“Cover your mouth and nose when coughing and sneezing with a tissue or cough into your elbow. Dispose of the tissue into a bin and then wash your hands with soap and water afterwards.",
+          "“If you have travelled to (including transit through) a country considered to pose a risk of transmission in the 14 days before onset of illness or if you have had close or casual contact in the 14 days before illness onset with a confirmed case of COVID-19 we recommend you call the Coronavirus hotline, “Dr Elcock added.",
+          "Countries that are at higher risk include Mainland China (excludes Hong Kong, Macau and Taiwan), Iran, Italy and South Korea. Countries deemed as moderate risk are Cambodia, Japan, Hong Kong, Indonesia, Singapore, and Thailand.",
+          "Dr Elcock said that it is not necessary for anyone to wear face masks if they are well.",
+          "“Face masks are not recommended for use by members of the public in Victoria.",
+          "“Stocks of masks will be in high demand in health services and GV Health’s supply will be kept for staff and patients.",
+          "“It is also important that if your feel unwell with any of the listed symptoms that you call the Coronavirus hotline which is serviced by Nurse-On-Call on 1800 675 398.",
+          "“We ask that you keep Triple Zero (000) calls for emergencies only.",
+          "“In the case you need to come to the Emergency Department please call ahead on 5832 2322 so we can meet you in the car park with a face mask before entering the health service,” Dr Elcock said."
+        ]
+      },
+      "published": true,
+      "sidebar": "/content/wnews/articles/2020/list/covid-19-symptoms"
+    },
+    "covid-19-symptoms": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2020-03-12",
+      "title": "Common symptoms",
+      "abstract": "",
+      "body": {
+        "pars": [
+          "The most common symptoms of COVID- 19 include:",
+          "<ul><li>Fever</li><li>Breathing difficulties such as breathlessness</li><li>Coughs</li><li>Sore throat and</li><li>Fatigue or tiredness.</li></ul>"
+        ]
+      },
+      "published": false,
+      "related": []
+    },
+    "action-at-service-station": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-02-27",
+      "title": "Action at Rushworth service station site",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/02/wnews20200227-000.jpg",
+      "abstract": "As reported in the last Waranga News, there is excitement in Rushworth that there is ‘some long awaited action at the High Street service station site’.",
+      "body": {
+        "pars": [
+          "As reported in the last Waranga News, there is excitement in Rushworth that there is ‘some long awaited action at the High Street service station site’.",
+          "Simon Stanley, the National Installation Manager for Fuel System Solutions, the business undertaking the work for the owners, Aksara, says the work at the service station is expected to be completed by the end of March, with the opening date up to the owners to decide. When open, it will dispense Western Fuels.",
+          "There has been no change to the plans. While the front facade of the building will remain unchanged, there will be new electrical wiring and the building’s interior will be fitted out as a ‘normal’ service station shop. A new one shell 60,000 litres fibre-glass tank with four compartments was installed on Thursday 20 June 2019, and the remaining concrete, a lot of soil and old infrastructure have been removed since work re-began, and piping from the storage tank to the fuel outlets has been installed.",
+          "Asked why the work on the station, which was scheduled to be completed towards the end of August last year was delayed, Simon Stanley said a contributing factor was getting the necessary permits from the authorities.",
+          "When asked about rumours circulating about the delay, he said:",
+          "<ul><li>There had been no unexpected problems with the sale of the business.</li><li>There has been no change in ownership or the business supplying fuel.</li><li>There are no doubts about the service station being profitable.</li></ul>",
+          "Asked if the financial viability of the owner was a possible reason for delay, Simon Stanley said his business (Fuel Solutions) never comments on any business’s finances.",
+          "The opening of the service station, the only one in Rushworth, will be a wonderful asset. Locals will no longer need to leave town for fuel and will be more likely to buy products and services from Rushworth businesses, rather than shopping elsewhere while getting fuel out-of-town."
+        ]
+      },
+      "published": true,
+      "related": []
+    },
+    "rushworth-solar-installation": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-02-27",
+      "title": "Rushworth solar installation for GVW",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/02/wnews20200227-002.jpg",
+      "abstract": "Solar panels have recently been installed at the Rushworth Water Treatment Plant as part of a GVW (Goulburn Valley Water) project to reduce greenhouse gas emissions and reduce operating costs.",
+      "body": {
+        "pars": [
+          "Solar panels have recently been installed at the Rushworth Water Treatment Plant as part of a GVW (Goulburn Valley Water) project to reduce greenhouse gas emissions and reduce operating costs.",
+          "The panels are being installed as part of GVW’s $5.4m solar panel roll out, where panels will be installed in ten of GVW’s towns, which also include Shepparton, Tongala and Kyabram.",
+          "The project involves installation of both ground mounted and roof mounted panels at a select number of GVW facilities across the Goulburn Valley over the coming months.",
+          "General Manager of Planning and Assets, Daniel Hughes, said this work is part of a large-scale project to install over 4,800 high-efficiency solar PV panels on GVW land and infrastructure, resulting in a reduction in greenhouse gas emissions of approximately 4,500 tonnes of carbon dioxide equivalent each year.",
+          "‘This project is intended to reduce both greenhouse gas emissions, and operating costs associated with energy bills,’ he said.",
+          "The panels installed at Rushworth will produce an average annual energy production of over 40,000 kWh, the equivalent amount of energy required to run the plant.",
+          "‘It is our intention to neutralise energy consumption at each of the selected sites,’ he said.",
+          "‘The number of panels installed at each of the sites has been determined based on the amount of energy that plant requires to run, and we expect that eventually the operation of these sites will be optimised so they predominantly function in sunlight hours.’",
+          "This roll out project is at about the halfway mark and is being delivered by Solgen Energy Group.",
+          "This comes at no extra cost to customers."
+        ]
+      },
+      "published": true,
+      "related": []
+    },
+    "colbo-community-store-is-born": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-02-27",
+      "title": "Colbinabbin Community Store Project is born",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/02/wnews20200227-004.jpg",
+      "abstract": "On Wednesday 19 February over 100 people gathered in the Colbinabbin Hall to hear about the proposed co-op inspired Colbinabbin Community Store Project.",
+      "body": {
+        "pars": [
+          "On Wednesday 19 February over 100 people gathered in the Colbinabbin Hall to hear about the proposed co-op inspired Colbinabbin Community Store Project.",
+          "Matt McEvoy led the meeting where he presented some background on how the idea came about; a small group of local Colbinabbin ladies lamenting about the general store being up for sale and dreaming about the idea of having a community owned store.",
+          "Months went by with lots of discussions, some meetings, many phone calls and emails and then finally the meeting on Wednesday which took place to really get a sense of the community’s interest and commitment.",
+          "As expected, Colbo locals, and the interested surrounding community, really showed their support with a fantastic crowd turning up to the hall, not only to hear Matt present the project, but also to listen to specific ‘shareholder model’ advice from Brent, GMG Financial Group, Swan Hill.",
+          "Also attending were Terry and Paul representing the Lockington Pub, who gave a brief overview of the successful community buy-out of the Lockington Pub. This follows the same model the Colbinabbin Community Store Steering Committee are hoping to implement with their project."
+        ]
+      },
+      "published": true,
+      "related": ["/content/wnews/articles/2020/list/save-our-store"]
+    },
+    "murchison-holds-its-breath": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-02-13",
+      "title": "Murchison community still holding its breath for nursing home reprieve",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/02/wnews20200213-005.jpg",
+      "abstract": "The fate of Murchison’s nursing home and associated amenities still seems to hang in the balance, as the community mood swings from ‘never trust a politician’ to hope and belief that their Canberra connections can still come through.",
+      "body": {
+        "pars": [
+          "The fate of Murchison’s nursing home and associated amenities still seems to hang in the balance, as the community mood swings from ‘never trust a politician’ to hope and belief that their Canberra connections can still come through.",
+          "The Murchison community had been reeling once again with the news that the D P Jones Nursing Home would be closed by mid-February, despite previous assurances by the Federal Government that it would remain open.",
+          "In October 2019 the facility went into voluntary administration, taking with it the Neighbourhood House, Men’s Shed and Medical Centre buildings. The local community knew this would tear the heart and soul from their small town. Consequently they banded together, and with the assistance of local member Damian Drum, received assurances that a new aged care provider would be found and the Nursing Home would remain open.",
+          "Community representatives also met with the Deputy Prime Minister and Leader of the National Party, Michael McCormack, in November last year and after the meeting the community was once again assured that the Nursing Home would remain open.",
+          "Despite these assurances the liquidator, Richard Cauchi of SV Partners, stated in late January that no buyer had been found and the home would close within fourteen days.",
+          "The news left the Murchison Community Action Group, which has worked tirelessly to save the facility, concerned they had been given empty promises.",
+          "“It now appears the Federal Government has reneged on its promise and they have instructed the liquidator to close the home within 14 days,” said MCAG Chairman Warwick Gregory at the time.",
+          "However, since the initial shock announcement Murchison has continued its fight for survival of the complex and has been ‘waiting with bated breath’ to hear some positive news from the government.",
+          "The MCAG said, “Despite an enormous amount of political upheaval and dealing with the bushfire situation, Damien Drum is working tirelessly behind the scenes trying to achieve a positive outcome for the Murchison community.”",
+          "They still hold out hope for their Nursing Home, as well as the Neighbourhood House, Men’s Shed and Medical Centre.",
+          "“We are holding our breath, but believe the government will manage to bring home a solution. We have gone this far and we refuse to give up hope just yet,” Warwick Gregory, said recently.",
+          "<strong>Steph Ryan: “poor handling”</strong>",
+          "Euroa MP and The Nationals deputy leader, Steph Ryan, has slammed both state and federal governments for failing to assist the Murchison community following the collapse of Murchison Community Care last year.",
+          "Ms Ryan has again written to both levels of government to request their urgent attention to prevent the closure of the Nursing Home and the flow-on effects this will have for the town’s future.",
+          "“I am deeply disappointed by how this process has been handled,” Ms Ryan said.",
+          "<strong>New hope</strong>",
+          "been raised once again with Honeysuckle Regional Health aged care provider confirming it had renewed a previous offer to take over operation of the nursing home.",
+          "Honeysuckle also operates facilities in Violet Town and Bendigo. It was one of at least three aged care providers who had previously submitted expressions of interest to the liquidators. However SV Partners said no viable offers had been made to keep the facility going.",
+          "the last of the residents being relocated, the MCAG and the Murchison community still hold out hope it can relive once again."
+        ]
+      },
+      "published": true,
+      "related": []
+    },
+    "save-our-store": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": false,
+      "date": "2020-02-13",
+      "title": "Save our store! Colbinabbin locals propose community shareholder plan",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/02/wnews20200213-006.jpg",
+      "abstract": "It all started one day when some clever local women came up with the idea to purchase the Colbinabbin Store, which has been on the market for two years now, using a community-owned shareholder model.",
+      "body": {
+        "pars": [
+          "It all started one day when some clever local women came up with the idea to purchase the Colbinabbin Store, which has been on the market for two years now, using a community-owned shareholder model.",
+          "The concern these women held, along with many other locals, was that Colbo could lose the store (which includes the post office), as has happened in surrounding areas. Needless to say, losing the store would have devastating consequences on the community.",
+          "The idea was discussed at length, and gained legs when local Matt McEvoy, was able to look at it with a fresh perspective and give the idea the push it needed.",
+          "Subsequently, Matt and a group of Colbo locals formed a steering committee, and have been putting together a plan for a community shareholder-type purchase of the Colbinabbin General Store.",
+          "The group unanimously agreed the store needed to evolve and grow along with the needs of the town in today’s modern, changing world. They proposed a community shareholder model because it offered this possibility for change and growth through the following:",
+          "<ul><li>If people had ownership of the store, they would be naturally more inclined to support it.</li><li>With this model, profits would go back to the whole community, helping to localise our economy.</li><li>This in turn would create future security for the store and all the services it currently offers, plus more.</li></ul>",
+          "One of the immediate foreseeable advantages would be the large financial injection from the community as a whole, which would allow for significant renovations and refurbishment of the existing premises, bringing a bright, new look and feel to the ageing storefront.",
+          "The steering committee has had meetings with various accounting and law firms and has engaged GMG Financial Services from Swan Hill, to assist them with this venture. GMG recently oversaw the successful community takeover of the Lockington Hotel.",
+          "The steering committee is proposing the project will need to happen quickly in order to capitalise on other upcoming community projects - namely the painting of the silos this year. Initial pledging from locals to date have been very positive, however, for this project to proceed they are aiming to raise between $400,000 - $450,000.",
+          "Locals and beyond will have the opportunity to buy shares in the shop for a specified amount (e.g. $500/share) and expect a dividend on that investment.",
+          "The vision for the future of the Colbinabbin Community Storewould include:",
+          "<ul><li>Continuing to provide all the same services that it does today as a general store, with general takeaway, fresh produce and basic household essential items</li><li>Operating hours will increase significantly – aiming for 7am-7pm, 7 days a week</li><li>Renovations will create a light-filled, modernized, café-style store with fresh coffee along with café and bakery goods</li><li>It will continue to include the post contract (a vital service for the community)</li><li>The mail run will continue, but will possibly also deliver fresh produce to your door</li><li>It will also showcase local goods and produce.</li><li>It would provide up the opportunity for 100 hours a week of local employment.</li></ul>",
+          "A town meeting will be held at the Colbinabbin Memorial Hall next Wednesday 19 February, at 6pm.",
+          "A representative from GMG Financial Group will be present at this meeting to answer questions and provide further information.",
+          "Right now though, is your opportunity to provide some feedback. Please, tell us what you want from the proposed Colbinabbin Community Owned Store – click on the link below and complete the <a href='https://www.surveymonkey.com/r/TDFNVVP'>survey</a>.",
+          "Printed survey forms are also available at the Colbinabbin Store",
+          "The steering community wants to hear from the local community so if you have any feedback or questions, wish to pledge, or want to be involved in this project, please contact them at: colbinabbincommunitystore@gmail.com or 0424 567 133 – Matt McEvoy 0418 333 177 – Dea Brown",
+          "<em>Steering Group – Colbinabbin Community Store Project: Dea Brown, Matt McEvoy, Shonelle McEvoy, Marty Borger, Iain Downie, Michelle Rathjen</em>"
+        ]
+      },
+      "published": true,
+      "related": []
+    },
+    "colbo-silo-art-boost": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": false,
+      "date": "2020-02-13",
+      "title": "Colbo Silo Art’s $21,000 boost from Rushworth & District Community Bank Grants Program",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/02/wnews20200213-008.jpg",
+      "abstract": "The Colbinabbin Silo Art project recently received a grant of $21,000 as part of the Rushworth & District Community Grants Program.",
+      "body": {
+        "pars": [
+          "The Colbinabbin Silo Art project recently received a grant of $21,000 as part of the Rushworth & District Community Grants Program.",
+          "Christine Borger, Chair of Rushworth & District Financial Services which operates the Rushworth & District Community Bank Branch, said the grant would be used to support this exciting Silo Art project which would benefit the entire region.",
+          "The Colbinabbin Silo Art project was a recent recipient of the Pick My Project State Government funding initiative that originally funded the project for $112,500. The additional $21,000 grant from Rushworth & District Community Bank has enabled the project to further expand the art to all six silos in the township, create a viewing platform and historic signage detailing the art, its meaning and the history of the Colbinabbin area.",
+          "“The board of Rushworth & District Financial Services are excited to partner with the Colbinabbin Silo Art project to bring iconic art to the Colbinabbin community. Financial investment into small communities is integral to support sustainability and tourism in regional Victoria and the Silo Art is an incredible asset to Colbinabbin,” said Chair Christine Borger.",
+          "‘We congratulate the hard working volunteers who drove this project, from the original source of funding from Pick My Project to the works in kind from the Colbinabbin community to ensure Colbinabbin remains an exciting place to visit, to live, own a business and raise a family.",
+          "We are so proud that our Community Bank can support projects like this and thank the customers and shareholders of the Rushworth & District Community Bank, whose ongoing support enables our Grants and Sponsorship program to invest in key projects within our district. We aim to support accessible and valued community services and partnerships leading change which strengthen and unite our community,” said Chair Christine Borger.",
+          "Since opening in 2003, Rushworth & District Community Bank Branch has returned more than $1 million dollars to the Rushworth, Stanhope, Colbinabbin, Girgarre and Murchison communities.",
+          "Due to awareness of the strong reputation, the Rushworth & District Community Bank has in supporting many community initiatives, Colbinabbin Silo Art Project committee member, Sadie Vale, engaged with the Rushworth & District Community Bank Chair to discuss sponsorship opportunities for this exciting project occurring in Colbinabbin.",
+          "‘We were delighted to receive such a positive response, enthusiasm and willingness from the Community Bank to become involved in this local project. We cannot thank the Rushworth & District Community Bank enough for their generous financial support which now allows an extension of the project by ensuring all six Vic Feeds silos will be painted at Colbinabbin,’ said Sadie."
+        ]
+      },
+      "published": true,
+      "related": []
+    },
+    "australia-day-2020": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": false,
+      "date": "2020-01-30",
+      "title": "Australia Day 2020 in Rushworth",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/01/wnews20200130-013.jpg",
+      "sidebar": "/content/wnews/articles/2020/list/australia-day-awards-2020",
+      "abstract": "The Village Green was once again a popular venue for the Australia Day event. It was pleasing to see a good crowd made up of all ages enjoying the lovely summer evening.",
+      "body": {
+        "pars": [
+          "The Village Green was once again a popular venue for the Australia Day event. It was pleasing to see a good crowd made up of all ages enjoying the lovely summer evening.",
+          "Whilst the Lions Club cooked up a storm, the SES were kept busy with water and soft drinks and the True Country duo performed some popular toe tapping songs. The Rushworth Concert Band also played some memorable tunes. Both groups had many singing along.",
+          "Rhonda Risstrom, MC, welcomed Mayor Adrian Weston and the Australia Day ambassador, Alice Pung.",
+          "Mayor Adrian Weston talked about the importance of volunteers, in particular those in the emergency services who have and are still giving so much time and effort during the recent and ongoing bushfire crisis. Particularly those who travelled interstate to help. A minute’s silence was observed for fire fighters and residents who have lost their lives in those fires.",
+          "Ambassador Alice Pung (author, lawyer, lecturer) spoke about her life as an immigrant and growing up in the West Footscray/ Braybrook areas of Melbourne. Her parents fled the Killing Fields of Cambodia and came to Australia. Her mother was eight months pregnant at the time. Alice was the first baby born to Cambodian immigrants in Victoria. Alice talked at length about her family, particularly how they coped with and adapted to a new way of life, language and customs. In fact a complete reversal of all they knew. Having escaped their homeland horrors, Alice emphasised that even the worst conditions here were like living in paradise. Alice is a proud Aussie married with two children.",
+          "Gail Corner read a verse relevant to the recent fire and thanked her fellow Committee members, Peg Taylor, Mary Beck, Steve and Sue Gregory for their help and work.",
+          "Rhonda Risstrom read a unification poem.",
+          "<strong>No Waranga Awards</strong>",
+          "There were no awards presented in Waranga as no nominations were received this year.",
+          "While there are may be many in and around our town who deserve recognition, they must be nominated by their local community to be in the running.",
+          "Thanks go to locals and not so local who attended and made Australia Day in Rushworth a success."
+        ]
+      },
+      "published": true,
+      "related": []
+    },
+    "australia-day-awards-2020": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": false,
+      "date": "2020-01-30",
+      "title": "2020 Australia Day award winners in Campaspe",
+      "abstract": "Outstanding local individuals and groups have been formally recognised and awarded at the 2020 Campaspe Shire Australia Day Awards.",
+      "body": {
+        "pars": [
+          "Outstanding local individuals and groups have been formally recognised and awarded at the 2020 Campaspe Shire Australia Day Awards.",
+          "A tireless Kyabram volunteer, an inspirational youth, an umpire and coach, a music festival, a Tongala arts group and a talented young sports star were named as award winners.",
+          "Campaspe Shire Mayor, Cr Adrian Weston said the awards are a great opportunity to honour committed individuals and groups in our community.",
+          "Awards were presented in the following categories:",
+          "<ul><li>Citizen of the Year - Dale Denham (Kyabram)</li><li>Young Citizen of the Year - Jasmin Malham (Rochester)</li><li>Sportsperson of the Year - Cory Nexhip (Tongala)</li><li>Junior Sportsperson of the Year - Olivia Cartwright (Kyabram)</li><li>Community Event of the Year - Winter Blues Festival</li><li>Arts Group of the Year - Tongala Street Art</li></ul>",
+          "“Campaspe is very fortunate to have many selfless and talented community members working hard and dedicating countless hours to increase opportunities and improve the health and wellbeing of our residents and we thank them all,” Cr Weston said.",
+          "“In addition to the winners and on behalf of Council and our community, congratulations to all who were nominated for the awards. Campaspe is lucky to have such inspiring and generous community members,” he added."
+        ]
+      },
+      "published": false,
+      "related": []
+    },
+    "community-bank-supports-waranga-news": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2020-01-30",
+      "title": "Rushworth & District Community Bank supports Waranga News with $10,000 grant",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2020/01/wnews20200130-006.jpg",
+      "abstract": "Rushworth & District Community Bank has announced a grant of $10,000 for the Waranga News to support a technology upgrade and ensure our local paper can continue to be produced to its very high standard and quality.",
+      "body": {
+        "pars": [
+          "Rushworth & District Community Bank has announced a grant of $10,000 for the Waranga News to support a technology upgrade and ensure our local paper can continue to be produced to its very high standard and quality.",
+          "The Waranga News is a local institution operating for over 40 years, communicating important local news and events and connecting our communities by sharing great things that happen around us.",
+          "The Rushworth & District Community Bank grant of $10,000 has provided new computers and software to ensure our local paper continues to be published by hard working volunteers.",
+          "“ The vastly increased costs of upgrading technology in recent years has threatened the viability of our local community newspaper, so we are extremely grateful for this grant which will enable us to continue our important work of communication within and between the towns in our district,” said editor Mary Jo Fortuna. “We thank the Rushworth and District Community Bank for this further contribution to the functioning and wellbeing of our local communities,” she added.",
+          "The Bendigo Community Bank model is based on a ‘profitwith- purpose’ philosophy, which means profits are returned directly to the local community that has generated them. Importantly, the community decides where those profits are invested. The fact branches are locally owned and operated with funding returned to that particular community is a distinct point of difference to other banking institutions.",
+          "More than $1 million has been returned to Rushworth & District communities and initiatives over the past 18 years just from people choosing to do their everyday banking with the Rushworth & District Community Bank. Our community bank is locally owned by our shareholders and its our community that benefits from banking with our local community bank.",
+          "“We have been proud to support the Waranga News since we brought banking back to Rushworth and this grant will ensure that we keep connections within our communities, shares our great local achievements and have access to important local issues,” stated Chairman Christine Borger.",
+          "“Today’s announcement further demonstrates the deep connection we have with our Rushworth community. It is a great reminder of the good that banking locally can do when profits are returned to benefit local people and their communities. This grant is just another important investment we’ve made locally since 2002 and is on top of the more than $130,000 returned to Rushworth and the surrounding communities last financial year,” she concluded."
+        ]
+      },
+      "published": true,
+      "related": []
+    }
+  }
+}

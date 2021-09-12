@@ -1,0 +1,289 @@
+{
+  "title":"Articles (2016)",
+  "sling:resourceType":"wnews/page/article-list",
+  "jcr:primaryType":"nt:unstructured",
+  "pageSize": 7,
+  "list": {
+    "a-fresh-approach": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2016-11-03",
+      "title": "A fresh approach",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2016/11/20161103-1.jpg",
+      "abstract": "",
+      "body": {
+        "pars": [
+          "Rushworth Garden Festival, spread over two weekends this year, was once again a great success. The Garden Expo on the second weekend was a vibrant collection of plant stalls, handmade craft, garden produce, live music and guest speakers. The community joyfully embraced the new concept and an atmosphere of sharing and promise for the future resonated throughout the village green. Organisers are to be applauded for their initiative and the above image of the P-12 kitchen garden produce emulates this fresh approach."
+        ]
+      },
+      "published": true
+    },
+    "council-elections-see-some-new-faces": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2016-11-03",
+      "title": "Council elections see some new faces",
+      "abstract": "",
+      "body": {
+        "pars": [
+          "Council election results have been declared in much of the State, with Campaspe Shire Council results officially announced on Monday morning (31 October). Four new councillors have been elected, three in the Echuca Ward and one in Kyabram.",
+          "The nine successful candidates representing the five wards for the Campaspe Shire Council are:",
+          "<strong>Echuca Ward:</strong> Annie Vickers, Daniel Mackrell, Kristen Munro",
+          "<strong>Kyabram Deakin Ward:</strong> Neil Pankhurst, Vicki Neele, John Zobec",
+          "<strong>Rochester Ward:</strong> Leigh Wilson",
+          "<strong>Western Ward:</strong> Leanne Pentreath",
+          "<strong>Waranga Ward:</strong> Adrian Weston",
+          "Chief Executive Officer, Jason Russell, congratulated the successful candidates and thanked retiring and outgoing councillors for their service.",
+          "“We have a new council with a good blend of experienced and new councillors and with four female councillors, the highest representation of females we have had on council to date.”",
+          "Waranga Ward Councillor Adrian Weston also noted the improved gender balance which was reflected across the State.",
+          "“It’s good to see four women elected to Council and four new councillors. I’m looking forward to some new and fresh thinking and am feeling positive about the potential for this new group of councillors to achieve some good community outcomes during the next four years,” he said.",
+          "The statutory meeting, where councillors will take the Oath of Office, sign the Code of Conduct and officially elect the Mayor, will be held on Tuesday, 8 November at 5pm."
+        ]
+      },
+      "comments": "enabled",
+      "published": true
+    },
+    "huge-stanhope-weekend": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2016-10-20",
+      "title": "Huge Stanhope weekend",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2016/10/20161020-1.jpg",
+      "abstract": "",
+      "body": {
+        "pars": [
+          "<strong>Hundreds turn out to celebrate Stanhope School’s 100 years.</strong>",
+          "Hundreds of visitors, many former residents of Stanhope, came back to town last weekend to celebrate the centenary of their old school.",
+          "The celebrations commenced on Friday with the local school children, their parents and friends, launching one hundred balloons to celebrate the one hundred years life of the school (pictured above).",
+          "Many visiting former students and staff inspected the school during the afternoon, along with all its modern facilities.",
+          "Saturday was the main day of celebrations, with more than 300 people attending the school to inspect the facilities, together with a photo display of students from years gone by, but most importantly, to catch up with former friends and mates from their school days, some more recent, but most from many years ago. There were many memories revived and stories told of years gone by (mostly true, but some perhaps a little exaggerated).",
+          "The afternoon concluded with photos being taken of groups of former students, representing the ten decades of the school.",
+          "Following such a successful day, the dinner in the Stanhope Community Hall was just as successful, with more than one hundred attending. Once again stories from the past were related by some of the very senior students, including Mr David Bell, the oldest living former student, now in his mid nineties. The members of the organising committee were rightly ecstatic with the highly successful weekend."
+        ]
+      },
+      "published": true
+    },
+    "mini-market-another-great-success": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2016-09-22",
+      "title": "P12 Mini Market another great success… YEP it was!",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2016/09/20160922-1.jpg",
+      "abstract": "",
+      "body": {
+        "pars": [
+          "<strong>What a great community we live in!</strong>",
+          "Staff and students were thrilled with the recent support from the community regarding their Mini Market on Wednesday 7 September.",
+          "The Year 4/5/6 students and Year 9/10 YEP students had worked tirelessly since the last market to bring their customers some new, improved experiences.",
+          "The barista’s were busy honing their skills, the pizza boys did a mammoth job not only cooking pizza’s for those who attended the Market, but for the majority of students who had ordered one or more for lunch that day! The ‘craft’ teams had been busy making ‘things’. Who would have guessed those ‘cookies in a jar’ would be such a HOT item?",
+          "This group of willing workers raised over $700, the best one ever!",
+          "They say there is no rest for the wicked and these groups of students (who are a long way from wicked), have already begun planning for the two final events of 2016.",
+          "The students are excited to be joining in the festivities of the Rushworth Spring Garden Festival Fair on Saturday 29 October - 10am until 2pm. They will have a stall promoting the Stephanie Alexander Kitchen Garden as well as a range of ‘garden inspired’ goods for sale!",
+          "They will also hold another Mini Market at the College in November, with a Christmas theme, the date of which will be established early next term.",
+          "Thank you again to everyone who supported this event. The students hope to see you all again at their next two events."
+        ]
+      },
+      "published": true
+    },
+    "fire-destroys-homestead": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2016-09-08",
+      "title": "Fire destroys Rushworth homestead",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2016/09/wnews20160908P01-002.png",
+      "abstract": "",
+      "body": {
+        "pars": [
+          "When firefighters from Rushworth and Stanhope Brigades were paged out to a structure fire in Parramatta Gully Road early on Saturday morning, first responders were stunned to find the house already “fully involved”, even though the fire had been reported promptly and fire appliances arrived within minutes of the call.",
+          "Fortunately, the occupants of the house escaped the blaze, but decades of priceless memorabilia relating to the eucalyptus factory and its succession of owners was destroyed.",
+          "The fire is likely to have been caused by a combustion heater, which can be seen in the above photo with a damaged front glass."
+        ]
+      },
+      "published": true
+    },
+    "wildflower-hunt": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2016-08-25",
+      "title": "Wildflower hunt this weekend",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2016/08/wnews20160825P01-000.png",
+      "abstract": "",
+      "body": {
+        "pars": [
+          "The sun is starting to shine again and it’s time to welcome in the new season by unlocking Rushworth’s hidden treasures at the second annual Wildflower Hunt.",
+          "Explore the vast array of native wildflowers in the Rushworth Ironbark Forest on Sunday 28 August at 10am meeting at the Rushworth Cemetery.",
+          "Participants can explore the forest following a set 6km route with some side routes for the more adventurous. An array of wildflowers will be in bloom, such as downy grevillea, flax lilies, autumn greenhoods, correas, grey everlastings, brachyscome and much more. In addition to wildflowers there will be birds and other wildlife to see as well as historic sites and relics from the gold mining days.",
+          "Included in this year’s Wildflower Hunt is the option of taking a guided botanical walk or a guided bird walk along the route given by local experts in the Rushworth Ironbark Forest. Also offered will be a self guided tour of the Rushworth cemetery which is the start and end point of the walk, showcasing some of the stories behind the people buried there."
+        ]
+      },
+      "comments": "enabled",
+      "published": true
+    },
+    "new-easter-festival-committee": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2016-08-11",
+      "title": "New Committee steps up for Easter Festival",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2016/08/wnews20160811P01-001.png",
+      "abstract": "",
+      "body": {
+        "pars": [
+          "Rushworth’s popular Easter Festival is set to go ahead for 2017 with the election of a new Festival Committee and Parade Coordinator.",
+          "Following the Rushworth Easter Festival Inc AGM in July which failed to elect a new committee, a public meeting was held on Monday evening, with a view to either electing a new committee or winding up the incorprated body.",
+          "The full house (about forty people) indicated there was plenty of interest in keeping the festival alive and, after an intially slow start, a new committee came forward to takeover the reigns.",
+          "The meeting was unanimous in expressing congratulations and gratitude to the previous committee members, many of whom had been the driving force behind the Easter Festival since its beginning."
+        ]
+      },
+      "comments": "disabled",
+      "published": true
+    },
+    "state-of-the-forest": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2016-07-14",
+      "title": "State of the forest raises concern",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2016/07/wnews20160714P01-001.png",
+      "abstract": "",
+      "body": {
+        "pars": [
+          "A very disappointing discovery in the State forest near Whroo of some of the area’s iconic Grass Trees which have been destroyed through an act of environmental vandalism. The species is known for its slow growth rate and stunning form as it inhabits the forest floor in clusters and provides habitat for grounddwelling species such as the wallaby. Neil Laurie was recently embarrassed by the state of the forest when showing visitors around."
+        ]
+      },
+      "comments": "enabled",
+      "published": true
+    },
+    "chief-celebrates": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2016-06-30",
+      "title": "Chief celebrates 90 years",
+      "abstract": "",
+      "body": {
+        "pars": [
+          "Ninety years, twenty grandchildren and twenty five great-grandchildren can only be classed as a great achievement. On Sunday 12 June, Chief (Jeff) Perry celebrated his 90th birthday with over a hundred family and friends at the Rushworth Football and Netball Clubrooms.",
+          "While the formal event was held on the Sunday afternoon, the celebration was enjoyed over several days.",
+          "Chief likes nothing better than to have family around him and in particular he loves his grandchildren visiting. During the long weekend Chief’s home was filled with family and he thoroughly enjoyed sitting round the camp fire and joining in the singing and sharing of yarns.",
+          "Chief particularly enjoyed spending time with family members who travelled from afar for the celebrations and their efforts to travel were greatly appreciated. Chief was also surprised by the Rushworth Brass Band which attended the Sunday venue and played Happy Birthday, as well as a number of other pieces. Chief has been associated with the Band for many years and their attendance brought him much pleasure."
+        ]
+      },
+      "published": true
+    },
+    "editor-awarded-order-of-australia-medal": {
+      "sling:resourceType":"wnews/page/article",
+      "feature": true,
+      "date": "2016-06-16",
+      "title": "Waranga News Editor awarded Order of Australia Medal",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/wnews20160616P01-188x188.jpeg",
+      "abstract": "",
+      "body": {
+        "pars": [
+          "Our own Dr Mary Jo Fortuna of Rushworth has been awarded an Order of Australia Medal in the latest Queen’s Birthday honours list.",
+          "The closely guarded news was kept amazingly ‘secret’ and embargoed, but with the publishing of the honours list last Monday, the news spread like wildfire, with the Waranga News Editor beseiged by phone calls at the News office and filming interviews for WIN news television screening.",
+          "Anyone who’s known Mary Jo will appreciate the service she has given the various local and university campuses over the years. But few would know her full involvement until the reading of the citation was published, and there are probably many other services that have not made it to the list!",
+          "Need we note that Mary Jo, herself, was quite overwhelmed by the attention and commented that she had nearly forgotten some of her various involvements.",
+          "<strong>Retirement ~ not exactly!</strong>",
+          "Although Mary Jo retired from lecturing and co-ordinating the Social Science faculty at the Shepparton Campus of La Trobe University in 2014, her days of pottering in the garden (as she had envisaged) have not exactly come to fruition. She was head-hunted to work with the St Vincent de Paul Society as Social Justice coordinator for the NorthEast Central region which often takes her off to Shepparton or Melbourne for meetings (just when we need her here), and her work in St Mary’s Parish includes playing music and being a member of the Parish Pastoral Council.",
+          "As well as all this, involvement in her large family’s events and celebrations make many calls on her - well, with her seven children now married and twelve grandchildren, there are always reasons to gather!"
+        ]
+      },
+      "comments": "enabled",
+      "published": true
+    },
+    "waranga-trail-progress": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2016-06-02",
+      "title": "Waranga Trail - a small step closer",
+      "abstract": "",
+      "body": {
+        "pars": [
+          "Rushworth residents with long memories will know it’s been a long time coming, but construction of the local rail trail appears to be one step closer to becoming a reality. Now known as the Waranga Trail, the signing of land management agreements has been endorsed by Campaspe Shire Council so that external funding negotiations can go ahead.",
+          "Campaspe Mayor, Cr Leigh Wilson, said Council’s endorsement of the project would facilitate negotiations with grant bodies and partner organisations to secure funding to deliver the project some time in the future.",
+          "“The Waranga Trail has been a subject of consideration by the local community and Council for over ten years,” Cr Wilson said.",
+          "Over the past six months, Council has undertaken feasibility studies and cost/benefit analyses to assess the viability of the trail project. This information can now form the basis of a business case which will position the project as an attractive funding proposition.",
+          "The proposed Waranga Trail includes the rail trail from Murchison to Rushworth and a connecting trail through to Heathcote. Scoping and estimates for the section of the trail, from Rushworth eastwards to the shire boundary towards Murchison and the section from Heathcote to Rushworth, have now been completed.",
+          "Discussions and negotiations have been held with VicTrack, Department of Environment, Land, Water and Planning, Goulburn Murray Water, Parks Victoria, City of Greater Bendigo and private land holders. Consultation has also included Regional Development Victoria to affirm the potential viability of securing funding support.",
+          "“Based on these consultations, we have concluded that construction of both reaches of the trail is feasible and will generate a positive return on investment,” the Mayor said.",
+          "An interim costing predicts the Rushworth to Murchison link will cost approximately $1.2 million and the Heathcote to Rushworth link will cost approximately $1.1 million.",
+          "The Waranga Trail is identified as a key Shire of Campaspe project in the Regional Development Australia prospectus. Council officers have undertaken more detailed work seeking to secure access rights to the trail route to eliminate risks and issues should the project be funded.",
+          "“Council’s endorsement of the project and signing of agreements with VicTrack and Goulburn Murray Water to secure tenure of land will demonstrate our full commitment to potential external funding bodies,” Cr Wilson said.",
+          "However it’s not all in the bag yet. External grant opportunities are likely to require Council to match any funding contribution dollar for dollar. Council says it is committed to negotiating with stakeholders and partners to a point where the project is ready to go should the funding become available.",
+          "While the project does not extend to a trail linking Girgarre to Rushworth at present, Council acknowledges this would have the capacity to generate positive health and wellbeing outcomes for local residents.",
+          "Council officers will continue to facilitate negotiations to allow the Girgarre Development Committee to assume management of DELWP land between Girgarre and Stanhope to extend the existing small community-owned trail."
+        ]
+      },
+      "comments": "enabled",
+      "published": true
+    },
+    "mavis-celebrating-102": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2016-06-02",
+      "title": "Mavis celebrating 102 years",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/wnews20160602P01-188x188.jpeg",
+      "abstract": "",
+      "body": {
+        "pars": [
+          "Mavis Hunt celebrated her 102nd birthday with family &amp; friends at Moyola Lodge, Tatura, on 24 May. An avid reader, Mavis always enjoys getting her Waranga News to catch up with the local events. She asked her daughter, Maggie Johnston, to say ‘thank you’ on her behalf for the beautiful cards, flowers and good wishes she received for her birthday."
+        ]
+      },
+      "published": true
+    },
+    "freak-storm-strikes": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2016-05-19",
+      "title": "Freak storm strikes Rushworth area",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/wnews20160519P01-188x188.jpeg",
+      "abstract": "",
+      "body": {
+        "pars": [
+          "When ferocious winds and torrential rain impacted parts of Rushworth last week, it left some areas of the district looking like a war zone. Trees were up-rooted or had large parts of their canopies snapped off, and intense downpours occurred over some areas while others escaped virtually unscathed. These photos by Cass Alexander show the storm in action and some of its aftermath.",
+          "Rushworth Observatory recorded 30mm of rain in a five minute deluge that quickly left the domed telescope housing surrounded by water. Huge rain drops pelted down, as seen in the photo at right.",
+          "Trees toppled near Murchison, and the RushworthTatura Road was blocked by foliage dislodged from roadside trees (above). One tree on Chief Perry’s property was uprooted completely by the fierce winds (below).",
+          "Members of Rushworth Fire Brigade quickly initiated a cleanup operation, and were soon assisted by a front-end loader and driver from a nearby construction crew, and a local motorist who arrived with a chainsaw (lower right).",
+          "A VicRoads crew also arrived on scene, and the cleared road was finally given a final wash-down by the tanker’s powerful front monitor. The highway was reopened within a half hour, and traffic was soon moving once again",
+          "It was a great team effort by all of those involved."
+        ]
+      },
+      "published": true
+    },
+    "save-local-pools": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2016-05-05",
+      "title": "Move to save local pools",
+      "abstract": "",
+      "body": {
+        "pars": [
+          "Small town communities in the Shire of Campaspe have come out in force to save their much-loved community facility, their local swimming pool, from being decomissioned.",
+          "While Council claims the proposed changes are necessary cost-cutting measures, and that limited resources must be used to provide services to the greatest number of people, small town residents feel their own community needs are as important as the bigger centres and are at present being overlooked."
+        ]
+      },
+      "published": true
+    },
+    "trees-last-stand": {
+      "sling:resourceType":"wnews/page/article",
+      "date": "2016-03-10",
+      "title": "Trees last stand",
+      "abstract": "",
+      "body": {
+        "pars": [
+          "Despite the best efforts of the Rushworth Action Group for the Environment (RAGE) and its many supporters, roadworks have commenced this week that will see 91 trees removed from the RushworthTatura Road entrance to town.",
+          "However, all was not lost in the the RAGE campaign to protect Rushworth’s old-growth roadside trees, with 65 of those originally slated for removal now being retained.",
+          "Other compromises reached in negotiations with VicRoads include reduction in the speed limit from 100kph to 80kph for an extended distance along the winding road and reduction in the extent of the use of wire rope and steel guard railing.",
+          "In addition, all of the timber from the felled trees will be retained in the town for the use of the community."
+        ]
+      },
+      "published": true,
+      "related": ["save-the-trees"]
+    },
+    "a-legendairy-winner": {
+      "sling:resourceType":"wnews/page/article",
+      "title": "A Legendairy Australia Day winner",
+      "date": "2016-01-28",
+      "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/wnews20160128P01-188x188.jpeg",
+      "abstract": "",
+      "body": {
+        "pars": [
+          "Members of the Stanhope &amp; District Development Committee (S&DDC) were delighted to learn their nomination, Andrew Hipwell, was declared Citizen of the Year in the Rushworth District and also Citizen of the Year across the Shire of Campaspe.",
+          "The S&DDC considered Andrew to be a very worthy recipient of the awards, following his efforts of the past few years, in bringing a great deal of awareness of Stanhope across Victoria and Australia.",
+          "His work with the young people of the Stanhope District, through his and their involvement and participation with Auskick, has been greatly appreciated by many parents.",
+          "However, his involvement with all the Stanhope community in playing a major role, together with others, by successfully nominating Stanhope for recognition as “The Legendairy Capital of Australia “ has been outstanding and strengthened the resolve of the S&DDC in nominating Andrew for the award.",
+          "Secretary of the S&DDC, Bob Holschier, said members were absolutely delighted to see that Andrew has been fittingly recognised for his tremendous work during the past few years. Mr Holschier stated, “We were very encouraged with putting forward Andrew’s nomination, when we received so many supporting letters from the various organisations Andrew was involved with, that brought so much recognition Australia - wide to Stanhope”. These supporting letters came from Dairy Australia, Fonterra, AFL, Murray Goulburn region, the Stanhope Primary School and parents of children involved with Auskick."
+        ]
+      },
+      "published": true
+    }
+  }
+}

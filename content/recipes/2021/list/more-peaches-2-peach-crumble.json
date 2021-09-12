@@ -1,0 +1,28 @@
+{
+  "sling:resourceType": "wnews/page/recipe",
+  "date": "2021-04-01",
+  "title": "More peaches - #2 Peach Crumble",
+  "media": "",
+  "abstract": "At the start of the year, Pauline was overwhelmed with an abundance of peaches and sent in so many recipes that they wouldn’t all fit in the Cooks Column.\nCunningly, I filed the left-over recipes in a file called ‘Future editions’ on the Waranga News computer - in case of an emergency.\nThe emergency has arisen: The one who was to write this edition’s column, carefully typed up her recipe on her home computer and then headed off to Canberra. She forgot to push the ‘send’ button, didn’t she? \nNo need to panic . . we can use Pauline’s peach recipes. \nBasically your everyday crumble mix, but I added a punnet of raspberries and a punnet of blueberries to the chopped peaches. Top with crumble topping of oats, butter, brown, sugar and coconut. Cook until the juices from the fruit is bubbling through the crumble. Serve with ice cream, yoghurt, cream, custard or all of the above.",
+  "body": {
+    "pars": [
+
+    ]
+  },
+  "ingredients": [
+    "chopped peaches",
+    "everyday crumble mix",
+    "punnet of raspberries, punnet of blueberries",
+    "oats",
+    "butter",
+    "brown sugar",
+    "coconut"
+  ],
+  "method": [
+    "Cook until the juices from the fruit is bubbling through the crumble.",
+    "Serve with ice cream, yoghurt, cream, custard or all of the above."
+  ],
+  "testimonials": "",
+  "published": true,
+  "sidebar": ""
+}

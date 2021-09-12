@@ -1,0 +1,29 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-02-18",
+  "title": "Stingers",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/06/6e81e8hf-900-1.jpg",
+  "body": {
+    "pars": [
+      "Hey Kids!\nIn this edition of the Waranga News we are taking a look at some of Australia’s dangerous stingers; the crawling, creeping, flying and swimming creatures that sting for self defence and when hunting for food. \n",
+      "This category of animals doesn’t include snakes and spiders because they use fangs to inject venom. Stinging animals use different means of injecting their venom into a victim. Depending on the animal, the stinger uses venom to shock, paralyse or sometimes kill the target. These venoms have evolved over millions of years as a survival mechanism.",
+      "Australia’s most venomous stinger is the Box jellyfish. Lurking off the coast of Darwin and northern Queensland, it is known to be responsible for 70 human deaths in Australia and takes victims by wrapping its 3m tentacles around the unsuspecting prey.",
+      "Venom is injected through small receptors along the tentacles, so the severity of the sting depends on the amount of the tentacle that touches the skin. In addition to being very painful, the venom attacks the muscles around the heart and lungs. If untreated, paralysis of these organs results in death.",
+      "If you happen to be on holiday in these areas between October and May, cool down in a swimming pool rather than a dip in the sea!",
+      "Another dangerous stinger is the European wasp. The wasps were first discovered in Tasmania in 1959, and had migrated to the mainland by the late 1970’s. The wasps pack a serious sting when angered. The sting, while painful, is not deadly unless the person is allergic to their venom. European wasps nest underground and in the walls of houses.",
+      "Like the European wasps, the European honey bee is dangerous to those who have allergies to their venom. Unlike wasps, bees leave their stinging barb inserted in their victim’s skin, along with a sack of venom. This detaches from the bee, killing it. Less than 3 per cent of Australians are allergic to bee or wasp venom. ",
+      "Australian native bees are much smaller and generally don’t sting.\nAt nearly 2.5cm long, bull ants use their large, pincer-like jaws to clamp onto their target and then repeatedly inject their venom with their small stinger. The venom is not fatal to humans, though it is very painful!",
+      "Speedy and a little bit creepy, Australian centipedes are known for packing a powerful punch. Centipedes use their many arms, called forcipules, to kill prey and for defence. Injecting small amounts of highly toxic venom, the stings can be painful for up to a week. No deaths by centipede venom have been recorded in Australia.",
+      "An animal you might not expect to be a venomous stinger is the platypus. Used mostly during mating season, the barb of the male platypus is located above its rear feet. The male injects painful venom when fighting with other males. Accounts of human stings have been recorded and, while not fatal, have been known to cause severe pain and permanent handicaps around the affected area. ",
+      "Research on platypus venom is very difficult to conduct as the animals have been found not to produce venom in captivity. "
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}

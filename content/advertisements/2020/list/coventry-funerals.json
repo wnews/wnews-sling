@@ -1,0 +1,9 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Coventry Funerals",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/advertisements/2020/coventry-funerals.png",
+  "testimonials": "enabled",
+  "published": true,
+  "website": "",
+  "telephone": ""
+}
