@@ -1,0 +1,23 @@
+---
+label: _category
+hide_body: true
+display_field: name
+fields:
+- type: text
+  name: sling:resourceType
+  label: sling:resourceType
+  hidden: true
+- type: text
+  name: name
+  label: Name
+  description: A category name
+  config:
+    required: true
+- name: color
+  type: color
+  label: Color
+  config:
+    required: true
+    color_format: Hex
+  description: A category color
+  default: "#9B9B9B"

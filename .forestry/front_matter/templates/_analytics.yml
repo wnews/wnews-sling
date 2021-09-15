@@ -1,0 +1,45 @@
+---
+label: _analytics
+hide_body: true
+fields:
+- name: show_advanced_settings
+  type: boolean
+  label: Show Advanced Settings
+  description: Configure advanced settings
+- type: text
+  name: sling:resourceType
+  label: sling:resourceType
+  showOnly:
+    field: show_advanced_settings
+    value: true
+- type: text
+  name: jcr:primaryType
+  label: jcr:primaryType
+  showOnly:
+    field: show_advanced_settings
+    value: true
+- name: provider
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - Google Analytics
+    - Matomo
+    - Open Web Analytics
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Analytics Provider
+  description: The service provider for analytics tracking.
+- type: text
+  name: gaTrackingId
+  label: GA Tracking ID
+  description: Google Analytics ID
+  showOnly:
+    field: provider
+    value: Google Analytics
+pages:
+- content/analytics.json

@@ -1,0 +1,120 @@
+---
+label: CreativeWork
+hide_body: true
+fields:
+- name: thing
+  type: include
+  config: {}
+  template: thing
+  label: Thing
+- name: abstract
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Abstract
+  description: An abstract is a short description that summarizes a <a href="https://schema.org/CreativeWork"
+    target="_blank">CreativeWork</a>.
+- name: audio
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: audio
+      file: 
+      path: 
+  label: Audio
+  description: An embedded audio object.
+- name: author
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: people
+      file: 
+      path: 
+  label: Author
+  description: The author of this content or rating.
+- name: category
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: categories
+      file: content/categories/list/finance.json
+      path: 
+  label: Category
+- name: datePublished
+  type: datetime
+  label: Date Published
+  description: Date of first broadcast/publication.
+  config:
+    required: false
+    date_format: DD/MM/YYYY
+    time_format: 
+    display_utc: false
+    export_format: YYYY-MM-DD
+  default: now
+- name: headline
+  type: text
+  config:
+    required: false
+  label: Headline
+  description: Headline of the article.
+- name: keywords
+  type: tag_list
+  default: []
+  label: Keywords
+- name: license
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: licenses
+      file: 
+      path: 
+  label: License
+  description: A license document that applies to this content, typically indicated
+    by URL.
+- name: published
+  type: boolean
+  label: Published
+  description: Published status of the CreativeWork.
+- name: text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  label: Text
+  description: The textual content of this CreativeWork.
+- name: video
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: videos
+      file: 
+      path: 
+  label: Video
+  description: An embedded video object.

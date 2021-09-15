@@ -1,0 +1,35 @@
+---
+label: _sitemap
+hide_body: true
+fields:
+- name: show_advanced_settings
+  type: boolean
+  label: Show Advanced Settings
+  description: Configure advanced settings
+- type: text
+  name: sling:resourceType
+  label: sling:resourceType
+  showOnly:
+    field: show_advanced_settings
+    value: true
+- type: text
+  name: jcr:primaryType
+  label: jcr:primaryType
+  showOnly:
+    field: show_advanced_settings
+    value: true
+- type: text
+  name: change-frequency
+  label: change-frequency
+- type: text
+  name: url-base
+  label: url-base
+- type: list
+  name: uris
+  label: uris
+  config:
+    use_select: true
+    source:
+      type: pages
+pages:
+- content/sitemap.json

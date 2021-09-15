@@ -1,0 +1,64 @@
+---
+label: _legal
+hide_body: true
+fields:
+- name: show_advanced_settings
+  type: boolean
+  label: Show Advanced Settings
+  description: Configure advanced settings
+- type: text
+  name: sling:resourceType
+  label: sling:resourceType
+  showOnly:
+    field: show_advanced_settings
+    value: true
+- type: text
+  name: jcr:primaryType
+  label: jcr:primaryType
+  showOnly:
+    field: show_advanced_settings
+    value: true
+- type: text
+  name: copyright
+  label: Copyright
+  description: Copyright text
+- name: license
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: licenses
+      file: 
+      path: 
+  label: License
+  description: Site-wide license
+- name: privacyPolicy
+  type: text
+  config:
+    required: false
+  label: Privacy Policy
+  description: Link to privacy policy
+- name: termsOfService
+  type: text
+  config:
+    required: false
+  label: Terms of service
+  description: Link to site terms of service
+- name: language
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - en
+    - fr
+    - es
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Language

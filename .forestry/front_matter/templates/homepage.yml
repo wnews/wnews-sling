@@ -1,0 +1,49 @@
+---
+label: _homepage
+hide_body: true
+display_field: title
+fields:
+- name: show_advanced_settings
+  type: boolean
+  label: Show Advanced Settings
+  description: Configure additional settings
+- name: sling:resourceType
+  type: text
+  config:
+    required: true
+  label: sling:resourceType
+  description: The Whistlepost page template used to render.
+  hidden: false
+  default: wp/page/feature
+  showOnly:
+    field: show_advanced_settings
+    value: true
+- name: jcr:primaryType
+  type: text
+  config:
+    required: true
+  label: jcr:primaryType
+  hidden: false
+  showOnly:
+    field: show_advanced_settings
+    value: true
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+  description: Page title
+- name: description
+  type: text
+  config:
+    required: false
+  label: Description
+  description: Page description
+- name: author
+  type: text
+  config:
+    required: false
+  label: Author
+  showOnly:
+    field: show_advanced_settings
+    value: true

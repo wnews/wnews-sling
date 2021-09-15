@@ -1,0 +1,107 @@
+---
+label: _social
+hide_body: true
+fields:
+- name: socialNetwork
+  type: field_group_list
+  fields:
+  - name: platform
+    type: select
+    default: []
+    config:
+      required: false
+      options:
+      - Facebook
+      - Twitter
+      - Instagram
+      - YouTube
+      - LinkedIn
+      - GitHub
+      - Bitbucket
+      - GitLab
+      - Azure DevOps
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Platform
+  - name: facebookPage
+    type: text
+    config:
+      required: false
+    label: Facebook Page
+    showOnly:
+      field: platform
+      value: Facebook
+  - name: twitterHandle
+    type: text
+    config:
+      required: false
+    label: Twitter Handle
+    showOnly:
+      field: platform
+      value: Twitter
+  - name: instagramHandle
+    type: text
+    config:
+      required: false
+    label: Instagram Handle
+    showOnly:
+      field: platform
+      value: Instagram
+  - name: youtubeChannel
+    type: text
+    config:
+      required: false
+    label: YouTube Channel
+    showOnly:
+      field: platform
+      value: YouTube
+  - name: linkedinHandle
+    type: text
+    config:
+      required: false
+    label: LinkedIn Handle
+    showOnly:
+      field: platform
+      value: LinkedIn
+  - name: githubOrganization
+    type: text
+    config:
+      required: false
+    label: GitHub Organization
+    showOnly:
+      field: platform
+      value: GitHub
+  - name: bitbucketWorkspace
+    type: text
+    config:
+      required: false
+    label: Bitbucket Workspace
+    showOnly:
+      field: platform
+      value: Bitbucket
+  - name: gitlabGroup
+    type: text
+    config:
+      required: false
+    label: GitLab Group
+    showOnly:
+      field: platform
+      value: GitLab
+  - name: azureDevopsOrganization
+    type: text
+    config:
+      required: false
+    label: Azure DevOps Organization
+    showOnly:
+      field: platform
+      value: Azure DevOps
+  config:
+    min: 
+    max: 
+    labelField: platform
+  label: Social Network
+pages:
+- content/social.json

@@ -1,0 +1,30 @@
+---
+label: _license
+hide_body: true
+display_field: name
+fields:
+- name: name
+  type: text
+  config:
+    required: true
+  label: Name
+  description: License name
+- name: url
+  type: text
+  config:
+    required: false
+  label: URL
+  description: License URL
+- name: logo
+  type: file
+  config:
+    maxSize: 64
+  label: Logo
+  description: License logo
+pages:
+- content/licenses/list/cc-attribution-nc-noderivs.json
+- content/licenses/list/cc-attribution-nc-sharealike.json
+- content/licenses/list/cc-attribution-noderivs.json
+- content/licenses/list/cc-attribution-noncommercial.json
+- content/licenses/list/cc-attribution-sharealike.json
+- content/licenses/list/cc-attribution.json

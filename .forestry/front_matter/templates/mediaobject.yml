@@ -1,0 +1,34 @@
+---
+label: MediaObject
+hide_body: true
+fields:
+- name: creativeWork
+  type: include
+  config: {}
+  template: creativework
+  label: Creative Work
+- name: embedUrl
+  type: text
+  config:
+    required: false
+  label: Embed Code
+  description: A URL pointing to a player for a specific video. In general, this is
+    the information in the <code>src</code> element of an <code>embed</code> tag and
+    should not be the same as the content of the <code>loc</code> tag.
+- name: playerType
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - Youtube
+    - Vimeo
+    - Spotify
+    - Soundcloud
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Player Type
+  description: Player type required—for example, Flash or Silverlight.

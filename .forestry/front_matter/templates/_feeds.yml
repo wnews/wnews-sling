@@ -1,0 +1,45 @@
+---
+label: _feed
+hide_body: true
+display_field: name
+fields:
+- type: text
+  name: sling:resourceType
+  label: sling:resourceType
+- type: text
+  name: jcr:primaryType
+  label: jcr:primaryType
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+  description: Name of the feed
+- name: format
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - Atom
+    - RSS
+    - JSON
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Format
+  description: Feed format
+- name: feedEntries
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: pages
+  label: Feed Entries
+  description: Content paths for feed entries
+pages:
+- content/feed.json

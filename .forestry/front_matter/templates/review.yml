@@ -1,0 +1,23 @@
+---
+label: Review
+hide_body: true
+fields:
+- name: advanced_configuration
+  type: boolean
+  label: Advanced Configuration
+  description: Show advanced configuration settings.
+- name: sling:resourceType
+  type: text
+  config:
+    required: true
+  label: Resource Type
+  description: Default resource type used to render page content.
+  showOnly:
+    field: advanced_configuration
+    value: true
+  default: wp/page/review
+- name: creativeWork
+  type: include
+  config: {}
+  template: creativework
+  label: Creative Work

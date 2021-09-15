@@ -1,0 +1,49 @@
+---
+label: _feature
+hide_body: true
+fields:
+- name: homepage
+  type: include
+  config: {}
+  template: homepage
+  label: Homepage
+- name: feature
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: ''
+      file: 
+      path: 
+  label: Feature Article
+- name: articles
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: 
+      file: 
+      path: 
+  label: Article List
+  description: A list of articles to display in summary form.
+- name: sidebar
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: 
+      file: 
+      path: 
+  label: Sidebar
+  description: A list of items to display in the sidebar.
+pages:
+- content/index.json

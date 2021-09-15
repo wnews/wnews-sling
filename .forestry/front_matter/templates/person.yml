@@ -1,0 +1,121 @@
+---
+label: Person
+hide_body: true
+fields:
+- name: advanced_configuration
+  type: boolean
+  label: Advanced Configuration
+  description: Show advanced configuration settings.
+- name: sling:resourceType
+  type: text
+  config:
+    required: true
+  label: Resource Type
+  description: Default resource type used to render page content.
+  showOnly:
+    field: advanced_configuration
+    value: true
+  default: wp/page/person
+- name: thing
+  type: include
+  config: {}
+  template: thing
+  label: Thing
+- name: givenName
+  type: text
+  config:
+    required: false
+  label: Given Name
+  description: Given name. In the U.S., the first name of a Person.
+- name: additionalName
+  type: text
+  config:
+    required: false
+  label: Additional Name
+  description: An additional name for a Person, can be used for a middle name.
+- name: familyName
+  type: text
+  config:
+    required: false
+  label: Family Name
+  description: Family name. In the U.S., the last name of a Person.
+- name: address
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: advertisements
+      file: 
+      path: 
+  label: Address
+  description: Physical address of the item.
+- name: birthDate
+  type: datetime
+  label: Birth Date
+  description: Date of birth.
+  config:
+    required: false
+    date_format: DD/MM/YYYY
+    time_format: 
+    display_utc: false
+    export_format: YYYY-MM-DD
+- name: birthPlace
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: advertisements
+      file: 
+      path: 
+  label: Birth Place
+  description: The place where the person was born.
+- name: homeLocation
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: advertisements
+      file: 
+      path: 
+  label: Home Location
+  description: A contact location for a person's residence.
+- name: email
+  type: text
+  config:
+    required: false
+  label: Email
+  description: Email address.
+- name: gender
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - Male
+    - Female
+    - Agender
+    - Cisgender
+    - Genderfluid
+    - Genderqueer
+    - Intersex
+    - Gender Non-conforming
+    - Transgender
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Gender
+  description: Gender of something, typically a <a href="https://schema.org/Person"
+    target="_blank">Person</a>, but possibly also fictional characters, animals, etc.
+pages:
+- content/people/list/benfortuna.json

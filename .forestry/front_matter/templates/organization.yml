@@ -1,0 +1,63 @@
+---
+label: Organization
+hide_body: true
+fields:
+- name: advanced_configuration
+  type: boolean
+  label: Advanced Configuration
+  description: Show advanced configuration settings.
+- name: sling:resourceType
+  type: text
+  config:
+    required: true
+  label: Resource Type
+  description: Default resource type used to render page content.
+  showOnly:
+    field: advanced_configuration
+    value: true
+  default: wp/page/organization
+- name: thing
+  type: include
+  config: {}
+  template: thing
+  label: Thing
+- name: address
+  type: text
+  config:
+    required: false
+  label: Address
+- name: email
+  type: text
+  config:
+    required: false
+  label: Email
+- name: telephone
+  type: text
+  config:
+    required: false
+  label: Telephone
+- name: founder
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: people
+      file: 
+      path: 
+  label: Founder
+  description: A person who founded this organization.
+- name: employee
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: pages
+      section: people
+  label: Employee
+pages:
+- content/organizations/list/whistlepost-studios.json

@@ -1,0 +1,25 @@
+---
+label: _branding
+hide_body: true
+fields:
+- name: image
+  type: file
+  config:
+    maxSize: 10
+  label: Image
+  description: Masthead image file
+- name: alt_text
+  type: text
+  config:
+    required: false
+  label: Alt text
+  description: Accessibility support for page readers
+  default: Masthead image
+- name: favicon_image
+  type: file
+  config:
+    maxSize: 64
+  label: Favicon Image
+  description: Icon displayed in browser tab
+pages:
+- content/branding.json

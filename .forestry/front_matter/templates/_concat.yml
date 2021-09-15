@@ -1,0 +1,19 @@
+---
+label: _concat
+hide_body: true
+fields:
+- name: homepage
+  type: include
+  config: {}
+  template: homepage
+  label: Homepage
+- name: pages
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: pages
+  label: Pages
+  description: A list of pages to concatenate into a single page.

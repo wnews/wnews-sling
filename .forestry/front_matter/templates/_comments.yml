@@ -1,0 +1,31 @@
+---
+label: _comments
+hide_body: true
+fields:
+- name: provider
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - Disqus
+    - Discourse
+    - Facebook
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Comments Provider
+  description: Service provider for site comments.
+- name: shortcode
+  type: text
+  config:
+    required: false
+  label: Disqus Shortcode
+  description: Shortcode used to integrate comments on the site.
+  showOnly:
+    field: provider
+    value: Disqus
+pages:
+- content/comments.json

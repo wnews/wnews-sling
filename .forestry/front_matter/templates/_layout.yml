@@ -1,0 +1,61 @@
+---
+label: _layout
+hide_body: true
+fields:
+- name: header
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: 
+      file: 
+      path: 
+  label: Header
+  description: Reference to a theme-specific header configuration (e.g. a branding
+    document).
+- name: footer
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: 
+      file: 
+      path: 
+  label: Footer
+  description: Reference to a theme-specific footer configuration (e.g. legal).
+- name: navigation
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: 
+      file: 
+      path: 
+  label: Navigation
+  description: Reference to a theme-specific navigation configuration (used for header
+    and footer navigation).
+- name: sidebar
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: 
+      file: 
+      path: 
+  label: Sidebar
+  description: Reference to a theme-specific sidebar configuration (e.g. a local business
+    list, article list, etc.).
+pages:
+- content/layout.json

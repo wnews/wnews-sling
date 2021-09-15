@@ -1,0 +1,46 @@
+---
+label: Service
+hide_body: true
+fields:
+- name: thing
+  type: include
+  config: {}
+  template: thing
+  label: Thing
+- name: areaServed
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: advertisements
+      file: 
+      path: 
+  label: Area Served
+  description: The geographic area where a service or offered item is provided.
+- name: provider
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: organizations
+      file: 
+      path: 
+  label: Provider
+  description: The service provider, service operator, or service performer; the goods
+    producer.
+- name: termsOfService
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  label: Terms of Service
+  description: Human-readable terms of service documentation.

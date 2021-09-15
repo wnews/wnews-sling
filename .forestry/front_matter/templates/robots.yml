@@ -1,0 +1,31 @@
+---
+label: _robots
+hide_body: true
+fields:
+- name: show_advanced_settings
+  type: boolean
+  label: Show Advanced Settings
+  description: Configure advanced settings
+- type: text
+  name: sling:resourceType
+  label: sling:resourceType
+  showOnly:
+    field: show_advanced_settings
+    value: true
+- type: text
+  name: jcr:primaryType
+  label: jcr:primaryType
+  showOnly:
+    field: show_advanced_settings
+    value: true
+- type: text
+  name: user-agent
+  label: user-agent
+- type: list
+  name: allow
+  label: allow
+- type: text
+  name: sitemap
+  label: sitemap
+pages:
+- content/robots.json

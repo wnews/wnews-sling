@@ -1,0 +1,51 @@
+---
+label: Menu
+hide_body: true
+fields:
+- name: advanced_configuration
+  type: boolean
+  label: Advanced Configuration
+  description: Show advanced configuration settings.
+- name: sling:resourceType
+  type: text
+  config:
+    required: true
+  label: Resource Type
+  description: Default resource type used to render page content.
+  showOnly:
+    field: advanced_configuration
+    value: true
+  default: wp/page/menu
+- name: creativeWork
+  type: include
+  config: {}
+  template: creativework
+  label: Creative Work
+- name: hasMenuSection
+  type: field_group_list
+  fields:
+  - name: name
+    type: text
+    config:
+      required: false
+    label: Name
+    description: The name of the item.
+  - name: hasMenuItem
+    type: list
+    config:
+      use_select: true
+      min: 
+      max: 
+      source:
+        type: pages
+        section: products
+    label: Menu Item
+    description: A food or drink item contained in a menu or menu section.
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Section
+  description: A sub-grouping of food or drink items in a menu. E.g. courses (such
+    as 'Dinner', 'Breakfast', etc.), specific type of dishes (such as 'Meat', 'Vegan',
+    'Drinks', etc.), or some other classification made by the menu provider.
