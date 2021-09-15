@@ -27,5 +27,3 @@ fields:
   showOnly:
     field: provider
     value: Disqus
-pages:
-- content/comments.json

@@ -59,5 +59,3 @@ fields:
       type: pages
       section: people
   label: Employee
-pages:
-- content/organizations/list/whistlepost-studios.json

@@ -41,5 +41,3 @@ fields:
   showOnly:
     field: provider
     value: Google Analytics
-pages:
-- content/analytics.json

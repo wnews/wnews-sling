@@ -117,5 +117,3 @@ fields:
   label: Gender
   description: Gender of something, typically a <a href="https://schema.org/Person"
     target="_blank">Person</a>, but possibly also fictional characters, animals, etc.
-pages:
-- content/people/list/benfortuna.json

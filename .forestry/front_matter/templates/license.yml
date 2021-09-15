@@ -21,10 +21,3 @@ fields:
     maxSize: 64
   label: Logo
   description: License logo
-pages:
-- content/licenses/list/cc-attribution-nc-noderivs.json
-- content/licenses/list/cc-attribution-nc-sharealike.json
-- content/licenses/list/cc-attribution-noderivs.json
-- content/licenses/list/cc-attribution-noncommercial.json
-- content/licenses/list/cc-attribution-sharealike.json
-- content/licenses/list/cc-attribution.json

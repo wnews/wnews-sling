@@ -31,5 +31,3 @@ fields:
   name: jcr:primaryType
   label: jcr:primaryType
   hidden: true
-pages:
-- content/index.json

@@ -31,5 +31,3 @@ fields:
     use_select: true
     source:
       type: pages
-pages:
-- content/sitemap.json

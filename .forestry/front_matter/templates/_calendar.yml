@@ -17,5 +17,3 @@ fields:
     source:
       type: pages
   label: Calendar Entries
-pages:
-- content/calendar.json

@@ -25,6 +25,3 @@ fields:
     source:
       type: pages
   label: Related
-pages:
-- content/about.json
-- content/privacy.json

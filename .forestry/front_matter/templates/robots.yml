@@ -27,5 +27,3 @@ fields:
 - type: text
   name: sitemap
   label: sitemap
-pages:
-- content/robots.json

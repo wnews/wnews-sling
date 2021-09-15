@@ -33,6 +33,3 @@ fields:
   label: Credit
   description: Text that can be used to credit person(s) and/or organization(s) associated
     with a published Creative Work.
-pages:
-- content/gallery/list/boats-on-the-bay.json
-- content/gallery/list/railway-bridge.json

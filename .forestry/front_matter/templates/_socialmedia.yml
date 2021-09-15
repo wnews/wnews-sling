@@ -103,5 +103,3 @@ fields:
     max: 
     labelField: platform
   label: Social Network
-pages:
-- content/social.json

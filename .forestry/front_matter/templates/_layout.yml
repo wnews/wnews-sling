@@ -57,5 +57,3 @@ fields:
   label: Sidebar
   description: Reference to a theme-specific sidebar configuration (e.g. a local business
     list, article list, etc.).
-pages:
-- content/layout.json
