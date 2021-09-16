@@ -1,0 +1,28 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-09-16",
+  "title": "Vaccination bus takes to the road",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/09/Nurse outside bus.jpg",
+  "body": {
+    "pars": [
+      "Goulburn Valley Health’s COVID-19 vaccination bus has commenced its journey across the region to bring the much needed vaccine to people.",
+      "Starting this month, the vaccination bus is  travelling across the LPHU catchment area to deliver COVID-19 vaccinations.\n",
+      "Its coverage includes the local government areas of Greater Shepparton, Moira Shire, Benalla Shire, Strathbogie Shire, Mitchell Shire, Mansfield Shire, Murrindindi Shire and Campaspe Shire.\n",
+      "The vaccination bus aims to address key barriers to accessing COVID-19 vaccinations, including geographical distance, access to transport, and the various challenges people face in their everyday lives.\n\n",
+      "GV Health worked collaboratively with Dyson Group Shepparton to make the vaccination bus concept come to fruition.",
+      "“We are delighted that the vaccination bus vision has now become a reality with support from the Dyson Group. It is GV Health’s role to vaccinate as many people as possible in the catchment area - the vaccination bus will help us reach isolated communities and enable people to be vaccinated close to where they live”, said Matt Sharp, GV Health Chief Executive.\n",
+      "The vaccination bus contains three vaccination pods, in a COVID Safe environment, and is disability-friendly. It will offer both Pfizer and AstraZeneca vaccinations in line with the Government’s vaccination guidelines.\n",
+      "The GV Health team is working collaboratively with stakeholders across the LPHU region in all aspects of managing the mobile vaccination bus model of care.\n",
+      "If you see “Jabba the Bus” in your community, be sure to stop by and say hello!\n",
+      "More information will soon be available about Jabba’s schedule."
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
