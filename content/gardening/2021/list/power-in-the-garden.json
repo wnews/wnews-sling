@@ -1,0 +1,25 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-09-16",
+  "title": "Power in the garden",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/09/20210914_130913.jpg",
+  "body": {
+    "pars": [
+      "It is a cruel irony for many gardeners that upon retiring and being able to spend serious time in their gardens that their bodies start to betray them - old sports injuries come back to haunt, various bits of the body start to wear out and the capacity for hard physical work goes into decline. It can make gardening very hard indeed. \n",
+      "Some gardeners simply let their gardens go, resulting in sad, bedraggled jungles, others hire people to mow their lawns and do other garden chores, some just sell up and downsize into something with little or no garden to care for. But there are ways to keep gardening for longer. One of these is to use more powered tools and machines to help in the garden.\n",
+      "The powered lawn mower, an Australian invention, is an early example of a powered garden implement and most households have one. But they can be a challenge for the infirm. For larger properties a ride-on mower is an option. For smaller properties a self-propelled mower is worth considering. They drive themselves along, but you still must walk behind and steer them. Mowers driving through the rear wheels are easier to steer. \n",
+      "Another issue with lawn mowers is starting them, especially when cold. Consider a mower with an electric start. Another solution is to get an electric mower, but these are really only suited to small lawns. Not requiring a can of petrol or premix is another plus for electric mowers. If you get a petrol-powered mower, a 4-stroke is generally more reliable.\n",
+      "There are powered tools and machines for many gardening applications: chainsaws, line trimmers, blower-vacs, edgers, cultivators,  hedge trimmers, pruning shears and more. Buying a powered tool or machine can be bewildering, but here are some pointers.\n",
+      "They will either be fuel powered or electrical. Small hand-held fuel powered  machines will have a 2-stroke motor, larger ones a 4-stroke motor. Electric powered tools and machines will either plug into the mains or be powered by a rechargeable battery. All have their pros and cons. \nFuel driven machines will need more servicing, they require a can of fuel (2-strokes need to have fuel mixed, and it goes ‘off’ after a few months) and they are noisy and smelly. However, they are generally more powerful than the electric versions and can be used anywhere for as long as you have fuel. Mains powered implements are relatively cheap but require an extension cord and a power point. They always start and require little or no servicing. \n",
+      "Cordless or battery powered machines are quite expensive but can be used anywhere until the batteries go flat. Brushless motors combined with lithium batteries have made these machines much more effective but eventually the batteries will wear out."
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
