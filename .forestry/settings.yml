@@ -56,7 +56,7 @@ sections:
   match: "**/list/*"
   new_doc_ext: json
   templates:
-    - imageobject
+  - imageobject
 - type: heading
   label: Columns
 - type: directory
