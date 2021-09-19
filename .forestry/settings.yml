@@ -49,6 +49,14 @@ sections:
   new_doc_ext: json
   templates:
   - front-page
+- type: directory
+  path: content/gallery
+  label: Gallery
+  create: all
+  match: "**/list/*"
+  new_doc_ext: json
+  templates:
+    - imageobject
 - type: heading
   label: Columns
 - type: directory
