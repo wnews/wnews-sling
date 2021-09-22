@@ -12,7 +12,6 @@ sections:
 - type: document
   path: content/about.json
   label: About
-  match: "**/*"
 - type: document
   path: content/advertising.json
   label: Advertising
@@ -25,11 +24,9 @@ sections:
 - type: document
   path: content/privacy.json
   label: Privacy Policy
-  match: "**/*"
 - type: document
   path: content/tos.json
   label: Terms of Service
-  match: "**/*"
 - type: directory
   path: content/directory
   label: Trades & Services
@@ -125,6 +122,44 @@ sections:
   create: all
   match: "**/list/*"
   new_doc_ext: json
+- type: heading
+  label: Configuration
+- type: document
+  path: content/branding.json
+  label: Branding
+  match: "**/*"
+- type: document
+  path: content/layout.json
+  label: Layout
+  match: "**/*"
+- type: document
+  path: content/navigation.json
+  label: Navigation
+  match: "**/*"
+- type: document
+  path: content/legal.json
+  label: Legal
+  match: "**/*"
+- type: document
+  path: content/analytics.json
+  label: Analytics
+  match: "**/*"
+- type: document
+  path: content/sitemap.json
+  label: Sitemap
+  match: "**/*"
+- type: document
+  path: content/robots.json
+  label: Robots
+  match: "**/*"
+- type: document
+  path: content/social.json
+  label: Social
+  match: "**/*"
+- type: document
+  path: content/feed.json
+  label: Feed
+  match: "**/*"
 upload_dir: wnews
 public_path: https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews
 front_matter_path: ''
