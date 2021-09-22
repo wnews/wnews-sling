@@ -10,6 +10,10 @@ sections:
   path: content/index.json
   label: Home Page
 - type: document
+  path: content/about.json
+  label: About
+  match: "**/*"
+- type: document
   path: content/advertising.json
   label: Advertising
 - type: document
@@ -18,6 +22,14 @@ sections:
 - type: document
   path: content/subscribe.json
   label: Subscriptions
+- type: document
+  path: content/privacy.json
+  label: Privacy Policy
+  match: "**/*"
+- type: document
+  path: content/tos.json
+  label: Terms of Service
+  match: "**/*"
 - type: directory
   path: content/directory
   label: Trades & Services
