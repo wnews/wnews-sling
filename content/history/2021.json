@@ -5,6 +5,8 @@
   "sling:alias":"current",
   "sling:vanityPath":"/history",
   "pageSize": 6,
+  "filter": "nt:unstructured[published=true]",
+  "itemListOrder": "Descending",
   "bannerUrl": "/history/current.html",
   "bannerImage": "/assets/wnews/images/garden-hints.png"
 }

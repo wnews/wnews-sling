@@ -1,10 +1,12 @@
 {
-  "title":"Waranga Dreaming (2021)",
+  "title":"Waranga Dreaming",
   "sling:resourceType":"wnews/page/article-list",
   "jcr:primaryType":"nt:unstructured",
   "sling:alias":"current",
   "sling:vanityPath":"/firstpeoples",
   "pageSize": 6,
+  "filter": "nt:unstructured[published=true]",
+  "itemListOrder": "Descending",
   "bannerUrl": "/firstpeoples/current.html",
   "bannerImage": "/assets/wnews/images/waranga-dreaming.png"
 }

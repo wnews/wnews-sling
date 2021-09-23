@@ -4,5 +4,7 @@
   "sling:alias":"current",
   "sling:vanityPath":"/advertisements",
   "jcr:primaryType":"nt:unstructured",
-  "pageSize": 7
+  "pageSize": 7,
+  "filter": "nt:unstructured[published=true]",
+  "itemListOrder": "Descending"
 }
