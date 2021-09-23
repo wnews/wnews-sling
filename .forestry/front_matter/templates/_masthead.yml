@@ -8,7 +8,7 @@ fields:
     maxSize: 10
   label: Image
   description: Masthead image file
-- name: alt_text
+- name: alt-text
   type: text
   config:
     required: false
