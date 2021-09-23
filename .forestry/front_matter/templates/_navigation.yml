@@ -32,3 +32,5 @@ fields:
       type: pages
   label: Footer
   description: Footer navigation links.
+pages:
+- content/navigation.json
