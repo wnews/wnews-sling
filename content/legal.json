@@ -1,0 +1,10 @@
+{
+  "sling:resourceType": "wp/footer",
+  "jcr:primaryType": "nt:unstructured",
+  "copyright": "2021 Waranga News Inc.",
+  "show_advanced_settings": false,
+  "license": "",
+  "privacyPolicy": "content/privacy.json",
+  "termsOfService": "content/tos.json",
+  "language": "en"
+}
