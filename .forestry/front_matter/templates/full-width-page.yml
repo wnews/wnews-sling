@@ -25,3 +25,5 @@ fields:
     source:
       type: pages
   label: Related
+pages:
+- content/privacy.json
