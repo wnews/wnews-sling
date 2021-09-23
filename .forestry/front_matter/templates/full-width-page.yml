@@ -27,3 +27,4 @@ fields:
   label: Related
 pages:
 - content/privacy.json
+- content/tos.json
