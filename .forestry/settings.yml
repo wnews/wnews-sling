@@ -8,7 +8,7 @@ sections:
   label: Pages
 - type: document
   path: content/index.json
-  label: Home Page
+  label: Homepage
 - type: document
   path: content/about.json
   label: About
