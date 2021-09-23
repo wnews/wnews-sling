@@ -21,3 +21,5 @@ fields:
     maxSize: 64
   label: Favicon Image
   description: Icon displayed in browser tab
+pages:
+- content/branding.json
