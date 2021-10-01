@@ -1,0 +1,39 @@
+{
+  "sling:resourceType": "wnews/page/recipe",
+  "date": "2021-09-30",
+  "title": "Nic’s Roasted Vegetable and Quinoa Salad",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/10/roast veg quinoa salad.jpg",
+  "abstract": "",
+  "body": {
+    "pars": [
+
+    ]
+  },
+  "ingredients": [
+    "1 zucchini, cut in 1cm thick slices \n",
+    "1 small butternut pumpkin, peeled and in 2cm chunks\n",
+    "1 red capsicum, 2cm pieces\n",
+    "1 eggplant, cut in 2cm cubes\n",
+    "¼ cup olive oil\n",
+    "2 cups quinoa (usually just the white one but looks even better if add red and/or black too) ",
+    "1½ cups vegetable or chicken stock\n",
+    "1 cup (100g) oven roasted tomatoes \n",
+    "4 cups baby spinach leaves\n",
+    "100g feta crumbled"
+  ],
+  "method": [
+    "Preheat oven to 200ºC.",
+    " Drizzle olive oil over veggies and then spread between two baking trays and roast for thirty minutes or until tender and golden.  \n\n",
+    "Meanwhile, rinse the quinoa in a sieve under cold water until water runs clear. ",
+    "Put in saucepan with stock and bring to boil over high heat. ",
+    " Reduce to low, cover and simmer for ten minutes or until water absorbed. ",
+    "Remove from heat and keep covered for further ten minutes, then fluff with fork and allow to cool. \n",
+    "Transfer to a large bowl with veggies from oven, tomatoes, spinach and feta. ",
+    "Toss to combine, then serve immediately. ",
+    " Still nice served cold though.  \n",
+    "Some fresh mint from the garden added a nice fresh zap."
+  ],
+  "testimonials": "",
+  "published": true,
+  "sidebar": ""
+}
