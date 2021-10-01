@@ -1,0 +1,27 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-09-30",
+  "title": "Power in the garden  (Continuing Neil’s handy hints for powering up your gardening.)",
+  "media": "",
+  "body": {
+    "pars": [
+      "When buying a powered tool or machine, buy an established brand. Your warranty will be worth something and parts should not be an issue. Get the biggest, most powerful machine you can afford - less powerful machines generally don’t last. \n",
+      "With fuel driven engines, compare their horsepower and engine capacity (how many cc’s). With mains electric machines, compare the kilowatts (kw) of their electric motors. The price difference between mains powered and cordless implements will buy an awfully long extension cord and still leave change.\n",
+      "With cordless implements it is more difficult. First make sure the motors are brushless -they are much more efficient and more powerful. Compare what volts they use to operate. Generally higher voltage means more power. Make sure the batteries are a lithium type, not Ni-Cad. The lithium batteries will have a range of capacities which will govern how long and how hard you will be able to use the implement before the battery needs recharging. This capacity is its mAh. Again, go with a bigger mAh if you can. Many manufacturers sell their cordless machines without batteries. In this form they are called ‘skins’ and are deceptively cheap. The batteries and charger need to be bought separately and often cost more than the skin. ",
+      "The advantage of this is that the consumer can buy a number of skins and share couple of batteries around them (the downside of this is that you will wear out the batteries more quickly). It is a good idea to get at least two batteries. Manufacturers are notorious for changing their batteries so that when  batteries wear out, the consumers cannot replace them and need to buy new skins as well as new batteries. \n",
+      "You also need to consider what maintenance an implement will need. For example, an electric chainsaw will need its chain sharpened. This requires some knowledge to do well.\n",
+      "Power implements are not magic wands. A domestic implement will not perform as well as its industrial counterpart so don’t expect it to. An electric chainsaw has about half the teeth of its 2-stroke equivalent so of course it will take longer to saw through a tree branch. Allow powered implements to take their own time; don’t force them. \n",
+      "Using some power implements is a lot of fun, but don’t let the red mist descend and go mad -once something is cut off you can’t put it back. Hedge trimmers will turn anyone into a wannabe Edward Scissorhands. So slow down and think about what you’re doing. \n",
+      "Cutting things off and not being able to put them back on also applies to the human body. Wear appropriate personal protective equipment and make sure you know what you are doing before you start up the implement. Check for bystanders who may be in harm’s way.\n",
+      "As you come ‘of a certain age’, life gets more expensive -you need to go to the doctors more often, spend more at the chemist, you may need a hearing aid and you almost certainly will need glasses. So think about adding the expense of a few powered implements to this list of things you need to keep your body and soul together…and keep on gardening. "
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
