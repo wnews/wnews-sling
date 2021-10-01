@@ -1,0 +1,62 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-09-30",
+  "title": "Earthquakes",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/10/22oz-earthquake-videoSixteenByNine3000.jpg",
+  "body": {
+    "pars": [
+      "Hey Kids! ",
+      "What were you doing when the earthquake happened? At 9.15 AM on Wednesday 22 September, a magnitude 5.9 earthquake hit near the town of Rawson in Victoria. This was Victoria’s biggest earthquake on record!\n",
+      "While earthquakes of this size are less common in Australia, no area is completely unaffected from earthquakes. On average, Australia experiences an earthquake of this size once every 1-2 years.",
+      "About every ten years or so, Australia experiences a potentially damaging earthquake of magnitude 6.0 or more.\n",
+      "So, what is an earthquake?\n",
+      "Earthquakes are a sudden and quick shock of the Earth’s surface. Earthquakes are actually a type of way that the Earth gets rid of some tension.\n",
+      "More than a million earthquakes happen on Earth every single year. \n",
+      "Surprisingly, they normally last for less than a minute, but they sure can cause some damage. Wouldn’t it be great if some brainy scientists created some sort of warning system that earthquakes were coming? Well, they do! In many places such as California, New Zealand and Japan, where earthquakes are common, the government lets the people of the country know when an earthquake is about to strike by sending mobile phone alerts.\n",
+      "What causes an earthquake?\n",
+      "There are things called plates that run along the surface of the Earth. They are always moving about and pushing into each other. This is a very slow process, but they do like to bump into each other a bit. \n",
+      "When they are moving around, sometimes they get squeezed or stretched. When this happens rocks form around the edges. \n",
+      "The rocks then move with humongous force and when this happens, we get an earthquake. When that force is big enough, the crust of the Earth literally breaks. When this break happens, that massive energy moves through the Earth. It’s almost like waves, but obviously a lot bigger. ",
+      "That is exactly what an earthquake is. \n",
+      "Aftershocks\n",
+      "After an earthquake aftershocks are likely to happen. \nAfter a big earthquake, aftershocks will often happen. \nAn aftershock is one or more small earthquakes after the main one has occurred. \n ",
+      "This is because of the Earth’s crust adjusting to the effect of the main earthquake.",
+      "They can be very dangerous as buildings might already have damage to them from the large earthquake and so it can often cause them to fall.\n",
+      "What is a fault line?\n",
+      "Earthquakes are formed along fault lines. This is an area of stress in the Earth. At fault lines the rocks are sliding past each other and will eventually cause a crack in the Earth’s surface.\n",
+      "What are plate tectonics?\n",
+      "Plate tectonics are where continents move from one place to the next and they break apart as they move crashing into each other. This is another way that earthquakes are formed. \n",
+      "These plates move in all sorts of directions and at different speeds too. Sometimes they collide or crash or pull apart from each other. This movement is what also causes earthquakes.  \n",
+      "Australia sits in the middle of a tectonic plate, making it less susceptible to major earthquakes than countries on fault lines like New Zealand and Indonesia.\n",
+      "Hypocentres and Epicentres\n",
+      "The place where an earthquake starts is called the hypocentre. \n",
+      "An earthquake has to start somewhere!\n",
+      "It is always under ground, below the Earth’s surface.\nThe ground above where an earthquake starts is called the epicentre. \n",
+      "The epicentre of an earthquake is on the ground directly above the hypocentre. \n",
+      "The difference between them is the hypocentre is under the ground and the epicentre is at groundlevel. \n",
+      "This is where the earthquake starts. So the epicentre of the recent earthquake was Rawson, a small town in the Baw Baw Shire.",
+      "What is a seismograph?\n",
+      "A seismograph is a machine that is used to measure the strength and the length of an earthquake. \n",
+      "What is the Richter Scale?\n",
+      "The Richter scale measures the strength of an earthquake. ",
+      "Each one-point increase on the scale indicates ten times the amount of shaking and 33 times the amount of energy. \n",
+      "The energy released by a large earthquake may be equal to 10,000 times the energy of the first atomic bomb. Wow, that’s unbelievable!\n",
+      "The most powerful earthquake ever recorded on Earth was in Valdivia, Chile. \n",
+      "It happened in 1960, and measured 9.5 on the Richter scale. That is one extremely massive earthquake!\n",
+      "Scientists now use something called the Moment Magnitude scale to measure how strong an earthquake is.\nThis scale measures the energy released by the earthquake. That makes it very accurate. \n",
+      "In the past, scientists used something called the Richter scale which measured the size of the seismic waves. \n",
+      "However, this wasn’t as accurate as it could have been.\n",
+      "Interesting Facts about Earthquakes\n",
+      "80% of the world’s earthquakes happen in the Pacific Ocean near Japan in a place called the ‘Ring of Fire’.\nSadly about 10,000 people die in earthquakes each year. Most of the deaths are when people are trapped in falling buildings.\nA powerful earthquake can cause landslides, tsunamis, flooding, and other catastrophic events. Most damage and deaths happen in populated areas. That’s because the shaking can cause windows to break, structures to collapse, fire, and other dangers.",
+      "Sadly about 10,000 people die in earthquakes each year. Most of the deaths are when people are trapped in falling buildings.\n"
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
