@@ -1,0 +1,23 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-10-14",
+  "title": "Waranga Memorial Hospital demolition underway",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/10/20211012_131115.jpg",
+  "body": {
+    "pars": [
+      "It’s time to say a final farewell to the former Waranga Memorial Hospital in Rushworth.\n",
+      "GV Health has notified that demolition of the 60 year old building is being conducted in line with appropriate standards and will be completed by the end of this month. \n",
+      "The hospital in Coyle Street has been vacant since 2019 when GV Health moved to the newly built hospital extension of the Waranga Aged Care Hostel in High Street.\n",
+      "Following demolition, the site will be offered to other Victorian Government Departments for alternate use and may be sold should no further use be identified.\n",
+      "GV Health is ensuring that trees on the site are being protected during the demolition, and that some bricks from the old hospital building will be salvaged to create a memorial wall at Waranga Health in High Street, Rushworth."
+    ]
+  },
+  "published": true,
+  "sidebar": "Discarded remnants of a productive life: contents of the hospital building as rooms are readied for demolition.",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
