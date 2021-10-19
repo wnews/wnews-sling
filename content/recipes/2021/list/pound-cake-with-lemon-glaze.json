@@ -1,0 +1,51 @@
+{
+  "sling:resourceType": "wnews/page/recipe",
+  "date": "2021-10-14",
+  "title": "Pound Cake with lemon glaze",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/10/LemonCake.jpg",
+  "abstract": "",
+  "body": {
+    "pars": [
+
+    ]
+  },
+  "ingredients": [
+    "455gms unsalted butter\n",
+    "3 cups white sugar\n",
+    "6 eggs\n",
+    "1 cup milk\n",
+    "2 tsp vanilla essence\n",
+    "4 cups SR flour\n",
+    "You can add zest from one lemon, plus juice. Omit the vanilla if going lemon.",
+    "Lemon glaze icing\n\n",
+    "1 cup icing sugar\n",
+    "2 tblsp milk\n",
+    "1 tblsp fresh lemon juice (1 tsp lemon extract)"
+  ],
+  "method": [
+    "Pre heat oven to 180º. \n",
+    "1 full size ‘bundt’ tin or large size springform.",
+    " Grease well.",
+    "The amount of butter and sugar requires a large mixing bowl. ",
+    "I had a bit of a struggle to start with.\n",
+    "Cream butter and sugar on high until light and fluffy. ",
+    "Add eggs one at a time, beating well after each.\n",
+    "Remove from mixer. ",
+    "Sift dry ingredients.",
+    "Mix together milk and vanilla. ",
+    "Add dry and wet ingredients to butter mixture alternately, beginning and ending with dry.\n",
+    "Mix by hand using a wooden spoon or a spatula after each addition. ",
+    "Mix just enough to blend - don’t over mix.\n",
+    "Pour batter into well-greased tin of choice. ",
+    "Bake one hour or until skewer comes out clean from centre.\n",
+    "Remove from oven, let cool for ten minutes, turn out onto a plate. ",
+    "Leave to cool.",
+    "Lemon glaze icing",
+    "Whisk together until smooth. \n",
+    "Add more milk for a runnier glaze.\n",
+    "Pour or brush over cake while the cake is still warmish."
+  ],
+  "testimonials": "I laughed to myself while trying to beat all the required butter and sugar - not so simple a recipe. Never occurred to me to halve the quantities! The end result is a lovely dense cake. I think the lemon glaze gave it some extra moistness. It’s a big cake...bon appetite Cheers Pauline",
+  "published": true,
+  "sidebar": "I thought I would write up a simple all-purpose cake recipe. This comes from an old favourite book from 1977, Moosewood Cookbook."
+}
