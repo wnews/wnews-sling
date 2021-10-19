@@ -1,0 +1,27 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-10-14",
+  "title": "October gardening tips",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/10/Azalea.JPG",
+  "body": {
+    "pars": [
+      "One of my favourite parts of Gardening Australia is the segment at the end where they offer a few tips for our ‘jobs for the weekend’. It just seems to cut through that overwhelming ‘so much to do, where do I start?’ and gives us something to focus on. So, here’s an attempt to emulate Costa with some October gardening tips.",
+      "Feed azaleas, camellias and rhododendrons as they finish flowering, tip prune to promote bushy growth. \n\n",
+      "Watch for aphids on roses. Remove with spray from hose or squash them.\n",
+      "Prune banksia roses when flowering has finished.",
+      "Fertilise bulbs well and continue watering after flowering to pump bulbs for next season. Never remove the leaves until they have completely died down.",
+      "Plant tomato seedlings, basil and gourmet lettuce. Apollo, Rogue de Marmande and acid free yellow tomatoes bear fruit earliest in Melbourne.\n",
+      "Sow seeds of California poppy, sunflower, peas and sweet corn.",
+      "Plant dahlia tubers. Continue the fight against snails and slugs.",
+      "Plant some compact nasturtium seeds to provide leaves and flowers for salads – a good substitute for rocket"
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
