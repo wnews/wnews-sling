@@ -1,0 +1,20 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-10-28",
+  "title": "Region grateful for the H2O",
+  "media": "",
+  "body": {
+    "pars": [
+      "You may want to thank the rain gods for our wetter than usual spring, but we can actually thank the negative Ocean Dipole (pattern in the tropical Indian Ocean that has made our bird life happy and our gardens bloom - just when we needed the boost!",
+      "It’s a far cry from some of the dry times we have experienced in the past few years. The Basin is full to over-flowing and the town gardens are ‘blooming beautiful’ as Judy Ogden said when she showed us around her spectacular azalea and lavender beds (pictured left).  And it’s all due to that Indian Ocean Dipole that sounds technical but just refers to the year-to-year changes of tropical sea temperatures in the western and eastern Indian Ocean.  Somehow (we don’t really pretend to know how) these changes have a big influence on Australia’s climate - so thanks IOD. "
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
