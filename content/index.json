@@ -2,7 +2,7 @@
   "title": "A community newspaper staffed by volunteers",
   "description": "Serving the Waranga community for over 30 years",
   "author": "Waranga News Inc.",
-  "feature": "content/articles/2021/list/region-grateful-for-the-h2o.json",
+  "feature": "content/articles/2021/list/rushworth-cwa-end-of-an-era.json",
   "sling:resourceType": "wnews/page/index",
   "jcr:primaryType": "nt:unstructured",
   "show_advanced_settings": false,
