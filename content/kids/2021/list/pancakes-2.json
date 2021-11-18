@@ -1,0 +1,32 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-11-11",
+  "title": "Pancakes 2",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/11/pfannkuchen6.jpg",
+  "body": {
+    "pars": [
+      "Hey Kids! In this edition of the Waranga News we continuing our  look at a delicious and easy to cook food – pancakes! \n",
+      "Pancakes prepared using a north Indian cooking style are known as cheela. Sweet cheela are made using sugar or jaggery with a wheat flour-based batter. North Indian salty pancakes are made using batter prepared from gram flour or green gram paste (moong daal) and are sometimes garnished with paneer, a cottage-style cheese.\n",
+      "Dosa, appam, neer dosa and uttapam are pancakes made in a south Indian cooking style. They are prepared by fermenting rice batter and split-skinned urad bean (black lentil) blended with water. Meetha pooda – sweet pancakes often eaten with pickles and chutney – are a common breakfast food item in the Punjab. In Western India, the multi-grain thalipeeth is popular. In Goa, a traditional crêpe-like pancake known as alebele or alle belle is eaten at tea-time. It is usually filled with jaggery and coconut.\n",
+      "In Eastern India, malpuas are sometimes prepared in the form of pancakes.\n",
+      "Indonesian pancakes are called panekuk. The Indonesian pancake serabi is made from rice flour and coconut milk. The dish is often served with kinca, a thick, brown-coloured coconut sugar syrup. Other toppings may include sugar, ground peanuts, sliced bananas, jackfruit and chocolate. Other variations include cheese, corned beef, shredded chicken and sausage. \n",
+      "In Japan, okonomiyaki are made from flour, egg, cabbage and a choice of ingredients. Oyaki are pancakes often stuffed with eggplant. Dorayaki are a sort of sandwich made from Western-style pancakes and panko bread crumbs. Sweet crepes are also very popular.\n",
+      "In Korea, pancakes may be served during all times of the day as side dishes or just snacks. \n",
+      "In the Philippines, traditional dessert pancakes include salukara, a rice pancake made from glutinous rice, eggs and coconut milk. The batter is placed in a clay pot lined with banana leaves or greased with oil and is baked over hot coals.  Traditional savoury pancakes in the Philippines (including omelettes) are generally known under the term torta. They include tortang talong (eggplant omelette), pudpod (smoked fish flake pancakes), and okoy (a pancake made of batterd prawns, pumpkin, or sweet potatoes).\n",
+      "In Belarus, Russia and Ukraine, pancakes may be a breakfast food, appetiser, main course, or dessert.\n",
+      "Blini (Russian: блины) and mlynci (Ukrainian: млинцi) are thin pancakes, somewhat thicker than crêpes, made from wheat or buckwheat flour, butter, eggs and milk, with yeast added to the batter. Blini / mlynci cooking dates back to pagan traditions and feasts, which are reflected in today’s “pancake week” celebrated in the winter before the Great Lent. In pre-Christian times, blini and mlynci were symbolically considered by early Slavic peoples as a symbol of the sun, due to their round form.\n",
+      "Æbleskiver are traditional Danish pancakes made in a distinctive spherical shape. (The name literally means “apple slices” in Danish, although apples are not an ingredient. Æbleskiver are not sweet themselves but are traditionally served dipped in raspberry, strawberry, lingonberry or blackberry jam and sprinkled with icing sugar.\n",
+      "Crêpes, popular in France, Belgium, Switzerland and Portugal are made from flour, milk and eggs. They are thin pancakes and are served with a sweet (fruit, ice cream, jam, chocolate spread) or savoury filling (cheese, ham, seafood, spinach). Crepes are often sold in special stands. In Italy they are called crespelle or scrippelle. In Brittany, a galette (or galette bretonne) is a large thin pancake made of buckwheat flour, often cooked on one side only.\n",
+      "German pancakes are known as Pfannkuchen (from the German Pfanne and Kuchen meaning “pan” and “cake”) They are generally thicker than French-style crêpes and usually served with sweet or, occasionally, savoury fillings. \nEnglish pancakes have three key ingredients: plain flour, eggs, and milk, though Gervase Markham’s 1615 version in The English Huswife used water instead of milk and added sweet spices. The batter is runny and forms a thin layer on the bottom of the frying pan when the pan is tilted. It may form some bubbles during cooking, which results in a pale pancake with dark spots where the bubbles were, but the pancake does not rise. They may be eaten as a sweet dessert with the traditional topping of lemon juice and sugar, drizzled with golden syrup, or wrapped around savoury stuffings and eaten as a main course.\n",
+      "Greek pancakes are called tiganites and are popular across Greece and Cyprus. They are slightly thicker than crêpes and can be sweet or savoury. Their main ingredients are flour, olive oil or butter, milk and eggs. They are usually drizzled with honey and cinnamon and sometimes topped with cheese, nuts, fruits or vegetables."
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
