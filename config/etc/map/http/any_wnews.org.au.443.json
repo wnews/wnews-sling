@@ -1,0 +1,13 @@
+{
+  "sling:match": ".+.wnews.org.au.443",
+  "sling:internalRedirect": "/content/wnews",
+  "apps": {
+    "sling:internalRedirect": "/apps"
+  },
+  "libs": {
+    "sling:internalRedirect": "/libs"
+  },
+  "assets": {
+    "sling:internalRedirect": "/assets"
+  }
+}
