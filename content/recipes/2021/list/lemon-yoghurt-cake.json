@@ -1,0 +1,31 @@
+{
+  "sling:resourceType": "wnews/page/recipe",
+  "date": "2021-12-09",
+  "title": "Lemon Yoghurt Cake",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/12/LemonCake.jpg",
+  "abstract": "",
+  "body": {
+    "pars": [
+
+    ]
+  },
+  "ingredients": [
+    "1 cup sugar\n\n",
+    "2 eggs\n",
+    "The zest of 2 lemons\n",
+    "Juice of 1 lemon or 1/2 if it’s a particularly juicy one. \n",
+    "3/4 cup oil ( I use olive oil)\n",
+    "1 cup natural yoghurt (although I have also used Greek yoghurt) \n",
+    "2 cups SR flour"
+  ],
+  "method": [
+    "1. Mix sugar, zest, oil and eggs in a bowl with a fork till smooth.\n",
+    "2. Add the remaining ingredients and mix until combined. \n",
+    "3. Pour into a greased ring tin - I use a 22cm diameter tin. \n",
+    "Bake 35 minutes or until baked in centre. \n",
+    "Ice with lemon icing of your choice."
+  ],
+  "testimonials": "",
+  "published": true,
+  "sidebar": ""
+}
