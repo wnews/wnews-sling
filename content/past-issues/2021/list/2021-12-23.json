@@ -1,0 +1,11 @@
+{
+  "sling:resourceType": "wnews/page/front-page",
+  "date": "2021-12-23",
+  "title": "2021 12 23",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/12/wnews20211223.jpg",
+  "abstract": "",
+  "published": true,
+  "body": {
+    "content": ""
+  }
+}
