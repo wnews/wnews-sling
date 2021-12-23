@@ -1,0 +1,23 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-12-23",
+  "title": "Rail Trail funding clinched",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/12/Waranga Trail Div2.jpg",
+  "body": {
+    "pars": [
+      "The Waranga Rail Trail group is delighted that a funding commitment for the Rushworth-Murchison leg of the trail has  been confirmed by the Shire of Campaspe. Funds have been allocated from $5.2 million funding to the Shire as part of the Federal Government’s Local Roads and Community Infrastructure Program. ",
+      "The completion of the Campaspe section of the Waranga Rail Trail has long been on the agendas of both local Rushworth enthusiasts and the Campaspe Shire Council. \nWith the Rushworth to Murchison section of the trail along the former railway line completed, the goal will be to link existing tracks and trails through the forest from Rushworth to Heathcote.",
+      "Linking Rushworth to a network of Victorian rail trails will take that goal a step further, one that attracts even wider support, including that of a keen bunch of cyclists who look forward to being able to ride connecting rail trails throughout Victoria. \n",
+      "Keen lobbyist for the Waranga Rail Trail, Graeme Hanigan, said now we can think about how we as a community are going to celebrate the opening of the trail, which will hopefully be about 18 months away. ",
+      "Possible add-ons along the trail could include history, wildflower or bird information, while facilities such as toilets, picnic tables, boardwalks and observation decks would be added."
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
