@@ -1,0 +1,36 @@
+{
+  "sling:resourceType": "wnews/page/recipe",
+  "date": "2021-12-23",
+  "title": "Steamed Marmalade Pudding",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/12/Pudding on a plate.jpg",
+  "abstract": "",
+  "body": {
+    "pars": [
+
+    ]
+  },
+  "ingredients": [
+    "• 150 gm softened butter\n",
+    "• 150 gm caster sugar",
+    "• 3 eggs",
+    "• 275g self-raising flour\n",
+    "• 370g orange marmalade",
+    "• Finely grated rind of 1½ oranges",
+    "• 200 ml buttermilk"
+  ],
+  "method": [
+    "• For syrupy oranges, simmer orange slices in a small saucepan of water over medium heat to remove bitterness (2-3 minutes). ",
+    "Drain, return to pan, add marmalade and 2 tbsp water, reduce heat to low and simmer until syrupy (1-2 minutes). ",
+    "Arrange in the base of a buttered 2-litre pudding basin and set aside.\n",
+    "• For Steamed Marmalade Pudding, beat butter and sugar in an electric mixer until pale and fluffy (3-4 minutes). ",
+    "Add eggs one at a time, beating well after each addition. ",
+    "Fold in flour, then marmalade, orange rind and buttermilk, and spoon into prepared pudding basin. ",
+    "Smooth top, cover closely with a round of buttered baking paper and seal with foil and string or a lid. ",
+    "Place in a large saucepan, add hot water to three-quarters of the way up sides of pudding basin, cover saucepan with a lid and steam until a skewer withdraws clean (1½-1¾ hours). ",
+    "Top saucepan up with extra boiling water if necessary. ",
+    "Invert pudding onto a serving plate and serve hot with thick custard or icecream."
+  ],
+  "testimonials": "",
+  "published": true,
+  "sidebar": ""
+}
