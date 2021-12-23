@@ -1,0 +1,19 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2021-12-23",
+  "title": "Jobs, jobs and jobs!",
+  "media": "",
+  "body": {
+    "pars": [
+
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
