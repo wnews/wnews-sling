@@ -1,6 +1,8 @@
 {
-  "title":"Past Issues (2021)",
+  "title":"Past Issues (2022)",
   "sling:resourceType":"wnews/page/front-page-list",
   "jcr:primaryType":"nt:unstructured",
+  "sling:alias":"current",
+  "sling:vanityPath":"/past-issues",
   "pageSize": 6
 }

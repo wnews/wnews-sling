@@ -1,10 +1,12 @@
 {
-  "title":"50 Years Ago",
+  "title":"Garden Hints &amp; Tips",
   "sling:resourceType":"wnews/page/article-list",
   "jcr:primaryType":"nt:unstructured",
+  "sling:alias":"current",
+  "sling:vanityPath":"/gardening",
   "pageSize": 6,
   "filter": "nt:unstructured[published=true]",
   "itemListOrder": "Descending",
-  "bannerUrl": "/history/current.html",
+  "bannerUrl": "/gardening/current.html",
   "bannerImage": "/assets/wnews/images/garden-hints.png"
 }

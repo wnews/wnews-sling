@@ -1,0 +1,10 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Rushworth Community House",
+  "image": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/03/RCH Service.jpg",
+  "website": "",
+  "telephone": "",
+  "testimonials": "",
+  "published": true,
+  "column": "triple"
+}

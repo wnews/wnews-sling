@@ -1,0 +1,10 @@
+{
+  "sling:resourceType": "wnews/page/advertisement",
+  "title": "Coghlan's IGA",
+  "image": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/03/Coghlans IGA.jpg",
+  "testimonials": "enabled",
+  "published": true,
+  "website": "",
+  "telephone": "",
+  "column": "double"
+}
