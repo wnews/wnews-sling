@@ -1,6 +1,8 @@
 {
   "title":"Waranga Dreaming",
   "sling:resourceType":"wnews/page/article-list",
+  "sling:alias":"current",
+  "sling:vanityPath":"/firstpeoples",
   "jcr:primaryType":"nt:unstructured",
   "pageSize": 6,
   "filter": "nt:unstructured[published=true]",

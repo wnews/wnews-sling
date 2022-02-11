@@ -1,6 +1,8 @@
 {
   "title":"Garden Hints &amp; Tips",
   "sling:resourceType":"wnews/page/article-list",
+  "sling:alias":"current",
+  "sling:vanityPath":"/gardening",
   "jcr:primaryType":"nt:unstructured",
   "pageSize": 6,
   "filter": "nt:unstructured[published=true]",

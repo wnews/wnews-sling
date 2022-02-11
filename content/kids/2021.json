@@ -2,6 +2,8 @@
   "title":"Kids Corner",
   "sling:resourceType":"wnews/page/article-list",
   "jcr:primaryType":"nt:unstructured",
+  "sling:alias":"current",
+  "sling:vanityPath":"/kids",
   "pageSize": 6,
   "filter": "nt:unstructured[published=true]",
   "itemListOrder": "Descending",
