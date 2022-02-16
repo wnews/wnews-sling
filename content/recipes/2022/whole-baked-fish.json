@@ -1,0 +1,32 @@
+{
+  "sling:resourceType": "wnews/page/recipe",
+  "date": "",
+  "title": "Whole baked fish",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2022/02/BakedFish.jpg",
+  "abstract": "",
+  "body": {
+    "pars": [
+
+    ]
+  },
+  "ingredients": [
+    "Two small size bream, trout or red    schnapper. Mine weighed about 350gm each. Or one larger fish around 2kg.\n\n",
+    "One handful each fresh thyme, oregano, parsley, coriander or what ever you have on hand. (Really only need about two handfuls in total)\n",
+    "1x lemon/lime thinly sliced \n",
+    "Splash of white wine, soy sauce .\n",
+    "Salt and pepper"
+  ],
+  "method": [
+    "Whether you are using the barbecue or oven, turn them on prior to preparation. You want the barbecue rather hot 200º - oven 180º.",
+    "1. Dry fish thoroughly with paper towel.\n\n",
+    "2. Fill cavity with the herbs and season.Splash with white wine.\n",
+    "3. Tear off two sheets of aluminium foil long enough to completely seal the fish into a packet. \n",
+    "Before placing fish onto the foil sprinkle outside of fish with some good olive oil. ",
+    "Wrap fish securely and place on an oven tray. ",
+    "Or follow directions suitable for your barbecue.",
+    "4. Cook for approx 35 to 45 mins for a whole 2kg fish. Internal temp. for cooked fish recommended 57º. My two smaller fish were cooked through after thirty-five minutes."
+  ],
+  "testimonials": "",
+  "published": true,
+  "sidebar": "For an Asian-inspired flavour, you can use a splash of sesame oil, fish sauce or tamari.Slices of spring onion and finely chopped chilli, garlic and fresh ginger. If you favour the Asian flavours, then you could make some Thai dipping sauce*.  Serve with a crunchy  green salad or coleslaw."
+}
