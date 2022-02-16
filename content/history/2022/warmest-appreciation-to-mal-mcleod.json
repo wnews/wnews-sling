@@ -1,0 +1,19 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2022-02-03",
+  "title": "Warmest appreciation to Mal Mcleod",
+  "media": "",
+  "body": {
+    "pars": [
+
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
