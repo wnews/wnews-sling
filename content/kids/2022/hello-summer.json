@@ -2,10 +2,30 @@
   "sling:resourceType": "wnews/page/article",
   "date": "2022-02-17",
   "title": "Hello Summer",
-  "media": "",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2022/02/ColouringPage.jpg",
   "body": {
     "pars": [
-
+      "Hey Kids",
+      "It’s funny how going back to school seems to turn the weather up to very  hot. Have you noticed that?\n",
+      "We live in a sunburnt country where hot days and heatwaves can stress our bodies. Here’s how to stay cool and hydrated.\n",
+      "Drink plenty of water\n",
+      "One of the best ways to avoid heat-related illness is to drink plenty of water. It’s important to keep drinking water even if you don’t feel thirsty, because this can prevent you from becoming dehydrated.\n",
+      "Avoid hot or sugary drinks because these can make dehydration worse.",
+      "Keep your body cool\n",
+      "Keeping as cool as possible can also help you prevent heat-related illness. Make sure you stay out of the sun. ",
+      "Drinking cold drinks and eating smaller, cold meals, such as salads and fruit, can also help you to keep cool.\n",
+      "Other things to do include wearing light-coloured and loose-fitting clothes made from natural fibres such as cotton, and taking cool showers or baths.\n",
+      "Stay safe in the sun\n",
+      "If you need to go outside in the sun, it’s important to protect your skin. If you avoid sunburn, you reduce the risk of skin cancer, which is one of the most common cancer types in Australia.\n",
+      "Some people need to take special care in summertime\n",
+      "• elderly people aged over 75 years, • babies and young children\n",
+      "• people with long-term health conditions, for example heart or respiratory disease, diabetes or circulatory diseases\n",
+      "• people who are overweight\n",
+      "• people taking certain medicines\n",
+      "• people who are socially isolated\n",
+      "• people who work outdoors or in hot and poorly ventilated areas and those engaging in vigorous physical activity in hot weather\n",
+      "• people who are not used to the heat, for example: overseas visitors\n",
+      "Of course, another great way to cool down is to head to your local pool, where you can swim in safety under the watchful eye of the lifeguard. Where would we be without our town pools?"
     ]
   },
   "published": true,
