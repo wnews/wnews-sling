@@ -1,0 +1,24 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2022-02-17",
+  "title": "It’s summer ~ be kind to your garden",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2022/02/CompanionPlanting.png",
+  "body": {
+    "pars": [
+      "Companion planting is an excellent way to improve your garden. Some plants replenish nutrients lost by another one, and some combinations effectively keep pests away.\nWhen planting a flower or vegetable transplant, deposit a handful of compost into each hole. Compost will provide transplants with an extra boost that lasts throughout the growing season.\n\n",
+      "Garden vegetables that become over-ripe are an easy target for some pests. Remove them as soon as possible to avoid detection.\n",
+      "If you can only water occasionally, try to water plants deeply and use that opportunity to simultaneously feed and correct mineral deficiencies. Apply a soluble fertiliser with added seaweed. Water in potash around the base of fruit trees, especially citrus, banana and lychee, to improve fruit flavour and juiciness.\n",
+      "Water in the cool of the day. The best time is morning but, if you water in the afternoon, allow enough time for foliage to dry out before sunset. This reduces the risk of mildew and other fungi attacking leaves, and there’s less chance you’ll get caught by the evening shift of mosquitoes.\n",
+      "Potted plants, especially those in terracotta pots, are vulnerable to overheating. Lightly mulch and, where possible, position them out of hot western sunshine. ",
+      "Remember that standing potted plants in saucers of water encourages root rot and mosquito breeding. Instead, stand them in saucers filled with sand, and keep the sand moist."
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
