@@ -1,8 +1,6 @@
 {
   "title":"Articles (2021)",
   "sling:resourceType":"wnews/page/article-list",
-  "sling:alias":"current",
-  "sling:vanityPath":"/articles",
   "jcr:primaryType":"nt:unstructured",
   "pageSize": 7,
   "list": {

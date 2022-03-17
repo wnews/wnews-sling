@@ -2,10 +2,10 @@
   "title": "A community newspaper staffed by volunteers",
   "description": "Serving the Waranga community for over 30 years",
   "author": "Waranga News Inc.",
-  "feature": "content/articles/2021/list/rail-trail-funding-clinched.json",
+  "feature": "content/articles/2022/list/it-s-official-colbinabbin-silos-are-now-open.json",
   "sling:resourceType": "wnews/page/index",
   "jcr:primaryType": "nt:unstructured",
   "show_advanced_settings": false,
-  "articles": "content/articles/2021.json",
+  "articles": "content/articles/2022.json",
   "sidebar": ""
 }
