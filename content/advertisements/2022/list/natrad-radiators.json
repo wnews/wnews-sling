@@ -1,7 +1,7 @@
 {
   "sling:resourceType": "wnews/page/advertisement",
   "title": "Natrad Radiators",
-  "image": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/03/Natrad Radiators.jpg",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/03/Natrad Radiators.jpg",
   "testimonials": "enabled",
   "published": true,
   "website": "",

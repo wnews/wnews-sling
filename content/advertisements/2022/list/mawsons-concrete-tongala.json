@@ -1,7 +1,7 @@
 {
   "sling:resourceType": "wnews/page/advertisement",
   "title": "Mawsons Concrete Tongala",
-  "image": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/03/Mawsons.jpg",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/03/Mawsons.jpg",
   "website": "",
   "telephone": "",
   "testimonials": "",

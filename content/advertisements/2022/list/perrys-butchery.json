@@ -1,7 +1,7 @@
 {
   "sling:resourceType": "wnews/page/advertisement",
   "title": "Perry's Butchery",
-  "image": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/03/Perry's Butchery.jpg",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/03/Perry's Butchery.jpg",
   "testimonials": "enabled",
   "published": true,
   "website": "",

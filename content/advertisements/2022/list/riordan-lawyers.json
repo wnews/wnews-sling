@@ -1,7 +1,7 @@
 {
   "sling:resourceType": "wnews/page/advertisement",
   "title": "Dawes  & Vary Riordan Lawyers",
-  "image": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/03/Dawes Vary Riordan.jpg",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/03/Dawes Vary Riordan.jpg",
   "testimonials": "enabled",
   "published": true,
   "website": "",
