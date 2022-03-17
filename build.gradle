@@ -12,7 +12,7 @@ buildscript {
 
 plugins {
     id "com.github.node-gradle.node" version "3.1.0"
-    id "biz.aQute.bnd.builder" version "5.0.0"
+    id 'biz.aQute.bnd.builder' version "$bndVersion"
 }
 
 apply plugin: 'java'
