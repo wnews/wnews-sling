@@ -1,0 +1,42 @@
+{
+  "sling:resourceType": "wnews/page/recipe",
+  "date": "2022-03-31",
+  "title": "Tilda’s Spicy Plum Cake",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2022/04/PlumCake.JPG",
+  "abstract": "It’s handy when one’s grandchildren grow old enough to cook when they come to stay.\nOur granddaughter Tilda arrived to have sleep-overs, bringing with her a bag of plums from their very own tree in Bendigo, and then proceeded to bake us a Spicy Plum Cake. \nI don’t own a spring-form cake tin, but my old dented 9 inch  cake tin did the trick.",
+  "body": {
+    "pars": [
+
+    ]
+  },
+  "ingredients": [
+    "1½ cups plain flour\n\n",
+    "1½ tspn baking powder\n",
+    "1 tspn cinnamon\n",
+    "¼ tspn nutmeg\n",
+    "½ tspn salt\n",
+    "½ cup soft butter\n",
+    "1 cup sugar\n",
+    "1 large egg\n",
+    "1 teaspoon vanilla extract\n",
+    "½ cup milk\n",
+    "½ kg plums, pitted and quartered\n",
+    "2 tbspn sugar extra"
+  ],
+  "method": [
+    "Preheat oven to 180ºC. \n",
+    "Grease a 9 inch cake tin or spring-form cake tin well with butter. ",
+    "We decided it might be a good idea to line the bottom of the tin with baking paper to make it easier to cut and remove the cooked cake.\n",
+    "Sift dry ingredients a couple of times. ",
+    "Beat butter and sugar until pale and fluffy, add the egg and vanilla and mix well. ",
+    "Gradually add dry ingredients alternating with milk and beat until smooth. ",
+    "The batter is quite thick.\n",
+    "Arrange the plums on top, skin side up so that they cover the batter, then sprinkle with the extra 2 tbspn sugar.\n",
+    "Bake for 60-70 minutes until golden on top and set in the centre. ",
+    "Run a knife around the edge of the tin (and remove the springform edge and let the cake cool on a rack still on its base).\n",
+    "Tilda served it up to us with ice-cream AND cream - which is, I admit, going a bit too far. But it was delicious."
+  ],
+  "testimonials": "",
+  "published": true,
+  "sidebar": ""
+}
