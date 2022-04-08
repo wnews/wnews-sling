@@ -1,0 +1,25 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2022-03-03",
+  "title": "Harvesting ancient grains",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2022/04/images.jpeg",
+  "body": {
+    "pars": [
+      "Sydney University runs a plant breeding institute at Narrabri in north-east New South Wales.  One of the projects being run there is the Indigenous Grasslands for Grain project, in which they are experimenting with growing and harvesting grain that was used by Aboriginal people pre-colonisation.  “Since its launch in 2020 the program, led by local Indigenous people, has been exploring the commercial viability of Australian native grasses and grains.”1\n",
+      "Two of the seed crops that have been harvested during February are native millet and Mitchell grass.  They have been harvested by both hand and machine.  “As part of the process, grains are grown in field trials across a hectare-sized site, with seeds tested for their nutritional value and then used in food production.”1\n",
+      "A food company is working in partnership with the institute “to find markets for traditional food growing processes that care for country and could possibly return economic benefits to Indigenous people.”  The manager of the company has said that “What we want to create is a space that is Aboriginal led, an Aboriginal space that white fellas get invited into, not the other way around which seems to be the norm in most cases.”1\n",
+      "There are other potential benefits associated with growing the ancient crops, including the capacity to store carbon, improve biodiversity and provide feed for grazing.\nThere are local Aboriginal people working on the project who are keen to rediscover the knowledge that their ancestors had.  One participant said that “Collecting the native grains has just been so exciting because I have seen the health benefits of all the grains.”  However, it is not just the benefits to physical health that are important.  Spiritual reconnection to the land is a key to improving the mental health of the people involved.\n",
+      "Archaeologists from Sydney Uni have also taken an interest in the project because it can give them some insights into the food growing and harvesting methods that occurred hundreds, even thousands of years earlier.   What is beyond doubt is that Aboriginal people invested a huge amount of time and effort into creating sophisticated systems to produce these staple foods.\n",
+      "In the Waranga area, grains were also harvested by the traditional custodians, the Ngurai-illum Wurrung people.  One of the grains harvested locally was from kangaroo grass.  There are still pockets of kangaroo grass in areas undisturbed by cropping and grazing, such as the sides of little used roads.  It would be great if something like the Narrabri trials could take place in the local area, harvesting crops that have been growing here for thousands of years and potentially providing an alternative source of income for farmers.\n",
+      "Reference:  1  https://www.abc.net.au/news/2022-02-13/narrabri-plant-breeding-institute"
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
