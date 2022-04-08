@@ -1,0 +1,27 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2022-03-31",
+  "title": "Zoo's",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2022/04/ZooHealesville-1.png",
+  "body": {
+    "pars": [
+      "How long has it been since you had a visit to a Zoo?\nWe’re so lucky in Victoria to have several Zoos - we’re really spoilt for choice. \n",
+      "When I was a child (many long years ago), I can recall going only to the Melbourne Zoo in Parkville on the edge of the city of Melbourne. It was a really special treat to be taken there.\n",
+      "But I think you would cry if you saw how the animals were housed back in those days - in cages with concrete floors, with beautiful animals like tigers, lions and other Big Cats, just pacing back and forth against the bars of the cage. Don’t get me wrong: the animals were fed and cared for, but nowadays zoo animals are  kept in more natural settings.\n",
+      "Sea Life Aquarium in Melbourne is well worth a visit. Many people ask are there any zoos in Melbourne that cater to marine wildlife. This aquarium is one of the best marine wildlife zoos in the city.You walk through underwater tunnels where fish swim over your head.\n",
+      "Werribee Open Range Zoo is an African-themed zoo. It’s one of the best zoos where you get to drive around ‘on safari’ and see the animals wandering free.\n",
+      "Halls Gap Zoo is Victoria’s largest regional zoo, featuring over 160 species of native and exotic mammals, reptiles and birds. It’s well worth a visit if you’re spending time in Halls Gap doing some of the great walks in the area. The walks are graded from easy to difficult (I went only on the ‘easy’ ones!)\n",
+      "Healesville Sanctuary is not far out of Melbourne and this is a great zoo that mainly showcases native Australian animals. It is one of the best petting zoos in Melbourne where there are many animals that can be petted under the supervision of zoo officials.\n",
+      "And let’s not forget that there is the Kyabram Fauna Park, nearly on our doorstep, where there are over 400 species of wildlife animals featured and sheltered at the park. \n",
+      "There are four main roles of today’s zoos. They are: conservation, research, education and recreation. Animals are bred in captivity so they don’t become extinct. . . and best of all, for us, we get to see these animals and appreciate how important they are in the world. I don’t think anyone appreciates just how tall a giraffe is until they see one  in real life!"
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
