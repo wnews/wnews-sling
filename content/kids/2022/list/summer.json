@@ -1,0 +1,26 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2022-03-03",
+  "title": "Summer ",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2022/04/KidsSwim.jpg",
+  "body": {
+    "pars": [
+      "There’s still a lot of summer weather before we move into autumn so if you’re not jumping in your local pool, you might be lucky and get taken to the beach - or even better (in MY opinion) taken to a river.\n",
+      "Some people love the beach, but to me, there’s far too much sand! And it gets in and on everything, including in anything you try to eat. \n",
+      "Oh . . that reminds me of that Dad joke about ‘Why won’t you get hungry when you go to the beach?’ Answer: ‘Because there is  so much sand which (sandwich) is on the beach’.\n",
+      "Now, if you head to the river, I might even hop in with you (in your car AND in the river).\nAlthough there are no sharks or jelly fish in the rivers, you still have to be careful. There are some rules about safe river swimming. And one of the first rules is never swim alone.\n",
+      "A good swimming spot hasn’t any submerged trees or tree roots in it. Always enter the river carefully - definitely no diving until you know how deep the water is.\nBut the good part about going to the river is that you might catch a fish! So you should take a fishing rod and all those bits that good fisherman have in their fishing kits . . especially a few worms, yabbies or lures . . and a net to bring that fish right into the boat!\n",
+      "\nYou might catch a Redfin\n. . or a Yellow Belly\nor even a Murray Cod.\n",
+      "I’m not very good at catching fish, but I’ve been taught how to fillet fish. And I certainly know how to cook one. \nTry just placing lots of slices of lemon in and on the fish, salt and pepper, and wrap in foil and bake in the oven or in the coals of a camp fire.\n",
+      "Or you can dip fillets in beaten egg, then in seasoned breadcrumbs and fry in some butter or oil. Taste THAT!"
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
