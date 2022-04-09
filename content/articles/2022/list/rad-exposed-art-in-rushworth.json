@@ -1,5 +1,5 @@
 {
-  "sling:resourceType": "",
+  "sling:resourceType": "wnews/page/article",
   "title": "RAD Exposed ~ art in Rushworth",
   "date": "2022-03-03",
   "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2022/04/IMG-3226.jpg",

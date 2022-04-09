@@ -1,5 +1,5 @@
 {
-  "sling:resourceType": "",
+  "sling:resourceType": "wnews/page/article",
   "title": "Australia Day recognition for Dea Brown",
   "date": "2022-02-03",
   "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2022/02/DeaBrown.JPG",

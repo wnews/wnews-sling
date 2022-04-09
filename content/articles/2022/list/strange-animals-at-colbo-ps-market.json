@@ -1,5 +1,5 @@
 {
-  "sling:resourceType": "",
+  "sling:resourceType": "wnews/page/article",
   "title": "Strange animals at Colbo PS Market",
   "date": "2022-03-31",
   "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2022/04/LucyPrice.jpg",
