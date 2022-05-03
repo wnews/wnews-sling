@@ -1,0 +1,19 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2022-04-14",
+  "title": "Signs of revival in our towns",
+  "media": "",
+  "body": {
+    "pars": [
+
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "After two very quiet years of planning uncertainty and cancelled public events, there are signs around the district that we are more than ready to make up for lost time.  In Rushworth a community BBQ to welcome new residents to town attracted close to 100 enthusiastic new and old residents who spent the day meeting, chatting and enjoying lunch provided by the sausage sizzling experts,  the Rushworth SES.  Many finished off the afternoon at the opening of Eloise Mitchell’s ‘Wildwood’ exhibition at the Rushworth ART Depot, another  successful event (especially evidenced by the number of red dots on paintings within the first hour!)",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
