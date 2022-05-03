@@ -1,0 +1,26 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2022-04-14",
+  "title": "Easter and the school holidays",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2022/05/Kids.DeckChairCinema-1.png",
+  "body": {
+    "pars": [
+      "Hey Kids\nIt’s definitely time to talk about Easter and school holidays. \n",
+      "What have you planned? Jobs to do? Movies to see? Trips to make? Visits to family? So many things to choose from.\nDo any of you remember drive-in movies? In those days, you would simply pack the family in the car and drive to the big open area theatre and park next to a ‘speaker’ which you would hang on your partly open window. If you got there early enough, you’d dash over to get some food and drinks from the canteen before jumping back in your car to watch the movie!\n",
+      "There was one at Shepparton that was designed to have space for 400 cars (later increased to 635 cars.) The screen was 24 metres x 11 metres.\n",
+      "A long time ago, there was an open-air theatre at the corner of Wyndham and High Streets in Shepparton - it was called The Lyric (perhaps your Great Gran might remember it if you asked her). I think they just had tiered rows of wooden benches. It cost sixpence (five cents) for an adult ticket and threepence for a child. \n",
+      "I went to an open-air cinema in Darwin once where you simply sat outside in deck chairs with only the stars above you. That was fine for Darwin, but it might have been pretty chilly in Shepparton!\n",
+      "We’re still getting plenty of vegetables from OUR garden. You could ask if you can help harvest some vegetables from YOURS. And I’m sure you could rake up all those autumn leaves and put them in your compost heap.\n",
+      "Oh and let’s not forget it’s nearly Easter . . you know what that means? Hopefully you’ll get a chance to go on an Easter Egg Hunt!\n",
+      "And, we’re all smart enough to know that rabbits don’t lay eggs. WE know, but we’re very happy for our parents to buy us chocolate ones!"
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
