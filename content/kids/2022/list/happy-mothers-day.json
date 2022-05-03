@@ -1,0 +1,27 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2022-04-28",
+  "title": "Happy Mothers day",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2022/05/KidsDucks.jpg",
+  "body": {
+    "pars": [
+      "Have you remembered that Mother’s Day is coming up soon? It will be on Sunday 8 May this year.\n",
+      "The way we celebrate Mother’s Day these days, is not the way the woman, Anna Jarvis, who started the day, meant it to be. She wanted it to be a day for a special church service to pray for mothers.\n",
+      "Anna wanted Mother’s Day to say ‘thank you’ for all that a mother does for her family. Today, some churches like to hand out a white chrysanthamum for people to pin to their jacket as a reminder of their mothers - and to pray for them especially on that day.\n",
+      "Australia celebrated Mother’s Day for the first time in 1910 with special church services, however, it was not popularly observed until the 1920s. The tradition of giving gifts on Mother’s Day in Australia started in 1924.\n",
+      "But you don’t need to buy expensive presents to show Mum that you love and appreciate her.\n",
+      "People tend to buy more flowers and plants on Mother’s Day than at any other time of the year. But you can make it a special day for YOUR mother simply by being kind and thoughtful to her, helping her with any jobs she has to do, telling her that you love her . . . and maybe even taking her breakfast in bed.\n",
+      "We’ve given you a colouring corner on this page . . . maybe you’d like to colour it in carefully. Try to keep within the lines and make it neat. You can tick the boxes next to whatever you want to say to your Mum on this Mother’s Day and there’s even space for you to sign your name.\n",
+      "Cut it out carefully and give it to your Mum. She will love it more than just buying her a card from a shop. How do I know?\n",
+      "Because I’m a Mother and I know how mothers feel."
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
