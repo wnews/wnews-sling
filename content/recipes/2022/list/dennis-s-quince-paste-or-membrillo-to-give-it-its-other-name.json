@@ -1,0 +1,31 @@
+{
+  "sling:resourceType": "wnews/page/recipe",
+  "date": "2022-05-12",
+  "title": "Dennis’s Quince Paste (or Membrillo, to give it its other name)",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2022/05/ART.QuincePaste copy.jpg",
+  "abstract": "I’ve just returned from a Retreat at Mitta Mitta. Do you know the area? A delightful part of Victoria in the Mitta Mitta Valley, at the junction of the Mitta Mitta River and Snowy Creek.\nWhy am I telling you this? And what has it to do with a Cooks’ Column? I hear you ask. Well, the place where we stayed has been domesticated back from several acres of wild blackberries to an idyllic spot - right alongside the river. The owner has planted so many fruit and nut trees and a good vegetable garden, not to mention the cages of quail and chooks etc, that he’s almost self sufficient.\nWhich brings me to the quinces . . . and how he proudly served his home-made quince paste with our pre-dinner drinks and cheese platter.\nOf course, his home-made quince paste immediately drew us all into sharing our disasters of quince-paste-making . . and I had some of my own disasters to relate. For example: the huge batch I diligently stirred and stirred for hours only to turn my back on it in the last moments and burn it mightily to the saucepan . . . and the batch I made that didn’t set and I had to spread it in a baking dish and try to dry it out in the oven. Then roll it in sugar to cover its stickiness. I gave up trying after that.\nBut our host said it was the easiest thing he’d ever done and proceeded to give us an account of his so easy recipe.",
+  "body": {
+    "pars": [
+
+    ]
+  },
+  "ingredients": [
+    "1.2kg quinces (after peeling and coring)\n",
+    "3 1/2 cups white sugar\n",
+    "2 tblspns lemon juice\n",
+    "1 cup water"
+  ],
+  "method": [
+    "Wash and remove any fuzz from the quinces. ",
+    "Peel and core and dice into 2cm pieces. ",
+    "Place in pot with sugar, lemon juice and water and bring to a simmer, stirring to melt the sugar. ",
+    "Continue to simmer (and stir) over medium heat for an hour or so, as the mixture progressively turns  a beautiful red colour.  ",
+    "Do a cold plate test to see if it wrinkles when you push it with your finger.\n",
+    "Purée the mixture and pour it into a greased glass baking dish and smooth out the top. ",
+    "Allow it to cool and then cover with plastic wrap and refrigerate for 24-48 hours until firm. ",
+    "Cut it into blocks and wrap individually in plastic wrap."
+  ],
+  "testimonials": "",
+  "published": true,
+  "sidebar": ""
+}
