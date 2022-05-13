@@ -1,0 +1,23 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2022-05-12",
+  "title": "Friends retire after long service",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2022/05/Untitled-1.jpg",
+  "body": {
+    "pars": [
+      "Three of the very long-standing members of the ‘Friends of the Hostel’ auxiliary have retired, and their great service was noted at its AGM recently. \n",
+      "Cath Francis, Floss Holschier, and Shirley Jacobson have been involved from the early days of the group which was formed while the hostel was still in the planning stages in 1994.  Over the years the ‘Friends’ have supported the hostel through fund-raising to allow the purchase of those extra facilities which make the hostel a better place to call home.  These ranged from art works to sewing machines, entertainment to gardening equipment, armchairs to hair dryers, and birthday and Christmas gifts for residents. The Friends also often participate in activities to support the Lifestyle Team.\n",
+      "Over the years, hard-working ‘Friends’ with the support of many groups and donors, and in particular supporters of the ‘Special Efforts’ from time to time, plus Hostel staff, residents and a couple of bequests have raised funds exceeding $96,000.  In addition, nearly $3,000 has been raised for ‘Cuppa for Cancer’\n",
+      "Since the amalgamation of the Hospital and Nursing Home and the winding up of the old Hospital Auxiliary, the Friends are now the only group working to fund-raise and support the Waranga Health facility.  There are currently ten members of the committee, and they are always on the look-out for new members to share this rewarding and valuable work.  If anyone wishes to join, they can contact Secretary Sue Sheers on 0428572516,  or any member of the group.  \n",
+      "The ‘Friends of the Hostel’ and indeed the whole community owes a great debt to all who give their time to support our health service, and in particular at this time to Cath, Floss, and Shirley."
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
