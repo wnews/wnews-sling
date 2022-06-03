@@ -1,0 +1,44 @@
+{
+  "sling:resourceType": "wnews/page/recipe",
+  "date": "2022-05-26",
+  "title": "Very yummy pork spare ribs",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2022/06/PorkSpareRibs.png",
+  "abstract": "",
+  "body": {
+    "pars": [
+
+    ]
+  },
+  "ingredients": [
+    "600g pork spare ribs\n",
+    "lots of garlic mashed\n",
+    "MARINADE\n",
+    "1 tspn cornflour\n",
+    "1 tspn salt\n",
+    "1 tspn sugar\n",
+    "1 tspn five-spice powder\n",
+    "1 tblspn sherry\n",
+    "1 tbspn satay sauce\n",
+    "1 tbspn peanut butter\n",
+    "1 tbspn oil\n",
+    "1 egg\n",
+    "SAUCE\n",
+    "6 tbspn tomato sauce\n",
+    "100g brown sugar\n",
+    "2 tbspn black vinegar\n",
+    "1 tspn salt\n",
+    "1 tbspn lemon juice\n",
+    "2 cups hot water"
+  ],
+  "method": [
+    "Rub the spare ribs all over with the mashed garlic. \n",
+    "Then combine all the marinade ingredients and rub well into the meat. ",
+    "Leave for at least an hour before grilling in an oven or better still in your barbecue to get a hint of smoke to the meat.",
+    " It’s even better if you marinate the meat in an air-tight container in the fridge overnight.\n",
+    "For the sauce, mix all ingredients together and bring to the boil, add the  ribs, cover and simmer over a low heat until the ribs are moist and well-coated with sauce (about 15 minutes). ",
+    "Serve with the sauce ladled over the ribs . . . some finely sliced shallots sprinkled over will make it look and taste even better."
+  ],
+  "testimonials": "",
+  "published": true,
+  "sidebar": ""
+}
