@@ -1,0 +1,23 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2022-06-09",
+  "title": "Kinder kids grow healthy eating habits",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2022/06/20220525_131946.jpg",
+  "body": {
+    "pars": [
+      "The centre is working in conjunction with Healthy Hearts Victoria and the Shire of Campaspe to set up the program. Based on the information that was collected from the Campaspe Healthy Living Census that was collected in 2020, Healthy Hearts Victoria provided grants for Stephanie Alexander Kitchen Garden projects to be established in Rushworth and Rochester.\n",
+      "The children have been preparing the garden beds, sowing seeds and planting seedlings. \n",
+      "The kinder is also working with the Rushworth Community House and the Community Garden, which have provided the children with an extra garden space to plant their fresh produce.\n",
+      "Currently the children have planted a number of vegetables and herbs, including cauliflower, carrots, broccoli, celery, parsley and brussel sprouts.\n",
+      "When the produce has grown they will be using the fresh vegetables and herbs for cooking experiences, which will allow them to try foods they may have not experienced before."
+    ]
+  },
+  "published": true,
+  "sidebar": "The children and staff at the Rushworth Kindergarten and Childcare are establishing a Stephanie Alexander Kitchen Garden program.",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
