@@ -1,0 +1,31 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2022-06-23",
+  "title": "B - Bee",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2022/06/BeeOnFlower.png",
+  "body": {
+    "pars": [
+      "Hi Kids\n",
+      "Bee cool. Bee happy. (Just thought we’d start today with a couple of ‘Dad’ jokes!)\n",
+      "And here’s a quiz to check how much you know about bees (see if Mum or Dad know the answers)\n",
+      "1) How many eyes does a bee have?\n2) How many legs does a bee have?\n3) What is a male bee called?\n4) Who does all the work?\n5) How many eggs can a queen bee lay when she’s on a winner?\n",
+      "The answers are at the end of this page.\n",
+      "Bees are very important, even vital, for our farms and gardens . . they pollinate the crops and flowers, fruit and vegetables. Without bees, our food system would break down. That’s why we must be careful not to poison bees with chemical sprays.\n",
+      "Bees love flowers so if you make sure you have plenty of plants like: alyssum, salvias, lavender, grevilleas, bottle brush etc, you’ll be making a whole lot of bees happy.\nOver a bee’s lifetime, she’ll produce just a teaspoon of honey, so you really should appreciate the honey you put on your toast or porridge!\n",
+      "The bees make a wax ‘honeycomb’ to hold their ‘baby bees’ and to store the honey and pollen. Once each cell is filled, the bees seal it off .\n",
+      "If you happen to know one of our local bee keepers, they might be pleased to show you how they tend their hives and collect the honey from the wax honeycomb cells.\nIt’s not just honey that bees give us. Beeswax is another useful product that can be used for  making candles, polishing wooden furniture, use as lip balm and for keeping a wood chopping board in good condition . . and tell Dad that it’s good for stopping his work shed tools going rusty.\n",
+      "If you have time to spare over the school holidays, you might like to ask Mum or Dad to Google a recipe for honeycomb.\n",
+      "It’s a lot of fun to make but not the sort of cooking for the young and inexperienced cook as you’re dealing with very hot sugar syrup  . . . oh but the fun of seeing it all froth up when you add the bicarb soda! You have to work quickly to pour it into a greased tin before you lose all the bubbles and before it starts setting.\n",
+      "Then all you need is a few friends to help you eat it. It doesn’t keep very well!",
+      "Answers\n1) Bees have five eyes.\n2) Bees have six legs.\n3) A male bee is called a drone.\n4) The females do all the work!\nA queen bee can lay up to 2,000 eggs per day."
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
