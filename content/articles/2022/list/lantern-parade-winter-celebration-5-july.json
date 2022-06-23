@@ -1,0 +1,28 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2022-06-23",
+  "title": "Lantern parade winter celebration - 5 July",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2022/06/Amanda and Lucy with lanterns.jpg",
+  "body": {
+    "pars": [
+      "Come one, come all.\n",
+      "Yes – it’s going ahead! \n",
+      "Put on your winter gear, pack your picnic tea, grab a chair or picnic rug and come along to the ART Depot in Horne Street for the lantern parade and camp-fire sing-along on 5 July 2022. \n",
+      "Singalong and make a lantern\n",
+      "The free lantern making workshop with bonus damper-making starting at 3pm, followed at 5pm by the opportunity to show off your lantern in the parade down High Street to the Aged Care Hostel, where we’ll serenade the residents from the courtyard. \n",
+      "Gather around the campfire",
+      "Then it’s back to the campfire for a big community sing led by the Colbo Pub Choir. ",
+      "A great school holiday activity for families and everyone is welcome – a fantastic way to celebrate our crisp, cold winters in the convivial atmosphere of the camp-fire.\n",
+      "Workshop\n",
+      "To book for the lantern-making workshop (3-5pm on the day of the parade), call Rushworth Community House on 5856 1295, otherwise come along at five o’clock to join in the fun. Parking is on Horne Street to keep the site safe for children. Watch the RAD Facebook page for any updates."
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
