@@ -1,0 +1,31 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2022-07-07",
+  "title": "C - is for Camel",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2022/08/KK.OneHump.png",
+  "body": {
+    "pars": [
+      "I bet you thought we’d be talking about ‘cats’ this edition! But there are a lot more animals starting with the letter ‘c’: camels, for instance.",
+      "How about a few quiz questions to test how much you know about camels. Answers are at the bottom of the page, but no peeking before you’ve had a try!\n",
+      "1) How long can a camel go without drinking?\n2) What’s inside a camel’s hump?\n3) What country has the most camels?\n4) What is fastest . . a camel or a horse?\n5) What is a one-humped camel called?\n",
+      "Camels aren’t native to Australia. They were first brought to Australia from the Canary Islands in 1840. Now there are over one million feral camels across Central Australia and in the Victoria River District regions.\n",
+      "Camels cause problems for people living in the areas where there are lots of them. They drink the already limited water supply, damage vegetation and crops, break down fences, and cause an estimated $10 million worth of damage each year.\n",
+      "Camels were first introduced into Australia to assist in the exploration of inland Australia. They can survive up to fifteen days without water. One of the reasons that they can survive so long is because their humps store fat (not water) and they use this to help them go longer without water.\n",
+      "Camel milk is rich in many nutrients that are important for overall health. When it comes to calorie, protein, and carb content, camel milk is comparable to whole cow’s milk. However, it’s lower in saturated fat and offers more vitamin C, B vitamins, calcium, iron, and potassium. So it’s considered by some people to be healthier than cow’s milk.\n",
+      "Camel meat can also be eaten and I did sample some when I was in Darwin some years ago. In Darwin there is a great night market  on Mindil Beach and there you will find a food stall like no other. It’s called ‘The Roadkill Café’ with the motto ‘You kill it, we grill it’. I hope that’s only a joke!\n",
+      "On the menu are things like kangaroo, buffalo, emu, crocodile, possum and camel. I’ve tasted all of those except possum . . . I’d have to be extremely hungry to eat possum - they’re far too cute.\n",
+      "Apart from eating camel and drinking camel products, you can also try to make yourself more beautiful or handsome by using camel milk on your skin.\n",
+      "If you read the labels on camel milk products, they will tell you it is gentle on sensitive skin, is good for dry skin. It moisturises, and, used as a lip balm, will combat dry chapped lips. \n",
+      "And it helps prevent wrinkles. What’s NOT to like about camels?",
+      "Answers\n1) Up to fifteen days!\n2) Fat - not water - is stored in a camel’s hump.\n3) Australia!\n4) Horses (40kph) are faster than camels (32kph).\n5) A one-humped camel is called a dromedary."
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
