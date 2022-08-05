@@ -2,7 +2,7 @@
   "sling:resourceType": "wnews/page/article",
   "date": "2022-07-07",
   "title": "Golden gardens",
-  "media": "",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2022/08/Jonquil.jpg",
   "body": {
     "pars": [
       "In what seems to be the garden’s antidote to the lingering cold of winter, there are many warming displays of golden/yellow on show in July and August. \n",
