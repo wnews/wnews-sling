@@ -1,0 +1,30 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2022-08-04",
+  "title": "E - is for Elephant",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2022/08/KK.ElephantFamily.png",
+  "body": {
+    "pars": [
+      "Q. How can you tell the difference between a grape and an elephant?\nA. Grapes are purple.\n",
+      "Q. What do you get when you cross a kangaroo with an elephant?\nA. Great big holes all over Australia.\n",
+      "Well, that’s enough of the dad jokes. Let’s talk about elephants. To get you started, see how many of these questions you can answer:\n",
+      "1) How much water can an elephant hold in its trunk?\n2) How long is an elephant pregnant for? (Hint: your mum was pregnant with you for about nine months).\n3) What does a baby elephant weigh when it’s born? (Hint: you probably weighed about 3.6kg).\n",
+      "Elephants are the world’s largest land animal, have great memories and are highly intelligent and experience feelings and emotions.\n",
+      "They live and travel in herds eating 130-270kg of plants each per day and can communicate to each other by a variety of sounds. They have great hearing and can communicate from 8km away.\n",
+      "Recently, Tricia, the oldest living elephant died at the Perth Zoo. She was the oldest elephant to be cared for by a zoo in Australasia, and one of the oldest elephants in the world. She arrived in Australia in 1963 and had become a much-loved resident and a favourite of visitors to the Zoo. \n",
+      "Many older visitors to the Zoo recall Tricia living in a concrete enclosure. Over the years, Tricia’s enclosure turned into one with a swimming pool, trees, a mud wallow, scratching poles, a heated barn, and sleeping mounds, with multiple keepers dedicated to her care. \n",
+      "At the Melbourne Zoo, the elephant exhibit is set in a lush Asian village and garden with an award-winning Trail of the Elephants where you learn about the endangered Asian Elephant as you explore its natural habitat. Free guided tours of the trail are available. \n",
+      "Three of Melbourne Zoo’s Asian Elephant herd are pregnant and are due to calve this year.\n",
+      "While the calves will be born at Melbourne Zoo, they will join the whole herd in moving to Werribee Open Range Zoo in 2024, following completion of an $87 million expansion funded by the Victorian Government. The new space at Werribee Open Range Zoo will provide the herd with a new state-of-the-art home and 21 hectares to roam.\n",
+      "(Did you hear that Kyabram Fauna Park will soon become a fourth site for Zoos Victoria? Kyabram’s Fauna Park covers 55 hectares - more than twice the size of Melbourne Zoo and has more than six hundred animals - the second largest collection of Australian animals in Victoria (after Healsville Sanctuary). . . and Kyabram Fauna Park is only just around the corner from us here, rurally speaking!"
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
