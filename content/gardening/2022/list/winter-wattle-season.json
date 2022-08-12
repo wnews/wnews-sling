@@ -1,0 +1,23 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2022-08-04",
+  "title": "Winter Wattle season",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2022/08/wattle-blossoms-2642539.jpg",
+  "body": {
+    "pars": [
+      "The local wattles are beginning to flower, meaning it’s the perfect time to select a wattle in bloom from the nursery to plant in your garden, or to propagate from seeds. \nWattles grow happily in any sunny to semi-shaded spot. They have good tolerance to extremes of both heat and cold, however, if your garden is prone to heavy winter frosts, it’s worth planting indigenous species as these will be the most robust growers.\n",
+      "The Australian national emblem is the Acacia pycnantha, the Golden Wattle, which is found blooming at this time of year in our district. The brilliant yellow, fragrant flowers of Golden Wattle make it a popular garden plant. It is moderately frost tolerant and grows well in a wide range of soils provided drainage is effective but tends to be short-lived in cultivation. It is easily propagated from seed soaked in boiling hot water to break the hard seed coat, and the seedlings can be transplanted to pots of soil mix for growing on before planting out in a lightly shaded or open position. Boiling water simulates the heat of bushfires which prompt wattle germination in the bush.\n",
+      "Another indigenous wattle is the Gold Dust Wattle Acacia acinacea. Gold Dust Wattle is a small spreading shrub with masses of red buds opening into bright golden flowers in late winter to late spring. This shrub can have a bushy or straggly habit and typically grows to a height of around 2.5 m. Moderately frost hardy and drought tolerant, it’s suitable for most well drained soils. \n",
+      "Like all wattles the Gold Dust Wattle adds nitrogen to the soil which benefits other native plants growing nearby. \n",
+      "The branches of scented flowers are a source of pollen and nectar for many native insects. These insects offer a diverse smorgasbord for insect eating birds such as the Fairy Wren, while the seeds are food for native pigeons, parrots and quail."
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
