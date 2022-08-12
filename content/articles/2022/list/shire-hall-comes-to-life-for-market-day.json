@@ -1,0 +1,20 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2022-08-12",
+  "title": " Shire Hall comes to life for Market Day",
+  "media": "",
+  "body": {
+    "pars": [
+      "Creative people from far and wide converged on the Rushworth Shire Hall last Saturday to display and sell their wares at the Rushworth Easter Heritage Festival’s ‘Christmas in July’ Arts and Craft Market. ",
+      "The Hall was brimming with a wonderful variety of hand-crafted items supplemented by a range of interesting pre-loved goods, local produce and plants. The Christmas decorated hall was looking its best and, to add to the atmosphere, the popular duo Milkwood entertained the crowd, while the Rushworth Kinder served a delicious morning tea.  The REHF ‘Christmas in July’ Market was certainly a great way to warm up the spirit on a chilly winter’s day."
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
