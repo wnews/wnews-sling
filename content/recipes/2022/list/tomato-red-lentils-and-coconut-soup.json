@@ -1,0 +1,39 @@
+{
+  "sling:resourceType": "wnews/page/recipe",
+  "date": "2022-08-04",
+  "title": "Tomato, Red Lentils and Coconut Soup",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2022/08/TomatoRedLentilSoup.png",
+  "abstract": "",
+  "body": {
+    "pars": [
+
+    ]
+  },
+  "ingredients": [
+    "1 red onion chopped\n",
+    "1cup red lentils, rinsed\n\n",
+    "2 tablespoons tomato paste\n",
+    "1 can chopped tomatoes. 400grms\n",
+    "1 tablespoon olive oil\n",
+    "1can coconut milk 400ml\n",
+    "3 – 4cups water/stock\n",
+    "Salt and pepper\n",
+    "Fresh parsley or herbs of choice (baby spinach would work too)"
+  ],
+  "method": [
+    "Heat a Dutch oven, heavy saucepan or a slow cooker.  \n",
+    "Add olive oil and red onion, cook about three minutes.\n",
+    "Add tomato paste, lentils and can of tomatoes. ",
+    "Cookfor another three minutes.\n",
+    "Add water or stock stir and cook for twenty minutes.  ",
+    "Add coconut milk. ",
+    "Check seasoning. ",
+    "Cook ten minutes.\n",
+    "You can at this stage use a stick blender to blitz the soup smooth or leave a bit chunky.\n",
+    "Bring back to gentle simmer, serve with a drizzle of olive oil and fresh herbs. ",
+    "And of course the chunky bread or toast."
+  ],
+  "testimonials": "",
+  "published": true,
+  "sidebar": ""
+}
