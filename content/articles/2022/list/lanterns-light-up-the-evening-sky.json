@@ -1,0 +1,20 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2022-07-21",
+  "title": "Lanterns light up the evening sky",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2022/08/DBD32D0B-0E4C-4207-BEC4-5A322C06CBE6.jpeg",
+  "body": {
+    "pars": [
+      "Children and parents were enthusiastic in making lanterns during the afternoon before the lantern parade which started  as the sun went down. The group walked from the ART Depot in Horne Street down to Waranga Hostel where they put on an impromptu concert for the residents led by the Colbo Pub Choir. Then some of the group braved the cold and walked up onto the overhead bridge then back up to the ART Depot where they shared a meal and sing-along around a warm fire. \n",
+      "The event was a great success and congratulations to Julie Beer for putting on such a marvellous family friendly evening. Everyone aged from 2 to 92 thoroughly enjoyed it. (Photos - Graeme Hanigan)"
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
