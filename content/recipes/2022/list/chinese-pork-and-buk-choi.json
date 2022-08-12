@@ -1,0 +1,32 @@
+{
+  "sling:resourceType": "wnews/page/recipe",
+  "date": "2022-07-07",
+  "title": "Chinese Pork and Buk Choi",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2022/08/char-siu.jpg",
+  "abstract": "",
+  "body": {
+    "pars": [
+
+    ]
+  },
+  "ingredients": [
+    "1 container of char siu or roast pork\n(it’s already cut up into pieces ready to eat)\n",
+    "1 or 2 buk choi (Chinese cabbage)\n",
+    "1/2 tsp crushed garlic\n",
+    "1/2 tsp crushed ginger\n",
+    "1 tbspn peanut oil\n",
+    "1 dstspn corn flour mixed to a paste with water\n",
+    "Oyster or soya sauce"
+  ],
+  "method": [
+    "Wash the buk choi well, drain and then cut into bite size pieces. ",
+    "Add peanut oil to a large saucepan or wok, and when very hot, toss in the cabbage, garlic and ginger and stir fry quickly for a few minutes, then add the pork and keep tossing, finishing off by adding half a cup of water and the cornflour paste. ",
+    "Add oyster or soy sauce to taste.\n",
+    "Serve with some plain steamed rice (a rice cooker or microwave is an easy way to prepare plain rice).\n",
+    " I always wash the rice first to remove excess starch. ",
+    "I think a stir-fry dish always is improved by sprinkling on some finely chopped spring onions just before serving."
+  ],
+  "testimonials": "",
+  "published": true,
+  "sidebar": ""
+}
