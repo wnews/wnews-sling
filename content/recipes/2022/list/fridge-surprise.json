@@ -1,0 +1,37 @@
+{
+  "sling:resourceType": "wnews/page/recipe",
+  "date": "2022-07-21",
+  "title": "Fridge surprise",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2022/08/CooksColumn.jpeg",
+  "abstract": "",
+  "body": {
+    "pars": [
+
+    ]
+  },
+  "ingredients": [
+    "500g minced steak\n\n",
+    "1 brown onion diced\n",
+    "1tbspn olive oil\n",
+    "pkt spring vegetable soup mix\n",
+    "1 carrot diced\n",
+    "1 small beetroot diced\n",
+    "1/2 green capsicum diced\n",
+    "1 zucchini cubed\n",
+    "handful of green beans sliced\n",
+    "2 big tspn curry powder (or even more)\n",
+    "Deb potato to thicken\n",
+    "Boiled rice to serve"
+  ],
+  "method": [
+    "Lightly fry the onion in olive oil with the curry powder, then add minced steak, breaking it up as it cooks. ",
+    "Add diced carrot and beetroot and about half a cup of water and the packet of soup mix. ",
+    "Cover and simmer for about 15 minutes.\n",
+    "Add capsicum, zucchini, beans and continue cooking for about five minutes. ",
+    "Add more water if needed. ",
+    "Thicken the mix by adding a good half cup of Deb instant potato (or by using a cornflour paste). "
+  ],
+  "testimonials": "Himself went back for second helpings, so it must have tasted OK! ",
+  "published": true,
+  "sidebar": ""
+}
