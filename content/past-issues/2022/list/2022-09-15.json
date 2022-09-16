@@ -1,0 +1,11 @@
+{
+  "sling:resourceType": "wnews/page/front-page",
+  "date": "2022-09-15",
+  "title": "2022 09 15",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2022/09/wnews20220915page1.jpg",
+  "abstract": "",
+  "published": true,
+  "body": {
+    "content": ""
+  }
+}
