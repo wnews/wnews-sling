@@ -1,7 +1,7 @@
 {
   "sling:resourceType": "wnews/page/article",
   "date": "2022-09-16",
-  "title": "H is for Horse",
+  "title": "H - is for Horse",
   "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2022/09/KK.retired.png",
   "body": {
     "pars": [
