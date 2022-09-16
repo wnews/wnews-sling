@@ -1,0 +1,26 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2022-09-16",
+  "title": "H is for Horse",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2022/09/KK.retired.png",
+  "body": {
+    "pars": [
+      "Hi Kids",
+      "H is for horses. I love horses - such beautiful animals. But I only love to look at them and pat them: I don’t want to actually SIT on them and ride them. I agree with the person who said he finds them dangerous at both ends and uncomfortable in the middle.\n",
+      "My favourite horse is a  Clydesdale. I get quite emotional and teary when I see a Clydesdale: they are so HUGE and magestic. They were originally bred to be workhorses and we’ve been very lucky that we can still see them in action at the Moora Working Draught Horse Muster on Easter Sunday as part of the Rushworth Easter Festival.",
+      "For sixty-five years a team of Clydesdales were the much-loved ambassadors for Carlton and United Breweries in Melbourne but some four years ago they all retired. In the beginning, the horses were used to cart kegs of beer from place to place but when trucks took over deliveries, the Clydesdales were used for promotional work and were regulars at big events across Australia including the AFL Grand Final Parade and agricultural shows across the country.\n",
+      "Other lighter horses have also been used as workhorses: rounding up cattle, for instance. When I was a child, the milkman and the baker used horses to pull their carts to deliver milk and bread to the homes of customers. \n",
+      "It was good to watch the horse (without his driver) slowly moving along the street, stopping along the way as the driver ran in and out with the milk bottles or bread to leave the order on the doorstep! (There would be a lidded tin left on the porch for bread to go in - to keep it safe from hungry birds or dogs). \n",
+      "The bottles of milk weren’t always safe from birds who liked to peck through the lid and drink the cream from the top!\n",
+      "And let’s not forget Police horses! They do a wonderful job of crowd control at demonstrations and ride over long distances in rough country to search for missing or wanted persons. The police horses are used day and night to provide a highly visible police presence."
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
