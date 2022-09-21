@@ -2,7 +2,7 @@
   "sling:resourceType": "wnews/page/recipe",
   "date": "2022-09-01",
   "title": "Nic’s Fancy Baked Potatoes",
-  "media": "",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2022/09/Nic'sFancyArsePotatoes.jpg",
   "abstract": "",
   "body": {
     "pars": [
