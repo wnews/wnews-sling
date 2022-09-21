@@ -1,0 +1,52 @@
+{
+  "sling:resourceType": "wnews/page/recipe",
+  "date": "2022-09-01",
+  "title": "Nic’s Fancy Baked Potatoes",
+  "media": "",
+  "abstract": "",
+  "body": {
+    "pars": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ingredients": [
+    "2 tbsp butter\n",
+    "4 cloves garlic\n",
+    "3 rashers bacon (optional)\n",
+    "1 tbs seeded mustard (optional)\n",
+    "2 tbs flour\n",
+    "2 cups milk\n",
+    "2 tsp salt\n",
+    "1 tsp pepper\n",
+    "about 10 potatoes - depends on size, I guess \n",
+    "1/2 cup grated parmesan cheese\n",
+    "1 round of camembert cheese"
+  ],
+  "method": [
+    "Preheat oven to 180ºC. ",
+    "In a small pot melt butter, fry garlic until it’s just starting to brown. ",
+    "Add flour, salt and pepper. ",
+    "Whisk until there are no lumps. ",
+    "Slowly drizzle in milk whilst constantly whisking to make sure the mixture is smooth. ",
+    "Bring to boil and then remove from heat.\n",
+    "Put a round ovenproof bowl the size of the camembert in the centre of the baking dish/bowl. ",
+    "Slice potatoes thinly and position sitting upwards around the small bowl.  ",
+    "Pour the sauce over the top and bake until potatoes are tender in centre.",
+    "If tops are getting too brown, cover with foil to finish cooking.  ",
+    "Remove from oven and sprinkle with parmesan, remove the bowl and add the camembert. ",
+    "Put back in the oven for another 5-10 minutes. \n",
+    "Note: not suitable for any sort of weightwatcher’s menu.    \t\t   ",
+    "Glen"
+  ],
+  "testimonials": "",
+  "published": true,
+  "sidebar": ""
+}
