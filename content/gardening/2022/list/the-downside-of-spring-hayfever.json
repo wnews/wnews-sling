@@ -1,0 +1,32 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2022-09-29",
+  "title": "The downside of spring - hayfever!",
+  "media": "",
+  "body": {
+    "pars": [
+      "In this column we write a lot about the benefits of native plantings, but one thing we haven’t mentioned is the possible reduced springtime sneeze factor. (And yes  - it really is spring, though you might be wondering!) ",
+      "The following article is from that excellent source of wisdom about many things, The Conversation: ",
+      "Sneezing with hay fever? Native plants aren’t usually the culprit\nby John Dearnaley\nAssociate Professor, University of Southern Queensland\n",
+      "Hay fever is a downside of springtime around the world. As temperatures increase, plant growth resumes and flowers start appearing. \n",
+      "But while native flowering plants such as wattle often get the blame when the seasonal sneezes strike, hay fever in Australia is typically caused by introduced plant species often pollinated by the wind.\n",
+      "A closer look at pollen\n",
+      "Pollen grains are the tiny reproductive structures that move genetic material between flower parts, individual flowers on the same plant or a nearby member of the same species. They are typically lightweight structures easily carried on wind currents or are sticky and picked up in clumps on the feathers of a honeyeater or the fur of a fruit bat or possum. ",
+      "Hay fever is when the human immune system overreacts to allergens in the air. It is not only caused by pollen grains but fungal spores, non-flowering plant spores, mites and even pet hair. \n",
+      "The classic symptoms of hay fever are sneezing, runny noses, red, itchy, and watery eyes, swelling around the eyes and scratchy ears and throat. \n",
+      "The problem with pollen grains is when they land on the skin around our eyes, in our nose and mouth, the proteins found in the wall of these tiny structures leak out and are recognised as foreign by the body and trigger a reaction from the immune system.\n",
+      "So what plants are the worst culprits for causing hay fever?\nGrasses, trees, and herbaceous weeds such as plantain are the main problem species as their pollen is usually scattered by wind. In Australia, the main grass offenders are exotic species including rye grass and couch grass (a commonly used lawn species). \n",
+      " Weed species that cause hay fever problems include introduced ragweed, Paterson’s curse, parthenium weed and plantain. The problematic tree species are also exotic in origin and include liquid amber, Chinese elm, maple, cypress, ash, birch, poplar, and plane trees.\n",
+      "Although there are some native plants that have wind-spread pollen such as she-oaks and white cypress pine, and which can induce hay fever, these species are exceptional in the Australian flora. Many Australian plants are not wind pollinated and use animals to move their clumped pollen around.\n",
+      "For example, yellow-coloured flowers such as wattles and peas are pollinated by insect such as bees. Red- and orange-coloured flowers are usually visited by birds such as honeyeaters. Large, dull-coloured flowers with copious nectar (the reward for pollination) are visited by nocturnal mammals including bats and possums. Obviously Australian plant pollen can still potentially cause the immune system to overreact, but these structures are less likely to reach the mucous membranes of humans."
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
