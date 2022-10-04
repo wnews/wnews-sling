@@ -1,0 +1,11 @@
+{
+  "sling:resourceType": "wnews/page/front-page",
+  "date": "2022-09-29",
+  "title": "Thursday 29 September 2022",
+  "media": "https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2022/10/wnews20220929p1.jpg",
+  "abstract": "",
+  "published": true,
+  "body": {
+    "content": ""
+  }
+}
