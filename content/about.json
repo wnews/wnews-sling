@@ -1,43 +1,46 @@
 {
-  "title":"About Us",
-  "sling:resourceType":"wnews/page/default",
-  "jcr:primaryType":"nt:unstructured",
+  "title": "About Us",
+  "sling:resourceType": "wnews/page/default",
+  "jcr:primaryType": "nt:unstructured",
   "sections": {
-    "sling:resourceType":"wnews/block/section-list",
+    "sling:resourceType": "wnews/block/section-list",
     "preface": {
-      "sling:resourceType":"wnews/block/section",
-      "jcr:primaryType":"nt:unstructured",
+      "sling:resourceType": "wnews/block/section",
+      "jcr:primaryType": "nt:unstructured",
       "title": "",
-      "pars": ["The Waranga News is a volunteer community newspaper serving the Waranga region of northern Victoria."]
+      "pars": [
+        "The Waranga News is a volunteer community newspaper serving the Waranga region of northern Victoria."
+      ]
     },
     "history": {
-      "sling:resourceType":"wnews/block/section",
-      "jcr:primaryType":"nt:unstructured",
+      "sling:resourceType": "wnews/block/section",
+      "jcr:primaryType": "nt:unstructured",
       "title": "History",
       "pars": [
         "Way back in September 1978, an enthusiastic group of community-minded people who mourned the passing of the <em>Rushworth Chronicle</em> finally got their 'baby' on the road.",
         "These days the <em>Waranga News</em> has a print run of 1100 each fortnight, including some 250 subscribers."
-      ]},
+      ]
+    },
     "staff": {
-      "sling:resourceType":"wnews/block/section",
-      "jcr:primaryType":"nt:unstructured",
+      "sling:resourceType": "wnews/block/section",
+      "jcr:primaryType": "nt:unstructured",
       "title": "Staff & Volunteers",
       "pars": [
         "<strong>Editor:</strong> Mary Jo Fortuna",
         "<strong>Office &amp; Accounts Manager:</strong> Vicki Arnel",
-        "<strong>Committee:</strong> Gillian Schoenborn (President), Natalie Ryan (Vice President), Sue\nGregory (Secretary). Tony Ford (Treasurer), Steve Gregory, Cate Fraser, Cass\nAlexander, Neil Short, Maureen McCarthy.",
-        "<strong>Reporters:</strong> Glenys Avard, Denise Corbin, Cass Alexander, Neil Laurie, Neil Short,\nSue Gregory.",
-        "<strong>Photographers:</strong> Cass Alexander, Denise Corbin, Neil Short,",
-        "<strong>Layout and Publishing:</strong> Mary Jo Fortuna, Gillian Schoenborn, Glenys Avard,\nDenise Corbin",
-        "<strong>Proofreaders:</strong> Helen McRostie, Rosemary Hawking, Maureen McCarthy, Neil\nLaurie, Neil Short, Leonie Lewington, Cate Furphy.",
-        "<strong>Wrappers:</strong> Sue Gregory, Sue Schmitke, Gail Dunn, Cheryl Baldwin, Dianne\nKennedy",
-        "<strong>Distribution:</strong> Ian Rogerson, Sue &amp; Steve Gregory, Mary Jo Fortuna, Vicki Arnel,\nDenise Corbin.",
+        "<strong>Committee:</strong> Clem Furphy (President) Gillian Schoenborn (Secretary), Bernadette McArdle (Vice President), Tony Ford (Treasurer), Steve and Sue Gregory, Cate Fraser, Roseanne Mayer, Cate Furphy.",
+        "<strong>Reporters:</strong> Glenys Avard, Denise Corbin, Neil Laurie.",
+        "<strong>Photographers:</strong> Denise Corbin",
+        "<strong>Layout and Publishing:</strong> Mary Jo Fortuna, Gillian Schoenborn, Glenys Avard,\nDenise Corbin, Vicki Arnel.",
+        "<strong>Proofreaders:</strong> Roseanne Mayer, Helen McRostie, Neil Laurie, Cate Furphy, Liz Buzza, Bernadette McArdle.",
+        "<strong>Wrappers:</strong> Sue Gregory, Sue Schmitke, and Suon Weaver",
+        "<strong>Distribution:</strong> Ian Rogerson, Sue &; Steve Gregory, Mary Jo Fortuna, Vicki Arnel,\nDenise Corbin, Barry Weaver.",
         "<strong>Web admin:</strong> Ben Fortuna"
       ]
     },
     "contributors": {
-      "sling:resourceType":"wnews/block/section",
-      "jcr:primaryType":"nt:unstructured",
+      "sling:resourceType": "wnews/block/section",
+      "jcr:primaryType": "nt:unstructured",
       "title": "Regular Contributors",
       "pars": [
         "<strong>Colbo Tit Bits:</strong> Glenys Avard, Michelle Rathjen, Natalie Ryan",
@@ -52,8 +55,8 @@
       ]
     },
     "get_involved": {
-      "sling:resourceType":"wnews/block/section",
-      "jcr:primaryType":"nt:unstructured",
+      "sling:resourceType": "wnews/block/section",
+      "jcr:primaryType": "nt:unstructured",
       "title": "Get Involved",
       "pars": [
         "The Waranga News is always looking for new ideas and contributions from the community.",
