@@ -1,0 +1,37 @@
+{
+  "sling:resourceType": "wnews/page/recipe",
+  "date": "2022-10-13",
+  "title": "Stir-fried beef and asparagus",
+  "media": "",
+  "abstract": "",
+  "body": {
+    "pars": [
+
+    ]
+  },
+  "ingredients": [
+    "Bunch of good fresh and green asparagus",
+    "300g of good steak",
+    "garlic and ginger",
+    "sesame oil",
+    "oyster sauce",
+    "cornflour mixed to a paste with water",
+    "peanut oil",
+    "chopped spring onions to serve"
+  ],
+  "method": [
+    "Thinly slice steak across the grain in pieces small enough to handle with chopsticks. ",
+    "Mix about 1 level teaspoon each of crushed garlic and ginger and sesame oil, and a heaped teaspoon of cornflour to the meat and let it sit while you prepare the asparagus.",
+    "Wash asparagus and break off hard ends. \t",
+    "Slice the rest of it in about 1cm thick diagonal slices about 5cm long.",
+    "Heat a tablespoon of peanut oil to smoking hot in a wok, then add the meat, let it sear before starting to turn it. ",
+    "Do not overcook; you need to have some pink still in the meat before tossing in the asparagus. ",
+    "Stir a couple of minutes to cook the asparagus. ",
+    "Pour about 1/2 cup water in the wok to deglaze it, then thicken with cornflour paste to make a light gravy. ",
+    "Season with salt and oyster sauce. ",
+    "Serve on steamed rice topped with sliced shallots."
+  ],
+  "testimonials": "",
+  "published": true,
+  "sidebar": ""
+}
