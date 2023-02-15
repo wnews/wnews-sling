@@ -1,11 +1,11 @@
 {
   "title": "A community newspaper staffed by volunteers",
-  "description": "Serving the Waranga community for over 30 years",
+  "description": "Serving the Waranga community for over 40 years",
   "author": "Waranga News Inc.",
   "feature": "content/articles/2022/list/glitz-and-glam-for-rushworth-debs.json",
   "sling:resourceType": "wnews/page/index",
   "jcr:primaryType": "nt:unstructured",
   "show_advanced_settings": false,
-  "articles": "content/articles/2022.json",
+  "articles": "content/articles/2022/list/shire-hall-comes-to-life-for-market-day.json",
   "sidebar": ""
 }
