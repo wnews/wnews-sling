@@ -1,0 +1,32 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2023-02-17",
+  "title": "How did Noah get his garden going again?",
+  "media": "",
+  "body": {
+    "pars": [
+      "Who better to look to for some flooded gardening advice than Gardening Australia’s Costa Georgiadis? (So thanks again to GA for some good post-flood tips.)",
+      "Costa says it’s important to wash mud off leaves so plants can start photosynthesising again.",
+      "He advises wearing protective gear to avoid water-borne diseases and he warns not to eat any raw food that has been contaminated by floodwater.",
+      "As the long, slow clean-up following flooding devastation begins, fixing up a muddy garden may be the last thing on our  minds. but for many gardeners, it’s their sanctuary and something that they will be looking to restore in the coming months.",
+      "But if your garden has been absolutely pummelled in the floods and rain bombs, where do you even begin in trying to bring it back to life?",
+      "Waterlogging in the soil means that water replaces the oxygen, and the pores of the soil basically get no oxygen - the oxygen gets forced out.",
+      "That affects root growth in the plants; plants in waterlogged soil will start to show symptoms, they will start to wilt.",
+      "Floods can kill plants or severely damage them by: Erosion of soil so that roots are exposed. This makes trees more susceptible to uprooting in  subsequent winds.",
+      "Water logging, silt deposition or compaction removing oxygen from soil spaces around plant roots. This can also destroy microbial life that is essential in soil to provide nutrients for plant growth.",
+      "Making roots more susceptible to root-rot organisms.\nContamination from run-off from roads, farms and industry, sewage and other chemicals from transport vehicles and household products. These may include heavy metals such as cadmium, arsenic and lead, pesticides and other hazardous chemicals from industry such as oils.",
+      "Build-up in soil of decomposition products such as ethanol, carbon dioxide and methane.",
+      "Prevention of photosynthesis by water or silt coverage of leaves.",
+      "Removal of bark from tree or shrub trunks from impact of debris in rapidly flowing water.",
+      "Insect infestation resulting from damage to trunks may further weaken trees and shrubs."
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
