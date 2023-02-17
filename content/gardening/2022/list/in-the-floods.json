@@ -1,0 +1,37 @@
+{
+  "sling:resourceType": "wnews/page/article",
+  "date": "2022-10-27",
+  "title": "In the floods",
+  "media": "",
+  "body": {
+    "pars": [
+      "The garden devastation of flooding is obvious. The erosion of valuable topsoil and the complete removal of vegetation can be devastating. ABC’s Gardening Australia gives some great handy hints for these.",
+      "Healthy soil provides plants with anchorage, nutrients, oxygen and water. Once this soil becomes saturated, all the air pockets are removed. Studies show that within 24 hours of immersion, the root hair zone, which is right at the tip of the roots, begins to die, leaving plants vulnerable to a range of diseases. ",
+      "Given the damage that waterlogged soil can so quickly cause plants, it’s a good idea to undertake a bit of restoration work: ",
+      "1. Let the soil drain naturally first - this will take longer for clay soils.",
+      "2. Add lots of coarse organic material to the soil. Compost is always the best for this, but in a crisis the rules change and mulches such as pine bark create an artificial pore structure which lets the air get back into the soil. It has one disadvantage though - it removes some nitrogen from the soils as it breaks down.",
+      "3. Waterlogged soils can become acidic. To overcome this, add a handful of lime per square metre on the surface.",
+      "4. Apply blood and bone or some poultry manure - about a handful per square metre will kick the soil back into life.",
+      "5. Once soil is back in good condition, it’s time to think about what to grow. ",
+      "6. Raised garden beds shorten the recovery periods after intense rainfall. Another solution is to grow plants in ridges so that they’re free-draining.",
+      "Pot plants can also be affected\n",
+      "Check for the following signs:\n",
+      "1. The roots have died, and there’s very little grip on the soil.",
+      " 2. Potting mix also smells like rotten eggs - anaerobic bacteria continue breaking down material in the soil and they release hydrogen sulphide gas. ",
+      "3. Remaining roots are going brown and the leaves are very, very yellow.",
+      "4. The plant becomes extremely loose in the pot because the roots have almost entirely rotted.\n",
+      "Mosquitoes",
+      "We are all aware of the over-population of mosquitoes after the rains so cover up and wear a mosquito repellent before you go outside after the floods. ",
+      "Also, always make sure you empty water features, saucers and old buckets so you don’t give mosquitoes a chance to breed. ",
+      "Wear gardening gloves because it’s very easy to get cuts, scratches and bites while cleaning up, and there are soil-borne diseases like tetanus that you can catch. If you do get scratches or abrasions, treat them very quickly with antiseptic."
+    ]
+  },
+  "published": true,
+  "sidebar": "",
+  "abstract": "",
+  "related": {
+    "article": {
+      "page": ""
+    }
+  }
+}
