@@ -1,0 +1,11 @@
+{
+  "title":"Celestial Connections",
+  "sling:resourceType":"wp/template/article-list",
+  "jcr:primaryType":"nt:unstructured",
+  "sling:alias":"current",
+  "sling:vanityPath":"/immigration",
+  "pageSize": 6,
+  "filter": "nt:unstructured[published=true]",
+  "itemListOrder": "Descending",
+  "bannerUrl": "/immigration/current.html"
+}
