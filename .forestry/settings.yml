@@ -84,6 +84,14 @@ sections:
   templates:
   - article
 - type: directory
+  path: content/immigration
+  label: Celestial Connections
+  create: all
+  match: "**/list/*"
+  new_doc_ext: json
+  templates:
+  - article
+- type: directory
   path: content/kids
   label: Kids Corner
   create: all
