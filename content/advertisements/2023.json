@@ -1,6 +1,7 @@
 {
-  "title":"Advertisements (2022)",
-  "sling:resourceType":"wnews/page/article-list",
+  "title":"Advertisements (2023)",
+  "sling:resourceType":"wp/template/article-list",
+  "sling:alias":"current",
   "sling:vanityPath":"/advertisements",
   "jcr:primaryType":"nt:unstructured",
   "pageSize": 7,

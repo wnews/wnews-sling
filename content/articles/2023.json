@@ -1,6 +1,7 @@
 {
-  "title":"Articles (2022)",
-  "sling:resourceType":"wnews/page/article-list",
+  "title":"Articles (2023)",
+  "sling:resourceType":"wp/template/articleList",
+  "sling:alias":"current",
   "sling:vanityPath":"/articles",
   "jcr:primaryType":"nt:unstructured",
   "pageSize": 7,

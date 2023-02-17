@@ -1,7 +1,8 @@
 {
   "title":"50 Years Ago",
-  "sling:resourceType":"wnews/page/article-list",
+  "sling:resourceType":"wp/template/article-list",
   "jcr:primaryType":"nt:unstructured",
+  "sling:alias":"current",
   "sling:vanityPath":"/history",
   "pageSize": 6,
   "filter": "nt:unstructured[published=true]",
